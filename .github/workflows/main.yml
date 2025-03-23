@@ -10,6 +10,10 @@ env :
 jobs:
   run-python:
     runs-on: ubuntu-latest
+
+    permissions: 
+      contents: write
+    
     steps:
       - name: Checkout Code
         uses : actions/checkout@v3
@@ -19,18 +23,15 @@ jobs:
         with:
           python-version : '3.11'
 
-      - name: Configurar Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Instalar dependencias y ejecutar script
         run: |
           pip install -r requirements.txt
           python main.py
 
       - name: Hacer commit y push de archivos generados
-        run: |
-          git add .
-          git commit -m "🚀 Auto-commit: Archivos generados por GitHub Actions" || echo "No hay cambios para commitear"
-          git push origin main || echo "No hay cambios para pushear"
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Nuevos resultados
+          branch: main
+          file_pattern: results/*
+          
