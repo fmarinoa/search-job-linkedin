@@ -1,10 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.edge.options import Options as EdgeOptions
-from selenium.webdriver.edge.service import Service as EdgeService
-
-from app.utils.Constants import Constants
 
 # Configuración base para cualquier navegador
 options = [
@@ -49,9 +45,7 @@ class ChromeBrowser(Browser):
         for opt in get_base_options():
             chrome_options.add_argument(opt)
 
-        service = Service(executable_path=Constants.CHROME_DRIVER_PATH)
-
-        self.driver = webdriver.Chrome(service=service, options=chrome_options)
+        self.driver = webdriver.Chrome(options=chrome_options)
 
 
 class MsEdgeBrowser(Browser):
@@ -64,6 +58,4 @@ class MsEdgeBrowser(Browser):
         for opt in get_base_options():
             edge_options.add_argument(opt)
 
-        service = EdgeService(executable_path=Constants.EDGE_DRIVER_PATH)
-
-        self.driver = webdriver.Edge(service=service, options=edge_options)
+        self.driver = webdriver.Edge(options=edge_options)

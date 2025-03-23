@@ -30,7 +30,7 @@ class SearchJob:
             employer = self.driver.find_element(by="xpath", value=xpath_item + "[2]/span").text
             location = self.driver.find_element(by="xpath", value=xpath_item + "[3]/ul/li/span").text
 
-            print("Index: " + i)
+            print("Index: " + str(i))
             print("Title job: " + title_job)
             print("Employer: " + employer)
             print("Location: " + location)
