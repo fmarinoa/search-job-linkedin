@@ -57,7 +57,7 @@ def get_description_offer(link: str) -> [str]:
     Retorna una lista con:
     1. Nombre del reclutador (o vacío si no existe)
     2. Link del perfil del reclutador (o vacío si no existe)
-    3. Descripción del trabajo (o vacío si no existe)
+    3. Descripción completa del trabajo (sin cortes)
     """
     try:
         tree = html.fromstring(requests.get(link).content)
@@ -65,17 +65,20 @@ def get_description_offer(link: str) -> [str]:
         # XPath de los 3 datos a extraer
         xpath_recruiter_name = "//*[@id='main-content']/section[1]/div/div/section[1]/div/div[1]/div/a/span/text()"
         xpath_recruiter_link = "//*[@id='main-content']/section[1]/div/div/section[1]/div/div[1]/div/a/@href"
-        xpath_job_description = "//*[@id='main-content']/section[1]/div/div/section[1]/div/div[last()]/section/div/text()"
+        xpath_job_description = "//*[@id='main-content']/section[1]/div/div/section[1]/div/div[last()]/section/div"
 
         # Extraer datos o devolver ""
         recruiter_name = tree.xpath(xpath_recruiter_name)
         recruiter_link = tree.xpath(xpath_recruiter_link)
-        job_description = tree.xpath(xpath_job_description)
+        job_description_node = tree.xpath(xpath_job_description)
+
+        # Obtener todo el contenido del nodo (incluyendo texto dentro de etiquetas <br>, <strong>, etc.)
+        job_description = job_description_node[0].xpath("string(.)").strip().encode('latin1').decode('utf-8') if job_description_node else ""
 
         return [
             recruiter_name[0].strip() if recruiter_name else "",
             recruiter_link[0].strip() if recruiter_link else "",
-            job_description[0].strip() if job_description else ""
+            job_description
         ]
     except Exception as e:
         logger.error(f"Error al obtener información de la oferta: {e}")
