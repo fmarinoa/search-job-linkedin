@@ -41,7 +41,9 @@ jobs:
       - name: Definir variables de entorno
         run: |
           echo "BROWSER=${{ github.event.inputs.browser }}" >> $GITHUB_ENV
-          echo "JOB_DESCRIPTION=${{ github.event.inputs.job_description }}" >> $GITHUB_ENV
+          if [ -n "${{ github.event.inputs.job_description }}" ]; then
+            echo "JOB_DESCRIPTION=${{ github.event.inputs.job_description }}" >> $GITHUB_ENV
+          fi
 
       - name: Instalar dependencias y ejecutar script
         run: |
