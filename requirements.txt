@@ -1,3 +1,4 @@
 selenium~=4.29.0
 dotenv~=0.9.9
 python-dotenv~=1.0.1
+openpyxl~=3.1.5
