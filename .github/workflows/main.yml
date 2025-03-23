@@ -13,10 +13,6 @@ on:
   schedule:
     - cron: '0 0 * * 5' # Ejecuta todos los viernes a las 7 PM UTC-5
 
-env:
-  MAIL: ${{ secrets.MAIL }}
-  PASS: ${{ secrets.PASS }}
-
 jobs:
   run-python:
     runs-on: ubuntu-latest
