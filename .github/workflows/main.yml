@@ -33,5 +33,6 @@ jobs:
         with:
           commit_message: Nuevos resultados
           branch: main
-          file_pattern: results/*
-          
+          commit_user_name: Franco Mariño [Actions]
+          commit_user_email: franco.edson.18014@gmail.com
+          commit_author: fmarinoa <franco.edson.18014@gmail.com>
