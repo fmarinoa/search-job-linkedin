@@ -1,9 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.edge.options import Options as EdgeOptions
-from selenium.webdriver.edge.service import Service as EdgeService
-
-from app.utils.Constants import Constants
 
 # Configuración base para cualquier navegador
 options = [
