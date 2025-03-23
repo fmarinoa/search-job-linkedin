@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+
 from app.actions.Login import Login
 from app.actions.SearchJob import SearchJob
 from app.utils.Constants import Constants
@@ -6,6 +8,7 @@ from webdriver_factory.BrowserFactory import BrowserFactory
 
 # Press the green button in the gutter to run the script.
 if __name__ == "__main__":
+    load_dotenv()
     create_folder()
     driver = BrowserFactory.get_browser("chrome")
     driver.implicitly_wait(Constants.TIME_OUT)
