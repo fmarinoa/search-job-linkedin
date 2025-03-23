@@ -27,6 +27,9 @@ jobs:
         run: |
           pip install -r requirements.txt
           python main.py
+          
+      - name: Verificar archivos generados
+        run: ls -R results/
 
       - name: Hacer commit y push de archivos generados
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -36,3 +39,4 @@ jobs:
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: franco.edson.18014@gmail.com
           commit_author: fmarinoa <franco.edson.18014@gmail.com>
+          file_pattern: 'results/*.png results/*.xlsx'
