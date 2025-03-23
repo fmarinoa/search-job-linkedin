@@ -1,28 +1,47 @@
-name : Run main script
+name: Run main script
 
 on:
-  schedule:
-    - cron: '0 12 * * 5'  # Ejecuta todos los viernes a las 7 PM UTC-5
+  workflow_dispatch:
+    inputs:
+      browser:
+        description: 'Selecciona el navegador a ejecutar'
+        required: true
+        default: 'chrome'
+        type: choice
+        options:
+          - chrome
+          - edge
+      job_description:
+        description: 'Descripción del trabajo a buscar'
+        required: false
 
-env :
-  MAIL: ${{secrets.MAIL}}
-  PASS: ${{secrets.PASS}}
+  schedule:
+    - cron: '0 0 * * 5' # Ejecuta todos los viernes a las 7 PM UTC-5
+
+env:
+  MAIL: ${{ secrets.MAIL }}
+  PASS: ${{ secrets.PASS }}
 
 jobs:
   run-python:
     runs-on: ubuntu-latest
 
-    permissions: 
+    permissions:
       contents: write
-    
+
     steps:
       - name: Checkout Code
-        uses : actions/checkout@v3
-      
+        uses: actions/checkout@v3
+
       - name: Setup Python
-        uses : actions/setup-python@v4
+        uses: actions/setup-python@v4
         with:
-          python-version : '3.11'
+          python-version: '3.11'
+
+      - name: Definir variables de entorno
+        run: |
+          echo "BROWSER=${{ github.event.inputs.browser }}" >> $GITHUB_ENV
+          echo "JOB_DESCRIPTION=${{ github.event.inputs.job_description }}" >> $GITHUB_ENV
 
       - name: Instalar dependencias y ejecutar script
         run: |
