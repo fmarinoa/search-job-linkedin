@@ -30,7 +30,7 @@ def scrape_jobs(job_description: str, location: str) -> []:
         xpath_base = "//*[@id='main-content']/section[2]/ul/li"
 
         results = tree.xpath(xpath_base)  # Obtiene todos los div con esa clase
-        data.append(["Title job", "Employer", "Profile employer", "Location", "How long ago", "Link"])
+        data.append(["Title job", "Employer", "Link profile employer", "Location", "How long ago", "Link offer"])
 
         for i in range(1, len(results) + 1):
             xpath_item = f"({xpath_base})[{i}]/*"
