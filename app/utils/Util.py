@@ -6,7 +6,7 @@ from pathlib import Path
 project_path = Path().absolute()
 today = datetime.now().strftime("%Y%m%d")
 
-folder_path = str(project_path) + "\\results\\" + str(today)
+folder_path = str(project_path) + "/results/" + str(today)
 
 
 def capture_screenshot(driver, filename="screenshot"):
@@ -14,7 +14,7 @@ def capture_screenshot(driver, filename="screenshot"):
 
     # Crear nombre de archivo con timestamp para evitar sobrescribir
     timestamp = datetime.now().strftime("%H%M%S")
-    file_path = os.path.join(f"{folder_path}\\{filename}_{timestamp}.png")
+    file_path = os.path.join(f"{folder_path}/{filename}_{timestamp}.png")
 
     # Capturar y guardar la imagen
     driver.save_screenshot(file_path)
