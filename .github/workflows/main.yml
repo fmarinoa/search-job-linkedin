@@ -28,7 +28,7 @@ jobs:
           pip install -r requirements.txt
           python main.py
       - name: Esperar antes de commit
-        run: sleep 5
+        run: sleep 10
 
       - name: Verificar archivos generados
         run: ls -R results/
@@ -41,6 +41,6 @@ jobs:
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: franco.edson.18014@gmail.com
           commit_author: fmarinoa <franco.edson.18014@gmail.com>
-          file_pattern: 'results/*.png results/*.xlsx'
+          # file_pattern: 'results/*.png results/*.xlsx'
           skip_dirty_check: true    
 
