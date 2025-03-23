@@ -1,3 +1,5 @@
+import os
+
 from dotenv import load_dotenv
 
 from app.actions.Login import Login
@@ -10,6 +12,8 @@ from webdriver_factory.BrowserFactory import BrowserFactory
 if __name__ == "__main__":
     load_dotenv()
     create_folder()
+    browser = os.getenv('BROWSER', 'chrome')
+    print("Ejecutando en: " + str(browser))
     driver = BrowserFactory.get_browser("chrome")
     driver.implicitly_wait(Constants.TIME_OUT)
     driver.get(Constants.URL_BASE)
@@ -17,7 +21,7 @@ if __name__ == "__main__":
     try:
         Login(driver).login_submit()
         search_job = SearchJob(driver)
-        search_job.get_info("QA AUTOMATION")
+        search_job.get_info(os.getenv('JOB_DESCRIPTION', 'QA AUTOMATION'))
     except Exception as e:
         print("Error inesperado: " + str(e))
         capture_screenshot(driver)
