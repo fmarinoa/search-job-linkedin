@@ -1,0 +1,24 @@
+name : Run main script
+
+on:
+  workflow_dispatch :
+
+env :
+  MAIL: ${{secrets.MAIL}}
+  PASS: ${{secrets.PASS}}
+
+jobs:
+  run-python:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses : actions/checkout@v3
+      
+      - name: Setup Python
+        uses : actions/setup-python@v4
+        with:
+          python-version : '3.11'
+      - name: Run Python script
+        run: I
+          pip install requirements.txt
+          python main.py
