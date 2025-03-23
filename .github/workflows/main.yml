@@ -3,16 +3,11 @@ name: Run main script
 on:
   workflow_dispatch:
     inputs:
-      browser:
-        description: 'Selecciona el navegador a ejecutar'
-        required: true
-        default: 'chrome'
-        type: choice
-        options:
-          - chrome
-          - edge
       job_description:
         description: 'Descripción del trabajo a buscar'
+        required: false
+      location:
+        description: 'Locación a buscar el trabajo'
         required: false
 
   schedule:
@@ -40,9 +35,11 @@ jobs:
 
       - name: Definir variables de entorno
         run: |
-          echo "BROWSER=${{ github.event.inputs.browser }}" >> $GITHUB_ENV
           if [ -n "${{ github.event.inputs.job_description }}" ]; then
             echo "JOB_DESCRIPTION=${{ github.event.inputs.job_description }}" >> $GITHUB_ENV
+          fi
+          if [ -n "${{ github.event.inputs.location }}" ]; then
+            echo "LOCATION=${{ github.event.inputs.location }}" >> $GITHUB_ENV
           fi
 
       - name: Instalar dependencias y ejecutar script
