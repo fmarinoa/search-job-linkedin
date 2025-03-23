@@ -29,13 +29,10 @@ jobs:
           pip install -r requirements.txt
           python main.py
 
-      #- name: Esperar antes de commit
-       # run: sleep 10
-
       - name: Hacer commit y push de archivos generados
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Nuevos resultados
+          commit_message: Nuevos resultados con GitHub Actions
           branch: main
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: franco.edson.18014@gmail.com
