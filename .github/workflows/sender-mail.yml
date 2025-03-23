@@ -1,0 +1,30 @@
+name: Run main script
+
+on:
+  push:
+    branches:
+      - main
+    
+jobs:
+  run-python:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send email
+        uses: devellany/send-mailer@v1.0.2
+        with:
+          host: smtp.google.com
+          # Optional port (defaults to 465)
+          port: 465
+          account: ${{secrets.MAIL}}
+          password: ${{secrets.PASS}}
+          sender: Franco Mariño [GitHub Actions]
+          from: ${{secrets.MAIL}}
+          to: ${{secrets.MAIL}}
+          subject: Update branch main in search-job-linkedin
+          body: Se actualizaron los resultados, se adjunta.
+          # Optional content type (defaults to text/plain)
+          contentType: text/plain
+          # Optional attachment files (JSON type. require property 'path')
+          attachments: '[{"path":"results/offers.json"}]'
+      
