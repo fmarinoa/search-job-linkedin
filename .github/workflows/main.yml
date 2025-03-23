@@ -40,3 +40,5 @@ jobs:
           commit_user_email: franco.edson.18014@gmail.com
           commit_author: fmarinoa <franco.edson.18014@gmail.com>
           file_pattern: 'results/*.png results/*.xlsx'
+          skip_dirty_check: true    
+
