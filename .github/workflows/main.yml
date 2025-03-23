@@ -19,6 +19,6 @@ jobs:
         with:
           python-version : '3.11'
       - name: Run Python script
-        run: I
+        run: |
           pip install requirements.txt
           python main.py
