@@ -1,4 +1,4 @@
-name: Send Email with Gmail SMTP
+name: Send Email with SMTP
 
 on:
   push:
@@ -14,16 +14,15 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Send email
-        uses: devellany/send-mailer@v1.0.2
+        uses: dawidd6/action-send-mail@v3
         with:
-          host: smtp.gmail.com
-          port: 587  # Usa TLS
-          account: ${{ secrets.MAIL }}
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.MAIL }}
           password: ${{ secrets.PASS }}
-          sender: "Franco Mariño via GitHub Actions"
-          from: ${{ secrets.MAIL }}
-          to: ${{ secrets.MAIL }}
           subject: "Update branch main in search-job-linkedin"
           body: "Se actualizaron los resultados, se adjunta."
-          contentType: text/plain
-          attachments: '[{"path":"results/offers.json"}]'
+          content_type: text/plain
+          from: "Franco Mariño <${{ secrets.MAIL }}>"
+          to: ${{ secrets.MAIL }}
+          attachments: "results/offers.json"
