@@ -7,6 +7,8 @@ class SearchJob:
         self.driver = driver
 
     def get_info(self, job_description):
+        print("Buscando trabajo para: " + job_description)
+
         wait_until_element_clickable(self.driver, Constants.TIME_OUT, "css selector", "#global-nav-typeahead input")
 
         job_description = job_description.replace(" ", "%20")
