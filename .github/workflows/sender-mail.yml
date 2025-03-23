@@ -22,7 +22,7 @@ jobs:
           password: ${{ secrets.PASS }}
           subject: "Update branch main in search-job-linkedin"
           body: "Se actualizaron los resultados, se adjunta."
-          content_type: text/plain
           from: "Franco Mariño <${{ secrets.MAIL }}>"
           to: ${{ secrets.MAIL }}
           attachments: "results/offers.json"
+
