@@ -39,14 +39,19 @@ def append_results_csv(results: []) -> None:
 def append_results_json(results: []) -> None:
     json_path = f"{results_path}offers.json"
 
+    # Extraer los nombres de las columnas y los datos
+    headers = results[0]  # Primera fila son los nombres de columnas
+    data = results[1:]  # Resto son los datos
+
     # Convertir en DataFrame
-    headers = results[0]  # Extrae los nombres de las columnas
-    data = results[1:]  # Extrae los datos
     df = pd.DataFrame(data, columns=headers)
+
+    # Convertir DataFrame a JSON sin caracteres escapados
+    json_data = df.to_json(orient="records", indent=4, force_ascii=False)
+    json_data = json_data.replace(r"\/", "/")
 
     # Guardar en un archivo JSON
     with open(json_path, "w", encoding="utf-8") as f:
-        # Convertir DataFrame a JSON
-        f.write(df.to_json(orient="records", indent=4, force_ascii=False))
+        f.write(json_data)
 
     logger.info(f"✅ json guardado en {json_path}'.")
