@@ -51,7 +51,10 @@ jobs:
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: ${{ secrets.MAIL }}
           commit_author: fmarinoa <${{ secrets.MAIL }}>
-          
+      
+      - name: Generar body para el correo
+        run: python generate_html.py
+      
       - name: Cargar el body del correo
         run: |
           html_body=$(cat results/email_body.html)
@@ -70,3 +73,12 @@ jobs:
           html_body: "${{ env.html_body }}"
           from: "GitHub Actions <${{ secrets.MAIL }}>"
           to: ${{ secrets.MAIL }}
+          
+      - name: Hacer commit y push del último body html generado
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Nuevo body html para correo generado con GitHub Actions
+          branch: main
+          commit_user_name: Franco Mariño [Actions]
+          commit_user_email: ${{ secrets.MAIL }}
+          commit_author: fmarinoa <${{ secrets.MAIL }}>
