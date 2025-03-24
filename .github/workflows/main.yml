@@ -51,7 +51,14 @@ jobs:
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: ${{ secrets.MAIL }}
           commit_author: fmarinoa <${{ secrets.MAIL }}>
-  
+          
+      - name: Cargar el body del correo
+        run: |
+          html_body=$(cat results/email_body.html)
+          echo "html_body<<EOF" >> "$GITHUB_ENV"
+          echo "$html_body" >> "$GITHUB_ENV"
+          echo "EOF" >> "$GITHUB_ENV"
+        
       - name: Send email
         uses: dawidd6/action-send-mail@v3
         with:
@@ -59,7 +66,7 @@ jobs:
           server_port: 587
           username: ${{ secrets.MAIL }}
           password: ${{ secrets.PASS }}
-          subject: "Search LinkedIn Job - GitHun Actions"
-          body_html: "results/email_body.html"
+          subject: "Search LinkedIn Job - GitHub Actions"
+          html_body: "${{ env.html_body }}"
           from: "GitHub Actions <${{ secrets.MAIL }}>"
           to: ${{ secrets.MAIL }}
