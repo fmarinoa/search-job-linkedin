@@ -54,7 +54,13 @@ jobs:
           
       - name: Cargar el body del correo
         id: load_email_body
-        run: echo "html_body=$(cat results/email_body.html)" >> $GITHUB_OUTPUT
+        run: |
+          {
+            echo "html_body<<EOF"
+            cat results/email_body.html
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
         
       - name: Send email
         uses: dawidd6/action-send-mail@v3
