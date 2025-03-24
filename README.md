@@ -16,7 +16,7 @@ Utilizando la librería `requests`, el script obtiene la siguiente información 
 - Descripción de la oferta
 
 Los datos obtenidos se almacenan en:
-- Archivos CSV dentro de `results/<año,mes.dia>/results_<hora,minuto.segundo>.csv`
+- Archivos CSV dentro de `results/<año-mes-dia>/offers_<hora-minuto-segundo>.csv`
 - Un archivo JSON centralizado en `results/offers.json`
 
 Además, se genera automáticamente un archivo HTML con la información recopilada.
