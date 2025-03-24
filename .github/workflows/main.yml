@@ -59,8 +59,7 @@ jobs:
             echo "html_body<<EOF"
             cat results/email_body.html
             echo "EOF"
-          } >> $GITHUB_OUTPUT
-
+          } | tee -a "$GITHUB_ENV" >> "$GITHUB_OUTPUT"
         
       - name: Send email
         uses: dawidd6/action-send-mail@v3
