@@ -65,8 +65,7 @@ def generate_mail():
     response = requests.get(url)
     offers = response.json()
 
-    html_content = """
-    <!DOCTYPE html>
+    html_content = """<!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
