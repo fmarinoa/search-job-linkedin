@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 from app.utils.SearchJob import scrape_jobs
-from app.utils.Util import create_folder, append_results_csv, append_results_json
+from app.utils.Util import create_folder, append_results_csv, append_results_json, generate_mail
 
 # Press the green button in the gutter to run the script.
 if __name__ == "__main__":
@@ -20,3 +20,5 @@ if __name__ == "__main__":
 
     append_results_csv(results)
     append_results_json(results)
+
+    generate_mail()
