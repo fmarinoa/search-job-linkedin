@@ -59,14 +59,15 @@ def append_results_json(results: []) -> None:
     logger.info(f"✅ json guardado en {json_path}'.")
 
 
-def generate_mail():
+def generate_mail() -> None:
+    html_path = f"{results_path}email_body.html"
+
     url = "https://raw.githubusercontent.com/fmarinoa/search-job-linkedin/main/results/offers.json"
 
     response = requests.get(url)
     offers = response.json()
 
-    html_content = """
-    <!DOCTYPE html>
+    html_content = """<!DOCTYPE html>
     <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -88,7 +89,12 @@ def generate_mail():
         html_content += f"""
         <div class="offer">
             <p class="title">{offer['Title job']}</p>
-            <p class="company">{offer['Employer']}</p>
+            <p><a class="link" href="{offer['Link profile employer']}">{offer['Employer']}</a></p>"""
+
+        html_content += f"""<p><a class="link" href="{offer['Profile recruiter']}">{offer['Recruiter']}</a></p>""" if \
+            offer['Recruiter'] else ""
+
+        html_content += f"""
             <p>📍 {offer['Location']} | ⏳ {offer['How long ago']}</p>
             <p>{offer['Description offer'][:300]}...</p>
             <p><a class="link" href="{offer['Link offer']}">Ver oferta completa</a></p>
@@ -97,5 +103,7 @@ def generate_mail():
 
     html_content += "</body></html>"
 
-    with open(f"{results_path}email_body.html", "w", encoding="utf-8") as f:
+    with open(html_path, "w", encoding="utf-8") as f:
         f.write(html_content)
+
+    logger.info(f"✅ html guardado en {html_path}'.")
