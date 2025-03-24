@@ -66,7 +66,7 @@ jobs:
           server_port: 587
           username: ${{ secrets.MAIL }}
           password: ${{ secrets.PASS }}
-          subject: "Search LinkedIn Job - GitHun Actions"
+          subject: "Search LinkedIn Job - GitHub Actions"
           html_body: "${{ env.html_body }}"
           from: "GitHub Actions <${{ secrets.MAIL }}>"
           to: ${{ secrets.MAIL }}
