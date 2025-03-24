@@ -13,10 +13,6 @@ on:
   schedule:
     - cron: '0 0 * * 5' # Ejecuta todos los viernes a las 7 PM UTC-5
 
-env:
-  MAIL: ${{ secrets.MAIL }}
-  PASS: ${{ secrets.PASS }}
-
 jobs:
   run-python:
     runs-on: ubuntu-latest
@@ -53,5 +49,17 @@ jobs:
           commit_message: Nuevos resultados con GitHub Actions
           branch: main
           commit_user_name: Franco Mariño [Actions]
-          commit_user_email: franco.edson.18014@gmail.com
-          commit_author: fmarinoa <franco.edson.18014@gmail.com>
+          commit_user_email: ${{ secrets.MAIL }}
+          commit_author: fmarinoa <${{ secrets.MAIL }}>
+  
+      - name: Send email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.MAIL }}
+          password: ${{ secrets.PASS }}
+          subject: "Search LinkedIn Job - GitHun Actions"
+          body_html: "results/email_body.html"
+          from: "GitHub Actions <${{ secrets.MAIL }}>"
+          to: ${{ secrets.MAIL }}
