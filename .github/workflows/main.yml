@@ -82,3 +82,8 @@ jobs:
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: ${{ secrets.MAIL }}
           commit_author: fmarinoa <${{ secrets.MAIL }}>
+  
+      - name: Send WhatsApp Notification
+        uses: KnosTx/whatsapp-notification-action@v1
+        with:
+          whatsapp_invite_link: "https://chat.whatsapp.com/GvkV8moZUljESBcyYYLGEA"
