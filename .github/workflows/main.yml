@@ -80,9 +80,9 @@ jobs:
           server_port: 587
           username: ${{ secrets.MAIL }}
           password: ${{ secrets.PASS }}
-          attachments: ${{ needs.run-script.outputs.csv_file }}
-          subject: " GitHub Actions - Search LinkedIn Job - Results: ${{ needs.run-script.outputs.csv_name }}"
+          subject: "LinkedIn Job Results: ${{ needs.run-script.outputs.csv_name }}"
           html_body: file://results/email_body.html
+          attachments: ${{ needs.run-script.outputs.csv_file }}
           from: "GitHub Actions <${{ secrets.MAIL }}>"
           to: ${{ secrets.MAIL }}
 
