@@ -16,6 +16,8 @@ on:
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    permissions:
+       contents: write
     outputs:
       csv_file: ${{ steps.get-latest.outputs.csv_file }}
       csv_name: ${{ steps.get-latest.outputs.csv_name }}
