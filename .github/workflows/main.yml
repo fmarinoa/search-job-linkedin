@@ -11,14 +11,14 @@ on:
         required: false
 
   schedule:
-    - cron: '0 0 * * 6' # Ejecuta todos los viernes a las 7 PM UTC-5
+    - cron: '0 0 * * 6' # Viernes a las 7 PM UTC-5
 
 jobs:
-  run-python:
+  run-script:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
+    outputs:
+      csv_file: ${{ steps.get-latest.outputs.csv_file }}
+      csv_name: ${{ steps.get-latest.outputs.csv_name }}
 
     steps:
       - name: Checkout Code
@@ -38,10 +38,11 @@ jobs:
             echo "LOCATION=${{ github.event.inputs.location }}" >> $GITHUB_ENV
           fi
 
-      - name: Instalar dependencias y ejecutar script
-        run: |
-          pip install -r requirements.txt
-          python main.py
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar main script
+        run: python main.py
 
       - name: Hacer commit y push de archivos generados
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -51,30 +52,39 @@ jobs:
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: ${{ secrets.MAIL }}
           commit_author: fmarinoa <${{ secrets.MAIL }}>
-      
+
       - name: Generar body para el correo
         run: python generate_html.py
-      
-      # - name: Cargar el body del correo
-      #   run: |
-      #     html_body=$(cat results/email_body.html)
-      #     echo "html_body<<EOF" >> "$GITHUB_ENV"
-      #     echo "$html_body" >> "$GITHUB_ENV"
-      #     echo "EOF" >> "$GITHUB_ENV"
-        
-      - name: Send email
+
+      - name: Obtener el resultado csv más reciente
+        id: get-latest
+        run: |
+          latest_folder=$(ls -td results/*/ | head -1)
+          csv_file=$(find "$latest_folder" -maxdepth 1 -name "*.csv" | head -1)
+          csv_name=$(basename "$csv_file")
+          echo "::set-output name=csv_file::$csv_file"
+          echo "::set-output name=csv_name::$csv_name"
+
+  send-email:
+    needs: run-script
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Enviar correo
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
           server_port: 587
           username: ${{ secrets.MAIL }}
           password: ${{ secrets.PASS }}
-          subject: "Search LinkedIn Job - GitHub Actions"
+          subject: "LinkedIn Job Results: ${{ needs.run-script.outputs.csv_name }}"
           html_body: file://results/email_body.html
-          attachments: file://results
+          attachments: ${{ needs.run-script.outputs.csv_file }}
           from: "GitHub Actions <${{ secrets.MAIL }}>"
           to: ${{ secrets.MAIL }}
-          
+
       - name: Hacer commit y push del último body html generado
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
