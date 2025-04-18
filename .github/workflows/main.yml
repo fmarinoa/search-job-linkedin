@@ -62,8 +62,8 @@ jobs:
         id: get-latest
         run: |
           latest_folder=$(ls -td results/*/ | head -1)
-          csv_file=$(find results/ -type f -name "*.csv" -printf "%T@ %p\n" | sort -nr | head -1 | cut -d' ' -f2-)
-          csv_name=$(basename "$latest_folder/$csv_file")
+          csv_file=$(find "$latest_folder" -maxdepth 1 -name "*.csv" | head -1)
+          csv_name=$(basename "$csv_file")
           echo "::set-output name=csv_file::$csv_file"
           echo "::set-output name=csv_name::$csv_name"
 
