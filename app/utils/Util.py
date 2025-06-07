@@ -9,7 +9,7 @@ from app.utils.logger_config import get_logger
 project_path = Path().absolute()
 today = datetime.now().strftime("%Y%m%d")
 
-results_path = str(project_path) + "\\results\\"
+results_path = str(project_path) + "/results/"
 today_path = results_path + str(today)
 
 logger = get_logger(__name__)
