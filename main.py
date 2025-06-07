@@ -10,7 +10,7 @@ if __name__ == "__main__":
     load_dotenv()
 
     results = scrape_jobs(
-        os.getenv('JOB_DESCRIPTION', 'QA AUTOMATION'),
+        os.getenv('JOB_DESCRIPTION', 'QA AUTOMATION LEAD'),
         os.getenv('LOCATION', 'LIMA PERÚ')
     )
 
