@@ -10,18 +10,8 @@ project_path = Path().absolute()
 today = datetime.now().strftime("%Y%m%d")
 
 results_path = str(project_path) + "/results/"
-today_path = results_path + str(today)
 
 logger = get_logger(__name__)
-
-
-def create_folder() -> None:
-    if not os.path.exists(today_path):
-        os.makedirs(today_path)
-        logger.info(f"📁 Carpeta '{today_path}' creada.")
-    else:
-        logger.info(f"📁 La carpeta '{today_path}' ya existe.")
-
 
 def get_day_folder_path() -> str:
     """Devuelve la ruta results/año/mes/día y crea la carpeta si no existe."""
