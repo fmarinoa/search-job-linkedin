@@ -76,3 +76,6 @@ jobs:
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: ${{ secrets.MAIL }}
           commit_author: fmarinoa <${{ secrets.MAIL }}>
+
+      - name: Cargar ofertas a la base de datos
+        run: python load_offers_to_db.py
