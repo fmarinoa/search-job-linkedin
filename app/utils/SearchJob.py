@@ -7,7 +7,7 @@ from lxml import html
 logger = get_logger(__name__)
 
 
-def scrape_jobs(job_description: str, location: str) -> []:
+def scrape_jobs(job_description: str, location: str) -> list[dict] | None:
     logger.info("Locación a buscar: " + location)
     logger.info("Buscando trabajo para: " + job_description)
 
@@ -56,12 +56,12 @@ def scrape_jobs(job_description: str, location: str) -> []:
                 continue
     except Exception as e:
         logger.error(f"Ocurrió un error inesperado: {e}")
-        return
+        return None
 
     return data
 
 
-def get_description_offer(link: str) -> [str]:
+def get_description_offer(link: str) -> list[str]:
     """ Obtiene la información de una oferta de trabajo.
 
     Retorna una lista con:
