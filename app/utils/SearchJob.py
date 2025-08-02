@@ -17,7 +17,7 @@ def scrape_jobs(job_description: str, location: str) -> []:
         params = {
             "keywords": job_description,
             "location": location,
-            "f_TPR": "r604800"
+            "f_TPR": "r86400",  # Últimas 24 horas
         }
 
         base_url = "https://www.linkedin.com/jobs/search"
