@@ -10,8 +10,8 @@ if __name__ == "__main__":
     load_dotenv()
 
     results = scrape_jobs(
-        os.getenv('JOB_DESCRIPTION', 'SENIOR TEST AUTOMATION ENGINEER'),
-        os.getenv('LOCATION', 'LIMA PERÚ')
+        os.getenv('JOB_DESCRIPTION', 'QA'),
+        os.getenv('LOCATION', 'LIMA, PERÚ')
     )
 
     if results is None:
