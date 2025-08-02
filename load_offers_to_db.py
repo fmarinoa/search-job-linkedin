@@ -28,7 +28,7 @@ def load_json(filepath: str) -> list:
 def send_offer(offer: dict) -> None:
     camel_case_offer = {to_camel_case(k): v for k, v in offer.items()}
     try:
-        response = requests.post(f"{BASE_URL}/job-offers/save", json=camel_case_offer, timeout=10)
+        response = requests.post(f"{BASE_URL}/job-offers/save", json=camel_case_offer, timeout=60)
         if response.status_code == 201:
             logger.info(f"✅ Offer loaded: {offer.get('Title job', 'Unknown')}")
         else:
