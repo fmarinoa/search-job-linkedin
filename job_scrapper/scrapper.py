@@ -1,26 +1,37 @@
 from urllib.parse import urlencode
 
 import requests
-from app.utils.logger_config import get_logger
 from lxml import html
 
+from job_scrapper.utils.config import load_config
+from job_scrapper.utils.logger import get_logger
+
 logger = get_logger(__name__)
+config = load_config()
 
+base_url = config["scraper"]["base_url"]
+location = config["scraper"]["location"]
+job_description = config["scraper"]["job_description"]
 
-def scrape_jobs(job_description: str, location: str) -> list[dict] | None:
-    logger.info("Locación a buscar: " + location)
-    logger.info("Buscando trabajo para: " + job_description)
+CSV_HEADERS = [
+    "Title job", "Employer", "Link profile employer", "Location",
+    "How long ago", "Recruiter", "Profile recruiter", "Description offer", "Link offer"
+]
 
-    data = []
+def scrape_jobs() -> list[dict] | None:
+    logger.info(f"Locación a buscar: {location}")
+    logger.info(f"Buscando trabajo para: {job_description}")
+
+    data = [CSV_HEADERS]
 
     try:
         params = {
             "keywords": job_description,
             "location": location,
             "f_TPR": "r86400",  # Últimas 24 horas
+            "f_AL": "true"  # Solictud sencilla
         }
 
-        base_url = "https://www.linkedin.com/jobs/search"
         encoded_params = urlencode(params)
         url = f"{base_url}?{encoded_params}"
 
@@ -28,7 +39,7 @@ def scrape_jobs(job_description: str, location: str) -> list[dict] | None:
 
         # Verificar si la solicitud fue exitosa
         if response.status_code != 200:
-            logger.warn(f"❌ Error {response.status_code}: No se pudo acceder a la página")
+            logger.error(f"❌ Error {response.status_code}: No se pudo acceder a la página")
             return
 
         tree = html.fromstring(response.content)
@@ -36,30 +47,26 @@ def scrape_jobs(job_description: str, location: str) -> list[dict] | None:
         xpath_base = "//*[@id='main-content']/section[2]/ul/li"
 
         results = tree.xpath(xpath_base)  # Obtiene todos los div con esa clase
-        data.append(["Title job", "Employer", "Link profile employer", "Location", "How long ago", "Recruiter",
-                     "Profile recruiter", "Description offer", "Link offer"])
-
         for i in range(1, len(results) + 1):
             try:
                 xpath_item = f"({xpath_base})[{i}]/*"
                 title_job = tree.xpath(xpath_item + "/div[2]/h3")[0].text.strip()
                 employer = tree.xpath(xpath_item + "/div[2]/h4/a")[0].text.strip()
                 profile_employer = tree.xpath(xpath_item + "/div[2]/h4/a/@href")[0]
-                location = tree.xpath(xpath_item + "/div[2]/div/span")[0].text.strip().replace('"', '')
+                job_location  = tree.xpath(xpath_item + "/div[2]/div/span")[0].text.strip().replace('"', '')
                 how_long_ago = tree.xpath(xpath_item + "/div[2]/div/time")[0].text.strip()
                 link_job = tree.xpath(xpath_item + "/a/@href")[0]
                 description_offer = get_description_offer(link_job)
-                data.append([title_job, employer, profile_employer, location, how_long_ago, description_offer[0],
+                data.append([title_job, employer, profile_employer, job_location , how_long_ago, description_offer[0],
                              description_offer[1], description_offer[2], link_job])
             except Exception as e:
-                logger.error(f"Ocurrió un error inesperado al capturar los datos para {title_job}: {e}")
+                logger.error(f"Error capturando datos en ítem #{i} | URL: {link_job} | Error: {e}")
                 continue
     except Exception as e:
         logger.error(f"Ocurrió un error inesperado: {e}")
         return None
 
     return data
-
 
 def get_description_offer(link: str) -> list[str]:
     """ Obtiene la información de una oferta de trabajo.

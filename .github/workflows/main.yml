@@ -2,13 +2,6 @@ name: Run main script
 
 on:
   workflow_dispatch:
-    inputs:
-      job_description:
-        description: 'Descripción del trabajo a buscar'
-        required: false
-      location:
-        description: 'Locación a buscar el trabajo'
-        required: false
 
   schedule:
     - cron: '0 0 * * *' # Todos los días a la medianoche UTC
@@ -29,23 +22,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Definir variables de entorno
-        run: |
-          if [ -n "${{ github.event.inputs.job_description }}" ]; then
-            echo "JOB_DESCRIPTION=${{ github.event.inputs.job_description }}" >> $GITHUB_ENV
-          fi
-          if [ -n "${{ github.event.inputs.location }}" ]; then
-            echo "LOCATION=${{ github.event.inputs.location }}" >> $GITHUB_ENV
-          fi
-
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
       - name: Ejecutar main script
         run: python main.py
-
-      - name: Generar body para el correo
-        run: python generate_html.py
 
       - name: Obtener el resultado csv más reciente
         id: get-latest
@@ -76,6 +57,3 @@ jobs:
           commit_user_name: Franco Mariño [Actions]
           commit_user_email: ${{ secrets.MAIL }}
           commit_author: fmarinoa <${{ secrets.MAIL }}>
-
-      - name: Cargar ofertas a la base de datos
-        run: python load_offers_to_db.py
