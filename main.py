@@ -7,7 +7,7 @@ from job_scrapper.scrapper import scrape_jobs
 def main():
     results = scrape_jobs()
 
-    if results is None or not results or len(results) < 2:
+    if results is None or not results:
         raise ValueError("❌ 'results' está vacío o no contiene datos suficientes.")
 
     append_results_csv(results)
