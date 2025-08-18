@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '0 0 * * 1-5' # De lunes a viernes a la medianoche UTC
+    - cron: '0 0 * * 2-6' # De martes a sábado a la medianoche UTC
 
 jobs:
   run-script:
