@@ -100,7 +100,7 @@ def get_description_offer(link: str) -> list[str]:
         return [
             recruiter_name[0].strip() if recruiter_name else "",
             recruiter_link[0].strip() if recruiter_link else "",
-            job_description[:300] if job_description else ""
+            job_description if job_description else ""
         ]
     except Exception as e:
         logger.error(f"Error al obtener información de la oferta: {e}")

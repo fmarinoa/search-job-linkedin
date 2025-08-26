@@ -41,7 +41,7 @@ def generate_html():
         employer = html.escape(offer["employer"])
         location = html.escape(offer["location"])
         time = html.escape(offer["howLongAgo"])
-        description = html.escape(offer["descriptionOffer"][:300]) + "..."
+        description = html.escape(offer["descriptionOffer"]) + "..."
 
         html_content += dedent(f"""\
             <div class="offer">
