@@ -4,11 +4,13 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '0 0 * * 2-6' # De martes a sábado a la medianoche UTC
+    - cron: '45 10 * * 2-6' # De martes a sábado a las 7:00 am UTC-5
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
     permissions:
       contents: write
@@ -28,26 +30,24 @@ jobs:
       - name: Ejecutar main script
         run: python main.py
 
-#      - name: Obtener el resultado csv más reciente
-#        id: get-latest
-#        run: |
-#          csv_file=$(find results -type f -name "*.csv" -printf "%T@ %p\n" | sort -nr | head -1 | cut -d' ' -f2-)
-#          csv_name=$(basename "$csv_file")
-#          echo "csv_file=$csv_file" >> $GITHUB_OUTPUT
-#          echo "csv_name=$csv_name" >> $GITHUB_OUTPUT
-#
-#      - name: Enviar correo
-#        uses: dawidd6/action-send-mail@v3
-#        with:
-#          server_address: smtp.gmail.com
-#          server_port: 587
-#          username: ${{ secrets.MAIL }}
-#          password: ${{ secrets.PASS }}
-#          subject: "Github Actions - LinkedIn Job Results: ${{ steps.get-latest.outputs.csv_name }}"
-#          html_body: file://results/email_body.html
-#          attachments: ${{ steps.get-latest.outputs.csv_file }}
-#          from: "GitHub Actions <${{ secrets.MAIL }}>"
-#          to: ${{ secrets.MAIL }}
+      - name: Obtener el resultado csv más reciente
+        id: get-latest
+        run: |
+          csv_file=$(find results -type f -name "*.csv" -printf "%T@ %p\n" | sort -nr | head -1 | cut -d' ' -f2-)
+          echo "csv_file=$csv_file" >> $GITHUB_OUTPUT
+
+      - name: Enviar correo
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.MAIL }}
+          password: ${{ secrets.PASS }}
+          subject: "Github Actions - Ofertas de Trabajo Filtradas"
+          html_body: file://results/email_body.html
+          attachments: ${{ steps.get-latest.outputs.csv_file }}
+          from: "GitHub Actions <${{ secrets.MAIL }}>"
+          to: ${{ secrets.MAIL }}
 
       - name: Hacer commit y push de archivos generados
         uses: stefanzweifel/git-auto-commit-action@v5
