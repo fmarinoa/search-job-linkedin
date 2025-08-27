@@ -97,9 +97,9 @@ class GeminiAnalyzer:
         ]
 
         return (
-            "Eres un asistente que filtra ofertas de trabajo según un perfil profesional. "
-            "No considerar puestos de asistente o juniors"
-            "Analizar cuáles son las empresas más importantes en la región y darles prioridad.\n\n"
+            "Eres un asistente que filtra ofertas de trabajo según un perfil profesional."
+            "No considerar puestos de asistente QA, Juniors QA O testers manuales.\n"
+            "Analizar cuáles son las empresas más importantes en la región y darles prioridad.\n"
             "Perfil:\n"
             f"{profile_str}\n\n"
             f"Batch {batch_idx}/{total_batches} - Ofertas (campos: _id, titleJob, employer, location, descriptionOffer, linkOffer):\n"
@@ -109,8 +109,8 @@ class GeminiAnalyzer:
             '- "title": titleJob,\n'
             '- "employer": employer,\n'
             '- "linkOffer": linkOffer,\n'
-            '- "reason": breve explicación (1-2 frases) de por qué la oferta encaja con el perfil.\n\n'
-            "En reason indicar el rango salaria si está en la oferta."
+            '- "reason": explicación de por qué la oferta encaja con el perfil.\n\n'
+            "En reason indicar el rango salarial. Si la oferta no lo incluye, indica un aproximado teniendo en cuenta la ubicación (Lima, Perú), la empresa y el puesto.\n"
             "La respuesta debe ser estrictamente JSON (sin explicaciones adicionales). Si no hay matches, devuelve [] (una lista vacía).\n"
         )
 
