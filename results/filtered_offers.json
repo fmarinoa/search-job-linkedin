@@ -1,9 +1,51 @@
 [
   {
-    "id": "https://pe.linkedin.com/jobs/view/analista-senior-de-automatizaciones-e-inteligencia-artificial-teletrabajo-h%C3%ADbrido-at-cibergesti%C3%B3n-4292001536?position=8&pageNum=0&refId=HI6p%2B3tJG1dW1SueSllrCw%3D%3D&trackingId=%2BFsz6TJrFuWOcHn%2FDb1BFw%3D%3D",
-    "title": "Analista Senior de Automatizaciones e Inteligencia Artificial - Teletrabajo Híbrido",
-    "employer": "Cibergestión",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/analista-senior-de-automatizaciones-e-inteligencia-artificial-teletrabajo-h%C3%ADbrido-at-cibergesti%C3%B3n-4292001536?position=8&pageNum=0&refId=HI6p%2B3tJG1dW1SueSllrCw%3D%3D&trackingId=%2BFsz6TJrFuWOcHn%2FDb1BFw%3D%3D",
-    "reason": "El puesto de Analista Senior de Automatizaciones se alinea con el perfil de SDET, especialmente con la experiencia en automatización. Rango salarial estimado: S/7,000 - S/12,000."
+    "id": "https://pe.linkedin.com/jobs/view/qa-funcional-senior-at-semada-tech-4292564244?position=6&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=CVEmT5x7bpvF5wOrDhxx0Q%3D%3D",
+    "title": "QA funcional Senior",
+    "employer": "SEMADA TECH",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-funcional-senior-at-semada-tech-4292564244?position=6&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=CVEmT5x7bpvF5wOrDhxx0Q%3D%3D",
+    "reason": "Coincide con la preferencia QA Senior, asumiendo un rango salarial aproximado entre S/ 6,000 y S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/qa-analyst-senior-at-hitss-peru-4292515413?position=7&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=SB73EoXvCrCEzhZqoMMJZw%3D%3D",
+    "title": "QA Analyst Senior",
+    "employer": "Hitss Peru",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-analyst-senior-at-hitss-peru-4292515413?position=7&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=SB73EoXvCrCEzhZqoMMJZw%3D%3D",
+    "reason": "Coincide con la preferencia QA Senior, asumiendo un rango salarial aproximado entre S/ 6,000 y S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/senior-qa-analyst-at-white-lion-technology-4292342578?position=8&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=GJIGPY3KAiClwUelQscZ8g%3D%3D",
+    "title": "Senior QA Analyst",
+    "employer": "White Lion Technology",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/senior-qa-analyst-at-white-lion-technology-4292342578?position=8&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=GJIGPY3KAiClwUelQscZ8g%3D%3D",
+    "reason": "Coincide con la preferencia QA Senior, asumiendo un rango salarial aproximado entre S/ 6,000 y S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/principal-quality-analyst-at-thoughtworks-4292404803?position=9&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=c3tO2obgyf5blGDz8sdXeg%3D%3D",
+    "title": "Principal Quality Analyst",
+    "employer": "Thoughtworks",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/principal-quality-analyst-at-thoughtworks-4292404803?position=9&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=c3tO2obgyf5blGDz8sdXeg%3D%3D",
+    "reason": "Coincide con la preferencia QA Senior, asumiendo un rango salarial aproximado entre S/ 8,000 y S/ 14,000 mensuales."
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/qe-automatizador-mobile-at-inetum-4292801787?position=10&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=z2eh8a4D7xiRyjk07X9Arg%3D%3D",
+    "title": "QE Automatizador Mobile",
+    "employer": "Inetum",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qe-automatizador-mobile-at-inetum-4292801787?position=10&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=z2eh8a4D7xiRyjk07X9Arg%3D%3D",
+    "reason": "Coincide con SDET y experiencia en mobile testing, asumiendo un rango salarial aproximado entre S/ 6,000 y S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/qa-automation-mobile-at-inetum-4292528389?position=11&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=cM14wqloOFtGyw7IqRVAHw%3D%3D",
+    "title": "QA automation - mobile",
+    "employer": "Inetum",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-automation-mobile-at-inetum-4292528389?position=11&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=cM14wqloOFtGyw7IqRVAHw%3D%3D",
+    "reason": "Coincide con SDET y experiencia en mobile testing, asumiendo un rango salarial aproximado entre S/ 6,000 y S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/analista-qa-java-at-ayesa-4290742964?position=13&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=PIfTwpE7aAcfWVLyBUOB3Q%3D%3D",
+    "title": "Analista QA JAVA",
+    "employer": "Ayesa",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/analista-qa-java-at-ayesa-4290742964?position=13&pageNum=0&refId=ixTrmocm%2FbgPzednXlTsuQ%3D%3D&trackingId=PIfTwpE7aAcfWVLyBUOB3Q%3D%3D",
+    "reason": "Coincide con QA Automation, asumiendo un rango salarial aproximado entre S/ 5,000 y S/ 9,000 mensuales."
   }
 ]
