@@ -1,112 +1,189 @@
 [
     {
+        "titleJob":"Sr QA",
+        "employer":"DEUNA",
+        "linkProfileEmployer":"https:\/\/www.linkedin.com\/company\/de-una?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima, Peru",
+        "howLongAgo":"1 hour ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"About DEUNA 🧡DEUNA is a rapidly growing startup revolutionizing global commerce with ATHIA, our AI-powered orchestration and payments platform that helps large enterprises boost approval rates, reduce costs, and unlock new revenue. Built by the team behind DEUNA—the fastest-growing Commerce OS in Latin America—ATHIA combines payment intelligence, checkout optimization, and data orchestration in one powerful solution.With deep integrations across 300+ PSPs and alternative payment methods, and over 20% of Mexico’s digital economy running through our platform, we simplify global payments through a single integration and centralized reconciliation.We are a rapidly growing startup expanding into the U.S. to meet the urgent needs of large retailers, marketplaces, airlines, and QSRs. Join us to shape the future of payments! 🚀Visit https:\/\/www.deuna.com\/ to learn more about us!We’re looking for a Senior QA who’s passionate about automation, quality, and modern tooling. In this role, you won’t just “test” — you’ll design and own automated processes, integrate them into our CI\/CD pipelines, and push the boundaries of how we approach quality with AI-powered tools.If you love building scalable frameworks, collaborating across teams, and finding smarter ways to ship high-quality software faster, this role is for you!Responsibilities: Design and maintain automated tests across frontend, backend, and integrations Lead and execute regression testing for every release cycle Define and manage test cases with strong coverage and traceability Partner with cross-functional teams to improve processes and ensure quality standards Leverage modern tools (Playwright, TypeScript, Docker, AI solutions, etc) to accelerate and improve testingWhat we’re looking for: Proven experience in QA automation and building testing frameworks Solid knowledge of E2E testing, QA methodologies, and design patterns Hands-on experience with automation tools and CI\/CD pipelines Strong collaboration skills and a mindset for continuous improvement Bonus points for experience with AWSHere you’ll own the quality vision and have the freedom to innovate with automation and AI-powered tools. We’re a fast-moving team where your ideas can quickly turn into impact — helping us ship smarter, faster, and with confidence!What will you find when you join DEUNA? A multicultural team distributed throughout LATAM Dynamism, agility and constant innovation Being part of a high-impact solution for an entire region The best tools and technology to operate Being part of the startup culture We are in full expansion!Benefits:Vacations and additional PTO 🏝️Remote work from anywhere 💻Economic support for health insurance, internet and cell phone line📱🌐We all own DEUNA, we offer stock options 💸Learning and development platform 📚Multidisciplinary, diverse and dynamic team 🧡Growth and career path 🚀Be part of a dynamic team that's creating the next generation payments platform.Join us at DEUNA!",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/sr-qa-at-deuna-4294692645?position=1&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=NIRE%2BLtK%2FKN7wxo5n%2FNeuA%3D%3D"
+    },
+    {
+        "titleJob":"Líder QA",
+        "employer":"Periferia IT Group",
+        "linkProfileEmployer":"https:\/\/co.linkedin.com\/company\/periferia-it-group?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima, Peru",
+        "howLongAgo":"3 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"¡Prepárate para vivir una nueva etapa con Periferia IT Group! 🌟Si tienes experiencia como Líder QA y quieres generar un impacto en el mundo tecnológico, esta es tu oportunidad para unirte a nuestro equipo. Trabajarás con más de 1,000 profesionales en una multinacional colombiana líder en el sector TI, con fuerte presencia en América Latina y Estados Unidos. ¡Impulsa tu carrera con nosotros y haz crecer tu potencial! 🚀📈💼💻¿Te gustaría llevar tu carrera al siguiente nivel con Periferia IT Group? 👥 Únete a nuestra cultura Periferia enfocada al servicio y la innovación, donde cada idea cuenta para superar las expectativas de nuestros clientes. 🚀 Sumérgete en un entorno laboral dinámico que fomenta el aprendizaje continuo y el desarrollo personal.💡 Participa en proyectos desafiantes donde podrás aplicar tus conocimientos y habilidades para generar un impacto real.🤝 Disfruta de un equilibrio entre tu vida personal y laboral, mientras promovemos el bienestar integral de todos nuestros colaboradores.Para destacar en tu postulación debes: 🎓 Ser Tecnico\/a o Universitario\/a.💻 Contar con experiencia superior a 5 años en Automatización: casos de pruebas, casos manuales.Tus funciones específicas serán: 📈 Implementar la estrategia de calidad para transformaciones de banca digital con foco en contabilidad. 💼Asegurar compliance en reportes regulatorios (SOX, IFRS) Actuar como puente entre áreas de Finanzas y TI🧠 Diseñar frameworks de pruebas para migraciones de sistemas financieros Lo que encontrarás al unirte al mundo de Periferia IT Group: 🏠🏢 Trabajo 100% presencial en Lima \/Perú📜 Contrato a plazo Tiempo determinado.💰 Salario negociable según experiencia y habilidades. 🎁 Beneficios a la carta para tu bienestar y estilo de vida. ¡Da el paso y únete hoy a nuestro equipo Periferia IT! 🎉",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/l%C3%ADder-qa-at-periferia-it-group-4294264417?position=2&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=0Wn1etj13lcHxEIF%2BqS0Kw%3D%3D"
+    },
+    {
+        "titleJob":"QA Analyst",
+        "employer":"Inetum",
+        "linkProfileEmployer":"https:\/\/fr.linkedin.com\/company\/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima Metropolitan Area",
+        "howLongAgo":"6 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"Descripción de la empresaSomos Inetum, líder europeo en soluciones digitales. Con un equipo de más de 28,000 consultores y expertos, nos esforzamos cada día para cumplir nuestro propósito: lograr un impacto digital en las empresas, más rápido, más fácil y para el bien de todas las personas.En Inetum acompañamos a nuestros colaboradores en su camino al éxito. Si te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de tecnología innovadores y de negocios, ¡postula ahora! Descripción del empleo Análisis de requerimientos. Estimación y planificación de pruebas. Diseño de casos de prueba. Generación de datos de prueba. Ejecución de pruebas funcionales. Reporte y seguimiento de defectos. Ejecución de pruebas Smoke. Acompañamiento y ejecución de pruebas UAT. Deseable conocimiento y manejo de herramientas como: Jira, KRAY para la gestión de incidencias, tareas y test cases.Requisitos Mínimo 2 años de experiencia demostrable en funciones de QA\/QC. Experiencia trabajando bajo marcos tradicionales (Waterfall) y ágiles (Scrum) . Experiencia en pruebas continuas como parte del ciclo de vida del desarrollo. Certificación ISTQB Foundation Level (deseable). Certificación en Scrum (deseable).Información adicional💰 Contrato en planilla desde el primer día con todos los beneficios de ley.🚑 Cobertura EPS Rímac (opcional) y Seguro de Vida Ley.🚲 Descuentos corporativos de wellness y plataforma de beneficios.📎 Capacitaciones según plan carrera y necesidades del servicio.✨ Actividades de integración y conexión.📚 Oportunidades de crecimiento y desarrollo profesional.💙 Plataforma de idiomas y de atenciones en psicología y nutrición.🚀 Ser parte de nuestra cultura Inetum Way de una empresa mundial.",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/qa-analyst-at-inetum-4294644079?position=3&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=Af27X%2F1zMdnhSYOJLV4RIw%3D%3D"
+    },
+    {
         "titleJob":"Analista de certificación QA",
         "employer":"Valtx Perú",
         "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/valtx-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location":"San Borja, Peru",
-        "howLongAgo":"45 minutes ago",
+        "howLongAgo":"1 day ago",
         "recruiter":"",
         "profileRecruiter":"",
         "descriptionOffer":"En Valtx, empresa con 23 años de experiencia en el mercado peruano, cuyo objetivo principal es convertirse en un socio estratégico, mediante soluciones tecnológicas en los diversos aspectos de los procesos de negocios; el desarrollo, implementación y mantenimiento de aplicaciones e infraestructura tecnológica para el negocio; y consultoría en diversos procesos de transformación, nos encontramos en la búsqueda de un ANALISTA DE CERTIFICACION - QA.¿Qué requisitos necesito? 4 años de experiencia en pruebas funcionales de sistema, de regresión y de aceptación del usuario. Experiencia en proceso de automatización de casos de prueba (Indispensable) 2 años experiencia en pruebas de sistemas orientados a Banca o Empresa de Proveedoras con proyectos orientados a banca: Productos Créditos Individual\/Grupal, Ahorros y\/u Operaciones en core bancario Bantotal (Indispensable) 2 años de experiencia en pruebas móviles (Android e iOS). Certificación ISTQB Foundation (Indispensable) Experiencia en Pruebas de Performance (Indispensable) Experiencia en API Testing. Conocimientos en Jira, Xray. Experiencia en seguimiento de errores, métricas e indicadores de calidad. Experiencia a nivel intermedio de base de datos: DB2\/SQL Server. Experiencia en herramientas de control de versiones: GIT Conocimiento en herramientas de integración continua: Azure DevOps\/Jenkins Conocimiento en herramientas de análisis de código y seguridad como SonarQube; Fortify. Conocimientos de GCP (Google Cloud Platform) Conocimientos de ESB, Motor de Reglas (Deseable).Principales Funciones Del PuestoElaboración de plan de pruebas.Definición de casos de pruebas sistema funcional.Gestión de ambiente de pruebas. Generación de data de prueba y ejecución de casos de prueba. Gestión de defectos. Generación de informe de resultados. Ejecución de pruebas de carga y rendimiento. Automatización de casos de prueba para pruebas de regresión. Manejo de bases de datos: construcción de querys de mediana\/gran complejidad.",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/analista-de-certificaci%C3%B3n-qa-at-valtx-per%C3%BA-4294169681?position=1&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=Fo5ezQ6xqvDEQRkKZkqdrw%3D%3D"
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/analista-de-certificaci%C3%B3n-qa-at-valtx-per%C3%BA-4294169681?position=4&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=pW1%2Bot7TtLMqgusbrp%2Bvew%3D%3D"
     },
     {
         "titleJob":"Analista QA",
-        "employer":"QDS - Quality & Development Software SAC",
-        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/qds-group?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "employer":"Sprocket International",
+        "linkProfileEmployer":"https:\/\/www.linkedin.com\/company\/sprocket-international?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location":"Lima, Peru",
-        "howLongAgo":"2 hours ago",
-        "recruiter":"Quality and Development Software SAC",
-        "profileRecruiter":"https:\/\/pe.linkedin.com\/in\/quality-and-development-software-sac-754851151",
-        "descriptionOffer":"En QDS buscamos un\/a Analista QA, para nuestro cliente sector seguros.Si cuentas con:✅ Exp. 4 años como Analista de Calidad✅ Conocimiento de ISQTB.✅ Capacidad de análisis para identificar el alcance del proyecto y su respectivo impacto.✅ Conocimiento y uso de la herramienta Team viewer✅ Uso de Postman✅ Metodología Ágil✅ cursor (ia) para automatizar ✅ BD: Gestión de datos de prueba (SQL, Oracle o DB2)✅ Experiencia en aseguradoras (soat, viajes, vida, vehicular, etc)📌 Modalidad de lunes a viernes de 9:00 AM A 6:00 PM (Híbrido, 2 o 3 veces en oficina en San Isidro)Te ofrecemos los beneficios QDS:✨ Ingreso a planilla QDS con todos los beneficios de ley✨ Pagos puntuales + utilidades anuales✨ Acceso a seguros EPS✨ Kit de recursos para homeoffice✨ Plataformas de aprendizaje + certificados Udemy✨ Excelente clima laboral, colaborativo y en constante crecimiento📢 ¡Postula ya!Envía tu CV a marie.caballero@qds.com.pe",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/analista-qa-at-qds-quality-development-software-sac-4294158140?position=2&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=uqf9tOtbkPGCVpwEzyfpvQ%3D%3D"
+        "howLongAgo":"8 hours ago",
+        "recruiter":"Gaby .",
+        "profileRecruiter":"https:\/\/ve.linkedin.com\/in\/gaby-5b7980219",
+        "descriptionOffer":"Estamos en búsqueda de un Analista QA con experiencia en Sistemas GIS (Smallworld).📌 Rol: Analista QA 📍 Ubicación: C. Teniente Cesar López Rojas 195, San Miguel 15088 – Cliente Pluz Energía 🕒 Horario:Lunes a Jueves: 8:00 am – 7:00 pmViernes: 8:00 am – 2:00 pm 📅 Duración: Proyecto temporal de 2 meses Modalidad: Presencial🎯 Responsabilidades principales:Validar y certificar funcionalidades de la plataforma GIS (Smallworld).Asegurar la calidad y estabilidad del sistema mediante pruebas funcionales.Documentar resultados y reportar incidencias de manera clara y oportuna.✅ Requisitos:Experiencia comprobable como Analista QA.Conocimientos en sistemas GIS (indispensable Smallworld).Capacidad de análisis y documentación de pruebas.Disponibilidad para trabajar en modalidad presencial.📩 Si cumples con el perfil y estás interesado, postúlate a esta vacante o envía tu CV actualizado a hunting.ccsgb@gmail.com",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/analista-qa-at-sprocket-international-4294606384?position=5&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=QelEwf90abU0Gvic1OwXmw%3D%3D"
     },
     {
-        "titleJob":"QA Funcional",
-        "employer":"Odiseo_Tech",
-        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/odiseo-tech?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob":"Analista de aseguramiento de la calidad",
+        "employer":"Amcor",
+        "linkProfileEmployer":"https:\/\/ch.linkedin.com\/company\/amcor?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Los Olivos, Peru",
+        "howLongAgo":"22 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/analista-de-aseguramiento-de-la-calidad-at-amcor-4294307148?position=6&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=ZhBJ5iSQ3BdZM18aKpXwtw%3D%3D"
+    },
+    {
+        "titleJob":"QA Automatizador",
+        "employer":"NTT DATA Europe & Latam",
+        "linkProfileEmployer":"https:\/\/es.linkedin.com\/company\/ntt-data-europe-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima Metropolitan Area",
+        "howLongAgo":"23 hours ago",
+        "recruiter":"Stefany Cuadros Ruiz",
+        "profileRecruiter":"https:\/\/pe.linkedin.com\/in\/stefany-cuadros-ruiz-34160b199",
+        "descriptionOffer":"Somos NTT DATA, la empresa de servicios TI más grande del mundo, contamos con más de 140.000 profesionales y operamos en más de 50 países. Brindamos soluciones de negocio, estrategia, desarrollo y mantenimiento de aplicaciones tecnológicas y outsourcing.Queremos seguir construyendo un entorno único de colaboración, creativo, cercano y generoso; que nos permita seguir evolucionando juntos, como comunidad y como sociedad, prosperando en un día a día lleno de nuevas y mejores posibilidades.En NTT DATA todos somos Digital Lovers, nos une la tecnología y el corazón, dos ideas que cuando se mezclan nos dan infinitas posibilidades. Ser un Digital Lover es ser un amante de lo digital, es poner el corazón en lo que se hace, es no tener miedo de tener la cabeza en las nubes y ser capaz de iniciar cada proyecto con mariposas en el estómago.¡Estas a un paso de ser un Digital Lover, te invitamos a revisar la vacante de QA Automation Engineer y vivir esta experiencia!Requisitos:Egresado de carrera técnica o universitaria en Ing. de Sistemas, Desarrollo de Software o afines1 año a más de experiencia en Automation con alguna de las siguientes tecnologías: Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium.Test Management: Jira + Xray, Gherkin.Testing Continuo: Jenkins, Bitbucket.Certificado ISTQB (deseable).Metodología BDD.Beneficios:Contrato indeterminado desde el primer día.Inmejorable oportunidad de línea de carrera profesional en nuestra consultora líder en el mercado TI.Capacitaciones y Certificaciones.EPS cubierta al 100%.Tarjeta de alimentos.Oportunidad de trabajar en proyectos de clientes de gran envergadura locales e internacionales.“NTT DATA es un entorno inclusivo donde cada voz es escuchada y cada historia es valorada. Por eso, nuestro proceso de selección y reclutamiento se enfoca en identificar el talento sin distinción o sesgos relacionados con género, sexo, orientación sexual, discapacidad, edad u otras características personales”",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/qa-automatizador-at-ntt-data-europe-latam-4293881332?position=7&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=k2wjygpKJaSV3iiUeRG2fw%3D%3D"
+    },
+    {
+        "titleJob":"Desarrollador Junior",
+        "employer":"Colegios San Pío X",
+        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/colegios-san-pio-x?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Los Olivos, Peru",
+        "howLongAgo":"12 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"Bienvenido(a)! Somos Colegios San Pío X, una empresa líder del sector Educación (colegios) con 32 años de trayectoria profesional. Nuestra institución cuenta con una población estudiantil alrededor a 1500 estudiantes y 150 trabajadores. Nuestros valores institucionales —respeto, integridad y tolerancia— guían cada acción que emprendemos y se transmiten a toda nuestra comunidad educativa. Agradecemos tu interés en formar parte de nuestro equipo de trabajo, motivado en la búsqueda de un nuevo reto profesional que, como empresa, estamos seguros que será enriquecedor para tu desarrollo como persona y profesional.Estamos en la búsqueda de un(a) Desarrollador(a) Junior para que se incorpore al equipo de Sistemas y Desarrollo de la empresa contribuyendo al desarrollo de nuevos productos tecnológicos enfocados en la eficiencia y mejora continua. Trabajarás bajo metodologías ágiles, participando en sprints, retrospectivas y sesiones de innovación con el equipo. Tendrás acceso a capacitaciones, feedback constante y espacio para experimentar nuevas tecnologías.Buscamos que seas un líder tecnológico en nuestra comunidad y sector educativo!PerfilBachiller o egresado en Ingeniería de Sistemas, Informática o afines.Mínimo 2 años de experiencia desarrollando Back y\/o FrontConocimientos en:Lenguajes: PHP, JavaScript, PythonBases de datos: MySQL, PostgreSQL o similares.Frameworks: Angular, Laravel, React o similaresVersionamiento: Git\/GitHub.Conocimiento y práctica en metodologías ágiles (Scrum\/Kanban).Inglés técnico intermedio (lectura de documentación).Competencias: proactividad, trabajo en equipo, adaptabilidad, mentalidad de aprendizaje continuo.ResponsabilidadesDesarrollar y mantener módulos del proyecto en desarrollo bajo supervisión del Coordinador y Analista de Producto.Gestionar activamente metodologías ágiles (daily, sprint planning, retrospectives).Traducir historias de usuario en código funcional, probado y documentado.Asegurar la integración y el despliegue continuo de nuevas funcionalidades.Colaborar con practicantes y equipo de QA en pruebas unitarias y de aceptación.Documentar procesos técnicos en repositorios (Git, Notion).Investigar y proponer mejoras técnicas o nuevas herramientas.",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/desarrollador-junior-at-colegios-san-p%C3%ADo-x-4294379070?position=8&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=t4gHJtkRMLMjQw7Cm3pQAw%3D%3D"
+    },
+    {
+        "titleJob":"Tech Lead, Software QA Excellence",
+        "employer":"Deel",
+        "linkProfileEmployer":"https:\/\/www.linkedin.com\/company\/deel?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima Metropolitan Area",
+        "howLongAgo":"7 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"Who We Are Is What We Do.Deel is the all-in-one payroll and HR platform for global teams. Our vision is to unlock global opportunity for every person, team, and business. Built for the way the world works today, Deel combines HRIS, payroll, compliance, benefits, performance, and equipment management into one seamless platform. With AI-powered tools and a fully owned payroll infrastructure, Deel supports every worker type in 150+ countries—helping businesses scale smarter, faster, and more compliantly.Among the largest globally distributed companies in the world, our team of 6,000 spans more than 100 countries, speaks 74 languages, and brings a connected and dynamic culture that drives continuous learning and innovation for our customers.Why should you be part of our success story?As the fastest-growing Software as a Service (SaaS) company in history, Deel is transforming how global talent connects with world-class companies – breaking down borders that have traditionally limited both hiring and career opportunities. We're not just building software; we're creating the infrastructure for the future of work, enabling a more diverse and inclusive global economy. In 2024 alone, we paid $11.2 billion to workers in nearly 100 currencies and provided healthcare and benefits to workers in 109 countries—ensuring people get paid and protected, no matter where they are.Our momentum is reflected in our achievements and customer satisfaction: CNBC Disruptor 50, Forbes Cloud 100, Deloitte Fast 500, and repeated recognition on Y Combinator’s top companies list – all while maintaining a 4.83 average rating from 15,000 reviews across G2, Trustpilot, Captera, Apple and Google.Your experience at Deel will be a career accelerator. At the forefront of the global work revolution, you'll tackle complex challenges that impact millions of people's working lives. With our momentum—backed by a $12 billion valuation and $1 B in Annual Recurring Revenue (ARR) in just over five years—you'll drive meaningful impact while building expertise that makes you a sought-after leader in the transformation of global work.SummaryThe QA Tech Lead will play a vital role in ensuring the high quality and reliability of our software products. Reporting to the Director of Software Quality, you will be an expert in specific areas of software quality, such as test case planning, QA Automation, or other specialized domains. You will work closely with individual QA engineers and Developers spread across various Engineering teams, collaborating with them to define and improve QA-reared processes and tools, while they work directly for their respective product teams. Your expertise and leadership will be critical in guiding and supporting the QA engineers to achieve quality objectives and deliver exceptional software products.ResponsibilitiesServe as a subject matter expert in software quality (e.g., test case planning, QA automation, performance, security).Partner with the Director of Software Quality to develop and implement quality strategies and best practices.Mentor, and support QA engineers in a matrixed team environment.Contribute to the planning and execution of comprehensive test strategies and plans.Review and provide feedback on test cases, scripts, and automation code to ensure quality standards.Collaborate with cross-functional teams to integrate quality considerations throughout the development lifecycle.Identify and implement improvements to testing processes, methodologies, and tools.Train QA engineers on industry best practices, emerging trends, and new tools.Stay current with software quality trends and share knowledge with the team.Act as a key resource for QA engineers, resolving issues and fostering a supportive team environment.Collaborate to define and monitor KPIs for software quality, driving continuous improvement.Qualifications5+ years of experience (minimum) in software quality assuranceProven expertise in Playwright, Typescript & GithubBonus points if you have experience with Jira and AI tools (ChatGPT, Copilot, Cursor, Gemini, etc)A successful track record as a Mentor, providing guidance and support to QA engineers.Solid grasp of SDLC, Agile, and QA processes.Excellent, detail-oriented analytical and problem-solving skills.Strong communication and interpersonal skills for cross-functional collaboration.Proactive, self-motivated, and passionate about staying current with QA advancements.Total RewardsOur workforce deserves fair and competitive pay that meets them where they are. With scalable benefits, rewards, and perks, our total rewards programs reflect our commitment to inclusivity and access for all.Some things you’ll enjoyStock grant opportunities dependent on your role, employment status and locationAdditional perks and benefits based on your employment status and countryThe flexibility of remote work, including optional WeWork accessAt Deel, we’re an equal-opportunity employer that values diversity and positively encourage applications from suitably qualified and eligible candidates regardless of race, religion, sex, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, pregnancy or maternity or other applicable legally protected characteristics.Unless otherwise agreed, we will communicate with job applicants using Deel-specific emails, which include @deel.com and other acquired company emails like @payspace.com and @paygroup.com. You can view the most up-to-date job listings at Deel by visitingour careers page.Deel is an equal-opportunity employer and is committed to cultivating a diverse and inclusive workplace that reflects different abilities, backgrounds, beliefs, experiences, identities and perspectives.Deel will provide accommodation on request throughout the recruitment, selection and assessment process for applicants with disabilities. If you require accommodation, please inform our Talent Acquisition Team at recruiting@deel.com of the nature of the accommodation that you may require, to ensure your equal participation.We use Covey as part of our hiring and\/or promotional processes. As part of the evaluation process, we provide Covey with job requirements and candidate-submitted applications. Certain features of the platform may qualify it as an Automated Employment Decision Tool (AEDT) under applicable regulations. For positions in New York City, our use of Covey complies with NYC Local Law 144.We began using Covey Scout for Inbound on March 30, 2025.For more information about our data protection practices, please visit our Privacy Policy. You can review the independent bias audit report covering our use of Covey here: https:\/\/getcovey.com\/nyc-local-law-144",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/tech-lead-software-qa-excellence-at-deel-4294219959?position=9&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=%2B1tpt%2FARWBiTJN2Ycmh3kQ%3D%3D"
+    },
+    {
+        "titleJob":"Analista de Atracción de Talento TI",
+        "employer":"Empresa Confidencial",
+        "linkProfileEmployer":"https:\/\/br.linkedin.com\/company\/empresa-confidencial?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima, Peru",
+        "howLongAgo":"40 minutes ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"Importante empresa de tecnología solicita:Analista de Atracción de Talento TI con ganas de trabajar en nuestros equipos multidisciplinares.¿Cuál es el reto que te proponemos?· Estarás en contacto continuo con las novedades tecnológicas, impulsando la transformación digital.· Participarás en proyectos y desarrollos que tienen una alta visibilidad y que marcan la diferencia con soluciones disruptivas y especializadas para toda la cadena de valor¿Qué esperamos por tu parte?Bachiller o Titulado en Psicología, Administración, Recursos Humanos, Ingeniería Industrial o afines2 a 3 años de experiencia en reclutamiento y selección de perfiles TI en empresas tecnológicas o consultoras de selección especializada.Experiencia comprobable en reclutamiento de roles como: desarrolladores, DevOps, QA, Data Engineers, Arquitectos Cloud, cyberseguridad, etc.Controlar SLAS, KPIs e indicadores, elaboración de reportesManejo de procesos de reclutamiento end-to-end.Familiaridad con tecnologías, lenguajes de programación, frameworks y metodologías ágiles (Scrum, Kanban).Uso de herramientas como: LinkedIn RecruiterConocimiento básico de estructuras salariales y negociación en perfiles tecnológicos.Office (intermedio-avanzado)Modalidad de Trabajo Híbrida en Lima Habilidades Blandas:Visión integralTrabajo en equipoComunicación Análisis Organización Proactivo-Iniciativa Beneficios por parte de la empresaPlanilla desde el día 1Carrera profesional y acceso a plataforma de capacitación adaptada a tus necesidades y motivaciones.EPS cubierta al 100%Beneficios corporativos",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/analista-de-atracci%C3%B3n-de-talento-ti-at-empresa-confidencial-4293137773?position=10&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=J%2B7%2BLqoDXZ6okAcQlblu0g%3D%3D"
+    },
+    {
+        "titleJob":"Senior QA Automation Engineer | LATAM",
+        "employer":"Deel",
+        "linkProfileEmployer":"https:\/\/www.linkedin.com\/company\/deel?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima Metropolitan Area",
+        "howLongAgo":"7 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/senior-qa-automation-engineer-latam-at-deel-4294226110?position=11&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=Tm%2F4mFRjDeYOKyVhFRWKlg%3D%3D"
+    },
+    {
+        "titleJob":"QA Mobile Automation Engineer",
+        "employer":"Applaudo",
+        "linkProfileEmployer":"https:\/\/sv.linkedin.com\/company\/applaudo?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima, Peru",
+        "howLongAgo":"2 minutes ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/qa-mobile-automation-engineer-at-applaudo-4294915359?position=12&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=lvm7k6jOg9u%2B2e0p6lhdbg%3D%3D"
+    },
+    {
+        "titleJob":"Ingeniero de Procesamiento de Datos",
+        "employer":"WSP en Perú",
+        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/wsp-en-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location":"Lima, Peru",
         "howLongAgo":"12 hours ago",
         "recruiter":"",
         "profileRecruiter":"",
-        "descriptionOffer":"QA FuncionalEn nuestra empresa dedicada a brindar soluciones de software, consideramos que es importante mantenerse actualizado\/a en las últimas tecnologías y tendencias del mercado. Por lo tanto, la formación continua es esencial para mantenerse competitivo\/a.Responsabilidades:Revisar y comprender requerimientos funcionales y criterios de aceptación.Diseñar y ejecutar casos de prueba manuales en base a escenarios reales.Realizar pruebas de integración para verificar la interacción correcta entre módulos y sistemas externos.Ejecutar pruebas de regresión para confirmar que cambios recientes no afecten funcionalidades existentes.Documentar y reportar defectos de forma clara y priorizada.Validar la funcionalidad en diferentes navegadores y dispositivos.Participar en pruebas exploratorias y de aceptación de usuario (UAT).Coordinar con el QA técnico y el equipo de desarrollo para la solución de problemas.Requisitos:Egresado o Bachiller en Ingeniería de Software, Ingeniería Informática, Ingeniería de Sistemas o carreras afines.Experiencia en QA funcional (mínimo 1 año Mid Junior \/ 3 años Mid Senior).Conocimiento en herramientas de gestión de pruebas (TestRail, Zephyr, Qase o equivalentes).Conocimientos básicos en SQL para validaciones simples.Capacidad de análisis de procesos y detección de mejoras.Conocimiento de metodologías ágiles (Scrum\/Kanban).Idiomas: Ingles Técnico Básico.Trabajo 100% presencial en la sede Cercado de LimaBeneficios:Ingreso a planilla completaHorario: L - V (8am a 6pm)Trabajo presencial - Av. Brasil 241Sueldo sujeto a evaluación",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/qa-funcional-at-odiseo-tech-4293203170?position=3&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=86GaatFoL%2F0inxyj5TY0%2BA%3D%3D"
-    },
-    {
-        "titleJob":"Senior QA Funcional",
-        "employer":"Praxis",
-        "linkProfileEmployer":"https:\/\/mx.linkedin.com\/company\/praxis_2?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location":"Lima, Peru",
-        "howLongAgo":"5 hours ago",
-        "recruiter":"",
-        "profileRecruiter":"",
-        "descriptionOffer":"Nos encontramos en la búsqueda de (1) Senior QA Funcional para un cliente top del país.🔹 Requisitos:Bachiller en Ingeniería de Sistemas, Ingeniería Informática o carreras afines (OBLIGATORIO)Experiencia mínima de 5 años como QA Analyst (INDISPENSABLE)Conocimientos sólidos en diseño y ejecución de casos de prueba, planes de prueba y estrategias de testingExperiencia en pruebas funcionales, de regresión, de integración y de usuario (UAT)Conocimientos en manejo de bases de datos SQL para validacionesExperiencia en metodologías ágiles (Scrum\/Kanban)Experiencia con nube AWS (deseable certificación)Deseable experiencia con herramientas de gestión de pruebas (Jira, TestRail, Zephyr, entre otros)🔹 Condiciones:Planilla completa con todos los beneficios de leyModalidad remotaEstabilidad laboral y oportunidad de crecimiento profesionalNO TRABAJAMOS CON RXH",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/senior-qa-funcional-at-praxis-4294140688?position=4&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=SJy0f9WWxbi8AbcYCMR%2Bjg%3D%3D"
-    },
-    {
-        "titleJob":"QA Funcional Sr.",
-        "employer":"IDM Technology",
-        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/idmtechperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location":"San Isidro, Peru",
-        "howLongAgo":"9 hours ago",
-        "recruiter":"Heinny Saavedra",
-        "profileRecruiter":"https:\/\/pe.linkedin.com\/in\/heinny-saavedra",
-        "descriptionOffer":"IDM Technology, especialistas en soluciones de TI se encuentra en la búsqueda de un QA Funcional Senior para sumarse a una importante compañía en la región. Funciones: Gestionar y dar seguimiento a los requisitos funcionales asegurando su correcta implementación. Coordinar y propiciar el trabajo en mesas de trabajo multidisciplinarias, garantizando la alineación entre equipos y proyectos. Asegurar que los desarrollos y productos cumplan con los criterios de calidad y lleguen a buen término dentro de los plazos establecidos. Participar activamente en las ceremonias de Scrum y colaborar con el Product Owner en la definición y validación de requerimientos. Diseñar, ejecutar y documentar casos de prueba funcionales (manuales y automatizados) en todas las fases del proyecto. Monitorear la calidad del software a través de pruebas de rendimiento y herramientas de control de calidad de código. Requisitos: Profesional en Ingeniería de Sistemas, Informática o carreras afines. Experiencia mínima de 5 años como QA Funcional, con al menos 3 años en el sector banca o financiero. Experiencia en proyectos de implementación desde cero. Manejo de requisitos funcionales y pruebas funcionales (manuales y automatizadas). Participación activa en mesas de trabajo bajo metodologías ágiles (Scrum), con dominio de todas sus ceremonias. Colaboración estrecha con Product Owner en la definición y validación de requerimientos. Conocimiento y manejo de BDD (Behavior Driven Development). Experiencia en diseño, redacción avanzada y ejecución de casos de prueba en Gherkin. Experiencia en pruebas funcionales automatizadas. Experiencia en pruebas de rendimiento, incluyendo pruebas de carga y de estrés. Conocimiento y uso de herramientas de calidad de código (ejemplo: SonarQube). Experiencia gestionando proyectos en paralelo y trabajando con múltiples equipos. Beneficios: Oportunidad de crecimiento profesional Proyecto desafiante Banda salarial en planilla Si cumples con los requisitos, envíanos tu CV indicando tus pretensiones salariales a: postulante@idmtechnology.com.pe con el asunto: QAF  Conoce todas nuestras vacantes disponibles en ✅: https:\/\/lnkd.in\/e89vRFWg",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/qa-funcional-sr-at-idm-technology-4291632302?position=5&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=6FxTm15BZefyYoRUfBy4Vg%3D%3D"
-    },
-    {
-        "titleJob":"QA Automatizador",
-        "employer":"Tata Consultancy Services",
-        "linkProfileEmployer":"https:\/\/in.linkedin.com\/company\/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location":"Lima, Peru",
-        "howLongAgo":"9 hours ago",
-        "recruiter":"Athira K V",
-        "profileRecruiter":"https:\/\/in.linkedin.com\/in\/athira-k-v-a848a1228",
-        "descriptionOffer":"Job Title : QA AutomatizadorJob Description:Automatización de pruebas con Karate y Rest Azureconocimientos en salesforce (opcional)",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/qa-automatizador-at-tata-consultancy-services-4029282262?position=6&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=keTwyFjbGn7dnYeZobrEiQ%3D%3D"
-    },
-    {
-        "titleJob":"Analista de datos",
-        "employer":"Vooxell",
-        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/vooxell?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location":"Lima, Peru",
-        "howLongAgo":"23 hours ago",
-        "recruiter":"Maria Ximena Moran Sandoval",
-        "profileRecruiter":"https:\/\/pe.linkedin.com\/in\/ximena-moran",
-        "descriptionOffer":"🚀 ¡Estamos en búsqueda de talento!En Rímac nos encontramos en la búsqueda de un Analista de Datos GCP (Semi Senior) para unirse a nuestro equipo de Mantenimiento de Datos.🔎 Perfil requerido:Bachiller o egresado en Ingeniería de Sistemas, Computación, Informática, Estadística, Industrial o afines.+4 años de experiencia como Analista de Datos (procesos de calidad, análisis o gestión de datos).Experiencia sólida en Google Cloud Platform (GCP), especialmente con BigQuery.Experiencia en SQL (Oracle \/ SQL Server) y en herramientas de visualización como Power BI o Looker Studio.Experiencia en BigQuery, ETL’s y Python.Conocimiento en Agile\/Scrum, Jira, QA, Gobierno de Datos y Excel.Inglés a nivel intermedio.📌 Modalidad: Híbrida (3 veces por semana en oficina) 📌 Nivel: Semi Senior \/ Senior  📌 Ubicación: Lima, Perú💡 Buscamos profesionales con pensamiento crítico, comunicación efectiva y pasión por la analítica de datos.Si cumples con el perfil y te interesa ser parte de este reto, postula aquí 👉 https:\/\/forms.gle\/q7wMMfgbVnfscy9KA",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/analista-de-datos-at-vooxell-4293706707?position=7&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=ronqWF3ewM6rnJE0Du%2FvYw%3D%3D"
-    },
-    {
-        "titleJob":"Practicante Desarrollador Full stack",
-        "employer":"Saga Falabella",
-        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/falabellaretailperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location":"Lima, Peru",
-        "howLongAgo":"7 hours ago",
-        "recruiter":"",
-        "profileRecruiter":"",
-        "descriptionOffer":"Descripción EmpresaSomos más de 90 mil personas que cada día trabajamos por el firme Propósito - Simplificar y Disfrutar más la Vida. Estamos presentes en 9 países y compuestos por grandes marcas posicionadas de diversas industrias. Falabella Retail, Sodimac, Banco Falabella, Tottus, Mallplaza, Falabella.com, Falabella Inmobiliario. Cada una de éstas nos hace ser quienes somos, y es entre todos, como Un Solo Equipo, que buscamos diariamente reinventarnos y superar las experiencias de nuestros clientes.Si eres trabajador de Falabella, revisa todos los cursos disponibles en la Academia Falabella, que te ayudarán a seguir impulsando tu desarrollo y preparar tu próxima aventura con nosotros!Misión Del Cargo¡Únete como Practicante Fullstack en nuestra cadena logística!Funciones Del Cargo¿Estás en los últimos ciclos de Ingeniería en Sistemas o Software y te apasiona la programación?Esta es tu oportunidad de formar parte de un equipo que impulsa la eficiencia logística a través de tecnología de vanguardia.Mision: Apoyar en la programación de las nuevas aplicaciones que aumenten la eficiencia en la cadena logística.Funciones del Cargo Ayudar a programar el código según los requerimientos técnicos entregados, logrando así generar un sistema web que funcione correctamente, considerando temas como la comunicación entre sistemas, integración de elementos visuales, consultas de bases de datos, integraciones con APIs, y\/o otros temas relevantes Programar en algún lenguaje como Node JS, Python, PHP, Javascript, Typescript y\/o otros lenguajes y frameworks relevantes Trabajar con el equipo de desarrollo, diseño UX, QA, producto, etc según corresponde Participar de las reuniones Scrum de manera activa y colaborativaQué ofrecemos?Mentoría técnica y acompañamiento constante.Participación en proyectos reales con impacto.Ambiente colaborativo y oportunidades de crecimiento.RequisitosEstudiante egresado o últimos ciclos de ingeniería de sistemas, softwareExperiencia previa en desarrollo con enguajes Node JS, Python, PHP, Javascript, Typescript, etc.Conocimientos en inteligencia artificial.Conocimientos en bases de datos.Disponibilidad para trabajar en modalidad presencial.¡Muchas ganas de aprender y potenciar tu perfil en el mundo de la programación!Condiciones OfertaDescripción proceso de selección:El proceso de selección se realiza a través de Aira - plataforma de reclutamiento diseñado para mejorar tu experiencia de postulación.Para Postular Solo Necesitas Postular a la oferta Revisar tu email Ingresar a Aira y contestar las preguntas y\/o pruebas solicitadasLuego, si vemos que tu perfil se ajusta a lo que estamos buscando, te contactaremos por email (a través de Aira) para seguir a la etapa presencial.",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/practicante-desarrollador-full-stack-at-saga-falabella-4294121923?position=8&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=lkuud7mpvKjs93oQUOBFcQ%3D%3D"
+        "descriptionOffer":"",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/ingeniero-de-procesamiento-de-datos-at-wsp-en-per%C3%BA-4283486815?position=13&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=fxdX6o5%2Bv9Zl7%2FagtcJfdA%3D%3D"
     },
     {
         "titleJob":"Programador Full Stack c\/ experiencia en IA",
         "employer":"Valtx Perú",
         "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/valtx-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location":"San Borja, Peru",
-        "howLongAgo":"45 minutes ago",
-        "recruiter":"",
-        "profileRecruiter":"",
-        "descriptionOffer":"En Valtx, empresa con 24 años de experiencia en el mercado peruano, cuyo objetivo principal es convertirse en un socio estratégico, mediante soluciones tecnológicas en los diversos aspectos de los procesos de negocios; el desarrollo, implementación y mantenimiento de aplicaciones e infraestructura tecnológica para el negocio; y consultoría en diversos procesos de transformación, nos encontramos en la búsqueda de un Programador Full Stack IA¿Qué responsabilidades tendrá? Diseñar y desarrollar aplicaciones web y móviles integradas con modelos de IA. Experiencia específica en el diseño de APIs REST y\/o GraphQL para servir modelos de inferencia de IA\/ML (Indispensable) Implementar interfaces de usuario intuitivas y dashboards para visualización de resultados de IA. Asegurar buenas prácticas de arquitectura fullstack (frontend, backend, bases de datos y cloud). Mantener pipelines de integración continua (CI\/CD) y prácticas de MLOps. Colaborar con equipos de Data Science, DevOps y QA para proyectos multidisciplinarios. Investigar y aplicar nuevas tecnologías que potencien el ciclo completo de desarrollo IA¿Qué requisitos necesito? Egresado técnico o Bachiller de Ingeniería de Sistemas, Ingeniería Informática o afines.. 3 años de experiencia en desarrollo fullstack y 2 años en proyectos de IA. Experiencia en sector financiero (deseable) Especialización en IA, desarrollo Web Fullstack o Cloud Computing (Deseable)Competencias TécnicasLenguajes backend: Python (avanzado), Node.js, Java o C#.Lenguajes frontend: JavaScript (React, Angular o Vue), HTML5, CSS3.Frameworks de IA: TensorFlow, PyTorch, Scikit-learn, Hugging Face.MLOps \/ DevOps: Docker, Kubernetes, MLflow, Airflow, Jenkins.Cloud: experiencia en AWS, GCP o Azure, despliegue de modelos y aplicaciones.Bases de datos: SQL (PostgreSQL, MySQL) y NoSQL (MongoDB, Cassandra).Versionado y control de código: Git, GitHub\/GitLab.Disponibilidad para laborar hibrido para un proyecto de 6 meses (con posibilidad de renovación) en San Borja.¿Por qué Valtx?Porque creemos que el talento se potencia con propósito. En Valtx no solo desarrollamos tecnología, transformamos negocios y acompañamos a nuestros colaboradores en su desarrollo profesional, promoviendo una cultura colaborativa, cercana y orientada a la excelencia.¿Estás listo para construir soluciones que marcan la diferencia?Postula hoy y forma parte de un equipo que evoluciona contigo.",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/programador-full-stack-c-experiencia-en-ia-at-valtx-per%C3%BA-4294171579?position=9&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=OnNcaEemKbIaegGA0DUAIg%3D%3D"
-    },
-    {
-        "titleJob":"Monitor de Aplicaciones BOT",
-        "employer":"Talent Advisors LATAM",
-        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/talent-advisors-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location":"San Isidro, Peru",
-        "howLongAgo":"9 hours ago",
+        "howLongAgo":"1 day ago",
         "recruiter":"",
         "profileRecruiter":"",
         "descriptionOffer":"",
-        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/monitor-de-aplicaciones-bot-at-talent-advisors-latam-4294111108?position=10&pageNum=0&refId=nO5P18rM%2B2K%2FRx3kCtEiZA%3D%3D&trackingId=UPyuAYlCVg5I210HFYh9JQ%3D%3D"
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/programador-full-stack-c-experiencia-en-ia-at-valtx-per%C3%BA-4294171579?position=14&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=ZGanBPaso9LIZHFfSRmP1A%3D%3D"
+    },
+    {
+        "titleJob":"Senior Technical Product Analyst",
+        "employer":"Workana",
+        "linkProfileEmployer":"https:\/\/ar.linkedin.com\/company\/workana?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima, Peru",
+        "howLongAgo":"4 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/senior-technical-product-analyst-at-workana-4294666218?position=15&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=0D66K3HB4x9qm3%2F7EHh%2FzQ%3D%3D"
+    },
+    {
+        "titleJob":"Programador full stack",
+        "employer":"Belity",
+        "linkProfileEmployer":"https:\/\/pe.linkedin.com\/company\/belity?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Magdalena del Mar, Peru",
+        "howLongAgo":"7 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/programador-full-stack-at-belity-4294606696?position=16&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=odwtie0igKgGVr7AtZOCBA%3D%3D"
+    },
+    {
+        "titleJob":"Desarrollador Full Stack (Experiencia con OAuth, SAML)",
+        "employer":"TD Talent",
+        "linkProfileEmployer":"https:\/\/www.linkedin.com\/company\/td-talent?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location":"Lima, Peru",
+        "howLongAgo":"11 hours ago",
+        "recruiter":"",
+        "profileRecruiter":"",
+        "descriptionOffer":"",
+        "linkOffer":"https:\/\/pe.linkedin.com\/jobs\/view\/desarrollador-full-stack-experiencia-con-oauth-saml-at-td-talent-4292229294?position=17&pageNum=0&refId=fbH2HeK1Xk0jMqF0FLkpsw%3D%3D&trackingId=LL%2F5Ky9%2Fym%2BJDMXMWMrI6A%3D%3D"
     }
 ]
