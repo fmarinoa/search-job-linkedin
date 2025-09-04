@@ -22,6 +22,13 @@ Los datos obtenidos se almacenan en:
 
 Además, se genera automáticamente un archivo HTML con la información recopilada.
 
+## Análisis y filtrado con Google Gemini
+
+Tras generar los archivos CSV y JSON, el proyecto utiliza la API de **Google Gemini** para analizar el archivo `offers.json` y crear un nuevo archivo `filtered_offers.json`.  
+Este archivo contiene únicamente las ofertas que cumplen con el perfil profesional definido por el usuario.  
+
+A partir de este conjunto filtrado se genera el archivo HTML final, el cual es enviado por correo al usuario.
+
 ## Automatización con GitHub Actions
 
 El proyecto incorpora un flujo de trabajo de GitHub Actions que:
@@ -30,12 +37,8 @@ El proyecto incorpora un flujo de trabajo de GitHub Actions que:
 3. Genera un archivo HTML con las ofertas.
 4. Envía un correo con los resultados al usuario, utilizando las credenciales almacenadas en los secretos de GitHub.
 
-## Análisis y filtrado con Google Gemini
-
-Tras generar los archivos CSV y JSON, el proyecto utiliza la API de **Google Gemini** para analizar el archivo `offers.json` y crear un nuevo archivo `filtered_offers.json`.  
-Este archivo contiene únicamente las ofertas que cumplen con el perfil profesional definido por el usuario.  
-
-A partir de este conjunto filtrado se genera el archivo HTML final, el cual es enviado por correo al usuario.
+### Workflow
+![scrapper](https://github.com/user-attachments/assets/39e6b12a-e29c-49b3-8168-707c8d312236)
 
 ## Tecnologías utilizadas
 - **Python 3.11**
