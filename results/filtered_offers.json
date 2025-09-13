@@ -1,16 +1,23 @@
 [
   {
-    "id": "https://pe.linkedin.com/jobs/view/lead-qa-at-talently-4299436569?position=2&pageNum=0&refId=x4gYaJodd5h9UMprk7N3iw%3D%3D&trackingId=TIkJD2TuDXWbK8662Brnyw%3D%3D",
-    "title": "Lead QA",
-    "employer": "Talently",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/lead-qa-at-talently-4299436569?position=2&pageNum=0&refId=x4gYaJodd5h9UMprk7N3iw%3D%3D&trackingId=TIkJD2TuDXWbK8662Brnyw%3D%3D",
-    "reason": "La oferta coincide con el perfil de SDET Senior, buscando un Lead QA con experiencia en automatización y arquitectura AWS. El rango salarial estimado para este puesto en Lima, Perú, es de S/ 8,000 - S/ 14,000 mensuales, dependiendo de la experiencia y habilidades."
+    "id": "https://pe.linkedin.com/jobs/view/qa-lead-at-tismart-4300098608?position=6&pageNum=0&refId=jlz0WDjduZJ39uIPLMohrw%3D%3D&trackingId=6Su82jqfRsqlG%2FTNcOU9Kw%3D%3D",
+    "title": "QA Lead",
+    "employer": "TiSmart",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-lead-at-tismart-4300098608?position=6&pageNum=0&refId=jlz0WDjduZJ39uIPLMohrw%3D%3D&trackingId=6Su82jqfRsqlG%2FTNcOU9Kw%3D%3D",
+    "reason": "El puesto de QA Lead se ajusta al perfil de SDET Senior/Automation Engineer. Rango salarial estimado: S/ 7,000 - S/ 12,000 mensuales."
   },
   {
-    "id": "https://pe.linkedin.com/jobs/view/qa-automatizador-at-tsoft-4297491030?position=3&pageNum=0&refId=x4gYaJodd5h9UMprk7N3iw%3D%3D&trackingId=Varxi1CDu9XLQE5UwjhtVw%3D%3D",
+    "id": "https://pe.linkedin.com/jobs/view/qa-automatizador-at-ntt-data-europe-latam-4299684292?position=8&pageNum=0&refId=jlz0WDjduZJ39uIPLMohrw%3D%3D&trackingId=eg92ejFuhkgH6lHZ0N8vFw%3D%3D",
     "title": "QA Automatizador",
-    "employer": "Tsoft",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-automatizador-at-tsoft-4297491030?position=3&pageNum=0&refId=x4gYaJodd5h9UMprk7N3iw%3D%3D&trackingId=Varxi1CDu9XLQE5UwjhtVw%3D%3D",
-    "reason": "La oferta busca un QA Automatizador con experiencia, alineándose con el perfil de SDET. El rango salarial estimado en Lima, Perú, para este puesto es de S/ 5,000 - S/ 9,000 mensuales, dependiendo de la experiencia."
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-automatizador-at-ntt-data-europe-latam-4299684292?position=8&pageNum=0&refId=jlz0WDjduZJ39uIPLMohrw%3D%3D&trackingId=eg92ejFuhkgH6lHZ0N8vFw%3D%3D",
+    "reason": "Coincide con el perfil de SDET/Automation Engineer. NTT Data es una empresa importante. Rango salarial estimado: S/ 6,500 - S/ 11,000 mensuales."
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/qa-automatizador-semi-senior-at-soaint-4298009746?position=9&pageNum=0&refId=jlz0WDjduZJ39uIPLMohrw%3D%3D&trackingId=%2FVB7SqRMWTLNCfZljxoHXg%3D%3D",
+    "title": "QA Automatizador Semi Senior",
+    "employer": "SOAINT",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-automatizador-semi-senior-at-soaint-4298009746?position=9&pageNum=0&refId=jlz0WDjduZJ39uIPLMohrw%3D%3D&trackingId=%2FVB7SqRMWTLNCfZljxoHXg%3D%3D",
+    "reason": "El puesto de QA Automatizador se ajusta al perfil de SDET/Automation Engineer. Rango salarial estimado: S/ 5,500 - S/ 9,000 mensuales."
   }
 ]
