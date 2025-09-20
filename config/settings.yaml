@@ -2,6 +2,3 @@ scraper:
   base_url: "https://www.linkedin.com/jobs/search"
   job_description: "QA"
   location: "LIMA, PERÚ"
-
-api:
-  endpoint: "https://job-offers-api-ujjz.onrender.com"
