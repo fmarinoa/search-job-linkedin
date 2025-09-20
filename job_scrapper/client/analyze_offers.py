@@ -17,6 +17,7 @@ logger = get_logger(__name__)
 HTML_PATH = Path(RESULTS_PATH) / "email_body.html"
 JSON_PATH = Path(RESULTS_PATH) / "offers.json"
 FILTER_JSON_PATH = Path(RESULTS_PATH) / "filtered_offers.json"
+PROFILE_PATH = Path("config") / "profile.json"
 
 RAW_DIR = get_day_folder_path() / "raw"
 
@@ -33,12 +34,11 @@ MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-2.0-flash-lite")
 
 
 class GeminiAnalyzer:
-    def __init__(self, profile_path: str = "config/profile.json") -> None:
-        self.profile_path = profile_path
+    def __init__(self) -> None:
         self.profile = self._load_profile()
 
     def _load_profile(self) -> Dict[str, Any]:
-        with open(self.profile_path, "r", encoding="utf-8") as f:
+        with open(PROFILE_PATH, "r", encoding="utf-8") as f:
             return json.load(f)
 
     def filter_offers(self) -> List[Dict[str, Any]]:
@@ -91,16 +91,14 @@ class GeminiAnalyzer:
              "titleJob": o.get("titleJob"),
              "employer": o.get("employer"),
              "location": o.get("location"),
-             "descriptionOffer": (o.get("descriptionOffer") or "")[:400],
+             "descriptionOffer": (o.get("descriptionOffer") or ""),
              "linkOffer": o.get("linkOffer")}
             for o in offers
         ]
 
         return (
             "Eres un asistente que filtra ofertas de trabajo según un perfil profesional."
-            "No considerar puestos de asistente QA, Juniors QA O testers manuales.\n"
-            "Analizar cuáles son las empresas más importantes en la región y darles prioridad.\n"
-            "Perfil:\n"
+            "Analizar cuáles son las empresas más importantes en la región y darles prioridad según el siguiente perfil:\n"
             f"{profile_str}\n\n"
             f"Batch {batch_idx}/{total_batches} - Ofertas (campos: _id, titleJob, employer, location, descriptionOffer, linkOffer):\n"
             f"{json.dumps(offers_preview, ensure_ascii=False)}\n\n"
@@ -109,8 +107,7 @@ class GeminiAnalyzer:
             '- "title": titleJob,\n'
             '- "employer": employer,\n'
             '- "linkOffer": linkOffer,\n'
-            '- "reason": explicación de por qué la oferta encaja con el perfil.\n\n'
-            "En reason indicar el rango salarial. Si la oferta no lo incluye, indica un aproximado teniendo en cuenta la ubicación (Lima, Perú), la empresa y el puesto.\n"
+            '- "reason": explicación de por qué la oferta encaja con el perfil, principales responsabilidades del puesto e indicar el rango salarial, si la oferta no lo incluye indica un aproximado teniendo en cuenta la ubicación (Lima, Perú), la empresa y el puesto.\n\n'
             "La respuesta debe ser estrictamente JSON (sin explicaciones adicionales). Si no hay matches, devuelve [] (una lista vacía).\n"
         )
 
@@ -151,7 +148,7 @@ class GeminiAnalyzer:
         raw_path = RAW_DIR / f"raw_batch{batch_idx}_attempt{attempt}_{ts}.json"
         payload = {"error": repr(error), "attempt": attempt}
         try:
-            payload["prompt_preview"] = prompt[:2000]
+            payload["prompt_preview"] = prompt
             payload["response_str"] = str(response) if response is not None else None
         except Exception:
             pass

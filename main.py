@@ -13,7 +13,7 @@ def main():
 
     append_results_csv(results)
     append_results_json(results)
-    GeminiAnalyzer(profile_path="config/profile.json").filter_offers()
+    GeminiAnalyzer().filter_offers()
     generate_html()
 
 
