@@ -102,7 +102,7 @@ def _render_offer(offer: Dict[str, str]) -> str:
         <div class="offer">
             <p class="title">{title}</p>
             <p class="company">{employer}</p>
-            <p class="reason"><strong>Razón:</strong> {reason}</p>
+            <p class="reason">{reason}</p>
             <p><a class="link" href="{link_offer}" target="_blank">Ver oferta completa</a></p>
         </div>
     """)
