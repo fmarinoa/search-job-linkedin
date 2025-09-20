@@ -1,6 +1,10 @@
 {
-  "role": "Software Development Engineer in Test (SDET)",
-  "experience": "3+ años en automatización de pruebas web, mobile y APIs",
+  "role": [
+    "Software Development Engineer in Test (SDET)",
+    "QA Automation Engineer",
+    "Test Automation Engineer"
+  ],
+  "experience": "3+ años en automatización de pruebas web, mobile y APIs y desarrollo ágil.",
   "tech_stack": [
     "Node.js",
     "TypeScript",
@@ -24,5 +28,12 @@
     "SDET",
     "Automation Engineer",
     "Backend con enfoque en testing"
+  ],
+  "blacklist": [
+    "Roles sin enfoque en automatización",
+    "Junior",
+    "Intern",
+    "Asistente",
+    "Manual Tester"
   ]
 }
