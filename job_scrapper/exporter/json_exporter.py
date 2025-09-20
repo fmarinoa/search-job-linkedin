@@ -36,8 +36,8 @@ def append_results_json(results: list[list]) -> None:
     df = pd.DataFrame(data, columns=headers)
 
     # Limpieza de links en columnas específicas
-    linkedin_cols = ["linkProfileEmployer", "profileRecruiter", "linkOffer"]
-    for col in linkedin_cols:
+    cols_to_clean = ["Link offer"]
+    for col in cols_to_clean:
         if col in df.columns:
             df[col] = df[col].apply(linkedin_clean_url)
 
