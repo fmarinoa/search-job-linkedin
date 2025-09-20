@@ -1,30 +1,37 @@
 [
   {
-    "id": "https://pe.linkedin.com/jobs/view/qa-engineer-python-selenium-at-talan-4213310266?position=7&pageNum=0&refId=hT423DrQPbT%2Foy0ZFcCQ%2BA%3D%3D&trackingId=mSUjAjVNcUbwxkz0QPdBGQ%3D%3D",
-    "title": "QA Engineer (Python/Selenium)",
-    "employer": "Talan",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-engineer-python-selenium-at-talan-4213310266?position=7&pageNum=0&refId=hT423DrQPbT%2Foy0ZFcCQ%2BA%3D%3D&trackingId=mSUjAjVNcUbwxkz0QPdBGQ%3D%3D",
-    "reason": "Esta oferta encaja perfectamente con el perfil. Se busca un QA Engineer con experiencia en automatización de pruebas usando Python y Selenium, lo cual está dentro del stack tecnológico requerido.  Las principales responsabilidades incluyen realizar pruebas manuales y automatizadas, construir planes de prueba basados en los criterios de aceptación, ejecutar y mantener casos de prueba automatizados. El rango salarial estimado para este puesto en Lima, Perú, podría estar entre S/ 5,000 - S/ 9,000 mensuales, considerando la experiencia y el uso de tecnologías específicas. La oferta menciona beneficios como seguro médico privado, seguro de vida y posibilidad de trabajar en proyectos internacionales."
-  },
-  {
-    "id": "https://pe.linkedin.com/jobs/view/principal-quality-analyst-at-thoughtworks-4292404803?position=8&pageNum=0&refId=hT423DrQPbT%2Foy0ZFcCQ%2BA%3D%3D&trackingId=73UY6d9JnLs8H88GlUucvw%3D%3D",
-    "title": "Principal Quality Analyst",
-    "employer": "Thoughtworks",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/principal-quality-analyst-at-thoughtworks-4292404803?position=8&pageNum=0&refId=hT423DrQPbT%2Foy0ZFcCQ%2BA%3D%3D&trackingId=73UY6d9JnLs8H88GlUucvw%3D%3D",
-    "reason": "El rol de Principal Quality Analyst en Thoughtworks se alinea con las preferencias de 'QA Senior' y 'Backend con enfoque en testing'. Aunque no es específicamente SDET, las responsabilidades incluyen asegurar la calidad en todo el proceso de desarrollo, crear estrategias de calidad, influenciar un enfoque consistente en la automatización de pruebas. El rango salarial estimado para este puesto en Lima, Perú, podría oscilar entre S/ 9,000 - S/ 15,000 mensuales, dependiendo de la experiencia y responsabilidades. "
-  },
-  {
-    "id": "https://pe.linkedin.com/jobs/view/qa-engineer-at-perform-4303109652?position=4&pageNum=0&refId=hT423DrQPbT%2Foy0ZFcCQ%2BA%3D%3D&trackingId=Kcowq5dt60VloACst3q4yQ%3D%3D",
+    "id": "https://www.linkedin.com/jobs/view/4303109652",
     "title": "QA Engineer",
     "employer": "Perform",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-engineer-at-perform-4303109652?position=4&pageNum=0&refId=hT423DrQPbT%2Foy0ZFcCQ%2BA%3D%3D&trackingId=Kcowq5dt60VloACst3q4yQ%3D%3D",
-    "reason": "Esta oferta se corresponde con el perfil, se requiere un QA Engineer con experiencia en C# o Java, familiaridad con dispositivos móviles iOS y Android, y con herramientas como Unity. Este rol encaja con la preferencia de SDET. Las responsabilidades incluyen el diseño y ejecución de pruebas automatizadas, ejecución de pruebas en granjas de dispositivos, y la integración de pruebas automatizadas en pipelines CI/CD.  El rango salarial estimado para este puesto en Lima, Perú, podría estar entre S/ 6,000 - S/ 10,000 mensuales, dado la experiencia y el uso de C# o Java."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4303109652",
+    "reason": "Esta oferta coincide con el perfil debido a la experiencia requerida en automatización de pruebas de aplicaciones móviles (iOS y Android), el uso de C# (preferido) o Java y la integración con CI/CD (Jenkins, Azure DevOps). Las principales responsabilidades incluyen el diseño y ejecución de pruebas automatizadas, el análisis de resultados y la colaboración con otros equipos para resolver problemas. Rango salarial estimado: S/6,000 - S/10,000 (considerando la experiencia, ubicación y tipo de empresa)."
   },
   {
-    "id": "https://pe.linkedin.com/jobs/view/senior-qa-automation-at-encora-inc-4302782266?position=11&pageNum=0&refId=hT423DrQPbT%2Foy0ZFcCQ%2BA%3D%3D&trackingId=a1mf6qIe70j0DHwqqGtu0Q%3D%3D",
+    "id": "https://www.linkedin.com/jobs/view/4213310266",
+    "title": "QA Engineer (Python/Selenium)",
+    "employer": "Talan",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4213310266",
+    "reason": "Esta oferta se ajusta al perfil ya que solicita experiencia en automatización de pruebas con Python y Selenium. Las responsabilidades incluyen la creación y mantenimiento de pruebas automatizadas (Frontend, Backend, Performance) y la propuesta de mejoras. Rango salarial estimado: S/6,500 - S/11,000 (considerando la experiencia, ubicación y tipo de empresa)."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4301086739",
+    "title": "ANALISTA QA SALESFORCE",
+    "employer": "Ayesa",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4301086739",
+    "reason": "Esta oferta se alinea con el perfil. Requiere experiencia en roles de testing (4 años), gestión (2 años) y automatización con Selenium, lo que coincide con las habilidades solicitadas. Las responsabilidades incluyen el diseño y ejecución de pruebas, la automatización de casos de prueba, la participación en la definición de estrategias de testing y el análisis de requisitos. Rango salarial estimado: S/7,000 - S/12,000 (considerando la experiencia, ubicación y tipo de empresa)."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4292404803",
+    "title": "Principal Quality Analyst",
+    "employer": "Thoughtworks",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4292404803",
+    "reason": "Esta oferta coincide con el perfil ya que busca un Quality Analyst con experiencia en Agile, TDD, BDD, CI/CD, así como en la definición de estrategias de pruebas. Las responsabilidades incluyen la colaboración con los equipos de desarrollo, la implementación de estrategias de calidad y la automatización de pruebas. Rango salarial estimado: S/8,000 - S/15,000 (considerando la experiencia, ubicación y tipo de empresa)."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4302782266",
     "title": "Senior QA Automation",
     "employer": "Encora Inc.",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/senior-qa-automation-at-encora-inc-4302782266?position=11&pageNum=0&refId=hT423DrQPbT%2Foy0ZFcCQ%2BA%3D%3D&trackingId=a1mf6qIe70j0DHwqqGtu0Q%3D%3D",
-    "reason": "Esta oferta se ajusta al perfil solicitado. Se busca un Senior QA Automation, lo cual es una de las preferencias del perfil. El rol implica responsabilidades de automatización de pruebas. El rango salarial estimado para este puesto en Lima, Perú, podría estar entre S/ 8,000 - S/ 14,000 mensuales, dada la experiencia en automatización y el rol senior."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4302782266",
+    "reason": "Esta oferta podría encajar con el perfil, aunque no se proporciona información específica en la descripción. Se asume que, como Senior QA Automation, el rol implicaría automatización de pruebas, lo que se alinea con las preferencias del candidato. Rango salarial estimado: S/7,000 - S/13,000 (considerando la experiencia, ubicación y tipo de empresa)."
   }
 ]
