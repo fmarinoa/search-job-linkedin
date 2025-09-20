@@ -1,5 +1,6 @@
 import re
 import pandas as pd
+import json
 from pathlib import Path
 
 from job_scrapper.utils.constants import RESULTS_PATH
@@ -26,7 +27,11 @@ def append_results_json(results: list[list]) -> None:
     df = pd.DataFrame(data, columns=headers)
     df.rename(columns=camel_case_headers, inplace=True)
 
-    json_data = df.to_json(orient="records", indent=4, force_ascii=False)
+    # Convertir a diccionarios para evitar doble serialización JSON
+    records = df.to_dict(orient="records")
+    
+    # Serializar con separadores personalizados para evitar escape de barras
+    json_data = json.dumps(records, indent=4, ensure_ascii=False, separators=(',', ': '))
 
     json_path.write_text(json_data, encoding="utf-8")
 

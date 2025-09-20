@@ -1,7 +1,7 @@
 import json
 import html
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict
 from textwrap import dedent
 
 from job_scrapper.utils.constants import RESULTS_PATH
