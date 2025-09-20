@@ -1,16 +1,37 @@
 [
   {
-    "id": "https://pe.linkedin.com/jobs/view/qa-data-custodian-sql-y-python-avanzado-at-match-personnel-4302577749?position=6&pageNum=0&refId=x5eCqG3RFdk7NCfvoWQOyg%3D%3D&trackingId=RsnK1%2Fz%2Fwu4roq8%2FdjwVrA%3D%3D",
-    "title": "QA Data Custodian (SQL y Python Avanzado)",
-    "employer": "Match Personnel",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-data-custodian-sql-y-python-avanzado-at-match-personnel-4302577749?position=6&pageNum=0&refId=x5eCqG3RFdk7NCfvoWQOyg%3D%3D&trackingId=RsnK1%2Fz%2Fwu4roq8%2FdjwVrA%3D%3D",
-    "reason": "El puesto de QA Data Custodian con experiencia en SQL y Python avanzado se alinea con las habilidades de automatización y el dominio de 'Banca' como dominio. Rango Salarial Estimado: S/ 5,000 - S/ 8,000 (Considerando la ubicación, empresa y puesto)."
+    "id": "https://pe.linkedin.com/jobs/view/qa-engineer-sector-banca-at-encora-inc-4302865720?position=3&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=dMcqyZAdQT5B0aMwlFYT%2FA%3D%3D",
+    "title": "QA Engineer - sector banca",
+    "employer": "Encora Inc.",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-engineer-sector-banca-at-encora-inc-4302865720?position=3&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=dMcqyZAdQT5B0aMwlFYT%2FA%3D%3D",
+    "reason": "Coincide con el perfil de SDET, se menciona sector banca y la experiencia requerida, ademas Encora es una empresa reconocida. Rango salarial estimado: S/ 6,000 - S/ 12,000"
   },
   {
-    "id": "https://pe.linkedin.com/jobs/view/system-quality-assurance-engineer-at-lain-ds-4302813508?position=5&pageNum=0&refId=x5eCqG3RFdk7NCfvoWQOyg%3D%3D&trackingId=l9oJpUPFroCbOaLH5%2Fw32w%3D%3D",
-    "title": "System Quality Assurance Engineer",
-    "employer": "Lain-DS",
-    "linkOffer": "https://pe.linkedin.com/jobs/view/system-quality-assurance-engineer-at-lain-ds-4302813508?position=5&pageNum=0&refId=x5eCqG3RFdk7NCfvoWQOyg%3D%3D&trackingId=l9oJpUPFroCbOaLH5%2Fw32w%3D%3D",
-    "reason": "El puesto de System Quality Assurance Engineer se alinea con la experiencia en QA, aunque no especifica la automatización. Se considera un puesto Senior con experiencia, acorde al perfil. Rango Salarial Estimado: S/ 7,000 - S/ 11,000 (Considerando la ubicación, empresa y puesto)."
+    "id": "https://pe.linkedin.com/jobs/view/qa-automatizador-at-ntt-data-europe-latam-4302488368?position=7&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=Ih5%2FAfA61tLtnRPTjvSFcw%3D%3D",
+    "title": "QA Automatizador",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-automatizador-at-ntt-data-europe-latam-4302488368?position=7&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=Ih5%2FAfA61tLtnRPTjvSFcw%3D%3D",
+    "reason": "El puesto es de QA Automatizador, cumpliendo con el perfil SDET. NTT Data es una empresa multinacional importante. Rango salarial estimado: S/ 7,000 - S/ 14,000"
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/qa-engineer-python-selenium-at-talan-4213310266?position=8&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=16lXPo0Cls%2FeoxNvaNe9%2Fw%3D%3D",
+    "title": "QA Engineer (Python/Selenium)",
+    "employer": "Talan",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/qa-engineer-python-selenium-at-talan-4213310266?position=8&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=16lXPo0Cls%2FeoxNvaNe9%2Fw%3D%3D",
+    "reason": "El puesto es de QA Engineer con experiencia en Python y Selenium, lo cual coincide con las tecnologías del perfil SDET. Talan es una empresa internacional. Rango salarial estimado: S/ 6,500 - S/ 13,000"
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/principal-quality-analyst-at-thoughtworks-4292404803?position=9&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=q14JVlCKJIE0axKXrR%2BXrQ%3D%3D",
+    "title": "Principal Quality Analyst",
+    "employer": "Thoughtworks",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/principal-quality-analyst-at-thoughtworks-4292404803?position=9&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=q14JVlCKJIE0axKXrR%2BXrQ%3D%3D",
+    "reason": "Puesto de QA Senior, ideal para el perfil SDET. Thoughtworks es una empresa reconocida. Rango salarial estimado: S/ 8,000 - S/ 16,000"
+  },
+  {
+    "id": "https://pe.linkedin.com/jobs/view/senior-qa-automation-at-encora-inc-4302782266?position=13&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=GWk1vGSrHEN9aWQXmihPeQ%3D%3D",
+    "title": "Senior QA Automation",
+    "employer": "Encora Inc.",
+    "linkOffer": "https://pe.linkedin.com/jobs/view/senior-qa-automation-at-encora-inc-4302782266?position=13&pageNum=0&refId=q1AsJs3R7Qn5WOF1t3KQlg%3D%3D&trackingId=GWk1vGSrHEN9aWQXmihPeQ%3D%3D",
+    "reason": "Coincide con el perfil SDET. Encora es una empresa importante en el rubro. Rango salarial estimado: S/ 8,000 - S/ 16,000"
   }
 ]
