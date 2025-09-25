@@ -1,37 +1,34 @@
 [
   {
+    "id": "https://www.linkedin.com/jobs/view/4305603313",
+    "title": "Analista qa",
+    "employer": "Altimea",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4305603313",
+    "reason": "La oferta se alinea con el perfil como QA Automation Engineer. Requiere 3+ años de experiencia en automatización de pruebas web y APIs, utilizando Selenium y Playwright, y trabajando con metodologías ágiles (Scrum/Kanban). Las responsabilidades incluyen el diseño, planificación y ejecución de pruebas automatizadas, el desarrollo y mantenimiento de suites de prueba end-to-end, y la colaboración con el equipo de desarrollo para mejorar la calidad de los productos. No incluye rango salarial.",
+    "rango_salarial": "Sueldo estimado entre S/4,000 - S/7,000 (considerando la ubicación, el puesto y la empresa)."
+  },
+  {
     "id": "https://www.linkedin.com/jobs/view/4305194490",
     "title": "Analista de pruebas (QA) c/exp en sector banca",
     "employer": "Valtx Perú",
     "linkOffer": "https://www.linkedin.com/jobs/view/4305194490",
-    "reason": "La oferta coincide con el perfil solicitado ya que busca un Analista de Pruebas (QA) con 4 años de experiencia en pruebas manuales y automatizadas, con experiencia en el sector financiero, lo que se alinea con los dominios de Banca, Finanzas y Fintech. Se mencionan tecnologías como Selenium, Appium, Cypress y conocimientos en bases de datos, lo que se ajusta a la tech stack requerida. El rango salarial, aunque no especificado, en Lima, Perú, para este rol y experiencia podría estar entre S/ 5,000 y S/ 8,000 mensuales, considerando el enfoque en el sector bancario y la experiencia solicitada."
+    "reason": "La oferta se ajusta al perfil de QA Automation Engineer. Busca un profesional con 4 años de experiencia en pruebas, con experiencia en el sector financiero. Requiere experiencia en automatización con Selenium, Appium, Cypress y Katalon Studio, conocimientos en microservicios y APIs, y familiaridad con metodologías ágiles. Sus responsabilidades incluyen la generación de planes y casos de prueba, identificación y reporte de defectos, y colaboración con el equipo de desarrollo.",
+    "rango_salarial": "Sueldo estimado entre S/5,000 - S/8,000 (considerando la ubicación, el puesto y la empresa)."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4304055486",
-    "title": "QA Automatizador | Remoto | Perú",
-    "employer": "Sofka Technologies",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4304055486",
-    "reason": "Esta oferta se ajusta al perfil de un QA Automation Engineer. Requiere experiencia en automatización de pruebas para aplicaciones móviles y web, lo que coincide con la experiencia en automatización web y mobile. Se solicita automatización para backend (APIs) y dominio de metodologías ágiles. El stack tecnológico solicitado coincide parcialmente con el perfil (Appium, Serenity BDD). El rango salarial, siendo un rol remoto en Perú, podría oscilar entre S/ 5,000 y S/ 9,000 mensuales, dependiendo de la experiencia y tecnologías dominadas."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4304065039",
-    "title": "QA Engineer",
-    "employer": "Perform",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4304065039",
-    "reason": "La oferta busca un QA Engineer con enfoque en programación (C# preferido, pero también se consideran Java y Python), lo que se alinea con el rol de SDET/Automation Engineer.  La descripción enfatiza la automatización de pruebas, debugging y colaboración con equipos, lo que coincide con las responsabilidades esperadas. El rango salarial en Lima, Perú, para un rol de este tipo, con enfoque en programación y experiencia, podría estar entre S/ 5,500 y S/ 8,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4305134873",
-    "title": "Senior QA Automation Engineer",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4305134873",
-    "reason": "La oferta Senior QA Automation Engineer es directamente afín al perfil de 'QA Automation Engineer' y 'Test Automation Engineer', con el requerimiento de experiencia. Dada la ubicación en Lima, Perú, y siendo un rol Senior, el rango salarial estimado podría estar entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la experiencia y el stack tecnológico."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4304089798",
+    "id": "https://www.linkedin.com/jobs/view/4305581820",
     "title": "Analista QA",
-    "employer": "Stefanini LATAM",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4304089798",
-    "reason": "Esta oferta encaja parcialmente con el perfil. Busca un Analista QA con experiencia en pruebas de software web y escritorio (2+ años). Se menciona automatización (deseable con Selenium y Postman). Requiere conocimientos de APIs REST/SOAP y metodologías ágiles, lo que concuerda con las preferencias del perfil.  El rango salarial estimado en San Isidro, Lima, para un rol de Analista QA con la experiencia requerida podría oscilar entre S/ 4,500 y S/ 7,000 mensuales."
+    "employer": "Odiseo_Tech",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4305581820",
+    "reason": "La oferta es para un QA con enfoque técnico y funcional, lo que se alinea con el perfil. Busca experiencia en herramientas de gestión de pruebas como TestRail, Zephyr y Qase. Requiere conocimientos en pruebas de rendimiento, validación de APIs REST y metodologías ágiles. Las responsabilidades incluyen la ejecución de pruebas manuales y automáticas, el análisis de requerimientos, la documentación de defectos, y la colaboración con el equipo de desarrollo. ",
+    "rango_salarial": "Sueldo ofrecido entre S/2,500 - S/4,000."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4305693044",
+    "title": "QA Mobile Ssr & Senior",
+    "employer": "Private Sector",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4305693044",
+    "reason": "La oferta se alinea con el perfil, ya que es para un QA Mobile con experiencia en pruebas de aplicaciones móviles (iOS/Android), que es parte de las habilidades requeridas. Se requiere experiencia en pruebas funcionales, de regresión, integración y aceptación. También pide conocimientos en automatización y scripting. Se ofrece contrato en planilla y trabajo híbrido, lo cual es atractivo.",
+    "rango_salarial": "Sueldo ofrecido: S/.4200 - S/.5900"
   }
 ]
