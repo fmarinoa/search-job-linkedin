@@ -1,42 +1,44 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4306777480",
-    "title": "Tester QA",
-    "employer": "Soluciones Digitales",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4306777480",
-    "reason": "La oferta coincide con el perfil de QA Automation Engineer y Test Automation Engineer.  Se busca un QA Tester con experiencia en pruebas funcionales y conocimientos en automatización para aplicaciones web.  El puesto requiere experiencia en Selenium WebDriver y potencialmente RestAssured para automatización, así como conocimientos de Java y Spring Boot en el backend. Las responsabilidades incluyen diseño y ejecución de casos de prueba (manuales y automáticos), gestión de defectos, pruebas de regresión, y experiencia con Jenkins.  Dado que la oferta no especifica rango salarial, estimo un salario entre S/ 4,000 y S/ 7,000 mensuales, considerando la ubicación, la experiencia requerida y las responsabilidades.",
-    "salario": "S/ 4,000 - S/ 7,000"
+    "id": "https://www.linkedin.com/jobs/view/4305829311",
+    "title": "QA Senior Funcional",
+    "employer": "Encora Inc.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4305829311",
+    "reason": "La oferta se alinea con el perfil de 'QA Automation Engineer' y 'QA Senior' debido a la experiencia requerida en pruebas funcionales y automatizadas, especialmente en backend (REST APIs) y frontend (web y Android).  Las responsabilidades clave incluyen pruebas de backend, pruebas de integración, y la definición de estrategias de pruebas.  Considerando la ubicación (Lima, Perú), la empresa (Encora) y la senioridad del puesto, el rango salarial estimado es entre S/ 7,000 - S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4304704281",
-    "title": "Analista de calidad de datos",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4304704281",
-    "reason": "La oferta coincide con el perfil de QA Automation Engineer, aunque se enfoca en la calidad de datos.  Se busca un Analista de Calidad de Datos con experiencia en pruebas y aseguramiento de calidad de datos, con experiencia en herramientas de automatización y conocimientos de lenguajes SQL y plataformas Cloud (AWS/GCP). Sus responsabilidades incluyen diseño y ejecución de planes de prueba, gestión de datos para la verificación, ejecutar pruebas, documentar defectos y darles seguimiento.  El rango salarial no se especifica, pero, considerando el tipo de empresa, la experiencia y el puesto, estimo un salario entre S/ 6,000 y S/ 10,000 mensuales.",
-    "salario": "S/ 6,000 - S/ 10,000"
+    "id": "https://www.linkedin.com/jobs/view/4308122150",
+    "title": "Analista QA",
+    "employer": "METRICA Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4308122150",
+    "reason": "Esta oferta coincide con el perfil de 'QA Automation Engineer'.  Se buscan candidatos con experiencia en diseño y documentación de planes de prueba, ejecución de pruebas funcionales y de regresión, y consumo de API-Rest. El rango salarial estimado para un Analista QA en Lima, Perú, considerando la empresa (Métrica Perú) y la experiencia requerida, oscila entre S/ 5,000 - S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4306802331",
-    "title": "QA Automation Engineer Junior/ Medium",
-    "employer": "Canvia",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4306802331",
-    "reason": "La oferta coincide con el perfil de QA Automation Engineer.  Se busca un ingeniero de automatización de pruebas, con experiencia en pruebas funcionales, performance y API testing, así como en herramientas como JIRA, XRAY, Gherkin, Cucumber, Serenity BDD.  Se requiere experiencia en entidades financieras, con conocimiento de Java y SQL.  Las responsabilidades principales incluyen diseño, desarrollo y mantenimiento de pruebas automatizadas, y la integración de pruebas en pipelines DevOps. La oferta no especifica rango salarial, estimo un salario entre S/ 3,500 y S/ 6,500 mensuales, dependiendo del nivel de experiencia (Junior / Semi-Senior).",
-    "salario": "S/ 3,500 - S/ 6,500"
+    "id": "https://www.linkedin.com/jobs/view/4306627631",
+    "title": "Manual QA / I + D - Trabajo Remoto",
+    "employer": "BairesDev",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4306627631",
+    "reason": "Si bien el puesto es 'Manual QA', la oferta requiere 3+ años de experiencia en pruebas web y sólidos conocimientos en herramientas de testing.  Se enfoca en el análisis de requisitos, ejecución de pruebas y generación de informes.  El enfoque en I+D puede implicar oportunidades para automatización.  Considerando que es remoto y la experiencia requerida, el rango salarial estimado es entre USD 2,000 - USD 4,000 mensuales (aproximadamente S/ 7,500 - S/ 15,000 mensuales), aunque podría variar significativamente."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4306730379",
-    "title": "Analista QA Automatizador Senior",
-    "employer": "INFORMÁTICA DELTA SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4306730379",
-    "reason": "La oferta coincide con el perfil de QA Automation Engineer, SDET y Test Automation Engineer.  Se busca un Analista QA Automatizador Senior con experiencia en automatización de pruebas API, web y móvil.  Se requiere experiencia en ISTQB, diseño de pruebas con Gherkin, gestión de pruebas con Xray/Qmetry, pruebas de APIs con Postman/SoapUI, desarrollo de scripts de automatización con TypeScript/JavaScript, Phyton, Playwright, Selenium, Appium.  Las responsabilidades principales incluyen implementar prácticas de desarrollo TDD y BDD, diseñar y crear casos de prueba, y desarrollar scripts de automatización.  Dado el rol senior y la experiencia requerida, estimo un rango salarial entre S/ 7,000 y S/ 12,000 mensuales.",
-    "salario": "S/ 7,000 - S/ 12,000"
+    "id": "https://www.linkedin.com/jobs/view/4213312135",
+    "title": "QA Engineer (Python/Selenium)",
+    "employer": "Talan",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4213312135",
+    "reason": "Esta oferta encaja perfectamente con el perfil, ya que se busca un 'QA Engineer' con experiencia en automatización con Python y Selenium.  Las responsabilidades incluyen la construcción y mantenimiento de pruebas automatizadas y la mejora continua del proceso.  El rango salarial estimado para este puesto en Lima, Perú, con la experiencia solicitada y la empresa (Talan) estaría entre S/ 6,000 - S/ 11,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4304710188",
-    "title": "QA Automatizador Senior",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4304710188",
-    "reason": "La oferta coincide con el perfil de QA Automation Engineer, SDET y Test Automation Engineer.  Se busca un QA Automatizador Senior con experiencia en automatización Web y Mobile (Selenium, Rest Assured, Karate DSL, Serenity, Appium, Cucumber) y codificación en Python.  Las responsabilidades incluyen aplicar las mejores prácticas de Quality Engineer en todo el proceso de desarrollo de software. El rango salarial no se especifica, pero, considerando el tipo de empresa, la experiencia y el puesto, estimo un salario entre S/ 6,000 y S/ 10,000 mensuales.",
-    "salario": "S/ 6,000 - S/ 10,000"
+    "id": "https://www.linkedin.com/jobs/view/4308077664",
+    "title": "Analista QA Senior",
+    "employer": "Talent House Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4308077664",
+    "reason": "Esta oferta se ajusta al perfil, solicitando un 'QA Analyst Senior' con experiencia en pruebas funcionales, APIs, y base de datos.  Se busca liderazgo en el proceso QA y experiencia deseable en automatización. Considerando la experiencia y el sector (seguros), el rango salarial estimado es entre S/ 7,500 - S/ 12,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4308106793",
+    "title": "QA Automatizador",
+    "employer": "Confidencial",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4308106793",
+    "reason": "La oferta se alinea directamente con el perfil de 'QA Automation Engineer'.  Se buscan candidatos con experiencia en QA y automatización de pruebas, conocimientos en SCRUM/Kanban, SQL, y herramientas como JIRA y QMetry. Se requiere experiencia con herramientas de automatización como Katalon Studio o Appium. El rango salarial estimado para este puesto en Lima, Perú, con la experiencia solicitada, sería entre S/ 5,500 - S/ 9,500 mensuales."
   }
 ]
