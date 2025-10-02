@@ -1,37 +1,81 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4308415962",
-    "title": "Analista de certificación QA",
+    "id": "https://www.linkedin.com/jobs/view/4309309077",
+    "title": "Analista qa",
+    "employer": "Altimea",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4309309077",
+    "reason": "La oferta coincide con el perfil de SDET/QA Automation Engineer. El rol de Analista QA requiere experiencia en automatización de pruebas web, APIs y móviles (Selenium, Playwright, Appium), así como en metodologías ágiles. Las responsabilidades incluyen diseñar y ejecutar planes de prueba, desarrollar y mantener suites de prueba automatizadas, y colaborar con desarrolladores para mejorar la calidad. El rango salarial aproximado para este rol en Lima, Perú, con 3+ años de experiencia, podría estar entre S/ 4,000 y S/ 7,000 mensuales, dependiendo de la experiencia.",
+    "tech_stack": [
+      "Selenium",
+      "Playwright",
+      "Appium",
+      "Node.js",
+      "AWS",
+      "Jenkins"
+    ]
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4307344709",
+    "title": "Analista de aseguramiento de la calidad",
+    "employer": "Practia Global",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4307344709",
+    "reason": "La oferta coincide con el perfil de QA Automation Engineer.  El rol requiere experiencia en el sector bancario y financiero y experiencia en herramientas de gestión de pruebas. Aunque no menciona directamente la automatización, la experiencia en el sector financiero y pruebas de certificación, sugiere la posibilidad de automatización. El rango salarial aproximado para este rol en Lima, Perú, con 3+ años de experiencia, podría estar entre S/ 4,500 y S/ 8,000 mensuales, dependiendo de la experiencia.",
+    "tech_stack": []
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4308972179",
+    "title": "Analista QA Senior",
     "employer": "Valtx Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4308415962",
-    "reason": "La oferta encaja con el perfil de QA Automation Engineer/Test Automation Engineer. Se requiere experiencia en automatización de pruebas (indispensable), pruebas funcionales, pruebas de performance y pruebas móviles.  Manejo de Jira y Jenkins. El rango salarial para un puesto de Analista QA con 4 años de experiencia en Lima, Perú, se estima entre S/ 4,000 - S/ 7,000 dependiendo de la experiencia y la empresa."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4308972179",
+    "reason": "La oferta se alinea directamente con el perfil de QA Automation Engineer/SDET, ya que buscan un Analista QA Senior con experiencia en pruebas manuales y automatizadas (web, móvil, APIs) en el sector bancario.  Se requieren conocimientos de automatización (Selenium, Appium, Postman), metodologías ágiles y manejo de Java/JavaScript.  Las responsabilidades incluyen liderar procesos/equipos. El rango salarial aproximado para este rol en Lima, Perú, con la experiencia requerida, podría estar entre S/ 6,000 y S/ 10,000+ mensuales, dependiendo de la experiencia y liderazgo.",
+    "tech_stack": [
+      "Java",
+      "JavaScript",
+      "Selenium",
+      "Appium",
+      "Postman"
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4304710188",
-    "title": "QA Automatizador Senior",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4304710188",
-    "reason": "La oferta encaja con el perfil de QA Automation Engineer/Test Automation Engineer. Se requiere experiencia en automatización web y mobile con Selenium, conocimientos de Python, manejo de Jenkins. El rango salarial para un puesto de QA Automatizador Senior en Lima, Perú, se estima entre S/ 6,000 - S/ 9,000 dependiendo de la experiencia y la empresa."
+    "id": "https://www.linkedin.com/jobs/view/4309036323",
+    "title": "QA Automatizador Junior",
+    "employer": "Sermaluc",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4309036323",
+    "reason": "La oferta se alinea con el perfil de Test Automation Engineer aunque es un rol Junior. Requiere experiencia en automatización de pruebas utilizando Selenium, Cucumber, Appium y Postman, así como en metodologías ágiles y CI/CD. Las responsabilidades incluyen desarrollar planes y casos de prueba, automatizar pruebas y trabajar con bases de datos. El rango salarial aproximado para este rol en Lima, Perú, con experiencia de 1-2 años, podría estar entre S/ 3,000 y S/ 5,000 mensuales.",
+    "tech_stack": [
+      "Selenium",
+      "Cucumber",
+      "Appium",
+      "Postman"
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4306127694",
-    "title": "Analista QA Senior - Outsourcing",
-    "employer": "SEIDOR",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4306127694",
-    "reason": "La oferta encaja con el perfil de QA Automation Engineer/Test Automation Engineer/SDET. Se requiere experiencia en automatización de pruebas API, web y móvil. El rango salarial para un Analista QA Senior en Lima, Perú, con 3 años de experiencia, se estima entre S/ 5,500 - S/ 8,500 dependiendo de la experiencia y la empresa."
+    "id": "https://www.linkedin.com/jobs/view/4309032177",
+    "title": "QA Automation",
+    "employer": "Yuno",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4309032177",
+    "reason": "La oferta encaja perfectamente con el perfil de QA Automation Engineer, con un enfoque en el sector de pagos. Se requiere experiencia en automatización backend (Python, Cucumber/Behave), automatización web/mobile (Typescript, Webdriver.io, Appium), y conocimiento de Page Object Model. Las responsabilidades incluyen la creación y gestión de casos de prueba para regresión, la automatización y la realización de pruebas de rendimiento, la identificación y registro de errores, así como el análisis de resultados. El rango salarial en Yuno podría ser competitivo, además es remoto.",
+    "tech_stack": [
+      "Python",
+      "Cucumber/Behave",
+      "Typescript",
+      "Webdriver.io",
+      "Appium"
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4307048668",
-    "title": "QA Funcional Semi Senior - Banco Importante",
-    "employer": "Veriinfo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4307048668",
-    "reason": "La oferta encaja con el perfil de QA Automation Engineer/Test Automation Engineer/SDET. Se requiere experiencia en pruebas funcionales, automatización (deseable): Selenium, Cypress, Playwright; primeros pasos en IA/Copilot para pruebas,  APIs: Postman, REST Assured. El rango salarial para un QA Funcional Semi Senior en Lima, Perú, se estima entre S/ 4,500 - S/ 7,500 dependiendo de la experiencia y la empresa."
+    "id": "https://www.linkedin.com/jobs/view/4298422576",
+    "title": "QA Automation Engineer 3 month long - Remote - Latin America",
+    "employer": "FullStack Labs",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4298422576",
+    "reason": "Coincide con el perfil de QA Automation Engineer. El puesto es remoto y de corta duración (3 meses).  La descripción no está disponible. El rango salarial, al ser un contrato por tiempo determinado, podría estar entre S/ 4,000 y S/ 7,000 mensuales.",
+    "tech_stack": []
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4306125463",
-    "title": "Chapter Lead Quality Engineer",
-    "employer": "Empresa Confidencial",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4306125463",
-    "reason": "La oferta encaja con el perfil de SDET/QA Automation Engineer. Se requiere liderazgo en calidad, experiencia en automatización avanzada con Selenium y conocimientos de Java, Python, JavaScript, TypeScript. El rango salarial para un Chapter Lead Quality Engineer en Lima, Perú, se estima entre S/ 8,000 - S/ 12,000+ dependiendo de la experiencia y la empresa."
+    "id": "https://www.linkedin.com/jobs/view/4308697348",
+    "title": "Senior Azure, Java",
+    "employer": "Encora Inc.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4308697348",
+    "reason": "Aunque el título no menciona explícitamente 'QA Automation', el perfil de 'Senior Azure, Java' podría implicar responsabilidades en automatización de pruebas, especialmente en un entorno de desarrollo con metodologías ágiles. Dado que el perfil busca experiencia senior y un stack tecnológico relacionado con la automatización, es posible que este rol involucre pruebas automatizadas. Encora Inc. es una empresa importante en el sector de desarrollo de software, lo que aumenta la probabilidad de que el rol incluya testing. El rango salarial para un puesto Senior en Lima, Perú, con Java y Azure, y con la experiencia requerida, podría estar entre S/8,000 y S/15,000 mensuales, dependiendo de la experiencia y las responsabilidades."
   }
 ]
