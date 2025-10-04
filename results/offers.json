@@ -1,83 +1,105 @@
 [
     {
-        "titleJob": "Analista QA - Remoto",
-        "employer": "KPaz",
-        "linkProfileEmployer": "https://cl.linkedin.com/company/kpaz-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Analista de calidad QA",
+        "employer": "Canvia",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/canvia-global?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "5 hours ago",
+        "howLongAgo": "12 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Somos KPaz, compañía que cuenta con 10 años en el mercado entregando soluciones de Innovación Tecnológica, Pioneros en desarrollos inteligentes, especialistas en transformación digital y líderes en consultoría TI apostando continuamente por el valor y talento de las personas que integran nuestro equipo de trabajo. Nos encontramos en búsqueda de más KPaces que quieran formar parte de nuestro gran equipo.Como Analista QA te encargarás de administrar y ejecutar el ciclo de vida de QA, para importante financiera.Requisitos Técnicos3 años de experiencia en el proceso de calidad de software.Experiencia en pruebas funcionales, pruebas de API y pruebas de regresión.Manejo en herramientas de gestión de proyectos: Selenium.Manejo otras herramientas: PostmanConocimientos de automatización.Deseable conocimiento en el rubro de financiero/bancario.Haber trabajado con BantotalBeneficiosPrograma de referidos clientes y candidatos.Programa de capacitación en alianza con Platzi.Plan de carrera y de Movilidad.Día de libre por cumpleaños.Regalos por nacimiento o matrimonio.¡Te esperamos en KPaz!",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4309685813"
+        "descriptionOffer": "🌟 ¡LANZA TU CARRERA EN TECNOLOGÍA CON NOSOTROS! 🌟En Canvia estamos buscando un(a) ANALISTA DE CALIDAD JUNIOR - PROYECTO con ganas de aprender, aportar y crecer en una empresa que lidera la transformación digital en el país. 💻🚀👨‍💻 ¿Qué harás en el día a día?Pruebas funcionales y no funcionales (rendimiento, seguridad)Automatización de pruebasValidación de scripts de automatización de pruebas para aplicaciones🎓 ¿Qué perfil buscamos?Bachiller en carreras afines a Tecnología de la Información.Con tres años de experiencia (comprobables)🕒 Horario: De lunes a viernes 9am - 6:30pm (Hibrido)Te OfrecemosRemuneración de acuerdo al mercadoEPS 70%Planilla completa con todos los beneficios de leyTarjeta de alimentaciónDia libre en tu cumpleaños🚀 ¡Esta es tu oportunidad de entrar al mundo TI con un equipo que te impulsa desde el primer día!📩 Postula ya y sé parte de una cultura que valora tu talento, tu desarrollo y tu energía para crear soluciones reales.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310176598"
     },
     {
-        "titleJob": "Analista QA",
-        "employer": "Altimea",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/altimea?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "QA Funcional",
+        "employer": "Indra",
+        "linkProfileEmployer": "https://es.linkedin.com/company/indra?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "1 day ago",
+        "howLongAgo": "2 hours ago",
+        "recruiter": "Martin Alonso Mendoza Martinez",
+        "profileRecruiter": "https://pe.linkedin.com/in/martin-alonso-mendoza-martinez",
+        "descriptionOffer": "🚀 ¡En Indra seguimos creciendo!Estamos en búsqueda de Analista QA Funcional para sumarse a nuestro equipo de calidad. Si tienes pasión por el testing, atención al detalle y ganas de desarrollarte en una empresa líder en tecnología, ¡esta oportunidad es para ti! ✅ Principales responsabilidades:- Diseñar planes y casos de prueba, definiendo la estrategia de testing adecuada para cada proyecto.- Preparar datos de prueba y verificar los productos desarrollados.- Ejecutar pruebas funcionales, registrar defectos y hacer seguimiento hasta su resolución.- Analizar y reportar resultados de pruebas, métricas y estadísticas.- Brindar soporte en procesos de integración y asegurar el cumplimiento de estándares de calidad. 🎯 Requisitos técnicos:- Profesional universitario o técnico de Ingeniería de Sistemas, Informática o carreras afines.- Experiencia de 2-4 años como Analista de QA Funcional.- Experiencia en metodologías y modelos de calidad: CMMI, ISTQB, Modelo en V, RUP.- Experiencia con metodologías de desarrollo (ágiles y tradicionales).- Manejo de herramientas de pruebas, seguimiento de defectos y documentación.- Experiencia en testing funcional, regresión, integración, aceptación, volumen, smoke test y performance.- Experiencia en el uso de lenguaje Gherkin.- Experiencia en bases de datos y lenguajes de consulta (SQL).- Familiaridad con prácticas ágiles: Scrum, UML, TDD, BDD, IC.- Nivel básico en automatización y scripting. Beneficios:🚑 EPS 100%📚 Acceso total a Udemy para tu desarrollo profesional.🔖 Descuentos corporativos.📈 Línea de carrera.💆‍♀️ Kit ergonómico para laborar desde casa.🧠 Atención psicológica.🥦 Atención nutricional. Detalles de la posición:Modalidad: Híbrida (3 veces por semana en oficinas)",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4307587871"
+    },
+    {
+        "titleJob": "QA Junior",
+        "employer": "Inetum",
+        "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "2 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Altimea, consultora de tecnología e innovación digital, se encuentra en la búsqueda de un Analista QA.RequisitosExperiencia mínima de 3 años como Analista QA.Experiencia y conocimiento en herramientas de automatización de pruebas: Selenium, Playwright, Postman, Datox, Appium.Conocimiento en pruebas de integración, de interfaz (UI), de contratos (Pact/Datox), de regresión y exploratorias.Manejo Sistemas de seguimiento de incidencias y gestión de pruebas (Jira, TestRail, Zephyr, Azure Boards).Manejo de Postman, REST Assured, SoapUI, Datox.Pruebas de carga y rendimiento básicas (por ejemplo con JMeter o con scripts en Datox).Experiencia en testing en Android (Kotlin) y iOS (Flutter); emuladores y dispositivos reales.Experiencia trabajando con Azure DevOps (pipelines, repositorios, artefactos) y GitLab (repos, GitLab CI/CD).Experiencia usando servicios de Google Cloud Platform (p. ej. Cloud SQL, Pub/Sub, Stackdriver).Trabajo colaborativo en metodologías ágiles (Scrum/Kanban).FuncionesDiseñar, planificar y ejecutar planes de prueba (test plans) y casos de prueba (test cases) para aplicaciones web, APIs y móviles.Desarrollar y mantener suites de prueba automatizadas end‑to‑end y de integración.Identificar, reportar y hacer seguimiento de defectos utilizando herramientas de gestión de incidencias (p. ej. Jira, Azure Boards).Colaborar con desarrolladores y analistas en ciclos ágiles (Scrum/Kanban) para definir criterios de aceptación y calidad.Realizar pruebas de regresión, rendimiento y usabilidad.Validar despliegues en pipelines CI/CD (Azure DevOps, GitLab CI), asegurando la estabilidad en entornos de prueba y preproducción.Generar informes de métricas de calidad e indicadores de cobertura de pruebas.Colaborar con el equipo de desarrollo para mejorar la calidad de los productos.Autonomía y proactividad para proponer mejoras en procesos de calidad y automatización.CondicionesModalidad: híbrida(2 presencial, 3 remoto).Horario: full time.Duración de proyecto: 6 meses.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4309309077"
+        "descriptionOffer": "Somos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes en el proceso de digitalización aprovechando al máximo el digital flow. Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el Grupo tiene cerca de 27.000 colaboradores y apunta a continuar creciendo. ¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito! Si te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de IT y de negocios: ¡Postula ahora!Actualmente nos encontramos en búsqueda de 4 QAs Junior para que se integren a nuestro equipo.RequisitosConocimiento básico en técnicas de pruebasJava intermedio 8 u 11Conocimiento de apisConocimiento basico de SQL OracleConocimiento en Maven, GitConocimiento de Selenium(opcional)Predisposición a aprender y adaptarse a un equipo competitivoBeneficiosIncorporación a planilla con todos los beneficios de leyCapacitaciones generales y específicas de acuerdo a tu especialidadActividades de integración y Wellness ProgramsDescuentos corporativos en diversos establecimientosCondicionesModalidad híbridaLunes a Viernes de 08:30 am a 6:30 pmTrabajo hírbido en San IsidroContrato inicial de 03 meses, renovables según desempeñoEn Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310476890"
+    },
+    {
+        "titleJob": "QA",
+        "employer": "Sapiens Digital Lab",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/sapiens-la?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "12 hours ago",
+        "recruiter": "Juan Lau",
+        "profileRecruiter": "https://pe.linkedin.com/in/juan-lau-438369229",
+        "descriptionOffer": "¡Únete a SAPIENS como Analista QA!En Sapiens buscamos un Analista QA que valide la calidad de las aplicaciones y participe en todo el ciclo de vida del Software. Esta es tu oportunidad para trabajar en proyectos desafiantes y de alto impacto.Responsabilidades:Analizar requerimientos funcionales y técnicos para definir planes de prueba. Diseñar, documentar y ejecutar casos de prueba manuales en distintas fases del ciclo de desarrollo.Realizar pruebas funcionales, de integración, regresión y de aceptación.Manejo de herramientas de gestión de pruebas (ej. TestRail).Reportar y dar seguimiento a defectos en coordinación con equipos de desarrollo y productoValidar integraciones con APIs mediante pruebas funcionales y automatizadas (ej. Postman).Garantizar el cumplimiento del proceso STLC (Software Test Life Cycle).Contribuir en revisiones de calidad y participar activamente en entornos ágiles (Scrum).Asegurar la trazabilidad de pruebas frente a los requerimientos de negocio.Requisitos:+4 años de experiencia como QAAWS (Cloud Watch) Herramientas de gestión de casos de prueba (TestRail)Metodologías ágiles (Scrum) Herramientas de Gestion (Jira, Confluence)Conocimiento de STLC (Software Test Life Cycle) Conocimiento de SDLC (Software Development Life Cycle)Conocimiento de SQL/Mongo DB/ Dynamo DBExperiencia en API Testing (Postman)Automatizacion de Pruebas para API (Gherkin, Pytest u otros)Lo que ofrecemos:Modalidad de trabajo Hibrida, Programa Sapiens Life.Ambiente de trabajo colaborativo y dinámico.EPS cubierta al 100%.Crecimiento profesional y proyección de carrera.¿Te interesa?Envía tu CV a talento@sapiens.la con asunto “Analista QA”#MongoDB #QA#SQL#Scrum✅ Envía tu CV a: talento@sapiens.la🌐 Conócenos: www.sapiens.la",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310162058"
     },
     {
         "titleJob": "QA Analyst",
-        "employer": "Softtek",
-        "linkProfileEmployer": "https://mx.linkedin.com/company/softtek?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "8 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "Softtek es un proveedor global de servicios orientados a procesos de TI con más de 30 oficinas en Norteamérica, Latinoamérica, Europa y Asia. Maximizamos el valor del software para el mundo: Creamos, Probamos, Implementamos y damos mantenimiento a sistemas que empoderan organizaciones e individuos. En la actualidad nos encontramos en la búsqueda de un talento para el perfil: QA AnalystRequisitos:Bachiller en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería o carreras afines.4 años de experiencia como QA, Analista de Calidad. Experiencia en Pruebas Funcionales.Competencia técnica en Base de Datos como SQL, Oracle u otro.Conocimiento en pruebas de migracion de datos (indispensable)Conocimiento en AWS u otra nube Manejo de lenguaje GherkinExperiencia en el marco agil de scrumOfrecemos:Ingreso a planilla con todos los beneficios de ley.EPS al 100%Contrato IndefinidoCapacitación constante y línea de carrera.Podrás optar por los descuentos corporativos en empresas de entretenimiento, educación, entre otros.Contamos con una plataforma exclusiva virtual con más de 3,000 cursos orientados a potencializar tus habilidades técnicas como blandas.Te invitamos a conocer más sobre la #SofttekLife en: https://www.softtek.com/es-pe/haz-tu-carrera-en-softtekEn Softtek reconocemos que el talento es diverso; respetamos la identidad y condiciones de vida de cada persona y promovemos la equidad de trato y de oportunidades. Para lograr lo anterior, creamos un ambiente incluyente en el cual las personas muestran qué las define y emplean sus diferentes características para lograr mejores resultados.Por ello, promovemos la diversidad generacional, origen étnico, nacionalidad y la inclusión de personas con habilidades diferentes y/o discapacidad. En cumplimiento de la Ley N° 29733 y su reglamento.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4308624455"
-    },
-    {
-        "titleJob": "Analista de calidad",
-        "employer": "Proyectum Peru",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/proyectumperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "employer": "Inetum",
+        "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "2 hours ago",
-        "recruiter": "Daniela Letelier DurÃ¡n",
-        "profileRecruiter": "https://cl.linkedin.com/in/daniela-letelier-dur%C3%A1n-2019",
-        "descriptionOffer": "¡En Proyectum queremos que seas nuestro próximo analista de calidad!Proyectum Perú, brinda como propósito el promover la aplicación de prácticas profesionales de Dirección de Proyectos, ofreciendo servicios de capacitación y consultoría. Así como también la incorporación de ofertas de servicios recurrentes, tales como Outsourcing de Profesionales.Junto a 12 países latinoamericanos compartimos marca, imagen corporativa y una serie de activosde información (Cursos, productos de consultoría y otros) nos presentamos como una organización internacional.Somos el principal ATP (Authorized Training Partner) del PMI en Latinoamérica, liderando la Dirección Exitosa de Proyectos y en la agilidad.🌟 ¡Buscamos Analistas de Calidad en Lima! 🌟📍 Lugar de desempeño: Lima 💻 Modalidad: Híbrida ⏰ Jornada: Completa¿Te apasiona garantizar la calidad y la excelencia en los productos? ¡Esta es tu oportunidad de unirte a un equipo dinámico y en crecimiento!🔎 ¿Qué harás en este rol?Diseñar e implementar planes de prueba para validar funcionalidad, rendimiento, usabilidad y compatibilidad.Ejecutar pruebas manuales y/o automatizadas para detectar errores y desviaciones.Documentar hallazgos y comunicar defectos al equipo de desarrollo.Colaborar en la solución de problemas y participar en revisiones de producto.Elaborar reportes con resultados y conclusiones de las pruebas realizadas.Asegurar el cumplimiento de estándares de calidad, normativas y requisitos.Supervisar la calidad en todas las fases del ciclo de vida del producto.Proponer mejoras y soluciones para optimizar procesos y resultados.🎓 RequisitosEstudios culminados en Ingeniería de Sistemas, Software o carreras afines.Deseables:Experiencia en análisis de datos.Experiencia en pruebas de software (QA, control de calidad).Conocimiento en auditorías de calidad y/o gestión de procesos.Inglés intermedio o avanzado.🙌 Lo que valoramos en tiAutonomía y proactividad.Orientación al logro y compromiso con la excelencia.Capacidad de análisis y visión estratégica.Habilidades de comunicación asertiva y liderazgo.Negociación, flexibilidad y organización.Trabajo en equipo y actitud colaborativa.🚀 ¿Por qué postular?Porque tendrás la oportunidad de:Trabajar en un entorno innovador y colaborativo.Desarrollar tu potencial en proyectos desafiantes.Ser parte de un equipo comprometido con la calidad y la mejora continua.👉 Si cumples con el perfil y quieres asumir este reto, ¡postula y crece con nosotros!¡ Ven y participa del proceso para que seas parte de la familia Proyectum!",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4308508772"
+        "howLongAgo": "3 hours ago",
+        "recruiter": "Caroline Vilchez Mimbela",
+        "profileRecruiter": "https://pe.linkedin.com/in/caroline-vilchez-mimbela-5a8a49a8",
+        "descriptionOffer": "Somos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes.Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el grupo tiene cerca de 27,000 colaboradores y apunta a seguir creciendo.Actualmente nos encontramos en búsqueda de 02 QA Testing Junior para que se integren a nuestro equipo.Requisitos:Profesional en Ingeniería de Sistemas, Computación, Informática o carreras afines.Conocimiento de AWS services nivel básicoConocimiento de herramientas de manejo de Casos de Pruebas, ej.. : TestRail, Testlink, ZaphirConocimiento de herramientas AgileConocimiento del proceso de Software Test Lyfe Cycle (STLC)Conocimiento del proceso de Softwate Development Lyfe Cycle (SDLC)Conocimiento de BDD relacionales (SQL) + BDD NoRelacionales (MongoDB)Conocimiento de API Testing (Postman/SoapUI)Automatización de pruebas para APIExperiencia con JMeterExperiencia con GitHubBeneficios:Incorporación a planilla con todos los beneficios de leyCapacitaciones generales y específicas de acuerdo a tu especialidadPlataforma Educativa Multi-idiomas (inglés, francés, alemán, entre otros)Actividades de integración y Wellness ProgramsDescuentos corporativos en diversos establecimientos",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310483069"
     },
     {
-        "titleJob": "Analista QA",
-        "employer": "Ayesa",
-        "linkProfileEmployer": "https://es.linkedin.com/company/ayesa?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Analista de aseguramiento de la calidad / Laboratorio (Industria Alimentaria)",
+        "employer": "Abastecedora Alimenticia S.A.C",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/abastecedora-alimenticia-sac?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "4 hours ago",
+        "howLongAgo": "12 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4307292031"
+        "descriptionOffer": "¿Cuál será tu propósito en el equipo?Serás responsable de garantizar el cumplimiento de los estándares de calidad e inocuidad alimentaria a través del seguimiento del sistema HACCP, BPM y PHS, realizando análisis fisicoquímicos y microbiológicos, así como verificaciones en laboratorio y planta.Principales ResponsabilidadesMonitorear y verificar el cumplimiento del Sistema HACCP, Manual de BPM y Programa de Higiene y Saneamiento (PHS).Realizar análisis de materia prima, producto en proceso y producto terminado.Ejecutar pruebas microbiológicas y fisicoquímicas (esterilidad, aerobios mesófilos, E. coli, Salmonella, etc.)Elaborar reportes de no conformidades, KPIs de calidad, fichas técnicas y certificados.Participar activamente en auditorías internas y externas (DIGESA, SENASA).Asegurar la trazabilidad de los procesos mediante la correcta documentación.Coordinar el mantenimiento y calibración básica de equipos de laboratorio.Supervisar la preparación de medios de cultivo y materiales bajo estándares de BPL.Perfil Que BuscamosBachiller en Ingeniería Alimentaria, Agroindustrial o carreras afines.Mínimo 1 año de experiencia en laboratorio de microbiología de alimentos.Conocimiento sólido en: HACCP, BPM, PHS, ISO 22000, normativa sanitaria peruana.Deseable especialización o conocimientos en ISO/IEC 17025.Manejo de auditorías internas y externas.Dominio en análisis microbiológicos y fisicoquímicos.Competencias ClaveAtención al detalle y precisión en resultados.Capacidad de análisis y buena interpretación de datos.Organización, autonomía y enfoque en mejora continua.Trabajo colaborativo y comunicación efectiva.Condiciones Adicionales Del PuestoManejo de muestras alimentarias como cremas y menudencias.Trabajo combinado: 65% oficina, 35% planta y laboratorio.Ambientes con temperaturas de refrigeración y congelación.📌 ¿Te apasiona asegurar la inocuidad y calidad en los alimentos?¡Únete a nuestro equipo y contribuye con tu experiencia a mantener nuestros estándares más altos de seguridad alimentaria!",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310165734"
     },
     {
-        "titleJob": "QA Híbrido",
-        "employer": "10Pearls, LLC",
-        "linkProfileEmployer": "https://www.linkedin.com/company/10pearls-llc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "8 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4309666172"
-    },
-    {
-        "titleJob": "ANALISTA QA",
-        "employer": "Ayesa",
-        "linkProfileEmployer": "https://es.linkedin.com/company/ayesa?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Operador de Pruebas (QA)",
+        "employer": "Solmit || Te llevamos a la transformación digital",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/solmit?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "San Isidro, Peru",
         "howLongAgo": "9 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4309651304"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310432122"
     },
     {
-        "titleJob": "QA Funcional (Híbrido)",
+        "titleJob": "Tester Funcional de Precios",
+        "employer": "Softtek",
+        "linkProfileEmployer": "https://mx.linkedin.com/company/softtek?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "San Isidro, Peru",
+        "howLongAgo": "8 hours ago",
+        "recruiter": "Gabriela Pinedo Morales",
+        "profileRecruiter": "https://pe.linkedin.com/in/gabriela-pinedo-morales-652251218",
+        "descriptionOffer": "¿Tienes ganas de construir un mejor futuro y dejar una huella importante en el mundo de la tecnología? ¡Sumate a #Softtek Perú!En Softtek buscamos un QA Funcional ¿Qué esperamos de ti? Experiencia de 4 a más años en posiciones similares.Procesamiento Calculo de Precios Offline/Online - Procesamiento Offline Egresado en Ingeniería de Sistemas, Informática o afines.Skills DeseablesMetodologías y modelos de calidad para la industria del softwareHerramientas para la ejecución y seguimiento de pruebasCMMI, ISTQB, Modelo en V, RUPMetodologías de desarrollo de sistemas (ágiles, no ágiles).Scrum/UML/TDD/BDD/ICTipos de Testing (volumen, Smoke test, performance, funcional, técnico). Pruebas Funcionales, Regresión, Integración y Aceptación.Base de Datos, lenguaje de Gherkin.Servicios Web - AWS: APIsPostman, SoapUI o ReadyAPI, SerenityBDD.¿Cuáles serán tus retos?Diseñar el plan de Testing, casos de prueba y estrategia a aplicar para las distintas actividades de Testing necesarias.Preparación, identificación de data para la verificación de los productos desarrollados. Ejecutar los casos de prueba y llevar un registro de los defectos encontrados, así como realizar el seguimiento de estos hasta su adecuada corrección.Analizar y reportar los resultados de las pruebas, estadísticas, etc.Brindar soporte en las actividades de integración y verificar que las versiones liberadas cumplan con los requisitos de calidad establecidos.Proponer metodologías, estándares y el uso de nuevas tecnologías para el desarrollo de la especialidad.Controlar los indicadores y mediciones de calidad de los desarrollos de software¿Cuáles serán tus beneficios?Ingreso a planilla con todos los beneficios de ley.Tipo de contrato: IndeterminadoModalidad: HibridaHorario: 9am – 6pmEPS al 100% para colaborador + dependientes directos.Días libres por cumpleaños y otra fecha importante.Descuentos corporativos en empresas de entretenimiento, educación, entre otros.Contamos con una plataforma exclusiva virtual con más de 3,000 cursos orientados a potencializar tus habilidades técnicas como blandas.Ven a vivir la #SofttekLife y disfrutá de:Capacitaciones constantesPlanes de carrera, actividades deportivas, programas de balance de Vida y muchos otrosPara construir un mejor futuro juntos, postúlate!En Softtek, respetamos y reconocemos la diversidad del talento, promoviendo la equidad de trato y oportunidades. Conoce nuestra Politica de Diversidad.https://www.softtek.com/transcend",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310435144"
+    },
+    {
+        "titleJob": "QA Engineer",
+        "employer": "CSTI Corp",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/csticorp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "San Isidro, Peru",
+        "howLongAgo": "10 hours ago",
+        "recruiter": "Emily Flores Camargo",
+        "profileRecruiter": "https://pe.linkedin.com/in/emily-flores-camargo-205b9b108",
+        "descriptionOffer": "CSTI Corp es una empresa peruana líder en la industria TI con más de 17 años en el mercado en países como Perú, Ecuador, Colombia, Costa Rica y Estados Unidos.Ofrecemos soluciones de negocios en las líneas de Outsourcing, Licenciamientos SAP y Microsoft, soporte y mejora de aplicaciones, así como implementación y migración de sistemas bajo estrategias Cloud, aprovechando su alianza con marcas como Amazon, Azure, Huawei Cloud y Google Cloud.Nos encontramos en la búsqueda de un \"QA Engineer Senior / QA Automation Sr”, para nuestra línea de negocio.Perfil:Egresado, Bachiller o titulado en Ing. Sistemas, software, informática o afinesExperiencia mínima 5 como analista QADeseable experiencia 3 años como QA AutomationDeseable Experiencia 1 año en procesos bancarios, medios de pagos digitales, adquirientes o fintech.Curso ISTQB Foundation Level (Obligatorio). Certificaciones deseablesNivel intermedio (1 año o más) en lenguaje SQL en motores de base datos: Postgree u MySQL (relacionales) y/o MongoDB (no-relacional)Experiencia en pruebas funcionales, regresión, humo, confirmación.Experiencia de herramienta de gestión de proyectos como JIRA.Experiencia de herramienta gestión de pruebas: QMetry, Xray, etc.Vacantes (7)QA Engineer Sr (5)QA Automation (2)Beneficios:Modalidad hibrida San Isidro. 2 veces al mesTe brindamos tus equipos corporativos (laptop)Sueldo acorde al mercado¡Ven y postula con CSTI Corp! Te esperamos",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310417575"
+    },
+    {
+        "titleJob": "QA Automatizador",
         "employer": "QDS - Quality & Development Software SAC",
         "linkProfileEmployer": "https://pe.linkedin.com/company/qds-group?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
@@ -85,94 +107,61 @@
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4309633316"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310421015"
     },
     {
-        "titleJob": "Analista de Aseguramiento y Control de Calidad",
-        "employer": "Peruvian Nature",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/peruviannature?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lurín, Peru",
+        "titleJob": "QA Automatizador Senior",
+        "employer": "Indra",
+        "linkProfileEmployer": "https://es.linkedin.com/company/indra?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
         "howLongAgo": "5 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4309691453"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4304710188"
     },
     {
-        "titleJob": "QA Automatizador Lima",
-        "employer": "NTT DATA Europe & Latam",
-        "linkProfileEmployer": "https://es.linkedin.com/company/ntt-data-europe-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Specialist II Quality Assurance & Safety",
+        "employer": "NSF",
+        "linkProfileEmployer": "https://www.linkedin.com/company/nsf?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "1 hour ago",
+        "howLongAgo": "13 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4308507960"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4252017728"
     },
     {
-        "titleJob": "Quality Assurance Automation Engineer",
-        "employer": "Novacomp",
-        "linkProfileEmployer": "https://cr.linkedin.com/company/novacomp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Data Quality Engineer",
+        "employer": "Inetum",
+        "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "7 hours ago",
+        "howLongAgo": "2 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4309669530"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4310482422"
     },
     {
-        "titleJob": "Chapter Lead Quality Engineer",
-        "employer": "Empresa Confidencial",
-        "linkProfileEmployer": "https://br.linkedin.com/company/empresa-confidencial?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Technical Product Owner",
+        "employer": "Infosys",
+        "linkProfileEmployer": "https://in.linkedin.com/company/infosys?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "11 hours ago",
+        "howLongAgo": "12 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4306125463"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4297487205"
     },
     {
-        "titleJob": "Bootcamp QA Automatizador",
-        "employer": "NTT DATA Europe & Latam",
-        "linkProfileEmployer": "https://es.linkedin.com/company/ntt-data-europe-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima Metropolitan Area",
-        "howLongAgo": "1 day ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4307929989"
-    },
-    {
-        "titleJob": "QA Business Analyst - Remote - Latin America",
-        "employer": "FullStack Labs",
-        "linkProfileEmployer": "https://www.linkedin.com/company/fullstack-labs?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Semi Senior Business Analyst",
+        "employer": "Monnet Payments",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/monnet-payment-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "14 hours ago",
+        "howLongAgo": "10 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4298908624"
-    },
-    {
-        "titleJob": "SOFTWARE ENGINEER MIDDLE",
-        "employer": "Innova Schools",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/innova-schools?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "4 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4307289066"
-    },
-    {
-        "titleJob": "Diseñador UX/UI | Semi senior",
-        "employer": "Softtek",
-        "linkProfileEmployer": "https://mx.linkedin.com/company/softtek?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Miraflores, Peru",
-        "howLongAgo": "7 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4309660778"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4307568045"
     }
 ]
