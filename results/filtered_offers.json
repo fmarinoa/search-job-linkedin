@@ -1,29 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4311120682",
-    "title": "Analista QA Senior",
-    "employer": "Confidencial",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4311120682",
-    "reason": "La oferta coincide con el perfil de QA Senior/Automation Engineer.  Requiere experiencia en automatización con Postman, JMeter, Selenium y Cypress, y conocimientos en BDD (Gherkin, Cucumber). Incluye diseño y ejecución de pruebas funcionales, y automatización de pruebas.  El rango salarial estimado, dada la ubicación, la empresa (confidencial, pero probablemente de tecnología) y el puesto de Senior QA, podría oscilar entre S/ 6,000 y S/ 12,000 mensuales.",
-    "main_responsibilities": [
-      "Desarrollar el proceso de pruebas en entornos ágiles.",
-      "Realizar pruebas smoketest, funcionales, regresión y automatización.",
-      "Elaborar casos de prueba con enfoque BDD.",
-      "Desarrollar soluciones de automatización de pruebas para aplicaciones mobile.",
-      "Presentar reportes de la ejecución de las pruebas."
-    ]
+    "id": "https://www.linkedin.com/jobs/view/4311573148",
+    "title": "QA Automation Engineer - Remote - Latin America",
+    "employer": "FullStack Labs",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4311573148",
+    "reason": "La oferta se alinea directamente con el perfil, buscando un QA Automation Engineer con 5+ años de experiencia en automatización de pruebas, experiencia en testing manual, familiaridad con TypeScript, y experiencia con Agile/Scrum.  El puesto implica la ejecución de pruebas, documentación y trabajo en equipos ágiles. Rango salarial: Considerando la experiencia y la ubicación (Lima, Perú), y siendo un puesto remoto para Latinoamérica, el rango salarial podría estar entre $3,000 - $6,000 USD mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4309790744",
-    "title": "Software Development Engineer in Test - Work from home",
-    "employer": "Nearsure",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4309790744",
-    "reason": "La oferta es directamente para un Software Development Engineer in Test (SDET), lo que coincide perfectamente con el perfil. Requiere 4+ años de experiencia en QA Automation y dominio de Selenium, Cypress o Playwright. El rol es remoto, lo cual es una preferencia explícita en el perfil. El rango salarial, dada la empresa y el puesto, con el trabajo remoto en USD, podría ser muy competitivo (a confirmar durante el proceso)",
-    "main_responsibilities": [
-      "Diseñar, desarrollar y mantener scripts de prueba automatizados.",
-      "Colaborar con equipos de QA y desarrollo para identificar estrategias de prueba.",
-      "Ejecutar casos de prueba automatizados y analizar resultados.",
-      "Reportar errores y mejorar la cobertura y los procesos."
-    ]
+    "id": "https://www.linkedin.com/jobs/view/4309292566",
+    "title": "Analista QA Senior - Outsourcing",
+    "employer": "SEIDOR",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4309292566",
+    "reason": "La oferta requiere un Analista QA Senior con 3+ años de experiencia, conocimientos en automatización de pruebas (API, web y móvil) y experiencia en el ciclo de desarrollo de software. Se ajusta al perfil de QA Senior/Automation Engineer con enfoque en pruebas. Las principales responsabilidades incluyen el análisis del alcance, elaboración de planes y casos de prueba, ejecución y gestión de defectos. Rango salarial: Considerando la experiencia y la ubicación (Lima, Perú), el rango salarial podría estar entre S/6,000 - S/10,000 PEN mensuales."
   }
 ]
