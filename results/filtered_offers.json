@@ -1,16 +1,18 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4311573148",
-    "title": "QA Automation Engineer - Remote - Latin America",
-    "employer": "FullStack Labs",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4311573148",
-    "reason": "La oferta se alinea directamente con el perfil, buscando un QA Automation Engineer con 5+ años de experiencia en automatización de pruebas, experiencia en testing manual, familiaridad con TypeScript, y experiencia con Agile/Scrum.  El puesto implica la ejecución de pruebas, documentación y trabajo en equipos ágiles. Rango salarial: Considerando la experiencia y la ubicación (Lima, Perú), y siendo un puesto remoto para Latinoamérica, el rango salarial podría estar entre $3,000 - $6,000 USD mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4309948837",
+    "title": "QA Automation engineer",
+    "employer": "VASS",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4309948837",
+    "reason": "Esta oferta encaja perfectamente con el perfil, buscando un QA Automation Engineer con 5+ años de experiencia en automatización de pruebas web. Se requiere experiencia en diseño y ejecución de pruebas automatizadas, manejo de metodologías ágiles y conocimientos en SQL. El puesto incluye responsabilidades de diseño, desarrollo y mantenimiento de scripts de automatización, ejecución de pruebas, análisis de resultados y colaboración con equipos ágiles. El rango salarial no se especifica, pero para un puesto de QA Automation Engineer senior en Lima, Perú, se estima entre S/6,000 y S/12,000 mensuales, dependiendo de la experiencia y la empresa.",
+    "description": "Elaborar y ejecutar planes de prueba basados en la definición funcional y técnica del proyecto. Asegurar que las implementaciones entregadas correspondan fielmente a los requerimientos definidos. Diseñar, desarrollar y mantener scripts de automatización de pruebas para aplicaciones web. Participar activamente en mesas ágiles de implementación de proyectos, colaborando con desarrolladores, analistas y líderes técnicos. Ejecutar pruebas funcionales, de integración, regresión y automatizadas, garantizando la calidad del producto en cada iteración. Analizar resultados de pruebas, documentar incidencias y coordinar su resolución con los equipos correspondientes. Validar datos en bases de datos (SQL, Oracle o DB2) para asegurar consistencia y correcta persistencia de la información. Aportar conocimientos técnicos y buenas prácticas de testing en entornos ágiles (Scrum/Kanban)"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4309292566",
-    "title": "Analista QA Senior - Outsourcing",
-    "employer": "SEIDOR",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4309292566",
-    "reason": "La oferta requiere un Analista QA Senior con 3+ años de experiencia, conocimientos en automatización de pruebas (API, web y móvil) y experiencia en el ciclo de desarrollo de software. Se ajusta al perfil de QA Senior/Automation Engineer con enfoque en pruebas. Las principales responsabilidades incluyen el análisis del alcance, elaboración de planes y casos de prueba, ejecución y gestión de defectos. Rango salarial: Considerando la experiencia y la ubicación (Lima, Perú), el rango salarial podría estar entre S/6,000 - S/10,000 PEN mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4309326051",
+    "title": "QA Automatizador + DevSecOps",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4309326051",
+    "reason": "La oferta se alinea con el perfil, buscando un QA Automatizador Senior con experiencia en metodologías ágiles, automatización web (Java o C# con Serenity BDD y ScreenPlay), automatización de servicios y DevSecOps. Las responsabilidades incluyen automatización de pruebas, trabajo en equipos ágiles y conocimientos en banca. El rango salarial no se especifica, pero se estima entre S/7,000 y S/14,000 mensuales, dependiendo de la experiencia y la empresa, considerando que es un puesto senior en automatización y con conocimientos en banca.",
+    "description": "Automatización web aplicando Java o C# bajo framework Serenity BDD y patrón ScreenPlay. Automatización de servicios Java con Serenity BDD y ScreenPlay. Conocimiento intermedio en DevSecOps. Integración Continua y DevOps en Azure."
   }
 ]
