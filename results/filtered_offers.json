@@ -1,30 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4313295238",
-    "title": "Analista QA",
-    "employer": "wirbi®",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4313295238",
-    "reason": "Esta oferta se alinea con el perfil ya que busca un Analista QA con experiencia en automatización de pruebas (Selenium, WebDriver, Cucumber), metodologías ágiles, y bases de datos, lo cual coincide con las habilidades y preferencias del perfil. \n\n**Principales responsabilidades:** Diseño y desarrollo de scripts de automatización, ejecución de pruebas automatizadas, implementación de metodologías BDD, documentación en Jira/Azure DevOps, y pruebas de bases de datos.\n\n**Rango salarial:** Estimación S/. 4,000 - S/. 7,000 (Junior/Middle) dado la ubicación (Lima, Perú) y la experiencia requerida. El salario puede variar según la experiencia específica del candidato y las políticas de la empresa."
+    "id": "https://www.linkedin.com/jobs/view/4313633247",
+    "title": "Senior QA Automation",
+    "employer": "Valtx Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4313633247",
+    "reason": "Esta oferta se alinea perfectamente con el perfil, ya que busca un 'Senior QA Automation' con 6 años de experiencia en QA de sistemas financieros y experiencia en pruebas automatizadas. Se mencionan explícitamente el diseño de frameworks de pruebas, pruebas End-to-End y automatización avanzada (BDD), y se citan herramientas de automatización como Selenium y Appium, que coinciden con la tech stack requerida. El dominio de Banca/Finanzas es un plus. El rango salarial aproximado para un puesto Senior QA Automation en Lima, Perú, con este nivel de experiencia y en una empresa como Valtx, estaría entre S/ 8,000 y S/ 13,000 mensuales."
   },
   {
     "id": "https://www.linkedin.com/jobs/view/4313408972",
     "title": "QA Automation Lead",
     "employer": "Compartamos Banco Perú",
     "linkOffer": "https://www.linkedin.com/jobs/view/4313408972",
-    "reason": "Esta oferta es altamente relevante ya que busca un QA Automation Lead con experiencia en diseño e implementación de marcos de automatización para API Testing, Web y Mobile, lo cual coincide con las habilidades y preferencias del perfil. Se valora experiencia en el sector banca o afines. Se requiere liderazgo y soporte a equipos.\n\n**Principales responsabilidades:** Desarrollar estrategias de prueba, planes y mantener los datos de prueba de automatización, promover la implementación de herramientas, tecnologías y prácticas para la automatización de pruebas, liderar y brindar soporte técnico al equipo, integrar soluciones de pruebas automatizadas en un marco de CI/CD (Jenkins/Azure DevOps), proponer y desarrollar testing automatizados.\n\n**Rango salarial:** Estimación S/. 7,000 - S/. 12,000 (Senior/Lead) dado la ubicación (Lima, Perú), la responsabilidad del puesto y la experiencia requerida, además de la reputación de la empresa."
+    "reason": "La oferta para 'QA Automation Lead' es una excelente coincidencia. Requiere un mínimo de 4 años de experiencia en diseño e implementación de frameworks de automatización en API Testing, Web y Mobile, lo cual encaja directamente con la experiencia y tech stack del perfil. La mención de experiencia en el sector de Banca es un factor importante. Las responsabilidades incluyen liderar y dar soporte al equipo, integrar pruebas automatizadas en CI/CD (Jenkins/Azure DevOps), y aplicar metodologías Agile/Scrum, todo ello alineado con las preferencias del perfil. El rango salarial aproximado para un puesto de Lead QA Automation en Lima, Perú, en una institución financiera como Compartamos Banco, podría oscilar entre S/ 9,000 y S/ 15,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4313419545",
-    "title": "Analista QA Funcional",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4313419545",
-    "reason": "La oferta coincide con el perfil al requerir experiencia en QA Funcional (4.5-5 años) y metodologías de calidad (CMMI, ISTQB, Modelo en V, RUP). También solicita experiencia en pruebas funcionales, regresión, integración, aceptación, volumen y smoke test, lo que encaja con las preferencias del perfil.\n\n**Principales responsabilidades:** Diseño de planes y casos de prueba, ejecución de pruebas funcionales, análisis y reporte de resultados, y soporte en procesos de integración. Experiencia en bases de datos y scripting (SQL). Nivel básico en automatización y scripting.\n\n**Rango salarial:** Estimación S/. 5,500 - S/. 9,000 (Middle/Senior), considerando la ubicación (Lima, Perú), la experiencia solicitada y la empresa (Indra)."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4310734477",
-    "title": "QA Automatizador Senior (Python)",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4310734477",
-    "reason": "Esta oferta se ajusta al perfil debido a la solicitud de un QA Automatizador Senior con experiencia en Selenium, Appium, Kobiton, y Python, que es parte del stack tecnológico del perfil. Se valora conocimiento de herramientas de testing (Jira, Xray, Gherkin), testing continuo, y experiencia en pruebas Mobile, Servicios (APIs) y Web.\n\n**Principales responsabilidades:** Automatización de pruebas utilizando Selenium, Appium, y Python, así como gestión de pruebas en Jira y otras herramientas.  Participación en pruebas de diferentes tipos (Mobile, APIs, Web).\n\n**Rango salarial:** Estimación S/. 6,500 - S/. 10,000 (Senior) dado la ubicación (Lima, Perú), la experiencia requerida y la empresa."
+    "id": "https://www.linkedin.com/jobs/view/4213310266",
+    "title": "QA Engineer (Python/Selenium)",
+    "employer": "Talan",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4213310266",
+    "reason": "Esta oferta para 'QA Engineer' con enfoque en Python/Selenium se ajusta bien al perfil, especialmente por la mención explícita de automatización de pruebas con Python y Selenium. Se requiere experiencia en frontend testing, API REST, bases de datos y performance, y se busca proactividad para proponer mejoras en el proceso. Aunque la ubicación principal mencionada es Málaga, España, la empresa Talan opera internacionalmente y a veces estas ofertas tienen flexibilidad o la posibilidad de trabajo remoto desde otras ubicaciones, o incluso traslados si el candidato es adecuado. El perfil técnico y las responsabilidades de automatización son altamente compatibles. Dado que la oferta menciona 'Relocation is mandatory' y se enfoca en España, si bien es un match técnico, la ubicación es un factor a considerar. Asumiendo que el candidato pueda reubicarse o que Talan tenga oportunidades similares en Perú (aunque no especificado en esta oferta concreta), el rango salarial en Lima para un perfil similar sería de S/ 7,000 a S/ 11,000 mensuales."
   }
 ]
