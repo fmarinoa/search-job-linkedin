@@ -30,7 +30,7 @@ client = genai.Client(api_key=GEMINI_API_KEY)
 MAX_ATTEMPTS = int(os.getenv("GEMINI_MAX_ATTEMPTS", "3"))
 BACKOFF_SECONDS = float(os.getenv("GEMINI_BACKOFF_SECONDS", "1.0"))
 BATCH_SIZE = int(os.getenv("GEMINI_BATCH_SIZE", "25"))
-MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-2.0-flash-lite")
+MODEL_NAME = os.getenv("GEMINI_MODEL", "gemini-2.5-flash-lite")
 
 
 class GeminiAnalyzer:
