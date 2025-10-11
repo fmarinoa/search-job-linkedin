@@ -1,18 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4309948837",
-    "title": "QA Automation engineer",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4309948837",
-    "reason": "Esta oferta encaja perfectamente con el perfil, buscando un QA Automation Engineer con 5+ años de experiencia en automatización de pruebas web. Se requiere experiencia en diseño y ejecución de pruebas automatizadas, manejo de metodologías ágiles y conocimientos en SQL. El puesto incluye responsabilidades de diseño, desarrollo y mantenimiento de scripts de automatización, ejecución de pruebas, análisis de resultados y colaboración con equipos ágiles. El rango salarial no se especifica, pero para un puesto de QA Automation Engineer senior en Lima, Perú, se estima entre S/6,000 y S/12,000 mensuales, dependiendo de la experiencia y la empresa.",
-    "description": "Elaborar y ejecutar planes de prueba basados en la definición funcional y técnica del proyecto. Asegurar que las implementaciones entregadas correspondan fielmente a los requerimientos definidos. Diseñar, desarrollar y mantener scripts de automatización de pruebas para aplicaciones web. Participar activamente en mesas ágiles de implementación de proyectos, colaborando con desarrolladores, analistas y líderes técnicos. Ejecutar pruebas funcionales, de integración, regresión y automatizadas, garantizando la calidad del producto en cada iteración. Analizar resultados de pruebas, documentar incidencias y coordinar su resolución con los equipos correspondientes. Validar datos en bases de datos (SQL, Oracle o DB2) para asegurar consistencia y correcta persistencia de la información. Aportar conocimientos técnicos y buenas prácticas de testing en entornos ágiles (Scrum/Kanban)"
+    "id": "https://www.linkedin.com/jobs/view/4313295238",
+    "title": "Analista QA",
+    "employer": "wirbi®",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4313295238",
+    "reason": "Esta oferta se alinea con el perfil ya que busca un Analista QA con experiencia en automatización de pruebas (Selenium, WebDriver, Cucumber), metodologías ágiles, y bases de datos, lo cual coincide con las habilidades y preferencias del perfil. \n\n**Principales responsabilidades:** Diseño y desarrollo de scripts de automatización, ejecución de pruebas automatizadas, implementación de metodologías BDD, documentación en Jira/Azure DevOps, y pruebas de bases de datos.\n\n**Rango salarial:** Estimación S/. 4,000 - S/. 7,000 (Junior/Middle) dado la ubicación (Lima, Perú) y la experiencia requerida. El salario puede variar según la experiencia específica del candidato y las políticas de la empresa."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4309326051",
-    "title": "QA Automatizador + DevSecOps",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4309326051",
-    "reason": "La oferta se alinea con el perfil, buscando un QA Automatizador Senior con experiencia en metodologías ágiles, automatización web (Java o C# con Serenity BDD y ScreenPlay), automatización de servicios y DevSecOps. Las responsabilidades incluyen automatización de pruebas, trabajo en equipos ágiles y conocimientos en banca. El rango salarial no se especifica, pero se estima entre S/7,000 y S/14,000 mensuales, dependiendo de la experiencia y la empresa, considerando que es un puesto senior en automatización y con conocimientos en banca.",
-    "description": "Automatización web aplicando Java o C# bajo framework Serenity BDD y patrón ScreenPlay. Automatización de servicios Java con Serenity BDD y ScreenPlay. Conocimiento intermedio en DevSecOps. Integración Continua y DevOps en Azure."
+    "id": "https://www.linkedin.com/jobs/view/4313408972",
+    "title": "QA Automation Lead",
+    "employer": "Compartamos Banco Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4313408972",
+    "reason": "Esta oferta es altamente relevante ya que busca un QA Automation Lead con experiencia en diseño e implementación de marcos de automatización para API Testing, Web y Mobile, lo cual coincide con las habilidades y preferencias del perfil. Se valora experiencia en el sector banca o afines. Se requiere liderazgo y soporte a equipos.\n\n**Principales responsabilidades:** Desarrollar estrategias de prueba, planes y mantener los datos de prueba de automatización, promover la implementación de herramientas, tecnologías y prácticas para la automatización de pruebas, liderar y brindar soporte técnico al equipo, integrar soluciones de pruebas automatizadas en un marco de CI/CD (Jenkins/Azure DevOps), proponer y desarrollar testing automatizados.\n\n**Rango salarial:** Estimación S/. 7,000 - S/. 12,000 (Senior/Lead) dado la ubicación (Lima, Perú), la responsabilidad del puesto y la experiencia requerida, además de la reputación de la empresa."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4313419545",
+    "title": "Analista QA Funcional",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4313419545",
+    "reason": "La oferta coincide con el perfil al requerir experiencia en QA Funcional (4.5-5 años) y metodologías de calidad (CMMI, ISTQB, Modelo en V, RUP). También solicita experiencia en pruebas funcionales, regresión, integración, aceptación, volumen y smoke test, lo que encaja con las preferencias del perfil.\n\n**Principales responsabilidades:** Diseño de planes y casos de prueba, ejecución de pruebas funcionales, análisis y reporte de resultados, y soporte en procesos de integración. Experiencia en bases de datos y scripting (SQL). Nivel básico en automatización y scripting.\n\n**Rango salarial:** Estimación S/. 5,500 - S/. 9,000 (Middle/Senior), considerando la ubicación (Lima, Perú), la experiencia solicitada y la empresa (Indra)."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4310734477",
+    "title": "QA Automatizador Senior (Python)",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4310734477",
+    "reason": "Esta oferta se ajusta al perfil debido a la solicitud de un QA Automatizador Senior con experiencia en Selenium, Appium, Kobiton, y Python, que es parte del stack tecnológico del perfil. Se valora conocimiento de herramientas de testing (Jira, Xray, Gherkin), testing continuo, y experiencia en pruebas Mobile, Servicios (APIs) y Web.\n\n**Principales responsabilidades:** Automatización de pruebas utilizando Selenium, Appium, y Python, así como gestión de pruebas en Jira y otras herramientas.  Participación en pruebas de diferentes tipos (Mobile, APIs, Web).\n\n**Rango salarial:** Estimación S/. 6,500 - S/. 10,000 (Senior) dado la ubicación (Lima, Perú), la experiencia requerida y la empresa."
   }
 ]
