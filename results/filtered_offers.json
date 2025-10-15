@@ -1,37 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4314055849",
-    "title": "Analista QA",
-    "employer": "Stefanini LATAM",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4314055849",
-    "reason": "La oferta solicita un Analista QA con más de 2 años de experiencia en pruebas de software web, lo cual se alinea con la experiencia requerida de 3+ años en automatización. Se mencionan habilidades deseables en automatización (Selenium, Postman, SoapUI) y experiencia en metodologías ágiles, que coinciden con el perfil. Las responsabilidades incluyen planificación, diseño y ejecución de pruebas funcionales, de regresión e integración (APIs), así como la gestión de defectos y mejora continua. El puesto se encuentra en Lima, Perú, y se estima un rango salarial aproximado entre S/4,500 y S/7,000 mensuales para un rol 'SSR' (Senior/Semi-Senior) en esta ubicación y con estas responsabilidades."
-  },
-  {
     "id": "https://www.linkedin.com/jobs/view/4314456081",
     "title": "QA Funcional/Automatizador Sr",
     "employer": "Indra",
     "linkOffer": "https://www.linkedin.com/jobs/view/4314456081",
-    "reason": "Esta oferta busca un 'QA Semisr Funcional Automatizado' con 2 a 3 años de experiencia en el perfil QA (Funcional/Automatizador). Las skills requeridas como definición de Historias de Usuario, Planes de Pruebas, Técnicas de Diseño de Pruebas, Pruebas de Regresión, Ceremonias Ágiles, Casos de Pruebas a automatizar, BDD, Gherkin, Pruebas de Servicio (REST SOAP), Karate, Selenium WebDriver, Serenity BDD y Cucumber coinciden fuertemente con el perfil tecnológico y de experiencia. El rol implica unirse a equipos multidisciplinares para impulsar la transformación digital. La ubicación es híbrida en Lima, Perú. Se estima un rango salarial aproximado entre S/5,000 y S/8,000 mensuales para un puesto 'Sr' o 'Semisr' en una empresa como Indra y en esta región."
+    "reason": "Esta oferta se ajusta al perfil buscado ya que solicita un 'QA Semisr Funcional Automatizado' con al menos 2-3 años de experiencia, que es un rol senior dentro del espectro de automatización. Se mencionan habilidades clave como la definición de historias de usuario, planes de prueba, técnicas de diseño de pruebas, prueba de regresión, tipos de pruebas, ceremonias ágiles, automatización de casos de prueba, BDD, Gherkin, pruebas de servicio (REST/SOAP) y herramientas como Karate, Selenium WebDriver, Serenity BDD, Cucumber y Jira Xray.  El enfoque principal es la automatización y las pruebas funcionales, alineado con el perfil 'QA Senior' y 'Automation Engineer'. El rango salarial aproximado para un puesto Senior en Lima, Perú, con estas responsabilidades y experiencia, podría oscilar entre S/ 5,000 y S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4314174183",
-    "title": "Analista QA",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4314174183",
-    "reason": "La oferta solicita un 'Analista QA' con una experiencia mínima de 3 años, lo cual encaja perfectamente con el requisito de 3+ años. Se especifican herramientas de prueba para web como Selenium y conocimientos en un lenguaje de programación (Javascript), además de GIT y principios de seguridad informática (OWASP). Las responsabilidades incluyen preparación de entornos, generación de data para pruebas y ejecución de ciclo de pruebas. Dado que se enfoca en testing web y menciona Selenium, se alinea con el perfil de automatización. La ubicación es híbrida en Lima, Perú. Se estima un rango salarial aproximado entre S/4,000 y S/6,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4314517730",
+    "title": "QA Engineer - Remote Work",
+    "employer": "BairesDev",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4314517730",
+    "reason": "Esta oferta se alinea perfectamente con el perfil buscado, especialmente con el rol 'SDET' y 'Automation Engineer' con 'QA Senior' preferencias, solicitando '5+ años de experiencia en QA Automation' y '3+ años de experiencia en API Automation' y 'UI Automation experience (Cypress, Playwright, Selenium)'. Las responsabilidades incluyen crear y ejecutar casos de prueba, automatizar escenarios usando Cypress (UI y API), mantener y extender frameworks de automatización, y asistir al equipo QA.  El hecho de ser un rol remoto y ofrecido por BairesDev, una empresa reconocida por trabajar con talento top, sugiere una compensación competitiva. El rango salarial aproximado para un rol de QA Automation con esta experiencia y en una empresa como BairesDev, incluso remoto, podría estar entre USD 3,000 y USD 5,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4314426744",
-    "title": "QA Funcional",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4314426744",
-    "reason": "Esta oferta busca un 'QA Funcional Senior' con más de 5 años de experiencia en QA de sistemas financieros y experiencia en implementaciones ERP y transformación digital financiera. Aunque el título es 'QA Funcional', la descripción menciona 'Automatización avanzada (BDD para reglas contables complejas)' y experiencia en 'pruebas de interfaces bancarias y fiscales', lo que sugiere un fuerte componente de automatización y un dominio en el sector financiero/bancario. El perfil solicitado de 'Maestría en Contabilidad Digital o Sistemas de Información Financiera' y certificaciones como 'CPA + ISTQB Advanced o CISA' apuntan a un conocimiento profundo del dominio, que es un plus para el perfil. Las responsabilidades de ejecutar la estrategia de calidad en transformaciones de banca digital y diseñar frameworks de pruebas para migraciones son muy relevantes. La ubicación es híbrida en Lima, Perú. Se estima un rango salarial aproximado entre S/6,000 y S/9,000 mensuales para un rol Senior con este enfoque y experiencia en el sector."
+    "id": "https://www.linkedin.com/jobs/view/4314883272",
+    "title": "QA Automatizador",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4314883272",
+    "reason": "Aunque la descripción es mínima, el título 'QA Automatizador' se ajusta directamente a las preferencias del perfil ('Automation Engineer', 'SDET'). Al no haber una descripción detallada, se infiere que las responsabilidades se centrarían en la creación y ejecución de pruebas automatizadas.  Dado que no hay requisitos de experiencia explícitos en el título, y asumiendo que se trata de un puesto que valora la automatización, es probable que busque un perfil con al menos 3 años de experiencia para considerarlo un match sólido.  El rango salarial aproximado para un 'QA Automatizador' en Lima, Perú, podría oscilar entre S/ 4,500 y S/ 7,500 mensuales, dependiendo de la experiencia específica requerida y las tecnologías utilizadas."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4314059784",
-    "title": "QA (Automatizador/Funcional) Pleno",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4314059784",
-    "reason": "La oferta es para un puesto de 'QA (Automatizador/Funcional) Pleno' en Indra, una empresa que a menudo trabaja con las tecnologías del perfil. Si bien el título no especifica 'Sr' y la descripción es breve, el enfoque en 'Automatizador/Funcional' es clave. Dada la experiencia requerida en el perfil general (3+ años), un rol 'Pleno' en Indra podría implicar un nivel de experiencia similar o ligeramente inferior, pero con un claro enfoque en automatización. Asumimos que la experiencia requerida en Indra para este rol estaría dentro del rango de 3 años. Indra es una empresa importante en el sector de TI. La ubicación es en La Molina, Lima, Perú. Se estima un rango salarial aproximado entre S/4,800 y S/7,500 mensuales para un rol 'Pleno' con enfoque en automatización en una empresa como Indra."
+    "id": "https://www.linkedin.com/jobs/view/4311630266",
+    "title": "Analista QA SemiSenior - Certificado ISTQB",
+    "employer": "Ditech Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4311630266",
+    "reason": "Esta oferta se ajusta al perfil por solicitar un 'Analista QA SemiSenior' con 'Mínimo 3 años de experiencia en el rol' y certificación ISTQB. Si bien no especifica explícitamente automatización en el título, las funciones descritas incluyen la realización de 'pruebas funcionales, pruebas de performance, pruebas de regresión, pruebas exploratorias, pruebas de sistemas e integración', y la elaboración de planes y casos de prueba.  La mención de 'pruebas de performance' y la necesidad de analizar resultados y generar informes, junto con el nivel 'SemiSenior' y la certificación, sugieren que la automatización es una habilidad valorada o esperada en este rol. El rango salarial aproximado para un Analista QA SemiSenior en Lima, Perú, con estas características, podría ser de S/ 4,500 a S/ 7,000 mensuales."
   }
 ]
