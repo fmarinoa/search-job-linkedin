@@ -52,7 +52,7 @@ jobs:
       - name: Hacer commit y push de archivos generados
         run: |
           git config user.name fmarinoa
-          git config user.email <${{ secrets.MAIL }}>
+          git config user.email ${{ secrets.MAIL }}
           git add results
           git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update results folder with latest info"
           git push origin main
