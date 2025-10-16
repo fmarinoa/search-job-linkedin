@@ -1,30 +1,44 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4314456081",
-    "title": "QA Funcional/Automatizador Sr",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4314456081",
-    "reason": "Esta oferta se ajusta al perfil buscado ya que solicita un 'QA Semisr Funcional Automatizado' con al menos 2-3 años de experiencia, que es un rol senior dentro del espectro de automatización. Se mencionan habilidades clave como la definición de historias de usuario, planes de prueba, técnicas de diseño de pruebas, prueba de regresión, tipos de pruebas, ceremonias ágiles, automatización de casos de prueba, BDD, Gherkin, pruebas de servicio (REST/SOAP) y herramientas como Karate, Selenium WebDriver, Serenity BDD, Cucumber y Jira Xray.  El enfoque principal es la automatización y las pruebas funcionales, alineado con el perfil 'QA Senior' y 'Automation Engineer'. El rango salarial aproximado para un puesto Senior en Lima, Perú, con estas responsabilidades y experiencia, podría oscilar entre S/ 5,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4314517730",
-    "title": "QA Engineer - Remote Work",
-    "employer": "BairesDev",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4314517730",
-    "reason": "Esta oferta se alinea perfectamente con el perfil buscado, especialmente con el rol 'SDET' y 'Automation Engineer' con 'QA Senior' preferencias, solicitando '5+ años de experiencia en QA Automation' y '3+ años de experiencia en API Automation' y 'UI Automation experience (Cypress, Playwright, Selenium)'. Las responsabilidades incluyen crear y ejecutar casos de prueba, automatizar escenarios usando Cypress (UI y API), mantener y extender frameworks de automatización, y asistir al equipo QA.  El hecho de ser un rol remoto y ofrecido por BairesDev, una empresa reconocida por trabajar con talento top, sugiere una compensación competitiva. El rango salarial aproximado para un rol de QA Automation con esta experiencia y en una empresa como BairesDev, incluso remoto, podría estar entre USD 3,000 y USD 5,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4314883272",
-    "title": "QA Automatizador",
+    "id": "https://www.linkedin.com/jobs/view/4315321488",
+    "title": "QA Automatizador + Devsecops",
     "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4314883272",
-    "reason": "Aunque la descripción es mínima, el título 'QA Automatizador' se ajusta directamente a las preferencias del perfil ('Automation Engineer', 'SDET'). Al no haber una descripción detallada, se infiere que las responsabilidades se centrarían en la creación y ejecución de pruebas automatizadas.  Dado que no hay requisitos de experiencia explícitos en el título, y asumiendo que se trata de un puesto que valora la automatización, es probable que busque un perfil con al menos 3 años de experiencia para considerarlo un match sólido.  El rango salarial aproximado para un 'QA Automatizador' en Lima, Perú, podría oscilar entre S/ 4,500 y S/ 7,500 mensuales, dependiendo de la experiencia específica requerida y las tecnologías utilizadas."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4315321488",
+    "reason": "Esta oferta se ajusta al perfil por la experiencia requerida en automatización (+3 años) y la mención explícita de \"QA Automatizador\" y \"DevSecOps\". Las responsabilidades incluyen automatizar pruebas web y de servicios (APIs REST/SOAP), integración con DevOps y participación en iniciativas DevSecOps. El dominio de Java o C# y frameworks como Serenity BDD son relevantes. Si bien no se especifica un rango salarial, para un puesto de \"Senior QA Automatizador + DevSecOps\" en Lima, Perú, con esta experiencia y responsabilidades, se estima un rango salarial mensual bruto aproximado de S/ 8,000 a S/ 12,000."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4311630266",
-    "title": "Analista QA SemiSenior - Certificado ISTQB",
-    "employer": "Ditech Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4311630266",
-    "reason": "Esta oferta se ajusta al perfil por solicitar un 'Analista QA SemiSenior' con 'Mínimo 3 años de experiencia en el rol' y certificación ISTQB. Si bien no especifica explícitamente automatización en el título, las funciones descritas incluyen la realización de 'pruebas funcionales, pruebas de performance, pruebas de regresión, pruebas exploratorias, pruebas de sistemas e integración', y la elaboración de planes y casos de prueba.  La mención de 'pruebas de performance' y la necesidad de analizar resultados y generar informes, junto con el nivel 'SemiSenior' y la certificación, sugieren que la automatización es una habilidad valorada o esperada en este rol. El rango salarial aproximado para un Analista QA SemiSenior en Lima, Perú, con estas características, podría ser de S/ 4,500 a S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4315005465",
+    "title": "Analista QA/Certificacion ISTQB",
+    "employer": "Entelgy",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4315005465",
+    "reason": "Esta oferta encaja debido a la experiencia requerida en pruebas funcionales (2 a 4 años) y la experiencia en automatización de casos de prueba. Se destaca la experiencia en el dominio \"Banca\" y \"pruebas de performance y API Testing (indispensable)\", ambos criterios del perfil. La certificación ISTQB es un plus. Las responsabilidades incluyen diseño y ejecución de pruebas automatizadas, pruebas de performance y APIs, y documentación. Si bien no se menciona un rango salarial, para un \"Analista QA\" con este nivel de experiencia y en el sector bancario en Lima, se estima un rango salarial mensual bruto aproximado de S/ 6,000 a S/ 9,000."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4315183267",
+    "title": "QA Funcional/Automatizado con experencia con JMeter",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4315183267",
+    "reason": "Esta oferta es relevante ya que busca un \"QA Pleno Funcional/Automatizado\" con experiencia mínima de 2 años, lo cual se alinea con el requisito de \"3+ años\" (considerando \"Pleno\" como un nivel intermedio-senior). La mención de \"automatizador\" y técnicas de automatización son clave. Las responsabilidades incluyen definición de historias de usuario, planes de pruebas, técnicas de diseño, pruebas de regresión, pruebas de servicio (REST/SOAP) y BDD. La experiencia con JMeter y tecnologías como Selenium, Cucumber y Jira Xray son importantes. Aunque no se proporciona un rango salarial, para un puesto \"QA Pleno\" en Lima, Perú, con esta experiencia y en una empresa como Indra, se estima un rango salarial mensual bruto aproximado de S/ 7,000 a S/ 11,000."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4315350116",
+    "title": "Analista de pruebas QA",
+    "employer": "Choucair Testing S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4315350116",
+    "reason": "Esta oferta, \"Analista de pruebas QA\", se alinea con el perfil por el enfoque en pruebas y la experiencia requerida de 2 años. Si bien la descripción es breve, menciona \"plan de pruebas\" y \"pruebas de servicios Postman, Soap Ui\", que son aspectos relevantes para la automatización de APIs. La empresa \"Choucair Testing\" es conocida en el sector QA. El título \"Analista de pruebas\" podría ser un poco junior para el perfil \"3+ años\", pero la experiencia requerida de 2 años y el tipo de pruebas mencionadas lo hacen un candidato potencial. Dado que se busca \"2 años de experiencia\", el rango salarial estimado para este puesto en Lima, Perú, sería de S/ 4,500 a S/ 6,500 mensuales brutos."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4300331362",
+    "title": "QA Data Analyst",
+    "employer": "Softtek",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4300331362",
+    "reason": "Esta oferta, \"QA Data Analyst\", aunque tiene un enfoque en \"BI\" y \"Calidad de Datos\", requiere \"5 años a más en la especialidad\" y menciona \"Competencia técnica de diferentes Tipos de Testing (volumen, Smoke test, performance, funcional, técnico)\", \"Experiencia en Pruebas Funcionales, Regresión, Integración y Aceptación\". Además, incluye \"Competencia técnica avanzados en Plataformas tecnológicas GCP, AWS\", \"Manejo avanzado de lenguaje Gherkin\" y \"Competencia técnica en Automatización / Scripting\". Estos puntos son relevantes para un perfil de QA con experiencia en testing de sistemas complejos y tecnologías cloud. Las responsabilidades incluyen \"Diseñar el plan de Testing, casos de prueba y estrategia a aplicar\". Si bien el enfoque principal es datos, la experiencia en automatización y tipos de testing lo hace un match. Se estima un rango salarial mensual bruto aproximado de S/ 9,000 a S/ 13,000 para un perfil con 5 años de experiencia en QA y especialización en datos y cloud."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4315306572",
+    "title": "QA Funcional Senior (Bantotal/AS-400)",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4315306572",
+    "reason": "Esta oferta es un match directo al buscar \"QA Funcional Senior\" con experiencia en \"Bantotal/AS-400\". La palabra \"Senior\" coincide con las preferencias. Si bien la descripción está vacía, el título y la empresa sugieren un rol de alta calidad y complejidad en el sector financiero. Se asume que las responsabilidades incluirán pruebas funcionales avanzadas y posiblemente automatización en el contexto de sistemas bancarios legacy. Para un rol \"Senior\" en Lima, Perú, en el sector financiero, se estima un rango salarial mensual bruto aproximado de S/ 8,000 a S/ 12,000."
   }
 ]
