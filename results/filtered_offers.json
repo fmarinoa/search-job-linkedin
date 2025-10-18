@@ -1,38 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4315845191",
-    "title": "Analista QA Funcional",
-    "employer": "Veriinfo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4315845191",
-    "reason": "Esta oferta encaja con el perfil debido a que requiere 3 años de experiencia en pruebas funcionales (manuales y exploratorias), validación de flujos en Web, APIs y Móvil, gestión de defectos, SQL, y conocimientos en microservicios, Java y Python, así como familiaridad con Azure/AWS. Menciona explícitamente Selenium, Cypress, Playwright y Postman como deseables, que son herramientas de automatización clave. Las responsabilidades incluyen pruebas funcionales, validación de flujos y gestión de defectos. El rango salarial aproximado para un puesto con estas características en Lima, Perú, se estima entre S/ 4,000 y S/ 7,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4313095019",
-    "title": "QA Automatizador",
-    "employer": "Sermaluc",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4313095019",
-    "reason": "Esta oferta se ajusta al perfil dado que solicita 3 años o más de experiencia como Analista de Calidad, diseño y ejecución de planes y casos de prueba funcionales, de carga y desempeño. Destaca el desarrollo y mantenimiento de proyectos de automatización en Java, y el uso de herramientas de automatización como JMeter, Selenium, Cucumber, Appium y Postman. La integración de pruebas automatizadas en flujos CI/CD con GitLab y/o Jenkins, y el trabajo colaborativo con metodologías ágiles son puntos clave. Las principales responsabilidades giran en torno a la automatización de pruebas. El rango salarial aproximado para este puesto en Lima, Perú, se estima entre S/ 4,500 y S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4315885922",
-    "title": "QA Automatizador",
-    "employer": "Sermaluc Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4315885922",
-    "reason": "Aunque la descripción está vacía, el título 'QA Automatizador' junto con el empleador 'Sermaluc Perú' (empresa del rubro bancario y financiero, según la otra oferta de Sermaluc) sugiere que esta oferta podría ser similar a la otra de Sermaluc, que pide 3+ años de experiencia en automatización (Java, Selenium, Appium, etc.) y experiencia en el rubro bancario. Las responsabilidades principales serían el desarrollo y ejecución de pruebas automatizadas. El rango salarial aproximado para este puesto en Lima, Perú, se estima entre S/ 4,500 y S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4315843584",
-    "title": "QA Automation engineer",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4315843584",
-    "reason": "El título 'QA Automation engineer' coincide directamente con las preferencias del perfil. Aunque la descripción está vacía, se asume que las responsabilidades se centran en la automatización de pruebas. El perfil busca experiencia en automatización web, mobile y APIs. El rango salarial aproximado para un puesto de QA Automation Engineer en Lima, Perú, se estima entre S/ 4,000 y S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4313244273",
+    "id": "https://www.linkedin.com/jobs/view/4316320216",
     "title": "Analista QA",
-    "employer": "Softtek",
-    "location": "San Isidro, Peru",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4313244273",
-    "reason": "Esta oferta menciona 'conocimientos básicos en automatización' y competencia técnica en automatización de pruebas funcionales con SerenityBDD. Si bien el título es 'Analista QA' y se buscan 4 años de experiencia, la mención de automatización, aunque sea básica, la hace potencialmente relevante. Las responsabilidades incluyen diseñar planes de testing, casos de prueba, ejecución de pruebas y análisis de resultados. El perfil busca experiencia más sólida en automatización, pero podría ser una oportunidad de crecimiento o un rol con un componente de automatización importante. El rango salarial aproximado para un Analista QA con experiencia en automatización en Lima, Perú, se estima entre S/ 3,500 y S/ 6,000 mensuales."
+    "employer": "Altimea",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4316320216",
+    "reason": "Esta oferta encaja con el perfil buscado ya que se requiere experiencia mínima de 3 años en Analista QA con herramientas de automatización como Selenium y Playwright, lo cual se alinea directamente con la experiencia en automatización web y móvil. Además, se menciona trabajo en metodologías ágiles y validación de despliegues en pipelines CI/CD. Las responsabilidades principales incluyen diseñar, planificar y ejecutar planes de prueba, desarrollar y mantener suites de prueba automatizadas para aplicaciones web, APIs y móviles, e identificar y reportar defectos. El rango salarial aproximado para un Analista QA con 3+ años de experiencia en Lima, Perú, y en una consultora de tecnología, podría oscilar entre S/ 5,000 y S/ 8,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4316394670",
+    "title": "Tester QA",
+    "employer": "Soluciones Digitales",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4316394670",
+    "reason": "La oferta es altamente relevante ya que busca QA Testers con experiencia en pruebas funcionales y conocimientos en automatización, específicamente para aplicaciones web y backend (Java/Spring Boot). Se valoran conocimientos en pruebas de APIs, CI/CD (Jenkins, GitLab) y se menciona la automatización con Selenium y RestAssured, que son parte del stack tecnológico deseado. Las responsabilidades clave son el diseño y ejecución de casos de prueba (manuales y automáticos), gestión de defectos, pruebas de regresión, y familiaridad con herramientas de CI/CD. El rango salarial aproximado para un Tester QA con 4 años de experiencia en Lima, Perú, y en una empresa de soluciones digitales, podría estar entre S/ 5,500 y S/ 8,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4316510110",
+    "title": "QA Automatizador Remoto",
+    "employer": "TiSmart",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4316510110",
+    "reason": "Esta oferta es una excelente coincidencia ya que busca un QA Automatizador con experiencia mínima de 4 años, cubriendo el requisito de experiencia. Se enfoca en el análisis y diseño de casos de prueba, ejecución de pruebas funcionales y no funcionales, y pruebas de carga y rendimiento. El conocimiento en automatización con Selenium es explícitamente requerido, y se menciona experiencia trabajando con Scrum. Las responsabilidades principales son la ejecución de pruebas de forma automatizada y la documentación. Dado que es una posición remota, el rango salarial aproximado para un QA Automatizador con 4+ años de experiencia en el mercado peruano, podría situarse entre S/ 6,000 y S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4316334575",
+    "title": "QA AUTOMATIZADOR",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4316334575",
+    "reason": "Esta oferta es muy pertinente para el perfil, ya que busca específicamente un QA Automatizador con experiencia de 3 años a más. Se mencionan herramientas de automatización como Selenium y Karate DSL, y se requiere experiencia en pruebas backend y web, incluyendo su automatización, lo cual se alinea con el perfil. Además, se especifica experiencia en metodologías ágiles y pruebas de servicio (REST SOAP). Las responsabilidades incluyen el manejo de estrategias de pruebas, automatización de pruebas web y backend, y el uso de herramientas de gestión de pruebas como Jira. El rango salarial aproximado para un QA Automatizador con 3+ años de experiencia en Lima, Perú, y en una empresa de tecnología como Indra, podría variar entre S/ 5,500 y S/ 8,500 mensuales."
   }
 ]
