@@ -1,79 +1,123 @@
 [
     {
-        "titleJob": "Analista QA",
-        "employer": "Altimea",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/altimea?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "12 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "Altimea, consultora de tecnología e innovación digital, se encuentra en la búsqueda de un Analista QA.RequisitosExperiencia mínima de 3 años como Analista QA.Experiencia y conocimiento en herramientas de automatización de pruebas: Selenium, Playwright, Postman, Datox, Appium.Conocimiento en pruebas de integración, de interfaz (UI), de contratos (Pact/Datox), de regresión y exploratorias.Manejo Sistemas de seguimiento de incidencias y gestión de pruebas (Jira, TestRail, Zephyr, Azure Boards).Manejo de Postman, REST Assured, SoapUI, Datox.Pruebas de carga y rendimiento básicas (por ejemplo con JMeter o con scripts en Datox).Experiencia en testing en Android (Kotlin) y iOS (Flutter); emuladores y dispositivos reales.Experiencia trabajando con Azure DevOps (pipelines, repositorios, artefactos) y GitLab (repos, GitLab CI/CD).Experiencia usando servicios de Google Cloud Platform (p. ej. Cloud SQL, Pub/Sub, Stackdriver).Trabajo colaborativo en metodologías ágiles (Scrum/Kanban).FuncionesDiseñar, planificar y ejecutar planes de prueba (test plans) y casos de prueba (test cases) para aplicaciones web, APIs y móviles.Desarrollar y mantener suites de prueba automatizadas end‑to‑end y de integración.Identificar, reportar y hacer seguimiento de defectos utilizando herramientas de gestión de incidencias (p. ej. Jira, Azure Boards).Colaborar con desarrolladores y analistas en ciclos ágiles (Scrum/Kanban) para definir criterios de aceptación y calidad.Realizar pruebas de regresión, rendimiento y usabilidad.Validar despliegues en pipelines CI/CD (Azure DevOps, GitLab CI), asegurando la estabilidad en entornos de prueba y preproducción.Generar informes de métricas de calidad e indicadores de cobertura de pruebas.Colaborar con el equipo de desarrollo para mejorar la calidad de los productos.Autonomía y proactividad para proponer mejoras en procesos de calidad y automatización.CondicionesModalidad: remotaHorario: lunes a viernes.Duración de proyecto: 6 meses.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4316320216"
-    },
-    {
-        "titleJob": "Supervisor QA/QC",
-        "employer": "INPCO SAC",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/inpco-sac?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "6 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4316369829"
-    },
-    {
-        "titleJob": "Tester QA",
-        "employer": "Soluciones Digitales",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/soluciones-digitales-a-medida?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima Metropolitan Area",
-        "howLongAgo": "4 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "Estamos en búsqueda de QA Testers con experiencia en pruebas funcionales y conocimientos en automatización, para garantizar la calidad de aplicaciones web desarrolladas con Angular 14+ en el frontend y Java 17 + Spring Boot en el backend. Se valorará ampliamente la experiencia en pruebas de APIs, validación de datos en bases de datos, y herramientas de CI/CD como Jenkins, GitLab y SonarQube.Formación:Egresado o titulado en Ingeniería de Sistemas, Computación o carreras afines.Deseable certificación ISTQB.Cursos o especialización en pruebas de software y automatización.Experiencia:Mínimo 4 años de experiencia en QA o Testing.Experiencia con sistemas web integrados a servicios backend (Java/Spring).Participación en proyectos con metodologías ágiles (Scrum/Kanban).Requisitos Técnicos:Diseño y ejecución de casos de prueba (manuales y automáticos).Gestión de defectos/bugs y documentación de evidencias.Pruebas de regresión, exploratorias, smoke, etc.Lenguajes de scripting: Angular, Java, JavaScript, Python, Postman, Jenkins, Keycloak.Pruebas de API REST:Experiencia con Postman o herramientas similares.Validación de endpoints, parámetros, códigos de respuesta, autenticación (OAuth2, JWT).Automatización de Pruebas (deseable):Selenium WebDriver.RestAssured.JMeter para pruebas de rendimiento.Bases de Datos:Consultas básicas en Oracle 19c (SQL).Lectura e interpretación de datos en MongoDB.Uso básico de Redis como caché.Autenticación y Seguridad:Comprensión del uso de Keycloak como gestor de identidad (manejo de login, permisos, roles).Validación de flujos autenticados en pruebas frontend y backend..Familiaridad con herramientas como:GitLab (repositorio y pipelines).Jenkins (automatización de pruebas).SonarQube (análisis de calidad de código).Nexus (repositorio de artefactos).Entendimiento del funcionamiento de arquitecturas basadas en:Kafka (deseable para entender flujos asincrónicos).NGINX como proxy inverso.Laserfiche como gestor documental.Competencias Blandas:Orientación a resultados y atención al detalleCapacidad para documentar pruebas y hallazgos claramenteTrabajo colaborativo con equipos de desarrollo y DevOpsPensamiento crítico y enfoque analítico para detectar errores y proponer mejorasModalidad:1er mes Presencial. Luego Hibrido.Lunes a Viernes, 9:00 am - 6:00 pm.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4316394670"
-    },
-    {
-        "titleJob": "QA Automatizador Remoto",
+        "titleJob": "QA Funcional Junior Remoto",
         "employer": "TiSmart",
         "linkProfileEmployer": "https://pe.linkedin.com/company/tismart?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "3 hours ago",
+        "howLongAgo": "1 hour ago",
         "recruiter": "Almendra Mabel Paz Olazabal",
         "profileRecruiter": "https://pe.linkedin.com/in/almendrapaz",
-        "descriptionOffer": "En TISmart estamos enteramente comprometidos con el crecimiento de nuestros clientes internos y externos, disfrutamos conceptualizando y desarrollando soluciones innovadoras que agreguen valor sus actividades y procesos. Contamos con un equipo multidisciplinario que nos permite co-crear y construir soluciones tecnológicas con una perspectiva cada vez más amplia. En esta oportunidad, buscamos un/a QA Automatizador.¿Qué harás en tu día a día?Realizar análisis y diseño de casos de pruebas para las historias de usuariosDiseñar los casos de prueba en base a herramientas de diseñoRealizar ejecución de casos de prueba funcionales y no funcionalesRealizar pruebas de carga y rendimientoDocumentar la ejecución de los casos de pruebaParticipar de las pruebas del pase a producciónHomologación de ramas en BitBucketEjecutar pruebas de manera automatizada¿Qué conocimientos nos gustaría encontrar en ti? (Experiencia mínima de 4 años en adelante)Conocimiento en aplicaciones y/o herramientas como TestNG y TestRailConocimiento en herramientas de diseños de casos de prueba.Conocimientos en Jira/Confluence.Conocimiento en CucumberConocimiento en lenguaje de programación como JavaExperiencia trabajando con Scrum u otros frameworks de agilidad.Conocimiento en automatización con SeleniumBeneficios:Modalidad 100% remotaOportunidad de ingresar a un proyecto retador",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4316510110"
+        "descriptionOffer": "En TISmart estamos enteramente comprometidos con el crecimiento de nuestros clientes internos y externos, disfrutamos conceptualizando y desarrollando soluciones innovadoras que agreguen valor sus actividades y procesos. Contamos con un equipo multidisciplinario que nos permite co-crear y construir soluciones tecnológicas con una perspectiva cada vez más amplia. En esta oportunidad, buscamos un/a QA Funcional - Junior:¿Qué conocimientos esperamos de ti?Como mínimo 06 meses en experiencia en lo siguiente:Ciclo de vida del software (SDLC)Tipos de pruebas: funcionales, regresión, integración, UAT, exploratoriasDiseño de casos de prueba y manejo de criterios de aceptaciónTécnicas de prueba: partición de equivalencia, valores límiteGestión de defectos y trazabilidad de requerimientosGestión de pruebas y bugs: Jira, TestRail, Service DeskConocimiento SQL Server, MongoDBPruebas de API: Postman, XMLConocimiento de BDD (Gherkin, Cucumber)Conocimiento en metodología ágil Scrum ¿Qué habilidades te harán apto para esta posición?Conocimiento de BDD (Gherkin, Cucumber)Conocimiento en metodología ágil ScrumPensamiento analíticoAtención al detalleComunicación efectivaTrabajo colaborativo (Scrum/Kanban)Autonomía y proactividad¿Qué te ofrecemos?Oportunidad de ingresar a un proyecto retadorOportunidad de demostrar tu talento y aprender del talento de otros mediante TISmart UniversityTrabajo 100% RemotoProyecto Temporal de 3 meses",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4317505979"
     },
     {
-        "titleJob": "QA AUTOMATIZADOR",
+        "titleJob": "QA Líder -  Hibrido Lima",
+        "employer": "NTT DATA Europe & Latam",
+        "linkProfileEmployer": "https://es.linkedin.com/company/ntt-data-europe-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "58 minutes ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "NTT DATA Company es una compañía multinacional que ofrece soluciones de negocio, estrategia, desarrollo y mantenimiento de aplicaciones tecnológicas, y outsourcing. La compañía, que desarrolla su actividad en los sectores de telecomunicaciones, entidades financieras, industria, utilities, energía, administración pública y sanidad, alcanzó una facturación de 691 millones de euros en el último ejercicio fiscal. En la actualidad, cuenta con más de 13.000 profesionales distribuidos en sus oficinas y centros de alto rendimiento en 14 países.NTT DATA, es la sexta compañía de servicios IT del mundo, con 70.000 profesionales y presencia en Asia-Pacífico, Oriente Medio, Europa, Latinoamérica y Norteamérica. La integración en NTT DATA permite a everis ampliar las soluciones y servicios para sus clientes, aumenta sus capacidades, recursos tecnológicos, geográficos y financieros le ayuda a dar las respuestas más innovadoras a sus clientes.FUNCIONES:Asegurar el gobierno del proceso de pruebas, la calidad del software y la eficiencia de los procesos de testing de los sistemas involucrados en el proyectoEstablecer la visión, objetivos, alcances y estrategias de pruebas, alineándose con las necesidades del negocio y estándares de calidad.Asegurar el cumplimiento de los Quality Gates definidos para el proyecto.Seguimiento global de la evolución del proyecto a nivel de las actividades de pruebas.Resolución y escalados de riesgos y problemas .Coordinación y dirección del equipo de trabajo asignado.Implantación de acciones de mejora .Emitir informes de seguimiento .Participar de las reuniones de Seguimiento .Supervisar el cumplimiento de los lineamientos de calidad .REQUISITOS:Egresado o bachiller de la carrera universitaria o técnica relacionadas a ingeniería de sistemas, informática, computación o a fines.Experiencia de 10 años de experiencia en QA participando en proyecto estratégicos de migración de core financiero / adquirencia.Conocimiento de procesos de negocio en Payments: compensación, liquidación, procesos de autorización, entre otros.CONDICIONES:Disponibilidad para trabajar de lunes a viernes de 9am a 7pmDisponibilidad Hibrida en San IsidroBENEFICIOS:Inmejorable oportunidad de línea de carrera profesional en nuestra consultora líder en el mercado TI.Contrato indeterminado desde el primer día.EPS cubierta al 100%Seguro OncológicoTarjeta de AlimentaciónSeguro Vida Ley desde el primer día de labor.Bono de alimentos.Descuentos corporativosPermanente capacitación y formación profesional.“NTT DATA es un entorno inclusivo donde cada voz es escuchada y cada historia es valorada. Por eso, nuestro proceso de selección y reclutamiento se enfoca en identificar el talento sin distinción o sesgos relacionados con género, sexo, orientación sexual, discapacidad, edad u otras características personales”",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4316677236"
+    },
+    {
+        "titleJob": "QA BI",
+        "employer": "Softtek",
+        "linkProfileEmployer": "https://mx.linkedin.com/company/softtek?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "9 hours ago",
+        "recruiter": "Katherine Alarcon Carbajal",
+        "profileRecruiter": "https://pe.linkedin.com/in/katherine-alarcon-carbajal-b94359230",
+        "descriptionOffer": "Softtek es un proveedor global de servicios orientados a procesos de TI con más de 30 oficinas en Norteamérica, Latinoamérica, Europa y Asia. Maximizamos el valor del software para el mundo: Creamos, Probamos, Implementamos y damos mantenimiento a sistemas que empoderan organizaciones e individuos. En la actualidad nos encontramos en la búsqueda de un talento para el perfil: QA BIRequisitos:Egresado(a), Bachiller o Titulado(a) de Ingeniería de Sistemas, Informática o afines.Experiencia de 5 años a más en el puesto.Competencia técnica de metodologías y modelos de calidad para la industria del software.Competencia técnica medio de herramientas para la ejecución y seguimiento de pruebas.Competencia técnica de CMMI, ISTQB, Modelo en V, RUPModelos y Data - Looker / Power BI / Bigquery / Python / GCPMetodologías de desarrollo de sistemas (ágiles, no ágiles).Competencia técnica de Scrum/UML/TDD/BDD/IC, experiencia en caso de asignaciones a equipos ágiles.Competencia técnica de diferentes Tipos de Testing (volumen, Smoke test, performance, funcional, técnico).Experiencia en Pruebas Funcionales, Regresión, Integración y Aceptación.Competencia técnica de lenguajes de consulta de Base de Datos.Competencia técnica avanzada en Plataformas tecnológicas GCP, AWS ('Amazon Web Services': Servicios AWS Athena, Redshift, AWS Glue, Lambda, Step Funtioncs y S3; 'Google Cloud Platform': Servicios Big Query, Storage, Airflow, Composer).Competencia técnica del Framework de DAMA.Competencia técnica avanzado en Herramientas de visualización Power BI, Looker Studio, Tableau. Conocimiento en herramientas de Automatización para la validación de datos en gran volumetría.Manejo de lenguaje Gherkin.Funciones:Diseñar el plan de Testing, casos de prueba y estrategia a aplicar para las distintas actividades de Testing necesarias.Preparación, identificación de data para la verificación de los productos desarrollados.Ejecutar los casos de prueba y llevar un registro de los defectos encontrados, así como realizar el seguimiento de los mismos hasta su adecuada corrección.Analizar y reportar los resultados de las pruebas, estadísticas, etc.Brindar soporte en las actividades de integración y verificar que las versiones liberadas cumplan con los requisitos de calidad establecidos.Ofrecemos:Ingreso a planilla con todos los beneficios de ley.EPS al 100%Modalidad de trabajo: HIBRIDOCapacitación constante y línea de carrera.Podrás optar por los descuentos corporativos en empresas de entretenimiento, educación, entre otros.Contamos con una plataforma exclusiva virtual con más de 3,000 cursos orientados a potencializar tus habilidades técnicas como blandas.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4289932523"
+    },
+    {
+        "titleJob": "QA Performance Senior",
         "employer": "Indra",
         "linkProfileEmployer": "https://es.linkedin.com/company/indra?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "11 hours ago",
-        "recruiter": "Stefanny GarcÃ­a Rojas",
-        "profileRecruiter": "https://pe.linkedin.com/in/stefanny-garc%C3%ADa-rojas-63ab851b7",
-        "descriptionOffer": "Somos una compañía líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible.Buscamos perfiles de QA Automatizador con ganas de trabajar en nuestros equipos multidisciplinares y en los clientes más referentes en la región.More digital. More human. More Indra Minsait.¿Por qué consideramos que tenemos una gran oportunidad para ti?• Porque estarás en contacto continuo con las tecnológicas, impulsando la transformación digital haciendo uso de las herramientas más referentes del mercado.• Porque participarás en proyectos y desarrollos que tienen una alta visibilidad y que marcan la diferencia con soluciones disruptivas y especializadas para toda la cadena de valor.RequisitosExperiencia de 3 años a más como QA Automatizador manejando las siguientes herramientas:ISTQBTécnicas de PruebasSerenity BDD y Gherkin (indispensable)Estrategias de pruebasPruebas Backend (Incluido su automatización).Pruebas Web y Escritorio (incluido su automatización)Selenium, Karate DSL (1 a 2 años - Indispensable)Ceremonias Ágiles - (Scrum/ Spring Planning / Review /Retrospectiva)Prueba de Servicio - (REST SOAP)Herramientas de Automatización: Selenium, Karate (Indispensable)Coding: Java/Javascript.Test Management: Jira + Xray, Gherkin.Horario de trabajo: De lunes a viernes de 9:00am a 6:30pm.Disponibilidad para trabajo híbrido: 2 días presencial y 3 remoto - Sede La Molina / Sede ChorrillosBeneficios:• 💼 Modalidad: Híbrido• ✍️EPS cubierta al 100%.• 📚Oportunidad de línea de desarrollo profesional con evaluaciones de desempeño para crecimiento y línea de carrera en nuestra compañía líder en el mercado TI.• 📚Acceso a la plataforma Udemy 100% gratuita.• ✍️Planilla al 100% (Vacaciones, CTS, Gratificación, etc.)• 🌎Participación en proyectos globales con clientes líderes en su industria.• 🎓Plan de formación y desarrollo continuo técnico y funcional.• 🤝Cultura de colaboración, innovación y crecimiento profesional.• 📜 Seguro vida Ley.¿Estás listo para unirte a un equipo global e innovador? ¡Únete a INDRA y da el siguiente paso en tu carrera profesional!",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4316334575"
+        "howLongAgo": "10 hours ago",
+        "recruiter": "Nicole Sotomayor LÃ³pez",
+        "profileRecruiter": "https://pe.linkedin.com/in/nicolesotomayorl%C3%B3pez",
+        "descriptionOffer": "Somos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible.Buscamos un QA Perfomance Senior con ganas de trabajar en nuestros equipos multidisciplinares.Requisitos:Coding:Java/JavaScript.Performance:HP Load Runner.Jmeter.Test Management:Jira + Xray.Gherkin.Testing Continuo: Github.Otras: Dynatrace.Postman.Owasp.MongoDB.Selenium.Beneficios:Planilla Completa desde el 1er día de trabajo.Cobertura al 100% de EPS.Asesorías psicológicas y nutricionales gratuitas.Convenios Corporativos.Acceso ilimitado a cursos y certificaciones online en Udemy.Crecimiento y desarrollo profesional.¡Anímate y postula con nosotros!",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4314393503"
     },
     {
-        "titleJob": "Reporting Developer - Work from home",
-        "employer": "Nearsure",
-        "linkProfileEmployer": "https://www.linkedin.com/company/nearsure?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima Metropolitan Area",
-        "howLongAgo": "5 hours ago",
+        "titleJob": "QA Automatizador Senior (Python)",
+        "employer": "Indra",
+        "linkProfileEmployer": "https://es.linkedin.com/company/indra?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "7 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4315750599"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4314907252"
     },
     {
-        "titleJob": "IT Product Owner",
-        "employer": "Auna",
-        "linkProfileEmployer": "https://mx.linkedin.com/company/auna?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
+        "titleJob": "NetSuite Developer Junior",
+        "employer": "LatamReady | Oracle NetSuite Solution Provider | Official Partner",
+        "linkProfileEmployer": "https://www.linkedin.com/company/latamready-netsuite-for-latinamerica?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
         "howLongAgo": "9 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Con tu talento podremos seguir llevando salud de calidad a más personas, y convertirnos en los referentes de la salud en Latinoamérica.Súmate a nuestro propósito y postula al cargo de: IT PRODUCT OWNERPrincipales funciones:Definir, priorizar y mantener el Product Backlog, asegurando su alineación con la estrategia del producto y las metas del negocio.Trabajar estrechamente con el IT Product Manager para alinear la visión del producto en requisitos y entregables concretos para el equipo de diseño y desarrollo.Detallar y documentar User Stories, criterios de aceptación y flujos funcionales para cada entrega del sprint centrados en el usuario y los KPIs comerciales.Participación activa en las ceremonias ágiles como planning, daily, reviews, retrospectiva, entre otras.Colaborar con equipos multidisciplinarios (UX/UI, desarrollo, QA, data, comercial, etc.) para asegurar una ejecución efectiva del roadmap.Validar entregas del equipo y asegurar que cumplan con los estándares de calidad y valor esperadoAnalizar métricas de desempeño (KPIs) del producto (engagement, tasa de abandono, leads, tráfico, conversiones, etc.) para orientar futuras iteraciones.Representar la voz del cliente y del negocio dentro del equipo ágil e identificar oportunidades de mejora continua en procesos, herramientas y comunicación.Requisitos:Egresado o bachiller de marketing, ingeniería industrial, ingeniería de sistemas o afinesExperiencia mínima de 04 años como PO, analista de productos o similaresDominio de inglés y Excel (intermedio)Deseable dominio de power BIConocimiento en transformación digital, agile/scrum, plataformas y estrategias en ecommerce (indispensable)Conocimiento de HubSpot, Amplitude, Google analytics, Jira, Looker Studio, Figma, MiroBeneficiosIngreso a planilla con todos los beneficios de ley.Un Plan de Salud mixto para ti y tus familiares derechohabientes, cubierto al 85% (en el Plan Base Mapfre) y con cobertura al 75% (en el plan adicional Corporativo Auna Salud).Programa Oncológico cubierto al 100% para titular y derechohabientesBeneficios Corporativos y Club de descuentos.Tarjeta de alimentación en caso aplique.Medio día Libre por CumpleañosPrograma de becas de estudio: Desafíate con AunaPrograma de reconocimientoEn AUNA estamos comprometidos con la Diversidad, Equidad e Inclusión, por lo que todos los candidatos/as son considerados por igual en nuestros procesos de selección, sin distinción alguna de la orientación sexual, discapacidad, género, edad, etnia, raza, entre otros.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4313371872"
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4317339200"
+    },
+    {
+        "titleJob": "Fullstack Developer",
+        "employer": "Electronic Payments",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/electronic-payments-sac?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "2 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4317511226"
+    },
+    {
+        "titleJob": "Practicante de Estrategia Digital",
+        "employer": "Inca Rail",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/incarail?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "7 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "En Inca Rail nos encontramos en búsqueda del mejor talento para el puesto de Practicante Pre Profesional de Estrategia Digital en Lima.Misión:Apoyar en la ejecución, análisis y optimización de la estrategia digital de Inca Rail, con foco en la construcción de reportería avanzada (web + venta asistida) y en la mejora continua de la conversión (CRO), cuantificando el impacto de las acciones implementadas a través de KPIs que eleven la experiencia del cliente y la eficiencia comercial. Requisitos:Estudiante de 6° o 8° ciclo en la carrera de Administración, Ingeniería Industrial, Ingeniería de Sistemas o carreras afines.Excel Avanzado (indispensable)Power BI Intermedio (indispensable)Disponibilidad para trabajar semi presencial en Lima.Funciones:Detectar, validar y proponer mejoras de UX/UI y contenido con base en benchmarks turísticos, heurísticas de CRO y pruebas A/B. Diseñar, automatizar y actualizar dashboards ejecutivos sobre KPIs clave (CVR web y asistido, funnel P1–P6, ingresos, ticket, % de abandono).Ejecutar y dar soporte a A/B testing end-to-end: hipótesis, setup técnico, QA, análisis estadístico y documentación. Análisis cuantitativo y cualitativo de interacciones y journeys multicanal (web, call center, WhatsApp): tiempos de respuesta, objeciones, patrones de compra, oportunidades de upsell/cross-sell. Desarrollar y presentar data stories ejecutivos con hallazgos de performance, insights y propuestas tácticas para la Subgerencia.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4317366293"
+    },
+    {
+        "titleJob": "Desarrollador Backend Developer Mid Senior",
+        "employer": "Academia Vonex",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/academia-vonex?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "48 minutes ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "En corporación educativa Odiseo estamos en búsqueda de (1) Desarrollador Backen Developer Mid SeniorRequisitosEgresado y/o Bachiller en Ingeniería de Sistemas, Software, Informática o carreras afines.Experiencia previa de 3 años en puestos similares.Conocimientos en Lenguajes: PHP, Laravel, JavaScript, Node.js.Conocimientos en Base de datos: PostgreSQL, MySQL.Conocimientos en Control de versiones: Git (GitLab/GitHub).Conocimientos en Pruebas: PHPUnit o Jest.FuncionesDiseñar y desarrollar servicios, APIs y microservicios escalables y seguros.Implementar y mantener aplicaciones backend utilizando PHP (Laravel) y PostgreSQL, garantizando buenas prácticas de desarrollo.Asegurar la integración eficiente con interfaces frontend (React u otras) mediante endpoints documentados.Analizar, diseñar y optimizar estructuras de base de datos, procedimientos almacenados y consultas SQL.Participar en el análisis técnico de requerimientos y colaborar con el Product Owner y el equipo de QA.Realizar pruebas unitarias y de integración para asegurar la calidad del código.Implementar medidas de seguridad, autenticación y autorización de usuarios.Contribuir a la mejora continua del stack tecnológico, proponiendo soluciones técnicas innovadoras.Documentar de manera clara la arquitectura, endpoints, dependencias y procesos de despliegue.Apoyar en la revisión de código (code review) y en la mentoría técnica de miembros junior del equipo.Horario: Lunes a Viernes de 7:55 am a 6:00 pmModalidad: 100% presencial - Cercado de LimaIngreso a Planilla completa desde el primer día de trabajo.Tenemos claro que en la inclusión y en la diversidad está el éxito, por eso estamos comprometidos en brindar un lugar de trabajo más inclusivo y diverso, en donde se respete la individualidad y se promueva la igualdad de oportunidades sin discriminar por motivos de raza, religión, sexo, edad, discapacidad, nacionalidad, orientación sexual, identidad o expresión.Por ello, queremos que sepas que esta convocatoria también está dirigida para personas con discapacidad.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4317522314"
+    },
+    {
+        "titleJob": "Ruby on Rails Developer",
+        "employer": "Applaudo",
+        "linkProfileEmployer": "https://sv.linkedin.com/company/applaudo?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "8 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "About YouYou are a back-end engineer passionate about building scalable, reliable, and maintainable applications. You thrive on writing clean code, applying modern architecture patterns, and leveraging cloud-based solutions. You enjoy solving complex challenges, automating infrastructure, and ensuring that systems are secure, performant, and ready to scale. You’re looking for a company where you can keep growing professionally and directly influence technical excellence.You Bring to Applaudo the Following Competencies:Bachelor’s degree in Computer Science, Software Engineering, or related field; or equivalent professional experience.5+ years of experience in back-end development using Ruby on Rails.Strong experience with AWS services such as Lambda, EC2, S3, RDS, and API Gateway.Hands-on experience using Terraform for Infrastructure as Code (IaC) deployments.Solid understanding of serverless architectures and AWS Lambda functions.Experience designing and consuming RESTful and GraphQL APIs.Knowledge of PostgreSQL, Redis, and background job frameworks (Sidekiq, Resque).Familiarity with Docker, CI/CD pipelines, and automated deployments.Experience working with Agile/Scrum methodologies, and proficiency using Jira and Confluence for project tracking.Strong debugging, problem-solving, and communication skills for cross-functional collaboration.Experience with microservices, GoLang, or Node.js for complementary service integration (nice to have).You Will Be Accountable for the Following Responsibilities:Design, develop, and maintain Ruby on Rails applications with a focus on scalability and performance.Build and manage AWS infrastructure components using Terraform and DevOps best practices.Implement and maintain serverless solutions leveraging AWS Lambda and related services.Integrate and maintain APIs and external systems, ensuring reliability and data consistency.Refactor legacy components to improve maintainability, performance, and code clarity.Write and maintain automated tests (RSpec, Minitest) to ensure high code quality and coverage.Monitor application performance and proactively address issues or bottlenecks.Collaborate on CI/CD pipelines, ensuring secure, consistent, and efficient deployments.Participate in code reviews, maintaining high-quality development standards.Engage in Agile ceremonies (standups, sprint planning, reviews, retrospectives).Work closely with front-end, DevOps, and QA teams to deliver robust, end-to-end solutions.Additional InformationHere at Applaudo Studios values as trust, communication, respect, excellence and team work are our keys to success. We know we are working with the best and thus treat each other with respect and admiration without asking.Submit your application today, and don't miss this opportunity to join the Best Digital team in the Region!We truly appreciate all the hard and outstanding work our team makes every day at Applaudo Studios, and that's why the perks that we offer, are deeply thought and designed as a way to thank them for their commitment and excellence.Some of our perks and benefits:CelebrationsSpecial discounts*Entertainment area*Modern Work Spaces*Great work environmentPrivate medical insurance**Benefits may vary according to your location and/or availability. Request further information when applying.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4317343997"
+    },
+    {
+        "titleJob": "Associate Marketing Operations Strategist",
+        "employer": "Toptal",
+        "linkProfileEmployer": "https://www.linkedin.com/company/toptal?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "11 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4302512676"
     }
 ]
