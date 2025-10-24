@@ -1,37 +1,77 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4315906935",
-    "title": "Analista QA",
-    "employer": "Ayesa",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4315906935",
-    "reason": "Esta oferta encaja perfectamente con el perfil, ya que busca un Analista QA con experiencia en automatización de pruebas web, móviles y de cliente-servidor. Las responsabilidades incluyen el desarrollo y mantenimiento de scripts de automatización, validación de calidad en cada etapa del ciclo de vida del desarrollo, y colaboración con equipos ágiles. El perfil técnico solicitado menciona experiencia en herramientas de automatización como Selenium y Appium, lo cual es un match directo. Se valora la experiencia en automatización y se menciona la posibilidad de certificaciones relacionadas. El rango salarial aproximado para un Analista QA con más de 4 años de experiencia en Lima, Perú, y en una empresa tecnológica como Ayesa, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4323912674",
+    "title": "Analista QA Senior",
+    "employer": "Softtek",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4323912674",
+    "reason": "Esta oferta encaja con el perfil porque busca un 'QA Funcional Senior' con más de 4 años de experiencia, lo cual se alinea con la preferencia de 'QA Senior' y 'Automation Engineer'. Se mencionan metodologías ágiles (Scrum/UML/TDD/BDD/IC), tipos de testing (volumen, Smoke test, performance, funcional, técnico), y explícitamente 'Automatización de pruebas funcionales con SerenityBDD'. Los dominios de interés como 'QA Automation' y la experiencia en desarrollo ágil son puntos fuertes. El rol principal es asegurar la calidad a través de pruebas funcionales, regresión, integración y aceptación, con un componente de automatización. Dado que es un puesto Senior en una empresa de servicios de TI reconocida en Lima, el rango salarial aproximado podría estar entre S/ 7,000 y S/ 10,000 mensuales.",
+    "responsibilities": [
+      "Ejecución y seguimiento de pruebas",
+      "Metodologías y modelos de calidad",
+      "Tipos de Testing (volumen, Smoke test, performance, funcional, técnico)",
+      "Pruebas Funcionales, Regresión, Integración y Aceptación",
+      "Automatización de pruebas funcionales con SerenityBDD"
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4318509326",
+    "id": "https://www.linkedin.com/jobs/view/4323925021",
     "title": "QA Funcional Senior",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4323925021",
+    "reason": "La oferta es para 'QA Funcional Senior' en el sector Banca, lo que se alinea con la preferencia 'QA Senior' y el dominio 'Banca'. Aunque el foco principal es funcional, menciona 'Deseable: conocimientos en automatización (Postman, SoapUI, Selenium) y CI/CD', lo cual es un buen punto de partida. La experiencia en pruebas online y batch, junto con metodologías ágiles, coincide con el perfil. Se busca un profesional con experiencia en ejecución de pruebas funcionales y validación de datos. Dado que es un puesto Senior en el sector financiero y mayormente remoto en Lima, el rango salarial aproximado podría estar entre S/ 6,500 y S/ 9,500 mensuales.",
+    "responsibilities": [
+      "Ejecución de pruebas funcionales online y batch",
+      "Validación de datos en bases de datos (SQL intermedio)",
+      "Manejo de herramientas de gestión de defectos",
+      "Conocimiento de metodologías ágiles",
+      "Deseable: conocimientos en automatización (Postman, SoapUI, Selenium) y CI/CD"
+    ]
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4323932060",
+    "title": "Analyst Semi Senior",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4323932060",
+    "reason": "Aunque el título es 'Analyst Semi Senior', la descripción detalla responsabilidades y requisitos que se alinean parcialmente con el perfil de automatización. Se busca experiencia en pruebas funcionales online y batch, SQL intermedio, y herramientas de gestión de defectos, lo cual es relevante para cualquier rol de QA. Crucialmente, se menciona 'Deseable: nociones de automatización (Postman, SoapUI, Selenium) y CI/CD'. La experiencia en procesos bancarios también es un plus. Si bien no es un rol de 'SDET' puro, la mención de automatización y el nivel 'Semi Senior' lo hacen un candidato potencial. El rango salarial aproximado para un rol Semi Senior en Synopsis (Lima) podría estar entre S/ 5,000 y S/ 7,500 mensuales.",
+    "responsibilities": [
+      "Diseñar, documentar y ejecutar casos de prueba funcionales (online y batch)",
+      "Validar integraciones con sistemas externos",
+      "Gestionar incidencias y seguimiento de defectos",
+      "Participar en pruebas integrales, de regresión y certificaciones",
+      "SQL intermedio para validación de datos",
+      "Conocimiento básico/intermedio de metodologías ágiles",
+      "Deseable: nociones de automatización (Postman, SoapUI, Selenium) y CI/CD"
+    ]
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4318710545",
+    "title": "Analista Programador Fullstack",
+    "employer": "KasNet",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4318710545",
+    "reason": "Esta oferta para 'Analista Programador Fullstack' es interesante porque incluye 'Control de calidad: Realizar pruebas unitarias y de integración con herramientas como JUnit y Mockito' y 'Utilizar herramientas de CI/CD (Jenkins, GitLab CI) para gestionar integraciones y despliegues continuos'. Si bien el rol principal es desarrollo, el fuerte énfasis en pruebas unitarias, de integración, y CI/CD, junto con la experiencia requerida en Java (Spring Boot, Hibernate), bases de datos y AWS, puede ser una excelente oportunidad para alguien con enfoque 'Backend con enfoque en testing'. Las responsabilidades incluyen desarrollo y mantenimiento, pero también el control de calidad. Dada la exigencia técnica y la empresa, el rango salarial aproximado para un rol con estas características en Lima podría estar entre S/ 7,000 y S/ 10,000 mensuales.",
+    "responsibilities": [
+      "Análisis y diseño de requerimientos funcionales y técnicos",
+      "Programar y mantener aplicaciones en Java (Spring Boot, Hibernate)",
+      "Diseñar y desarrollar aplicaciones móviles nativas (Android)",
+      "Implementar y consumir APIs RESTful",
+      "Diseñar y optimizar estructuras de bases de datos (SQL, NoSQL)",
+      "Realizar pruebas unitarias y de integración (JUnit, Mockito)",
+      "Configurar y desplegar aplicaciones (AWS, Jenkins, GitLab CI)"
+    ]
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4323918603",
+    "title": "Java Senior",
     "employer": "Softtek",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4318523638",
-    "reason": "La oferta busca un QA Funcional Senior con más de 4 años de experiencia, lo cual se alinea con la experiencia requerida de 3+ años. Menciona explícitamente experiencia en pruebas funcionales, regresión, integración y aceptación, así como conocimiento en metodologías de calidad y desarrollo ágil. Si bien no especifica directamente herramientas de automatización, el rol de 'Senior' y el contexto de Softtek (empresa global de servicios de TI) sugieren un enfoque en automatización. El rango salarial aproximado para un QA Funcional Senior en Lima, Perú, y en una empresa como Softtek, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4318507896",
-    "title": "QA Automatización",
-    "employer": "Sermaluc",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4318507896",
-    "reason": "Esta oferta es un match directo, ya que el título es 'QA Automatización' y se solicita un mínimo de 3 años de experiencia como Analista de Calidad. Las responsabilidades incluyen la participación en proyectos de automatización principalmente con Java y la experiencia en herramientas de automatización como JMeter, Selenium, Cucumber, Appium, y Postman. Además, se menciona el manejo de CI/CD con Jenkins y trabajo colaborativo bajo metodologías ágiles. Sermaluc tiene experiencia en el mercado bancario y financiero, lo cual coincide con los dominios de interés. El rango salarial aproximado para un QA de Automatización con 3 años de experiencia en Lima, Perú, y en una empresa del sector financiero/bancario, podría estar entre S/ 5,500 y S/ 8,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4318291625",
-    "title": "Especialista en garantía de calidad",
-    "employer": "Softtek",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4318291625",
-    "reason": "Esta oferta, titulada 'Especialista en garantía de calidad' (QA Automation SR), busca un perfil Senior con 4 años o más de experiencia en QA. Las responsabilidades incluyen el manejo avanzado de herramientas para ejecución y seguimiento de pruebas, experiencia en metodologías ágiles, y diversos tipos de testing. Se menciona explícitamente experiencia en servicios web y APIs (AWS) y el uso de herramientas como Postman y SoapUI para automatización, así como experiencia en automatización de pruebas funcionales con SerenityBDD. Esto se alinea con el perfil de QA Automation Engineer. El rango salarial aproximado para un QA Automation SR en Lima, Perú, y en una empresa global como Softtek, podría estar entre S/ 6,500 y S/ 9,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4318562751",
-    "title": "Analistas de pruebas - QA funcionales, Data Testing, QA Automatización",
-    "employer": "Choucair Testing S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4318562751",
-    "reason": "Esta oferta es muy relevante al mencionar explícitamente 'QA Automatización' en su título, además de QA funcionales y Data Testing. Aunque no se detallan los años de experiencia requeridos ni las tecnologías específicas en la descripción proporcionada, el enfoque en automatización y la mención de Choucair Testing S.A. (una consultora especializada en calidad de software) la hacen una candidata prioritaria. Asumiendo una experiencia similar a otras ofertas de QA Automatización, el rango salarial aproximado para un perfil con 3+ años de experiencia en Lima, Perú, y en una consultora de testing, podría estar entre S/ 5,500 y S/ 8,500 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4318710545",
+    "reason": "Esta oferta para 'Java Sr' en Softtek menciona explícitamente 'Experiencia en Azure, DevOps y Automatización: SonarQube, GitLab CI/CD' y 'Metodologías: Agile/Scrum, integración continua'. Aunque es un rol de desarrollo Java Senior, el énfasis en DevOps, CI/CD y automatización (a través de herramientas como SonarQube para análisis estático y GitLab CI/CD para automatización del pipeline) lo convierte en un perfil muy atractivo para alguien con un 'Backend con enfoque en testing' o un 'SDET' que busca expandir sus habilidades en el lado del desarrollo y la infraestructura. Las responsabilidades incluyen liderar la implementación técnica de soluciones Java basadas en microservicios y arquitecturas Cloud, asegurando el cumplimiento de estándares de calidad, seguridad y buenas prácticas. Para un Java Sr con estas responsabilidades en Softtek (Lima), el rango salarial aproximado podría estar entre S/ 8,000 y S/ 12,000 mensuales.",
+    "responsibilities": [
+      "Diseñar, liderar y supervisar la implementación técnica de soluciones Java",
+      "Experiencia en Azure, DevOps y Automatización (SonarQube, GitLab CI/CD)",
+      "Metodologías Agile/Scrum, integración continua",
+      "Diseño e implementación de microservicios",
+      "Manejo de bases de datos (SQL, NoSQL)",
+      "Colaboración con arquitectura, QA y funcionales"
+    ]
   }
 ]
