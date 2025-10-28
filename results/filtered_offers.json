@@ -1,31 +1,83 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4315005465",
-    "title": "Analista QA / Certificación ISTQB (Sector Banca)",
-    "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4315005465",
-    "reason": "Esta oferta encaja perfectamente con el perfil, ya que busca un Analista QA con experiencia en el sector Banca, lo cual se alinea con las 'Banca', 'Finanzas', 'Fintech' y 'QA Automation' preferidas. Requiere experiencia en pruebas funcionales, regresión, aceptación de usuario y automatización de casos de prueba. Aunque no especifica explícitamente el stack tecnológico preferido, la mención de 'pruebas de performance y API Testing (indispensable)' y la certificación ISTQB son puntos fuertes. Las responsabilidades incluyen diseño y ejecución de pruebas automatizadas, pruebas de performance y APIs, y colaboración con equipos de desarrollo. Se espera un rango salarial aproximado de S/. 5,000 - S/. 8,000 para un rol de Analista QA Senior en Lima con estas características."
+    "id": "https://www.linkedin.com/jobs/view/4315990421",
+    "title": "QA Automatizador",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4315990421",
+    "reason": "Esta oferta encaja perfectamente con el perfil, ya que busca explícitamente un \"QA Automatizador\" con experiencia en Selenium, Appium, Python, y testing de Mobile, Servicios (APIs) y Web. El puesto requiere experiencia en lenguajes de programación como Python y herramientas de testing continuo, lo cual se alinea con las preferencias y tecnologías del perfil. Al ser una empresa líder global en tecnología, se puede inferir un rango salarial competitivo para un profesional con estas habilidades en Lima, Perú, probablemente entre S/6,000 y S/10,000 soles mensuales, dependiendo de la experiencia específica y la negociación.",
+    "responsibilities": [
+      "Automatización de pruebas con Selenium, Appium, Kobiton, Cucumber, Behave, UFT.",
+      "Desarrollo en Python.",
+      "Gestión de pruebas con Jira, Xray, Gherkin.",
+      "Testing continuo y control de versiones con GitHub.",
+      "Uso de herramientas complementarias como Postman, Dynatrace, OWASP, MongoDB, SonarQube.",
+      "Testing de Mobile, Servicios (APIs) y Web."
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4331188617",
-    "title": "Analista Senior QA",
-    "employer": "Credicorp Capital",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4331188617",
-    "reason": "Esta oferta es una excelente coincidencia para el perfil, ya que busca explícitamente un 'Analista Senior QA' con un mínimo de 3 años de experiencia en automatización de pruebas E2E y backend con Cypress, y pruebas de performance con JMeter. Esto se alinea directamente con el 'experience' y 'tech_stack' (implícito en Cypress y JMeter, y se busca experiencia en desarrollo ágil). Las responsabilidades incluyen diseñar, desarrollar y ejecutar pruebas automatizadas, diseñar y ejecutar pruebas de performance, y gestionar defectos. Credicorp Capital es una empresa importante en el sector financiero de Perú. Se espera un rango salarial aproximado de S/. 6,000 - S/. 9,000 para un puesto de Analista Senior QA en una empresa como Credicorp Capital."
+    "id": "https://www.linkedin.com/jobs/view/4318404423",
+    "title": "Analista QA Senior - Outsourcing",
+    "employer": "SEIDOR",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4318404423",
+    "reason": "La oferta busca un \"Analista QA Senior\" con \"Experiencia mínima de 03 años en puestos similares\" y conocimientos en \"Automatización de pruebas API, web y móvil\", lo cual coincide directamente con el perfil. Se mencionan metodologías ágiles y conocimientos en el ciclo de desarrollo de software, ambos puntos clave para el perfil. Dada la senioridad del puesto y la empresa SEIDOR, se estima un rango salarial en Lima, Perú, de S/7,000 a S/12,000 soles mensuales.",
+    "responsibilities": [
+      "Análisis del alcance de la iniciativa y elaboración del Plan de Pruebas.",
+      "Identificación de escenarios de pruebas y diseño de Casos de Pruebas.",
+      "Elaboración de estrategia de ejecución de pruebas y coordinación de la misma.",
+      "Ejecución de Pruebas, gestión de herramientas de certificación y defectos.",
+      "Generación de informe diario de avance de ejecución y documentación de evidencias.",
+      "Conocimientos en Automatización de pruebas API, web y móvil.",
+      "Conocimiento en ciclo de desarrollo de software, pruebas funcionales, pruebas no funcionales y ISTQB."
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4298422576",
-    "title": "QA Automation Engineer 3 month long - Remote - Latin America",
-    "employer": "FullStack Labs",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4298422576",
-    "reason": "Esta oferta es una coincidencia directa con el perfil, ya que el título es 'QA Automation Engineer' y se busca experiencia en automatización. La mención de 'Latin America' y la ubicación de otras ofertas en Lima sugieren que podría ser relevante para el mercado peruano, y FullStack Labs es una empresa conocida en el sector tecnológico. Aunque la descripción es breve, el título del puesto y la función principal de 'QA Automation Engineer' se alinean perfectamente. Las responsabilidades se centrarán en la automatización de pruebas. Para un rol de QA Automation Engineer con +3 años de experiencia en Lima, el rango salarial aproximado podría ser S/. 5,500 - S/. 8,500, aunque la naturaleza remota y la duración del contrato (3 meses) podrían influir."
+    "id": "https://www.linkedin.com/jobs/view/4319173414",
+    "title": "Software Test Engineer - Work from home",
+    "employer": "Nearsure",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4319173414",
+    "reason": "Esta oferta de \"Senior Software Test Engineer\" requiere \"3+ Years of experience working with QA/testing experience\", \"3+ Years of experience working with C# or Python\" y \"2+ Years of experience working with UI automation (Selenium, or Playwright)\", además de experiencia en CI/CD y AWS, tecnologías que el perfil contempla. Se enfoca en automatización y testing de productos web y AI. Al ser una empresa que opera de forma remota y paga en USD, el rango salarial podría ser entre $2,500 y $4,000 USD mensuales, lo que se traduciría a un competitivo valor en soles peruanos.",
+    "responsibilities": [
+      "Desarrollar y mantener pruebas automatizadas y manuales.",
+      "Colaborar con desarrolladores para asegurar alta calidad en productos web y AI.",
+      "Escribir, mantener e iterar sobre pruebas ante cambios en las funcionalidades.",
+      "Crear conjuntos de datos de prueba para ejecuciones repetibles.",
+      "Analizar informes de pruebas para identificar y documentar la causa raíz de los problemas.",
+      "Colaborar con ingenieros de software para satisfacer sus necesidades de testing.",
+      "Mantener y mejorar la infraestructura y herramientas de prueba, como pipelines CI/CD.",
+      "Experiencia con C# o Python, UI automation (Selenium, Playwright), frameworks de testing (Pytest, Specflow, ReqnRoll, Cucumber), JavaScript, SQL, Linux, Git, CI/CD (Jenkins, Gitlab), AWS."
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4331351182",
-    "title": "QA Funcional Tester",
-    "employer": "Synopsis S.A.",
-    "location": "Lima, Peru",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4331351182",
-    "reason": "Esta oferta es un buen encaje, especialmente por estar en el 'sector banca' y mencionar explícitamente 'deseable: conocimientos de automatización (Postman, SoapUI, Selenium) y CI/CD'. Aunque el rol principal es 'QA Funcional Tester', la preferencia por la automatización la hace relevante. Las responsabilidades incluyen diseñar y ejecutar pruebas online y batch, validar integraciones y gestionar incidencias. La empresa Synopsis S.A. trabaja en proyectos financieros. Se espera un rango salarial aproximado de S/. 4,500 - S/. 7,000 para un QA Funcional Tester con interés y conocimientos básicos en automatización en Lima."
+    "id": "https://www.linkedin.com/jobs/view/4331888295",
+    "title": "QA Funcional Senior (AS400)",
+    "employer": "SEMADA TECH",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4331888295",
+    "reason": "Aunque el título es \"QA Funcional Senior\", la descripción especifica \"al menos 3 años en el sector banca o financiero\" y menciona \"experiencia en pruebas funcionales (manuales y automatizadas)\" y \"diseño, redacción avanzada y ejecución de casos de prueba en Gherkin\". Si bien el enfoque principal es funcional y en AS400, la mención de pruebas automatizadas y el dominio en el sector financiero son puntos de conexión con el perfil. Se solicita experiencia mínima de 5 años como QA Funcional. Para un rol senior en banca en Lima, Perú, el rango salarial estimado sería entre S/7,000 y S/11,000 soles mensuales.",
+    "responsibilities": [
+      "Gestionar y dar seguimiento a los requisitos funcionales.",
+      "Coordinar y propiciar el trabajo en mesas de trabajo multidisciplinarias.",
+      "Diseñar, ejecutar y documentar casos de prueba funcionales (manuales y automatizados).",
+      "Monitorear la calidad del software a través de pruebas de rendimiento y herramientas de control de calidad de código.",
+      "Participación activa en ceremonias de Scrum y colaboración con Product Owner.",
+      "Conocimiento y manejo de BDD (Behavior Driven Development).",
+      "Experiencia en pruebas funcionales automatizadas y pruebas de rendimiento.",
+      "Experiencia en el sector banca o financiero, específicamente con Bantotal/AS-400."
+    ]
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4319104327",
+    "title": "Desarrollador .NET+React SemiSenior - Presencial",
+    "employer": "Ditech Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4319104327",
+    "reason": "Si bien este puesto es principalmente de \"Desarrollador .NET+React\", dentro de los \"Deseable\" se menciona \"Buenas prácticas de testing (xUnit, NUnit o similar)\". Esto indica una apertura hacia perfiles con un enfoque en la calidad y las pruebas, que pueden ser puntos de entrada para alguien con un background en SDET/QA Automation que busca expandir sus habilidades de desarrollo. Para un rol Semi Senior en Lima, Perú, el rango salarial podría estar entre S/6,000 y S/9,000 soles mensuales. Se prioriza por la mención de testing y el uso de .NET.",
+    "responsibilities": [
+      "Diseñar, desarrollar y mantener aplicaciones .NET en el backend y frameworks modernos en el frontend (Angular o React).",
+      "Participar en la definición de arquitecturas y buenas prácticas de desarrollo.",
+      "Colaborar con analistas, QA y líderes técnicos.",
+      "Implementar APIs RESTful e integraciones.",
+      "Aplicar principios de Clean Code y patrones de diseño.",
+      "Realizar pruebas unitarias y de integración.",
+      "Buenas prácticas de testing (xUnit, NUnit o similar) es un punto deseable que se alinea con el perfil de QA Automation."
+    ]
   }
 ]
