@@ -1,44 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4332967232",
-    "title": "QA Senior",
-    "employer": "Valtx Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4332967232",
-    "reason": "Esta oferta es altamente relevante ya que busca un 'QA Senior' con 6 años de experiencia en sistemas financieros, incluyendo experiencia en pruebas automatizadas, lo cual se alinea directamente con el perfil 'QA Senior' y 'Automation Engineer'. La descripción menciona explícitamente 'Realizar pruebas manuales y automatizadas sobre las aplicaciones y plataformas desarrolladas', 'Pruebas Automatizadas', y un stack tecnológico que incluye Selenium y Appium. El dominio en 'Banca' y 'Finanzas' se cumple. El rango salarial aproximado para un QA Senior en Lima, Perú, con esta experiencia y responsabilidades, podría estar entre S/ 8,000 y S/ 12,000 soles mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4320102065",
+    "title": "Analista QA",
+    "employer": "Stefanini LATAM",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4320102065",
+    "reason": "La oferta se alinea con el perfil debido a su enfoque en pruebas funcionales, de regresión, integración (APIs), usabilidad, rendimiento y seguridad en entornos web y de escritorio. Se valora la experiencia en automatización (Selenium, Postman, SoapUI) y metodologías ágiles, lo cual coincide con el perfil de QA Automation Engineer. El rango salarial para un Analista QA SSR en Lima, Perú, con estas responsabilidades y la experiencia requerida (más de 2 años) podría estar entre S/4,500 y S/7,000 brutos mensuales, dependiendo de la empresa y la negociación específica."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4332997334",
-    "title": "Analista QA Automatizador Senior",
-    "employer": "INFORMÁTICA DELTA SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4332997334",
-    "reason": "Esta oferta es una excelente coincidencia ya que busca un 'Analista QA Automatizador Senior'. El perfil solicita 'Experiencia en Automatización de pruebas API, web y móvil', lo que se ajusta perfectamente a 'SDET', 'QA Automation Engineer' y 'Test Automation Engineer'. El stack tecnológico incluye TypeScript, Python, Playwright, Selenium, y Appium, todos mencionados en el perfil. El enfoque en 'productos financieros del banco' y 'agilizar el delivery del banco' apunta a los dominios deseados. Las responsabilidades incluyen 'desarrollando y aplicando técnicas avanzadas de diseño', 'automatización de pruebas, pruebas de performance, pruebas de seguridad', y 'desarrollar scripts de automatización y ejecutar pruebas funcionales y no funcionales en los pipelines de CI/CD'. El rango salarial aproximado para un puesto similar en Lima, Perú, podría ser entre S/ 7,000 y S/ 10,000 soles mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4331710608",
+    "title": "QA (Data)",
+    "employer": "Tsoft",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4331710608",
+    "reason": "Esta oferta es un buen match ya que busca un QA Engineer con experiencia en Data Analytics, pruebas de APIs (Postman o SoapUI) y bases de datos SQL, lo cual se alinea con las habilidades técnicas y dominios del perfil. Se menciona el conocimiento deseable en AWS, que también está en la lista de tecnologías. La experiencia requerida es de al menos 2 años en proyectos de Data Analytics. El rango salarial para un QA Engineer con este perfil y experiencia en Lima, Perú, podría situarse entre S/5,000 y S/8,000 brutos mensuales, considerando la especialización en Data Analytics y las tecnologías mencionadas."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4331702030",
-    "title": "QA Automatizador",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4331702030",
-    "reason": "Esta oferta es muy relevante ya que busca un 'QA Automatizador'. El perfil del candidato se ajusta a los roles de 'SDET' y 'Automation Engineer' por la fuerte inclinación a la automatización. La descripción menciona 'Automatización: Selenium, Appium, Kobiton, Cucumber, Behave, UFT, Python Request' y lenguajes como 'Python', que coinciden con el stack tecnológico del perfil. Las pruebas que se realizarán son 'Mobile, Servicios (APIs) y Web', abarcando las áreas de interés. Las responsabilidades incluyen la automatización de pruebas en diversas plataformas. El rango salarial aproximado para un QA Automatizador en Lima, Perú, con esta experiencia y tecnologías, podría estar entre S/ 6,000 y S/ 9,000 soles mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4333107041",
-    "title": "QA Specialist",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4333107041",
-    "reason": "Esta oferta para 'QA Specialist' es una buena coincidencia. El perfil busca experiencia en pruebas de software (web, móvil, API) y conocimiento de metodologías de prueba y herramientas de automatización como Selenium, Appium y Postman. Esto se alinea con los roles de 'QA Automation Engineer' y 'SDET'. La descripción de funciones incluye 'Automatización de pruebas' y 'Ejecución de pruebas funcionales y no funcionales (rendimiento, seguridad)', lo cual se ajusta al perfil. El dominio en Banca/Finanzas no es explícito, pero TCS es una gran consultora que suele trabajar con estos sectores. El rango salarial aproximado para un QA Specialist en Lima, Perú, podría ser entre S/ 5,000 y S/ 8,000 soles mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4320013881",
-    "title": "QA Engineer - Work from home",
-    "employer": "Nearsure",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4320013881",
-    "reason": "Esta oferta de 'QA Engineer' es muy pertinente. Se solicita '3+ Years of experience working with testing production web/mobile applications', lo que cumple el requisito de experiencia. Aunque no se especifica un stack tecnológico de automatización en particular, la naturaleza del puesto de 'Senior Quality Assurance Engineer' y la responsabilidad de 'Build and execute test plans for new features' implican un enfoque en la automatización. El sector 'e-commerce outcomes like customer checkout' y la naturaleza del proyecto podrían estar relacionados con las finanzas o la banca digital. El trabajo remoto con un salario competitivo en USD es un punto a favor. El rango salarial aproximado, considerando un puesto senior remoto con pago en USD, podría equivaler a S/ 7,000 - S/ 10,000 soles mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4319945711",
-    "title": "Analista de certificación QA",
-    "employer": "Valtx Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4319945711",
-    "reason": "Esta oferta de 'Analista de certificación QA' es una buena coincidencia, especialmente por la experiencia requerida en 'proceso de automatización de casos de prueba (Indispensable)' y 'pruebas de sistemas orientados a Banca'. Cumple con la experiencia de 4 años en pruebas funcionales y menciona explícitamente la automatización, lo que se alinea con los roles de 'QA Automation Engineer' y 'SDET'. La mención de 'pruebas móviles' y la experiencia en 'API Testing' son puntos fuertes. El dominio en 'Banca' se cumple directamente. Las responsabilidades incluyen 'Automatización de casos de prueba para pruebas de regresión'. El rango salarial aproximado para este puesto en Lima, Perú, podría estar entre S/ 6,000 y S/ 9,000 soles mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4319104327",
+    "title": "Desarrollador .NET+React SemiSenior - Presencial",
+    "employer": "Ditech Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4319104327",
+    "reason": "Aunque el título principal es 'Desarrollador .NET', la descripción menciona explícitamente 'Colaborar con analistas, QA y líderes técnicos para garantizar entregables de calidad' y 'Realizar pruebas unitarias y de integración'. Además, se valora 'Buenas prácticas de testing (xUnit, NUnit o similar)', lo cual indica un enfoque en la calidad del código y el software. La experiencia requerida es de 3 a 5 años. Dada la combinación de desarrollo con énfasis en calidad y pruebas, y la experiencia solicitada, podría ser un rol con potencial para un SDET con experiencia en backend. El rango salarial para un Desarrollador .NET Semi Senior con experiencia en testing en Lima, Perú, podría variar entre S/5,500 y S/8,500 brutos mensuales."
   }
 ]
