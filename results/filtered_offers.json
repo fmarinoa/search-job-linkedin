@@ -1,51 +1,37 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4334136951",
-    "title": "QA Automation",
-    "employer": "Softtek",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334136951",
-    "reason": "Esta oferta se ajusta al perfil por la búsqueda de un 'QA Automation' con 4 años de experiencia, experiencia en metodologías ágiles (Scrum/TDD/BDD/CI), y conocimiento avanzado en diversos tipos de testing, incluyendo automatización de pruebas funcionales con SerenityBDD. La empresa Softtek es un proveedor global de servicios de TI, lo que indica importancia en el sector. El rango salarial aproximado para un perfil Senior en automatización QA en Lima, Perú, con esta experiencia y conocimientos, podría oscilar entre S/ 7,000 y S/ 10,000 soles mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4334269175",
+    "title": "QA Automation - Core Payments",
+    "employer": "Yuno",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334269175",
+    "reason": "Esta oferta se alinea perfectamente con el perfil. Busca un 'QA Automation Engineer' con más de 3 años de experiencia en automatización de pruebas, incluyendo manejo de frameworks y herramientas de testing. Se mencionan explícitamente Python y TypeScript, ambos en la 'tech_stack' deseada. Las responsabilidades incluyen la creación y gestión de casos de prueba, automatización y pruebas de performance, identificación y documentación de bugs, y el desarrollo y ejecución de pruebas automatizadas. El dominio de 'Banca' y 'Finanzas' está implícito en el rol de 'Core Payments'. El rango salarial para un puesto Senior de QA Automation en Lima, Perú, con 3+ años de experiencia, suele estar entre S/ 7,000 y S/ 12,000 mensuales brutos, dependiendo de la empresa y los beneficios."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4312888755",
-    "title": "Analista QA Automatización (Temporal)",
-    "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4312888755",
-    "reason": "La oferta busca un 'Analista QA Automatización' con experiencia en automatización, lo cual es un requisito clave del perfil. Entelgy es una empresa con presencia en el sector tecnológico, lo que le da relevancia. El rango salarial aproximado para un Analista QA de automatización en Lima, Perú, con el nivel de experiencia requerido, podría estar entre S/ 6,000 y S/ 9,000 soles mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4334500133",
+    "title": "Analista de calidad de datos",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334500133",
+    "reason": "La oferta busca un 'Analista de Calidad de Datos' con una experiencia mínima de 3 años, lo cual encaja con el requisito de experiencia. Se menciona explícitamente SQL y Python como conocimientos necesarios, ambos presentes en la 'tech_stack'. Las responsabilidades incluyen la generación y ejecución de casos de prueba, validación de datos y automatización de pruebas, que son aspectos clave de QA Automation. Aunque el dominio no es explícitamente 'Banca' o 'Finanzas', 'Calidad de Datos' es un área crucial dentro de estos sectores. Dada la ubicación (Lima, Perú) y la empresa (Tata Consultancy Services), un rango salarial aproximado para un rol con esta experiencia podría ser entre S/ 6,000 y S/ 10,000 mensuales brutos."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4333994543",
-    "title": "QA Automation engineer",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4333994543",
-    "reason": "La posición de 'QA Automation engineer' es directamente relevante para el perfil. VASS es una consultora tecnológica global. Si bien la descripción es breve, el título del puesto y el nombre de la empresa sugieren un encaje. El rango salarial aproximado para un QA Automation Engineer en Lima, Perú, con experiencia relevante, podría ser de S/ 7,000 a S/ 10,000 soles mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4334229188",
+    "title": "Especialista QA en Data & Analytics",
+    "employer": "Bluetab, an IBM Company",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334229188",
+    "reason": "Esta oferta requiere un mínimo de 2 años de experiencia como QA, lo cual es ligeramente inferior al mínimo de 3 años, pero el enfoque en 'Data & Analytics' y las responsabilidades como control de calidad en el ciclo de vida de los datos, creación de casos de prueba, validación de pipelines ETL/ELT y automatización de pruebas son muy relevantes para el perfil de QA Automation. Se menciona Python y Azure DevOps, y se valorará la proactividad y el trabajo en equipo. Aunque no se especifica el dominio explícitamente, 'Data & Analytics' es un campo común en 'Finanzas' y 'Fintech'. El rango salarial para un QA con 2-3 años de experiencia en Lima, Perú, podría oscilar entre S/ 5,000 y S/ 9,000 mensuales brutos."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4334109471",
-    "title": "Analista QA Automatizador Senior",
-    "employer": "INFORMÁTICA DELTA SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334109471",
-    "reason": "El puesto de 'Analista QA Automatizador Senior' coincide directamente con las preferencias del perfil. La experiencia senior en automatización es un punto fuerte. INFORMÁTICA DELTA SAC opera en el sector de TI. El rango salarial aproximado para un Analista QA Automatizador Senior en Lima, Perú, podría oscilar entre S/ 8,000 y S/ 12,000 soles mensuales, dado el nivel senior."
+    "id": "https://www.linkedin.com/jobs/view/4334159703",
+    "title": "Technical Author - AI for QA (part-time)",
+    "employer": "TripleTen",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334159703",
+    "reason": "Aunque la oferta es 'part-time' y se enfoca en 'Technical Author', los requisitos incluyen 'Professional experience in QA engineering, 5+ years' y 'Hands-on experience with AI-assisted QA engineering tools'. Las responsabilidades de crear contenido educativo para desarrolladores sobre IA para QA implican un profundo conocimiento de las prácticas de QA y automatización. La empresa TripleTen está en el dominio de educación tecnológica, pero el rol está directamente relacionado con QA Automation. El rango salarial indicado es de $40-$85 USD por hora, lo que para 10-15 horas semanales resultaría en un pago significativo. Dado el nivel de experiencia y la especialización requerida, encaja dentro de las preferencias de un profesional senior."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4315005465",
-    "title": "Analista QA / Certificación ISTQB (Sector Banca)",
-    "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4315005465",
-    "reason": "Esta oferta busca un 'Analista QA' con experiencia en el sector banca y experiencia en automatización de casos de prueba, pruebas de performance y API Testing. Cumple con el dominio (Banca) y experiencia en automatización. Entelgy es una empresa relevante en el sector. El rango salarial aproximado para un Analista QA con experiencia en banca y automatización en Lima, Perú, podría estar entre S/ 7,000 y S/ 10,000 soles mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4314433005",
-    "title": "Analista QA Funcional",
-    "employer": "wirbi®",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4314433005",
-    "reason": "La oferta para 'Analista QA Funcional' requiere 3 años en QA funcional y 1 año en automatización de pruebas, además de manejo de herramientas de automatización como Selenium WebDriver y BDD (Cucumber). wirbi® opera en el sector tecnológico. El rango salarial aproximado para este puesto en Lima, Perú, podría ser de S/ 6,000 a S/ 9,000 soles mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4334077988",
-    "title": "Chapter Lead QA",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334077988",
-    "reason": "Si bien es un rol de liderazgo, el 'Chapter Lead QA' requiere 3 años liderando equipos de pruebas, conocimiento avanzado en metodologías ágiles, y experiencia práctica con herramientas para pruebas automatizadas (Selenium, Postman). Inetum es una consultora global de servicios ágiles. El rango salarial aproximado para un Chapter Lead QA en Lima, Perú, podría ser de S/ 9,000 a S/ 14,000 soles mensuales, dado el nivel de liderazgo y experiencia."
+    "id": "https://www.linkedin.com/jobs/view/4334289066",
+    "title": "Technical Course Authors - AI Education (Part-time)",
+    "employer": "TripleTen",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334289066",
+    "reason": "Similar a la oferta anterior de TripleTen, esta posición busca 'Technical Course Authors' con experiencia en ingeniería de software y la capacidad de crear contenido sobre IA para desarrolladores. Si bien no se especifica QA explícitamente en el título, la naturaleza del contenido educativo sobre IA para desarrollo de software a menudo implica la creación de materiales para roles técnicos como SDETs o QA Automation Engineers. Los requisitos de experiencia en desarrollo y la necesidad de explicar conceptos complejos son favorables. El rango salarial indicado es competitivo. Dado que se trata de un rol de autoría técnica y no de ejecución directa de pruebas, se le da una prioridad menor, pero sigue siendo un encaje conceptual."
   }
 ]
