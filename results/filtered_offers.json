@@ -1,37 +1,44 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4334269175",
-    "title": "QA Automation - Core Payments",
-    "employer": "Yuno",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334269175",
-    "reason": "Esta oferta se alinea perfectamente con el perfil. Busca un 'QA Automation Engineer' con más de 3 años de experiencia en automatización de pruebas, incluyendo manejo de frameworks y herramientas de testing. Se mencionan explícitamente Python y TypeScript, ambos en la 'tech_stack' deseada. Las responsabilidades incluyen la creación y gestión de casos de prueba, automatización y pruebas de performance, identificación y documentación de bugs, y el desarrollo y ejecución de pruebas automatizadas. El dominio de 'Banca' y 'Finanzas' está implícito en el rol de 'Core Payments'. El rango salarial para un puesto Senior de QA Automation en Lima, Perú, con 3+ años de experiencia, suele estar entre S/ 7,000 y S/ 12,000 mensuales brutos, dependiendo de la empresa y los beneficios."
+    "id": "https://www.linkedin.com/jobs/view/4331702030",
+    "title": "QA Automatizador",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4331702030",
+    "reason": "Esta oferta encaja perfectamente con el perfil de QA Automation Engineer y SDET, ya que busca un profesional con experiencia en automatización de pruebas Mobile, Servicios (APIs) y Web. Las responsabilidades principales incluyen la implementación y ejecución de pruebas automatizadas utilizando herramientas como Selenium, Appium, Python Request, y la gestión de pruebas en Jira. El perfil de 'QA Automatizador' y las tecnologías listadas como Python, Selenium, Appium, Postman, y GitHub se alinean directamente con las preferencias y tech stack del candidato. Se menciona trabajo híbrido en Surquillo, Lima, y se ofrecen beneficios como planilla completa, cobertura de EPS, y acceso a capacitaciones. El rango salarial aproximado para un puesto Senior en Lima con estas características y en una empresa como Indra podría oscilar entre S/6,000 y S/9,000 brutos mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4334500133",
-    "title": "Analista de calidad de datos",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334500133",
-    "reason": "La oferta busca un 'Analista de Calidad de Datos' con una experiencia mínima de 3 años, lo cual encaja con el requisito de experiencia. Se menciona explícitamente SQL y Python como conocimientos necesarios, ambos presentes en la 'tech_stack'. Las responsabilidades incluyen la generación y ejecución de casos de prueba, validación de datos y automatización de pruebas, que son aspectos clave de QA Automation. Aunque el dominio no es explícitamente 'Banca' o 'Finanzas', 'Calidad de Datos' es un área crucial dentro de estos sectores. Dada la ubicación (Lima, Perú) y la empresa (Tata Consultancy Services), un rango salarial aproximado para un rol con esta experiencia podría ser entre S/ 6,000 y S/ 10,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4334557753",
+    "title": "QA SENIOR AUTOMATIZADOR",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334557753",
+    "reason": "Esta oferta se ajusta al perfil de 'QA Senior' y 'SDET' debido a la mención explícita de 'QA SENIOR AUTOMATIZADOR'. Si bien la descripción es breve, se infiere que las responsabilidades estarán enfocadas en la automatización de pruebas. La empresa Indra es una importante consultora tecnológica con presencia en Perú, lo que la convierte en una empresa relevante para el perfil. Dado que es un puesto Senior y en una empresa de consultoría, se estima un rango salarial aproximado de S/7,000 a S/10,000 brutos mensuales en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4334229188",
-    "title": "Especialista QA en Data & Analytics",
-    "employer": "Bluetab, an IBM Company",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334229188",
-    "reason": "Esta oferta requiere un mínimo de 2 años de experiencia como QA, lo cual es ligeramente inferior al mínimo de 3 años, pero el enfoque en 'Data & Analytics' y las responsabilidades como control de calidad en el ciclo de vida de los datos, creación de casos de prueba, validación de pipelines ETL/ELT y automatización de pruebas son muy relevantes para el perfil de QA Automation. Se menciona Python y Azure DevOps, y se valorará la proactividad y el trabajo en equipo. Aunque no se especifica el dominio explícitamente, 'Data & Analytics' es un campo común en 'Finanzas' y 'Fintech'. El rango salarial para un QA con 2-3 años de experiencia en Lima, Perú, podría oscilar entre S/ 5,000 y S/ 9,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4334449276",
+    "title": "Quality Assurance Automation Engineer",
+    "employer": "Bluetab, an IBM Company (América)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334449276",
+    "reason": "El título 'Quality Assurance Automation Engineer' coincide directamente con el rol buscado. Al ser una compañía parte de IBM, se considera una empresa importante en el sector tecnológico. Las responsabilidades esperadas para este puesto incluirían el diseño, desarrollo y mantenimiento de frameworks de automatización de pruebas, ejecución de pruebas y análisis de resultados. La experiencia requerida y el enfoque en automatización son clave. El rango salarial para un puesto similar en Lima, Perú, en una empresa de este calibre, se estima entre S/7,000 y S/10,000 brutos mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4334159703",
-    "title": "Technical Author - AI for QA (part-time)",
-    "employer": "TripleTen",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334159703",
-    "reason": "Aunque la oferta es 'part-time' y se enfoca en 'Technical Author', los requisitos incluyen 'Professional experience in QA engineering, 5+ years' y 'Hands-on experience with AI-assisted QA engineering tools'. Las responsabilidades de crear contenido educativo para desarrolladores sobre IA para QA implican un profundo conocimiento de las prácticas de QA y automatización. La empresa TripleTen está en el dominio de educación tecnológica, pero el rol está directamente relacionado con QA Automation. El rango salarial indicado es de $40-$85 USD por hora, lo que para 10-15 horas semanales resultaría en un pago significativo. Dado el nivel de experiencia y la especialización requerida, encaja dentro de las preferencias de un profesional senior."
+    "id": "https://www.linkedin.com/jobs/view/4334606200",
+    "title": "QA Senior multifuncional/ automatizado",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334606200",
+    "reason": "Esta oferta se alinea con el perfil de 'QA Senior' y con un fuerte enfoque en automatización, mencionando explícitamente 'QA SENIOR (AUTOMATIZADOR/FUNCIONAL)'. Las responsabilidades incluyen automatización con Karate/Selenium, pruebas Backend (incluida su automatización), y pruebas Web. La experiencia solicitada de 4 a 6 años y 3 años en automatización es acorde al requisito de '3+ años'. Indra es una empresa líder en tecnología. Se especifica trabajo en Surquillo, Lima. El rango salarial aproximado para este puesto Senior en automatización en Lima se sitúa entre S/7,000 y S/10,000 brutos mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4334289066",
-    "title": "Technical Course Authors - AI Education (Part-time)",
-    "employer": "TripleTen",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334289066",
-    "reason": "Similar a la oferta anterior de TripleTen, esta posición busca 'Technical Course Authors' con experiencia en ingeniería de software y la capacidad de crear contenido sobre IA para desarrolladores. Si bien no se especifica QA explícitamente en el título, la naturaleza del contenido educativo sobre IA para desarrollo de software a menudo implica la creación de materiales para roles técnicos como SDETs o QA Automation Engineers. Los requisitos de experiencia en desarrollo y la necesidad de explicar conceptos complejos son favorables. El rango salarial indicado es competitivo. Dado que se trata de un rol de autoría técnica y no de ejecución directa de pruebas, se le da una prioridad menor, pero sigue siendo un encaje conceptual."
+    "id": "https://www.linkedin.com/jobs/view/4334499210",
+    "title": "Analista QA Performance Senior",
+    "employer": "INFORMÁTICA DELTA SAC",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334499210",
+    "reason": "Si bien el título se enfoca en 'Performance', la palabra 'Analista QA Senior' y la naturaleza del puesto (optimización de rendimiento en aplicaciones) implican un fuerte componente técnico y de automatización, que a menudo se solapa con roles de SDET o QA Automation Engineer, especialmente en la parte de APIs y backend. La experiencia Senior es clave. INFORMÁTICA DELTA SAC es una empresa que opera en el sector tecnológico. En Lima, un puesto Senior de Analista QA con enfoque en Performance podría tener un rango salarial aproximado de S/6,500 a S/9,500 brutos mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4334559088",
+    "title": "TECH LEADER",
+    "employer": "Banco de Crédio BCP",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4334559088",
+    "reason": "Aunque el título es 'TECH LEADER', los bancos como el BCP son grandes empleadores en el sector 'Banca y Finanzas' y suelen requerir perfiles con un fuerte componente de calidad y automatización para liderar equipos. Un Tech Leader en un banco de la envergadura del BCP en Lima, Perú, probablemente estará involucrado en la arquitectura, diseño y aseguramiento de la calidad del software, incluyendo la automatización de pruebas y el desarrollo ágil. El rango salarial para un Tech Leader en este sector en Lima puede variar significativamente, pero se estima entre S/8,000 y S/12,000+ brutos mensuales, dependiendo de la responsabilidad específica del equipo."
   }
 ]
