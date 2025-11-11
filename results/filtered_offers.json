@@ -1,23 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4334644268",
-    "title": "QA Engineer",
-    "employer": "Moventi",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334644268",
-    "reason": "Esta oferta es altamente relevante ya que busca un \"QA Engineer\" con más de 5 años de experiencia en automatización de pruebas, pruebas funcionales y no funcionales, lo cual se alinea perfectamente con el perfil. Además, menciona experiencia en \"Banca y/o finanzas\", un dominio clave para el perfil. La certificación ISTQB es un plus. El rango salarial aproximado para un QA Engineer con esta experiencia en Lima, Perú, se sitúa entre S/ 7,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4339720168",
+    "title": "Líder de QA y pruebas",
+    "employer": "Experis",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4339720168",
+    "reason": "La oferta se alinea perfectamente con el perfil, ya que busca un líder de QA con experiencia en automatización web, API y mobile, utilizando herramientas como Selenium, JMeter, Postman, SoapUI y Appium, además de conocimientos en Python. Se requiere experiencia en liderazgo de equipos y se valoran conocimientos en AWS y microservicios. Las responsabilidades incluyen supervisar la ejecución de pruebas manuales y automatizadas, garantizar la versatilidad en múltiples plataformas y comunicar avances. Dada la experiencia requerida (3+ años) y el rol de liderazgo en el sector de servicios financieros tecnológicos en Lima, Perú, se estima un rango salarial competitivo que podría oscilar entre S/ 7,000 y S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4321289043",
-    "title": "Software Developer Engineer in Test - Work from home",
-    "employer": "Nearsure",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4321289043",
-    "reason": "La oferta es para un \"Software Developer Engineer in Test\" y se enfoca en asegurar la calidad y fiabilidad de pipelines de infraestructura cloud, lo cual se alinea con la experiencia en automatización y desarrollo. Requiere 4+ años de experiencia en el ciclo de vida QA, experiencia en test automation, scripting (Python, JavaScript/TypeScript) y familiaridad con DevOps tools y CI/CD. La paga es en USD, lo que sugiere un rango competitivo, estimado entre $2,500 y $4,500 USD mensuales. El rol de \"SDET\" y la experiencia requerida encajan con el perfil."
+    "id": "https://www.linkedin.com/jobs/view/4335265267",
+    "title": "QE",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4335265267",
+    "reason": "Esta oferta es un excelente match ya que busca un Ingeniero de Calidad (QE) con 4 años de experiencia general como QA Funcional, incluyendo 2 años en banca o sistemas financieros. Se especifica experiencia en pruebas funcionales y automatizadas web, API y mobile con Selenium, Cypress, Playwright, Postman, SoapUI y Appium, así como pruebas de performance con JMeter. Se mencionan metodologías ágiles, bases de datos y herramientas de gestión de pruebas. Las responsabilidades incluyen diseñar, planificar y ejecutar pruebas, elaborar planes de prueba, gestionar defectos e integrar con CI/CD. El rol implica validación de microservicios en AWS. Dada la experiencia requerida y el dominio en el sector financiero, se estima un rango salarial entre S/ 6,000 y S/ 9,000 mensuales en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4334930728",
-    "title": "QA Automation Engineer (Cypress/Playwright)",
-    "employer": "Applaudo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4334930728",
-    "reason": "Esta oferta es para \"QA Automation Engineer\" y requiere 5+ años de experiencia en automatización de pruebas web, con fuerte dominio en JavaScript/TypeScript, Cypress.io y/o Playwright. También incluye experiencia en pruebas de API y la integración de pruebas automatizadas en pipelines CI/CD. El rol y la tecnología se ajustan al perfil. El rango salarial aproximado para un perfil de este nivel en Lima, Perú, podría estar entre S/ 8,000 y S/ 13,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4321792526",
+    "title": "QA Automatizador",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4321792526",
+    "reason": "La oferta se ajusta al perfil por requerir experiencia en automatización (mínimo 1 año) con Selenium WebDriver, Karate DSL, Rest Assured, Serenity o Appium, además de herramientas de Test Management (Jira + Xray) y Testing Continuo (Jenkins, Bitbucket). Se menciona metodología BDD, lo cual es relevante para la automatización. Las responsabilidades típicas para un QA Automatizador de este nivel incluyen el diseño y ejecución de scripts de automatización, mantenimiento de frameworks y colaboración en CI/CD. A pesar de que solo pide 1 año de experiencia, el contexto de NTT DATA, una empresa líder, y la naturaleza del puesto sugieren un rango salarial entre S/ 4,000 y S/ 6,000 mensuales en Lima, Perú, pudiendo ser mayor si se cumplen los requisitos deseables."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4335500264",
+    "title": "Analista programador full stack",
+    "employer": "TADCON Consultoría TI",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4335500264",
+    "reason": "Aunque el título es 'Analista Programador Full Stack', la descripción menciona explícitamente 'Desarrollar y mantener pruebas unitarias y de integración automatizadas' y 'Automatizar procesos de integración y despliegue (CI/CD)'. El perfil requiere experiencia en desarrollo de APIs REST con C# y .NET Core, y conocimientos en AWS Serverless. Dado el enfoque en automatización de pruebas y CI/CD, además de la experiencia en desarrollo backend, esta oferta podría ser de interés para un perfil con aspiraciones de crecimiento hacia roles de ingeniería de pruebas más amplios. El sector y la experiencia requerida en desarrollo sugieren un rango salarial aproximado de S/ 6,000 a S/ 9,000 mensuales en Lima, Perú."
   }
 ]
