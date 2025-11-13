@@ -1,44 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4335363715",
+    "id": "https://www.linkedin.com/jobs/view/4335744728",
     "title": "QA Automation",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4335363715",
-    "reason": "Esta oferta encaja perfectamente con el perfil de QA Automation Engineer, ya que solicita una experiencia mínima de 3 años en automatización de pruebas, específicamente con herramientas como Selenium, Cypress o Playwright, y conocimientos en lenguajes como Java, JavaScript o Python, todos ellos incluidos en el perfil. Las responsabilidades incluyen diseñar, desarrollar y mantener pruebas automatizadas, lo cual se alinea con las preferencias de roles de Automation Engineer y SDET. Se valorará experiencia en entornos cloud (AWS), lo cual es un plus. El rango salarial aproximado para un puesto de esta naturaleza en Lima, Perú, para una empresa como Encora, sería de S/ 6,000 a S/ 9,000 mensuales."
+    "employer": "Bluetab, an IBM Company (América)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4335744728",
+    "reason": "Esta oferta se ajusta al perfil de 'QA Automation Engineer' con más de 3 años de experiencia en automatización de pruebas web, mobile y APIs. Menciona explícitamente la experiencia en construcción y mantenimiento de pruebas automatizadas (3 años en adelante), control de versiones (Git), Cucumber, lenguajes como Ruby/Java, pruebas de integración y APIs con herramientas como Postman, pruebas móviles con Appium y pruebas web con Selenium. La experiencia en banca es un plus. Las responsabilidades incluyen diseñar y ejecutar pruebas automatizadas y manuales, desarrollar frameworks de automatización, integrar pruebas en pipelines CI/CD y validar integraciones. El rango salarial aproximado para un puesto Senior en Lima, Perú, con esta experiencia y en una empresa como Bluetab (parte de IBM), podría estar entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la negociación y habilidades específicas."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4321907550",
-    "title": "Especialista en automatización",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4321907550",
-    "reason": "La oferta de \"Especialista en automatización\" se ajusta al perfil, ya que menciona directamente la automatización como un requisito clave, incluyendo herramientas como Selenium, Appium, Kobiton y Cucumber. Se solicita experiencia en Python, que está en la tech stack del perfil. Las responsabilidades incluyen automatización de pruebas Mobile, Servicios (APIs) y Web, lo cual cumple con la experiencia requerida. El trabajo híbrido en Lima y la descripción del puesto sugieren un rol senior. El rango salarial aproximado para un especialista en automatización en Indra, Lima, podría ser de S/ 6,500 a S/ 9,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4335610495",
+    "title": "QA Automation Senior",
+    "employer": "Canvia",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4335610495",
+    "reason": "Esta oferta es para un 'QA Automation Engineer Senior' y se alinea perfectamente con el perfil. Requiere experiencia previa en pruebas funcionales, de aceptación de usuario, pruebas de Performance, uso de JIRA, XRAY, Gherkin, Cucumber, lenguajes como Java/JavaScript, frameworks como Selenium WebDriver, Serenity BDD, manejo de bases de datos SQL, proyectos ágiles y experiencia en entidades financieras (banca). Las responsabilidades clave son liderar el desarrollo y mantenimiento de pruebas automatizadas, aplicar prácticas de Shift-Left, integrar pruebas en pipelines DevOps, y realizar pruebas de API. Se valora la experiencia en el sector bancario peruano. El rango salarial aproximado para un puesto Senior en Canvia (empresa reconocida en transformación digital) y en el sector bancario en Lima, Perú, podría estar entre S/ 8,000 y S/ 14,000 mensuales, dada la experiencia requerida y la naturaleza del rol."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4339784230",
-    "title": "QA Automatizador",
-    "employer": "Ayesa",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4339784230",
-    "reason": "Esta oferta es un match directo para un QA Automatizador. Solicita experiencia comprobable en automatización con Cypress y Serenity (mínimo 1 año), conocimientos de JavaScript/TypeScript (incluido en el perfil) y dominio de Git. Las responsabilidades abarcan el diseño, desarrollo y mantenimiento de scripts de pruebas automatizadas, integración en pipelines CI/CD (Jenkins incluido en el perfil), y experiencia en pruebas móviles. Aunque se menciona \"mínimo 1 año\", la descripción de responsabilidades y el uso de herramientas de gestión de pruebas avanzadas sugiere un nivel que podría ser senior o mid-level con potencial de crecimiento. El rango salarial aproximado para un QA Automatizador en Ayesa, Lima, podría ser de S/ 5,500 a S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4321792526",
-    "title": "QA Automatizador",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4321792526",
-    "reason": "La oferta de \"QA Automatizador\" se alinea con el perfil. Pide experiencia de 1 año o más en automatización con tecnologías como Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium (todas ellas en el perfil o relacionadas). Menciona Jenkins como herramienta de testing continuo. Aunque el mínimo de experiencia es de 1 año, las oportunidades de carrera profesional y el tipo de proyectos (gran envergadura) sugieren que podrían considerar perfiles con más experiencia o con gran potencial. El rango salarial aproximado para un QA Automatizador en NTT DATA, Lima, podría ser de S/ 5,000 a S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4335498426",
-    "title": "Mid QA Engineer",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4335498426",
-    "reason": "Aunque el título es \"Mid QA Engineer\", la descripción menciona \"+4 años de experiencia como QA\" y experiencia trabajando con pruebas funcionales, revisiones de Mainframe, reporterías, y \"pruebas de servicios manuales (Bruno) y automatizadas (Visual Studio con .Net y C# y en IntelliJ IDEA con Java)\". El requisito de \"Muy deseable experiencia en banca o financieras\" coincide con los dominios del perfil. El enfoque en pruebas automatizadas con Java/.NET, aunque no especifica las herramientas de automatización web/mobile, lo hace un candidato fuerte. El rango salarial aproximado para un Mid QA Engineer con esta experiencia en Encora, Lima, podría ser de S/ 6,000 a S/ 8,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/2354615484",
-    "title": "Software Engineer Backend Senior",
-    "employer": "Tucambista",
-    "linkOffer": "https://www.linkedin.com/jobs/view/2354615484",
-    "reason": "Aunque este puesto es de \"Software Engineer Backend Senior\", la descripción menciona \"Escribir código testeable y mantenible\", \"Autonomía técnica para levantar, estimar y entregar features completas en microservicios\", y \"Colaboración efectiva con frontend, QA y DevOps, manteniendo alta calidad en las integraciones\". El hecho de que Tucambista sea una empresa Fintech y que se requiera un \"backend con enfoque en testing\" lo hace relevante. La experiencia solicitada es de 3 años en posiciones similares y el uso de .NET (C#) y SQL Server coinciden con la tech stack. El rol, por su naturaleza, podría ser un buen fit para un SDET con experiencia backend. El rango salarial aproximado para un Software Engineer Backend Senior en Tucambista, Lima, podría ser de S/ 7,000 a S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4322072536",
+    "title": "Especialista de desarrollo de QA",
+    "employer": "Empresa Confidencial",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4322072536",
+    "reason": "La oferta para 'Especialista de desarrollo de QA' se ajusta al perfil, buscando 3 años como analista de QA y 2 años como ingeniero de automatización. Requiere manejo de Selenium, Gradle, Maven, JPA, Java, Appium, y herramientas de CI/CD como Jenkins y Azure TestPlan. Las funciones incluyen definir estándares de calidad, promover y supervisar la automatización de pruebas (funcionales, regresión, integración y performance), y coordinar la ejecución de QA en squads. La experiencia en el desarrollo de QA y la automatización con las tecnologías mencionadas encajan con el perfil. El rango salarial aproximado para un especialista con esta experiencia en Lima, Perú, podría estar entre S/ 6,000 y S/ 10,000 mensuales, dependiendo de la empresa y la profundidad de las habilidades en automatización."
   }
 ]
