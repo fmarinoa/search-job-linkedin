@@ -1,23 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4335744728",
+    "id": "https://www.linkedin.com/jobs/view/4340445605",
     "title": "QA Automation",
-    "employer": "Bluetab, an IBM Company (América)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4335744728",
-    "reason": "Esta oferta se ajusta al perfil de 'QA Automation Engineer' con más de 3 años de experiencia en automatización de pruebas web, mobile y APIs. Menciona explícitamente la experiencia en construcción y mantenimiento de pruebas automatizadas (3 años en adelante), control de versiones (Git), Cucumber, lenguajes como Ruby/Java, pruebas de integración y APIs con herramientas como Postman, pruebas móviles con Appium y pruebas web con Selenium. La experiencia en banca es un plus. Las responsabilidades incluyen diseñar y ejecutar pruebas automatizadas y manuales, desarrollar frameworks de automatización, integrar pruebas en pipelines CI/CD y validar integraciones. El rango salarial aproximado para un puesto Senior en Lima, Perú, con esta experiencia y en una empresa como Bluetab (parte de IBM), podría estar entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la negociación y habilidades específicas."
+    "employer": "SOAINT",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4340445605",
+    "reason": "Esta oferta se ajusta perfectamente al perfil, ya que busca un 'QA Automation' con experiencia en automatización de pruebas web, mobile y APIs, mencionando explícitamente herramientas como Selenium y Playwright, que son parte del stack tecnológico solicitado. Las responsabilidades incluyen diseño y ejecución de pruebas automatizadas, integración continua y colaboración en ceremonias ágiles. El dominio de 'QA Automation' es un plus. El rango salarial aproximado para un rol de QA Automation con 2+ años de experiencia en Lima, Perú, suele estar entre S/4000 y S/7000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4335610495",
-    "title": "QA Automation Senior",
-    "employer": "Canvia",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4335610495",
-    "reason": "Esta oferta es para un 'QA Automation Engineer Senior' y se alinea perfectamente con el perfil. Requiere experiencia previa en pruebas funcionales, de aceptación de usuario, pruebas de Performance, uso de JIRA, XRAY, Gherkin, Cucumber, lenguajes como Java/JavaScript, frameworks como Selenium WebDriver, Serenity BDD, manejo de bases de datos SQL, proyectos ágiles y experiencia en entidades financieras (banca). Las responsabilidades clave son liderar el desarrollo y mantenimiento de pruebas automatizadas, aplicar prácticas de Shift-Left, integrar pruebas en pipelines DevOps, y realizar pruebas de API. Se valora la experiencia en el sector bancario peruano. El rango salarial aproximado para un puesto Senior en Canvia (empresa reconocida en transformación digital) y en el sector bancario en Lima, Perú, podría estar entre S/ 8,000 y S/ 14,000 mensuales, dada la experiencia requerida y la naturaleza del rol."
+    "id": "https://www.linkedin.com/jobs/view/4340295568",
+    "title": "QA Técnico",
+    "employer": "ManpowerGroup",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4340295568",
+    "reason": "La oferta solicita un 'QA Técnico' con 3 a 4 años de experiencia, lo cual encaja con la experiencia requerida. Se mencionan explícitamente el desarrollo y mantenimiento de scripts de automatización con Selenium, la integración en pipelines CI/CD y la validación de APIs, todos puntos relevantes para el perfil. El dominio en 'QA Automation' se alinea directamente. El rango salarial aproximado para un QA Técnico con 3-4 años de experiencia en Lima, Perú, puede estar entre S/4500 y S/7500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4322072536",
-    "title": "Especialista de desarrollo de QA",
-    "employer": "Empresa Confidencial",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4322072536",
-    "reason": "La oferta para 'Especialista de desarrollo de QA' se ajusta al perfil, buscando 3 años como analista de QA y 2 años como ingeniero de automatización. Requiere manejo de Selenium, Gradle, Maven, JPA, Java, Appium, y herramientas de CI/CD como Jenkins y Azure TestPlan. Las funciones incluyen definir estándares de calidad, promover y supervisar la automatización de pruebas (funcionales, regresión, integración y performance), y coordinar la ejecución de QA en squads. La experiencia en el desarrollo de QA y la automatización con las tecnologías mencionadas encajan con el perfil. El rango salarial aproximado para un especialista con esta experiencia en Lima, Perú, podría estar entre S/ 6,000 y S/ 10,000 mensuales, dependiendo de la empresa y la profundidad de las habilidades en automatización."
+    "id": "https://www.linkedin.com/jobs/view/4335996159",
+    "title": "Desarrollador de back-end",
+    "employer": "METRICA Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4335996159",
+    "reason": "Si bien el título es 'Desarrollador de back-end', la descripción detalla un stack tecnológico que incluye Node.js con TypeScript, lo cual es relevante. Además, se especifica el uso de Jest (Unit test) y Supertest para testing, y GitHub Actions para CI/CD. Dado el perfil con experiencia en desarrollo ágil y el deseo de roles con enfoque en testing, esta oferta podría ser un match si la persona tiene un fuerte componente de calidad en su desarrollo. El rango salarial aproximado para un Desarrollador Back-end con experiencia en Node.js/TypeScript en Lima, Perú, puede variar entre S/5000 y S/8000 mensuales."
   }
 ]
