@@ -1,30 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4336823336",
-    "title": "Quality Assurance Tester",
-    "employer": "Bluetab, an IBM Company (América)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4336823336",
-    "reason": "Esta oferta se prioriza debido a la mención explícita de \"automatización UI (Playwright o Selenium)\" y la experiencia requerida en \"QA Automation\" y \"desarrollo ágil\". Si bien el título es \"Quality Assurance Tester\", la descripción detalla responsabilidades como \"Implementar pruebas automatizadas cuando sea necesario\" y el conocimiento de \"patrones de diseño aplicados al testing automatizado\". Se busca un perfil semi senior, lo que se alinea con los 3+ años de experiencia. El dominio \"Banca\" y \"Finanzas\" no está explícitamente mencionado, pero la naturaleza de los servicios de Bluetab (Cloud Computing, Big Data, Data Analytics) podría implicar trabajo con esos sectores. El rango salarial aproximado para un QA Tester Semi Senior en Lima, Perú, con experiencia relevante y trabajando para una empresa de la talla de Bluetab (an IBM Company) podría estar entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4337074922",
+    "title": "QA Engineer",
+    "employer": "VASS",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4337074922",
+    "reason": "Esta oferta se alinea perfectamente con el perfil, ya que busca un 'Senior QA Engineer / QA Automation Lead' con un fuerte enfoque en automatización avanzada, diseño de arquitecturas escalables y prácticas modernas de ingeniería. Las responsabilidades clave como liderar la estrategia de calidad, impulsar la automatización y asegurar la excelencia en el ciclo de desarrollo coinciden con las preferencias del perfil. Se valora experiencia mínima de 6+ años en QA, con al menos 3 años en automatización avanzada, y conocimientos específicos en frameworks avanzados, pruebas de rendimiento y cloud testing. El rango salarial aproximado para un puesto Senior QA Engineer / QA Automation Lead en Lima, Perú, estaría entre $3,500 - $5,500 USD mensuales, dependiendo de la experiencia específica y la negociación."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4337029521",
-    "title": "Analista QA Performance Senior",
-    "employer": "INFORMÁTICA DELTA SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4337029521",
-    "reason": "Esta oferta se prioriza porque busca un \"Analista QA Performance Senior\" con experiencia específica en \"pruebas de carga, estrés, picos y resistencia de APIs y aplicaciones web/mobile\", lo que se alinea directamente con el perfil de automatización. Los requisitos incluyen \"Automatización de pruebas para APIs con Playwright/RestAssured\" y \"Pruebas de rendimiento de APIs con Jmeter/Load Runner\", además de \"Jmeter/Load Runner\" para aplicaciones web/mobile. El nivel \"Senior\" y el enfoque en \"QA Performance\" encajan perfectamente. Se menciona \"TI\" como rubro del cliente, lo cual es amplio. El rango salarial aproximado para un Analista QA Performance Senior en Lima, Perú, con experiencia en automatización y pruebas de rendimiento podría estar entre S/ 6,000 y S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4323313254",
-    "title": "Senior QA Automation Engineer",
-    "employer": "Agentic Dream",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4323313254",
-    "reason": "Esta oferta se alinea directamente con el perfil solicitado. El título \"Senior QA Automation Engineer\" y las responsabilidades clave como \"Audit existing automation\", \"Rebuild automation\", \"Implement best-practice patterns\", \"API automation\" y la integración con \"CI/CD pipelines\" son pilares del perfil de SDET/QA Automation Engineer. Los requisitos técnicos mencionan \"Cypress, Playwright, Selenium\" y \"API automation using Postman, REST Assured, or Playwright API\", todos ellos relevantes. La experiencia \"3+ años\" es un requisito. El dominio \"Fintech\" es muy probable dado el perfil de empresa que busca automatización robusta. El rango salarial aproximado para un Senior QA Automation Engineer en Lima, Perú, en una empresa de tecnología con enfoque en entrega rápida podría estar entre S/ 7,000 y S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4337162579",
-    "title": "QA Automatizador Senior KARATE",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4337162579",
-    "reason": "Esta oferta se prioriza por el título \"QA Automatizador Senior\" y la mención específica de \"KARATE\", que es una herramienta de automatización. Aunque la descripción del puesto no está disponible, el título y el empleador (Indra, una empresa tecnológica reconocida) sugieren que se trata de un rol de automatización. El nivel \"Senior\" coincide con la experiencia requerida. El sector \"Tecnología\" es implícito. El rango salarial aproximado para un QA Automatizador Senior en Lima, Perú, en una empresa como Indra, podría estar entre S/ 6,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4332859428",
+    "title": "Senior Software Engineer in Test - Remote - Latin America",
+    "employer": "FullStack",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4332859428",
+    "reason": "La oferta para 'Senior Software Engineer in Test' es un match directo con el perfil. Se requieren más de 5 años de experiencia profesional en pruebas de software, con al menos 3 años como SDET trabajando en entornos cloud. Las responsabilidades incluyen la integración en equipos del cliente, desarrollo de frameworks de automatización (mencionando Pytest, Robot Framework), experiencia con Selenium y automatización de servicios RESTful, y pruebas de sistemas distribuidos y microservicios. Se mencionan tecnologías como AWS, Jenkins y la experiencia en entornos Agile. El pago es competitivo y es 100% remoto. El rango salarial para un puesto de esta naturaleza, considerando la experiencia solicitada y el modelo remoto para Latinoamérica, podría oscilar entre $4,000 - $7,000 USD mensuales."
   }
 ]
