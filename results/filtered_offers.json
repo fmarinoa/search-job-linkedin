@@ -1,16 +1,68 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4337074922",
-    "title": "QA Engineer",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4337074922",
-    "reason": "Esta oferta se alinea perfectamente con el perfil, ya que busca un 'Senior QA Engineer / QA Automation Lead' con un fuerte enfoque en automatización avanzada, diseño de arquitecturas escalables y prácticas modernas de ingeniería. Las responsabilidades clave como liderar la estrategia de calidad, impulsar la automatización y asegurar la excelencia en el ciclo de desarrollo coinciden con las preferencias del perfil. Se valora experiencia mínima de 6+ años en QA, con al menos 3 años en automatización avanzada, y conocimientos específicos en frameworks avanzados, pruebas de rendimiento y cloud testing. El rango salarial aproximado para un puesto Senior QA Engineer / QA Automation Lead en Lima, Perú, estaría entre $3,500 - $5,500 USD mensuales, dependiendo de la experiencia específica y la negociación."
+    "id": "https://www.linkedin.com/jobs/view/4323912674",
+    "title": "Analista QA Senior",
+    "employer": "Softtek",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4323912674",
+    "reason": "Esta oferta es altamente relevante ya que busca un 'Analista QA Senior' con más de 4 años de experiencia, lo cual se alinea con la preferencia por roles Senior y experiencia específica en automatización. Las responsabilidades incluyen pruebas funcionales, de regresión, integración y aceptación, así como la competencia técnica avanzada en herramientas de ejecución y seguimiento de pruebas y en automatización de pruebas funcionales con SerenityBDD. Aunque no se especifica un rango salarial, para un puesto Senior de QA Automation Engineer en Lima, Perú, se esperaría un rango de S/ 7,000 a S/ 12,000 mensuales brutos, dependiendo de la experiencia específica y las habilidades técnicas demostradas.",
+    "responsibilities": [
+      "Diseñar y ejecutar pruebas funcionales, de regresión, integración y aceptación.",
+      "Utilizar herramientas para la ejecución y seguimiento de pruebas.",
+      "Automatización de pruebas funcionales con SerenityBDD."
+    ],
+    "salary_range": "S/ 7,000 - S/ 12,000 (aprox.)"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4332859428",
-    "title": "Senior Software Engineer in Test - Remote - Latin America",
-    "employer": "FullStack",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4332859428",
-    "reason": "La oferta para 'Senior Software Engineer in Test' es un match directo con el perfil. Se requieren más de 5 años de experiencia profesional en pruebas de software, con al menos 3 años como SDET trabajando en entornos cloud. Las responsabilidades incluyen la integración en equipos del cliente, desarrollo de frameworks de automatización (mencionando Pytest, Robot Framework), experiencia con Selenium y automatización de servicios RESTful, y pruebas de sistemas distribuidos y microservicios. Se mencionan tecnologías como AWS, Jenkins y la experiencia en entornos Agile. El pago es competitivo y es 100% remoto. El rango salarial para un puesto de esta naturaleza, considerando la experiencia solicitada y el modelo remoto para Latinoamérica, podría oscilar entre $4,000 - $7,000 USD mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4337679693",
+    "title": "Analista QA Performance Senior",
+    "employer": "INFORMÁTICA DELTA SAC",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4337679693",
+    "reason": "La oferta busca un 'Analista QA Performance Senior' con experiencia en pruebas de rendimiento (carga, estrés, picos y resistencia) de APIs y aplicaciones web/mobile, lo cual se alinea con la experiencia deseada en automatización y el dominio de QA Automation. Se mencionan conocimientos en Jmeter/Load Runner, desarrollo con Java/Groovy y automatización de pruebas para APIs con Playwright/RestAssured, tecnologías que coinciden con el tech stack del perfil. Dado el nivel Senior y el enfoque en performance, el rango salarial estimado en Lima, Perú, sería de S/ 7,000 a S/ 11,000 mensuales brutos.",
+    "responsibilities": [
+      "Diseñar y ejecutar pruebas de carga, estrés, picos y resistencia de APIs y aplicaciones web/mobile.",
+      "Crear scripts de performance testing aplicando parametrización y correlación.",
+      "Analizar resultados y cuellos de botella a nivel de latencia, throughput, errores y uso de recursos.",
+      "Generar informes técnicos y ejecutivos con recomendaciones de optimización."
+    ],
+    "salary_range": "S/ 7,000 - S/ 11,000 (aprox.)"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4338268992",
+    "title": "QA Automation Mobile",
+    "employer": "Softtek",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4338268992",
+    "reason": "Esta oferta es muy relevante al buscar un 'QA Automation Mobile' con más de 4 años de experiencia total y más de 3 años en automatización. Específicamente, se requiere experiencia en automatización de pruebas móviles con Appium, lo cual está en el tech stack del perfil. Las funciones incluyen diseño de planes de testing, casos de prueba, identificación de data, ejecución, análisis y reporte de resultados. Para un rol Senior con enfoque en mobile automation en Lima, Perú, el rango salarial estimado sería de S/ 7,500 a S/ 12,000 mensuales brutos.",
+    "responsibilities": [
+      "Diseñar el plan de Testing, casos de prueba y estrategia a aplicar.",
+      "Preparación, identificación de data para la verificación de los productos desarrollados.",
+      "Ejecutar los casos de prueba y llevar un registro de los defectos encontrados.",
+      "Analizar y reportar los resultados de las pruebas, estadísticas, etc.",
+      "Brindar soporte en las actividades de integración y verificar que las versiones liberadas cumplan con los requisitos de calidad establecidos."
+    ],
+    "salary_range": "S/ 7,500 - S/ 12,000 (aprox.)"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/jobs/view/4338435135",
+    "title": "QA automation",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4338435135",
+    "reason": "Aunque el título no especifica 'Senior' o 'SDET', la descripción del puesto busca un 'QA Automation Engineer' con experiencia en Python, automatización con UFT ONE (Visual Basic) y plataformas de escritorio (.jws), conocimiento en metodologías ágiles, SDLC, pruebas automatizadas, funcionales y no funcionales, y análisis de resultados. La experiencia en Python y las metodologías ágiles coinciden con el perfil. Si bien UFT ONE no está explícitamente en el tech stack, la base de automatización y el lenguaje de programación son relevantes. Para un rol de Automation Engineer en Inetum (una empresa de servicios ágiles con presencia global), se estima un rango salarial de S/ 6,000 a S/ 10,000 mensuales brutos, dependiendo de si se valora más la experiencia en Python o en UFT.",
+    "responsibilities": [
+      "Diseño, desarrollo y ejecución de scripts de prueba automatizados con Python y UFT ONE.",
+      "Implementación de pruebas funcionales y no funcionales.",
+      "Análisis de resultados de pruebas y reporte de defectos."
+    ],
+    "salary_range": "S/ 6,000 - S/ 10,000 (aprox.)"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4333058423",
+    "title": "Senior IT Quality Engineer",
+    "employer": "TRANZACT",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4333058423",
+    "reason": "Esta oferta es para un 'Senior IT Quality Engineer' y, aunque la descripción está vacía, el título y la mención de 'Senior' la hacen potencialmente relevante, especialmente si el rol implica automatización. Dada la ubicación y el nivel 'Senior', se estima un rango salarial similar a otros roles Senior de QA Automation, entre S/ 7,000 y S/ 11,000 mensuales brutos.",
+    "responsibilities": [
+      "Asumir responsabilidades de un Ingeniero de Calidad Senior en IT."
+    ],
+    "salary_range": "S/ 7,000 - S/ 11,000 (aprox.)"
   }
 ]
