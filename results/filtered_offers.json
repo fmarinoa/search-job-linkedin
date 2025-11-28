@@ -1,51 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4340965167",
-    "title": "Analista de Calidad QA",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4340965167",
-    "reason": "Esta oferta encaja perfectamente con el perfil. El título 'Analista de Calidad QA' y la descripción mencionan explícitamente 'QA Automatizador', además de requerir experiencia en automatización con Selenium, Appium, Kobiton y lenguajes como Python. Se mencionan tipos de pruebas como Mobile, Servicios (APIs) y Web, lo cual se alinea con la experiencia requerida. La empresa Indra es un referente en tecnología y consultoría. El rango salarial aproximado para este puesto en Lima, Perú, considerando la experiencia y la empresa, estaría entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4339327020",
+    "title": "Software Test Engineer",
+    "employer": "Interbank",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4339327020",
+    "reason": "Esta oferta encaja con el perfil debido a que se busca un \"Software Test Engineer\" con experiencia mínima de 5 años en testeos de calidad de SW, de los cuales 2 años deben ser bajo marco ágil. Se mencionan explícitamente la creación e implementación de métodos de pruebas automatizadas, lo cual se alinea perfectamente con el rol de QA Automation Engineer o SDET. Además, se valoran conocimientos en herramientas de automatización como Selenium y lenguajes de programación como Java y Python. El dominio de SQL y experiencia en el sector Banca/Finanzas (implícito por ser Interbank) también son puntos fuertes. El rango salarial aproximado para un puesto de este nivel y en una empresa como Interbank en Lima, Perú, estaría entre S/ 7,000 y S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4338938222",
-    "title": "QA Automatizador/Pythjon",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4338938222",
-    "reason": "Esta oferta es un match directo. El título 'QA Automatizador' y la descripción enfocada en automatización con Selenium, Appium, Kobiton y Python, junto con la mención de pruebas de Mobile, Servicios (APIs) y Web, se alinean con el perfil. El rol se desempeña para una empresa del rubro financiero, lo cual es una preferencia del perfil. Indra es una empresa importante en el sector. El rango salarial aproximado para este puesto en San Isidro, Perú, considerando la experiencia y la empresa, estaría entre S/ 5,500 y S/ 8,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4340415079",
-    "title": "Líder de Analista de Calidad (QA)",
-    "employer": "Beex",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4340415079",
-    "reason": "Esta oferta es muy relevante, aunque el título es 'Líder', la descripción menciona experiencia en 'aseguramiento de la calidad de software', 'estrategias de testing', 'casos de prueba, tanto manuales como automatizados', y específicamente como deseable 'Experiencia con frameworks de automatización (Selenium, Cypress, Playwright, etc.)'. El rubro financiero es una preferencia clara del perfil. El pago en dólares (USD) sugiere un rango salarial competitivo, probablemente entre USD 1,500 y USD 2,500 mensuales, lo que equivale a S/ 5,500 y S/ 9,000."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4339098850",
-    "title": "QA Automatizador",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4339098850",
-    "reason": "Esta oferta es un excelente match. El título es 'QA Automatizador Senior', y la descripción detalla 'Automatizar pruebas web y de servicios con Java o C#', experiencia en 'pruebas API REST / SOAP', y se busca experiencia en el sector 'banca'. El perfil especifica '3+ años en automatización', y esta oferta pide '+3 años de experiencia en proyectos QA con enfoque ágil' y '+2 años automatizando servicios y pruebas API REST / SOAP'. Las empresas de Synopsis son importantes en el sector tecnológico. El rango salarial aproximado para este puesto senior y remoto con posibilidad de ir a oficina en Lima, Perú, estaría entre S/ 6,000 y S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4324561089",
-    "title": "QA Automatizador Senior",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4324561089",
-    "reason": "Esta oferta coincide fuertemente con el perfil. El título es 'QA Automatizador Senior', y los requisitos incluyen '4 años a más de experiencia automatizando con alguna de las siguientes tecnologías: Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium'. NTT DATA es una empresa de servicios TI de gran envergadura global y local. El rango salarial aproximado para este puesto senior en Lima, Perú, estaría entre S/ 7,000 y S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4324399467",
-    "title": "QA Automatizador Semi senior",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4324399467",
-    "reason": "Esta oferta es un buen match. Aunque el título es 'Semi senior', la experiencia requerida es '2 a 3 años a más de experiencia automatizando con alguna de las siguientes tecnologías: Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium', lo cual se acerca a los '3+ años' del perfil. NTT DATA es una empresa líder en el mercado TI. El rango salarial aproximado para este puesto semi-senior en Lima, Perú, estaría entre S/ 5,000 y S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4324632810",
-    "title": "QA Specialist",
-    "employer": "Inteligo Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4324632810",
-    "reason": "Esta oferta es un match parcial. El título es 'QA Specialist', pero la descripción menciona 'Automatizar de los casos de prueba' y 'Automatización de pruebas funcionales (Deseable)'. El perfil busca específicamente roles con enfoque en automatización. Inteligo Group opera en el sector financiero, lo cual es un plus. La experiencia requerida es 'mínima de 4 años como Analista QA'. El rango salarial aproximado para este puesto en Lima, Perú, considerando la experiencia y la empresa, estaría entre S/ 4,500 y S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4339247888",
+    "title": "QA Automatizador Semi Senior",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4339247888",
+    "reason": "La oferta es altamente relevante ya que busca un \"QA Automatizador Semi Senior\" con mínimo 3 años de experiencia como QA, de preferencia en el sector financiero. Se mencionan explícitamente las pruebas de automatización Web (Selenium) y Mobile (Appium), así como pruebas de API con Postman y JMeter, y manejo de SQL. Estos son requisitos directos del perfil. La experiencia en el sector financiero es un plus importante. El rango salarial aproximado para un puesto Semi Senior en Lima, Perú, con estas características, podría oscilar entre S/ 5,500 y S/ 9,000 mensuales."
   }
 ]
