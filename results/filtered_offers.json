@@ -1,23 +1,37 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4342150681",
-    "title": "QA Automatizador",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4342150681",
-    "reason": "Esta oferta se alinea perfectamente con el perfil ya que busca un \"QA Automatizador\" con experiencia en Selenium, Appium (pruebas web, mobile y APIs), Python/Java, Jira y GitHub, que son tecnologías y dominios relevantes. Las responsabilidades incluyen pruebas de Mobile, Servicios (APIs) y Web, y testing continuo. El rol encaja en \"QA Automation Engineer\" y \"SDET\". El rango salarial aproximado para un rol Senior en Lima, Perú, con la experiencia requerida y en una empresa como Indra, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4342701037",
+    "title": "Tracking and QA Analyst",
+    "employer": "Launch Potato",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4342701037",
+    "reason": "Esta oferta, aunque no menciona explícitamente \"automation engineer\" o \"SDET\", describe responsabilidades de control de calidad y análisis de datos de campañas que podrían implicar el uso de herramientas de automatización para la validación. El perfil busca \"QA Automation Engineer\" con experiencia en \"QA Automation\". La empresa Launch Potato opera en el dominio \"Fintech\" (a través de FinanceBuzz). El rango salarial aproximado para este tipo de rol en Lima, considerando la experiencia requerida (2-3 años) y la empresa, podría estar entre $1000 - $2000 USD mensuales, lo cual coincide con el rango indicado en la oferta ($1,500 - $2,500 USD per month, si bien se especifica para Norteamérica, se asume una negociación local). Las responsabilidades incluyen \"Maintaining the currently implemented process for building, setting up, and testing tracking URLs\", \"Reconciling reporting\", \"Conducting investigations when there is an offer discrepancy or malfunction\", lo que sugiere un enfoque en la eficiencia y corrección de procesos."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4342252372",
-    "title": "Desarrollador PHP Backend (Asterisk) Junior / Semi-Senior",
-    "employer": "On Bot GO!",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4342252372",
-    "reason": "Aunque la oferta menciona \"Junior / Semi-Senior\", el requisito de \"pruebas funcionales con llamadas reales (QA)\" y el deseo de aprender \"Python o Node.js\" (aunque el foco sea PHP) la hacen potencialmente interesante para alguien con experiencia en automatización que busca expandir su perfil. Las responsabilidades incluyen \"Realizar pruebas funcionales con llamadas reales (QA)\" y \"Trabajar colaborativamente con Git\". El perfil de \"Backend con enfoque en testing\" podría encajar. Dado el nivel semi-senior y el enfoque en automatización, un rango salarial aproximado para Lima, Perú, podría ser entre S/ 4,500 y S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4342651229",
+    "title": "Digital Media QA Specialist",
+    "employer": "Launch Potato",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4342651229",
+    "reason": "Esta oferta, similar a la anterior, se enfoca en \"QA Specialist\" dentro del dominio \"Fintech\" (a través de FinanceBuzz). Las responsabilidades de \"supporting quality assurance for our financebuzz.com and allaboutcookies.org domains\", \"Maintaining the currently implemented process for building, setting up, and testing tracking URLs\" y \"Reconciling reporting\" sugieren una necesidad de procesos de calidad robustos, que suelen beneficiarse de la automatización. El perfil busca \"QA Automation Engineer\" con experiencia en \"QA Automation\". El rango salarial aproximado para este tipo de rol en Lima, considerando la experiencia requerida (2-3 años) y la empresa, podría estar entre $1000 - $2000 USD mensuales, lo cual coincide con el rango indicado en la oferta ($1,500 - $2,500 USD per month, si bien se especifica para Norteamérica, se asume una negociación local)."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4341576646",
-    "title": "Senior .NET Engineer",
-    "employer": "CMG (Capital Markets Gateway)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4341576646",
-    "reason": "Esta oferta se ajusta al perfil en cuanto a experiencia senior en desarrollo backend (.NET) en el dominio de \"Fintech\" (Capital Markets Gateway). Si bien el título es \"Senior .NET Engineer\", la descripción menciona la colaboración estrecha con \"QA teams\" y la necesidad de \"escribir código de alta calidad y bien probado, contribuyendo a frameworks de pruebas automatizadas con xUnit.net\". Las responsabilidades incluyen \"Diseñar, desarrollar y mantener servicios backend escalables\", \"Colaborar con equipos distribuidos para entregar nuevas funcionalidades y mejoras de producto\", y \"Contribuir a una sólida cultura de ingeniería a través de revisiones de código, intercambio de conocimientos y mejora continua\". El enfoque en \"Backend con enfoque en testing\" y el dominio \"Fintech\" son puntos fuertes. Para un rol Senior .NET en una empresa Fintech de esta envergadura en LATAM (con indicación de Lima), el rango salarial podría estar entre S/ 7,000 y S/ 10,000+ mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4342651230",
+    "title": "Marketing Operations QA Specialist",
+    "employer": "Launch Potato",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4342651230",
+    "reason": "Esta oferta, al igual que las anteriores de Launch Potato, se centra en \"QA Specialist\" en el ámbito de \"Marketing Operations\" para dominios relacionados con \"Fintech\". Las responsabilidades de \"supporting quality assurance for our financebuzz.com and allaboutcookies.org domains\", \"Maintaining the currently implemented process for building, setting up, and testing tracking URLs\" y \"Reconciling reporting\" implican tareas que podrían ser automatizadas para asegurar la calidad. El perfil busca \"QA Automation Engineer\" con experiencia en \"QA Automation\". El rango salarial aproximado para este tipo de rol en Lima, considerando la experiencia requerida (2-3 años) y la empresa, podría estar entre $1000 - $2000 USD mensuales, lo cual coincide con el rango indicado en la oferta ($1,500 - $2,500 USD per month, si bien se especifica para Norteamérica, se asume una negociación local)."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4342711006",
+    "title": "Campaign Performance and QA Analyst",
+    "employer": "Launch Potato",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4342711006",
+    "reason": "Esta oferta se alinea con el perfil en cuanto a \"QA Analyst\" con un enfoque en el rendimiento de campañas, operando dentro del sector \"Fintech\". Las responsabilidades de \"supporting quality assurance for our financebuzz.com and allaboutcookies.org domains\", \"Maintaining the currently implemented process for building, setting up, and testing tracking URLs\" y \"Reconciling reporting\" sugieren la aplicabilidad de la automatización para garantizar la calidad y eficiencia. El perfil busca \"QA Automation Engineer\" con experiencia en \"QA Automation\". El rango salarial aproximado para este tipo de rol en Lima, considerando la experiencia requerida (2-3 años) y la empresa, podría estar entre $1000 - $2000 USD mensuales, lo cual coincide con el rango indicado en la oferta ($1,500 - $2,500 USD per month, si bien se especifica para Norteamérica, se asume una negociación local)."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4342623668",
+    "title": "Ingeniero DevOps",
+    "employer": "METRICA Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4342623668",
+    "reason": "Aunque el título es \"Ingeniero DevOps\", las responsabilidades mencionadas como \"Implementar y mantener pipelines CI/CD (Jenkins, GitHub Actions, Bitbucket)\", \"Automatizar despliegues en entornos dev/QA/producción\", y \"Gestionar contenedores y orquestación (Docker, Kubernetes)\" son altamente relevantes para un \"Software Development Engineer in Test (SDET)\" que busca automatizar procesos de prueba. El perfil valora el dominio \"QA Automation\" y tecnologías como \"AWS\" y \"Jenkins\". El rango salarial para un Ingeniero DevOps con estas responsabilidades en Lima suele ser competitivo y podría estar entre $1500 - $3000 USD mensuales, lo cual se considera \"remuneración fija superior al mercado\" según la oferta. Este rol puede implicar una fuerte colaboración con equipos de QA y desarrollo, permitiendo al profesional enfocar parte de su trabajo en la automatización de pruebas dentro del ciclo de vida del desarrollo."
   }
 ]
