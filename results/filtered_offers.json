@@ -1,37 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4342701037",
-    "title": "Tracking and QA Analyst",
-    "employer": "Launch Potato",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4342701037",
-    "reason": "Esta oferta, aunque no menciona explícitamente \"automation engineer\" o \"SDET\", describe responsabilidades de control de calidad y análisis de datos de campañas que podrían implicar el uso de herramientas de automatización para la validación. El perfil busca \"QA Automation Engineer\" con experiencia en \"QA Automation\". La empresa Launch Potato opera en el dominio \"Fintech\" (a través de FinanceBuzz). El rango salarial aproximado para este tipo de rol en Lima, considerando la experiencia requerida (2-3 años) y la empresa, podría estar entre $1000 - $2000 USD mensuales, lo cual coincide con el rango indicado en la oferta ($1,500 - $2,500 USD per month, si bien se especifica para Norteamérica, se asume una negociación local). Las responsabilidades incluyen \"Maintaining the currently implemented process for building, setting up, and testing tracking URLs\", \"Reconciling reporting\", \"Conducting investigations when there is an offer discrepancy or malfunction\", lo que sugiere un enfoque en la eficiencia y corrección de procesos."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4342651229",
-    "title": "Digital Media QA Specialist",
-    "employer": "Launch Potato",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4342651229",
-    "reason": "Esta oferta, similar a la anterior, se enfoca en \"QA Specialist\" dentro del dominio \"Fintech\" (a través de FinanceBuzz). Las responsabilidades de \"supporting quality assurance for our financebuzz.com and allaboutcookies.org domains\", \"Maintaining the currently implemented process for building, setting up, and testing tracking URLs\" y \"Reconciling reporting\" sugieren una necesidad de procesos de calidad robustos, que suelen beneficiarse de la automatización. El perfil busca \"QA Automation Engineer\" con experiencia en \"QA Automation\". El rango salarial aproximado para este tipo de rol en Lima, considerando la experiencia requerida (2-3 años) y la empresa, podría estar entre $1000 - $2000 USD mensuales, lo cual coincide con el rango indicado en la oferta ($1,500 - $2,500 USD per month, si bien se especifica para Norteamérica, se asume una negociación local)."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4342651230",
-    "title": "Marketing Operations QA Specialist",
-    "employer": "Launch Potato",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4342651230",
-    "reason": "Esta oferta, al igual que las anteriores de Launch Potato, se centra en \"QA Specialist\" en el ámbito de \"Marketing Operations\" para dominios relacionados con \"Fintech\". Las responsabilidades de \"supporting quality assurance for our financebuzz.com and allaboutcookies.org domains\", \"Maintaining the currently implemented process for building, setting up, and testing tracking URLs\" y \"Reconciling reporting\" implican tareas que podrían ser automatizadas para asegurar la calidad. El perfil busca \"QA Automation Engineer\" con experiencia en \"QA Automation\". El rango salarial aproximado para este tipo de rol en Lima, considerando la experiencia requerida (2-3 años) y la empresa, podría estar entre $1000 - $2000 USD mensuales, lo cual coincide con el rango indicado en la oferta ($1,500 - $2,500 USD per month, si bien se especifica para Norteamérica, se asume una negociación local)."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4342711006",
-    "title": "Campaign Performance and QA Analyst",
-    "employer": "Launch Potato",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4342711006",
-    "reason": "Esta oferta se alinea con el perfil en cuanto a \"QA Analyst\" con un enfoque en el rendimiento de campañas, operando dentro del sector \"Fintech\". Las responsabilidades de \"supporting quality assurance for our financebuzz.com and allaboutcookies.org domains\", \"Maintaining the currently implemented process for building, setting up, and testing tracking URLs\" y \"Reconciling reporting\" sugieren la aplicabilidad de la automatización para garantizar la calidad y eficiencia. El perfil busca \"QA Automation Engineer\" con experiencia en \"QA Automation\". El rango salarial aproximado para este tipo de rol en Lima, considerando la experiencia requerida (2-3 años) y la empresa, podría estar entre $1000 - $2000 USD mensuales, lo cual coincide con el rango indicado en la oferta ($1,500 - $2,500 USD per month, si bien se especifica para Norteamérica, se asume una negociación local)."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4342623668",
-    "title": "Ingeniero DevOps",
-    "employer": "METRICA Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4342623668",
-    "reason": "Aunque el título es \"Ingeniero DevOps\", las responsabilidades mencionadas como \"Implementar y mantener pipelines CI/CD (Jenkins, GitHub Actions, Bitbucket)\", \"Automatizar despliegues en entornos dev/QA/producción\", y \"Gestionar contenedores y orquestación (Docker, Kubernetes)\" son altamente relevantes para un \"Software Development Engineer in Test (SDET)\" que busca automatizar procesos de prueba. El perfil valora el dominio \"QA Automation\" y tecnologías como \"AWS\" y \"Jenkins\". El rango salarial para un Ingeniero DevOps con estas responsabilidades en Lima suele ser competitivo y podría estar entre $1500 - $3000 USD mensuales, lo cual se considera \"remuneración fija superior al mercado\" según la oferta. Este rol puede implicar una fuerte colaboración con equipos de QA y desarrollo, permitiendo al profesional enfocar parte de su trabajo en la automatización de pruebas dentro del ciclo de vida del desarrollo."
+    "id": "https://www.linkedin.com/jobs/view/4349072217",
+    "title": "Tester QA Automation",
+    "employer": "SOAINT",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4349072217",
+    "reason": "Esta oferta es altamente relevante ya que busca un \"Tester QA Automation\" con experiencia en \"Automatización de Pruebas\" utilizando herramientas como Selenium y Playwright, lo cual se alinea directamente con el perfil buscado. Las responsabilidades incluyen el diseño y ejecución de pruebas automatizadas, integración continua y promoción de pruebas automatizadas en el pipeline CI/CD, así como la participación en ceremonias ágiles. El requisito de \"Experiencia mínima de 2 años como QA o similares\" es un poco menor a los \"3+ años\" del perfil, pero el enfoque en automatización es claro. El dominio \"QA Automation\" está explícitamente mencionado. El rango salarial aproximado para este tipo de puesto en Lima, Perú, con 2+ años de experiencia y en una empresa como SOAINT, se estima entre S/ 4,000 y S/ 7,000 mensuales."
   }
 ]
