@@ -1,9 +1,34 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4349072217",
-    "title": "Tester QA Automation",
-    "employer": "SOAINT",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4349072217",
-    "reason": "Esta oferta es altamente relevante ya que busca un \"Tester QA Automation\" con experiencia en \"Automatización de Pruebas\" utilizando herramientas como Selenium y Playwright, lo cual se alinea directamente con el perfil buscado. Las responsabilidades incluyen el diseño y ejecución de pruebas automatizadas, integración continua y promoción de pruebas automatizadas en el pipeline CI/CD, así como la participación en ceremonias ágiles. El requisito de \"Experiencia mínima de 2 años como QA o similares\" es un poco menor a los \"3+ años\" del perfil, pero el enfoque en automatización es claro. El dominio \"QA Automation\" está explícitamente mencionado. El rango salarial aproximado para este tipo de puesto en Lima, Perú, con 2+ años de experiencia y en una empresa como SOAINT, se estima entre S/ 4,000 y S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4343063351",
+    "title": "Analista de Calidad QA / Automatizador",
+    "employer": "Canvia",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4343063351",
+    "reason": "Esta oferta es un excelente match, ya que busca explícitamente un 'QA Automatizador' con más de 3 años de experiencia, alineado con el rol 'SDET' o 'QA Automation Engineer'. Se menciona experiencia en automatización de pruebas funcionales y/o no funcionales, preparación de datos y versionamiento de scripts, lo cual encaja con las responsabilidades de un SDET. El requisito de experiencia en el sector Financiero es un plus ya que coincide con los dominios de interés. Las tecnologías mencionadas como Selenium WebDriver y Postman son relevantes. Aunque no se especifica el rango salarial, para un puesto Senior en Lima, Perú, en una empresa grande como Canvia, se esperaría un rango aproximado de S/ 6,000 - S/ 9,000 brutos mensuales.",
+    "salary_estimate": "S/ 6,000 - S/ 9,000 brutos mensuales"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4349514897",
+    "title": "QA Funcional Senior",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4349514897",
+    "reason": "Esta oferta coincide con el perfil de 'QA Senior' y 'Automation Engineer' debido a los requisitos de 'al menos 3 años en el sector banca o financiero', 'Experiencia en diseño, redacción avanzada y ejecución de casos de prueba en Gherkin', y 'Experiencia en pruebas funcionales automatizadas'. La mención de 'diseñar, ejecutar y documentar casos de prueba funcionales (manuales y automatizados)' y 'Monitorear la calidad del software a través de pruebas de rendimiento y herramientas de control de calidad de código' son altamente relevantes. Aunque el título es 'QA Funcional Senior', la descripción detalla la necesidad de experiencia en automatización. El rango salarial para un puesto Senior en el sector financiero en Lima, Perú, podría estar entre S/ 7,000 - S/ 10,000 brutos mensuales.",
+    "salary_estimate": "S/ 7,000 - S/ 10,000 brutos mensuales"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4343091277",
+    "title": "Quality Assurance Automation Engineer",
+    "employer": "Bluetab, an IBM Company (América)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4343091277",
+    "reason": "Esta oferta se alinea perfectamente con el perfil de 'QA Automation Engineer' y 'SDET Senior'. Se solicita 'Construcción y mantenimiento de pruebas automatizadas (3 años) - Indispensable' y se enumeran tecnologías clave como 'Selenium Web Driver / Watir en Ruby / Java u otros', 'Appium en Ruby / Java u otros', 'Cucumber', y manejo de 'APIs con RestClient (Ruby), RestAssured (Java) o su equivalente'. La experiencia requerida en desarrollo con Ruby/Java u otro lenguaje de programación a nivel intermedio para automatizar pruebas (3 años) refuerza la adecuación. Los dominios de Cloud Computing y Data Analytics no son explícitamente los de preferencia, pero la profundidad en automatización es clave. El rango salarial para un puesto Senior con estas habilidades en Lima, Perú, podría ser de S/ 7,500 - S/ 11,000 brutos mensuales.",
+    "salary_estimate": "S/ 7,500 - S/ 11,000 brutos mensuales"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4343163028",
+    "title": "Líder Técnico",
+    "employer": "Bim - Pagos Digitales Peruanos",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4343163028",
+    "reason": "Esta oferta, aunque titulada 'Líder Técnico', tiene fuertes componentes que se alinean con un perfil Senior con enfoque en testing y automatización. Se menciona 'Guiar técnicamente al equipo de desarrollo durante todo el ciclo de vida del proyecto (diseño, codificación, pruebas, despliegue)', 'Proponer definiciones técnicas claves (arquitectura, frameworks, integraciones, observabilidad, infraestructura)', y 'Promover prácticas de ingeniería moderna, arquitectura modular, automatización y excelencia técnica'. La experiencia requerida incluye 'Mínimo tres (03) años de experiencia en posiciones de liderazgo de equipos. Experiencia liderando proyectos de automatización, digitalización de canales internos y soluciones móviles/web para usuario final.' El conocimiento en 'Node.js', 'Python', y 'AWS' son relevantes. Dada la experiencia y el rol de liderazgo, el rango salarial para un Líder Técnico en una empresa del sector financiero en Lima, Perú, podría oscilar entre S/ 9,000 - S/ 14,000 brutos mensuales.",
+    "salary_estimate": "S/ 9,000 - S/ 14,000 brutos mensuales"
   }
 ]
