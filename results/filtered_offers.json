@@ -1,9 +1,10 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4343375590",
-    "title": "QA Funcional/Analista QA Funcional",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4343375590",
-    "reason": "Esta oferta encaja con el perfil profesional porque aunque el título principal sea 'QA Funcional/Analista QA Funcional', las responsabilidades mencionan explícitamente la automatización de pruebas para sitios web, APIs y aplicaciones móviles utilizando herramientas como Selenium, Postman y Appium. El perfil busca experiencia en automatización web, mobile y APIs, y esta oferta se alinea con ello. El requisito de 'Nivel básico en automatización y scripting' es un punto a considerar, pero la mención de herramientas específicas de automatización y la descripción general del rol sugieren un enfoque que podría ser desarrollado. El rango salarial aproximado para un Analista QA Funcional con 3+ años de experiencia en Lima, Perú, y en una empresa tecnológica como Indra, podría estar entre S/ 4,500 y S/ 7,500 mensuales, dependiendo de las habilidades específicas de automatización que se demuestren y la evaluación final."
+    "id": "https://www.linkedin.com/jobs/view/4343579817",
+    "title": "QA (Banca Digital)",
+    "employer": "Compartamos Banco Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4343579817",
+    "reason": "La oferta se alinea directamente con el perfil, ya que está orientada al dominio de 'Banca' y específicamente a 'QA' con un enfoque digital. Aunque el título no especifica automatización, el contexto 'Banca Digital' sugiere una fuerte probabilidad de requerir automatización de pruebas para aplicaciones web y móviles. La empresa 'Compartamos Banco Perú' es una entidad financiera importante en la región. Las responsabilidades probablemente incluirán la ejecución y aseguramiento de la calidad de las aplicaciones bancarias digitales, lo que implica la automatización de pruebas. Se prioriza esta oferta por el dominio y la relevancia del sector.",
+    "estimated_salary": "Entre S/ 4500 y S/ 7000 mensuales, dependiendo de la experiencia específica en automatización y el nivel senioridad."
   }
 ]
