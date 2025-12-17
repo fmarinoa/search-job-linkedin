@@ -1,10 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4343579817",
-    "title": "QA (Banca Digital)",
-    "employer": "Compartamos Banco Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4343579817",
-    "reason": "La oferta se alinea directamente con el perfil, ya que está orientada al dominio de 'Banca' y específicamente a 'QA' con un enfoque digital. Aunque el título no especifica automatización, el contexto 'Banca Digital' sugiere una fuerte probabilidad de requerir automatización de pruebas para aplicaciones web y móviles. La empresa 'Compartamos Banco Perú' es una entidad financiera importante en la región. Las responsabilidades probablemente incluirán la ejecución y aseguramiento de la calidad de las aplicaciones bancarias digitales, lo que implica la automatización de pruebas. Se prioriza esta oferta por el dominio y la relevancia del sector.",
-    "estimated_salary": "Entre S/ 4500 y S/ 7000 mensuales, dependiendo de la experiencia específica en automatización y el nivel senioridad."
+    "id": "https://www.linkedin.com/jobs/view/4344024460",
+    "title": "QA Funcional/Analista QA Funcional",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4344024460",
+    "reason": "Esta oferta es prioritaria porque, si bien el título principal es 'QA Funcional', la descripción detalla responsabilidades y requisitos que se alinean parcialmente con el perfil de automatización. Se busca experiencia en metodologías ágiles, testing funcional, regresión, integración, y mención explícita de 'automatizar pruebas para sitios web, APIs y aplicaciones móviles utilizando herramientas como Selenium, Postman y Appium'. También se especifica 'nivel básico en automatización y scripting'. Las responsabilidades incluyen diseño y ejecución de pruebas, análisis de requisitos, colaboración ágil, y pruebas de rendimiento. El perfil de \"QA Senior\" o \"Automation Engineer\" encaja con la experiencia requerida de 3+ años. El dominio \"Banca\" y \"Finanzas\" es un plus ya que la empresa es del rubro financiero. El rango salarial aproximado para este tipo de rol en Lima, Perú, con 3+ años de experiencia y en una empresa como Indra, podría estar entre S/ 4,500 y S/ 7,000 mensuales."
   }
 ]
