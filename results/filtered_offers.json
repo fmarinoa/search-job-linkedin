@@ -1,9 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4344611762",
-    "title": "Analista qa",
-    "employer": "Altimea",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4344611762",
-    "reason": "La oferta encaja con el perfil porque se busca un \"Analista QA\" con experiencia en \"automatización bajo los framework de automatización Playwright por E2E y Karate por API\", lo cual se alinea directamente con las preferencias de \"QA Senior\", \"SDET\" y \"Automation Engineer\". Las responsabilidades incluyen \"Ejecutar planes de prueba (test plans) y casos de prueba (test cases) para aplicaciones web, APIs\" y \"Desarrollar desde 0 de prueba automatizadas end‑to‑end y de integración\", que son funciones clave para un SDET. La mención de \"integración en un CI/CD\" y \"Validar despliegues en pipelines CI/CD (Jenkins)\" también coincide con las tecnologías esperadas. Se valora la experiencia en \"rubro fintech, banco o seguro deseable\", lo cual se alinea con los dominios de interés. El perfil requiere \"Experiencia mínima de 3 años como Analista QA\" y \"mínima de 1 años en automatización\", lo cual, aunque no cumple estrictamente los 3 años de experiencia en automatización requeridos, la naturaleza del puesto y las responsabilidades de desarrollo de pruebas automatizadas lo hacen un match fuerte. El rango salarial para un puesto de Analista QA Senior/SDET en Lima, Perú, con este tipo de responsabilidades y tecnologías, podría estimarse entre S/ 6,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4325418411",
+    "title": "Analista QA (Sector Banca)",
+    "employer": "Entelgy",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4325418411",
+    "reason": "La oferta se ajusta al perfil ya que busca un Analista QA con experiencia en banca, lo cual se alinea con el dominio \"Banca\" y \"Finanzas\" del perfil. Se mencionan explícitamente la \"experiencia en automatización de casos de prueba\" y \"pruebas móviles (Android e iOS)\", así como \"API Testing\", que son habilidades clave para los roles de \"QA Automation Engineer\" y \"SDET\".  Se valora la experiencia en \"Banca Digital (apps web/móviles, créditos, ahorros)\", lo que indica un entorno relacionado con \"Fintech\". Las responsabilidades incluyen \"Diseñar, ejecutar y mantener casos de prueba manuales y automatizados\" y \"Realizar pruebas en aplicaciones móviles (Android e iOS) y plataformas web\", reforzando el enfoque en automatización. Se busca \"experiencia comprobada en pruebas funcionales, regresión y UAT\", \"Experiencia en pruebas móviles (Android e iOS)\", \"Experiencia en API Testing\", \"Certificación ISTQB Foundation\" y \"Conocimientos intermedios de bases de datos DB2 y/o SQL Server\". Aunque no se especifica un rango salarial, para un puesto de Analista QA Senior en Lima, Perú, y dada la envergadura de Entelgy, se estima un rango salarial aproximado entre S/ 5,000 a S/ 8,000 mensuales brutos."
   }
 ]
