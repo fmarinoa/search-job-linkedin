@@ -1,9 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4325418411",
-    "title": "Analista QA (Sector Banca)",
-    "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4325418411",
-    "reason": "La oferta se ajusta al perfil ya que busca un Analista QA con experiencia en banca, lo cual se alinea con el dominio \"Banca\" y \"Finanzas\" del perfil. Se mencionan explícitamente la \"experiencia en automatización de casos de prueba\" y \"pruebas móviles (Android e iOS)\", así como \"API Testing\", que son habilidades clave para los roles de \"QA Automation Engineer\" y \"SDET\".  Se valora la experiencia en \"Banca Digital (apps web/móviles, créditos, ahorros)\", lo que indica un entorno relacionado con \"Fintech\". Las responsabilidades incluyen \"Diseñar, ejecutar y mantener casos de prueba manuales y automatizados\" y \"Realizar pruebas en aplicaciones móviles (Android e iOS) y plataformas web\", reforzando el enfoque en automatización. Se busca \"experiencia comprobada en pruebas funcionales, regresión y UAT\", \"Experiencia en pruebas móviles (Android e iOS)\", \"Experiencia en API Testing\", \"Certificación ISTQB Foundation\" y \"Conocimientos intermedios de bases de datos DB2 y/o SQL Server\". Aunque no se especifica un rango salarial, para un puesto de Analista QA Senior en Lima, Perú, y dada la envergadura de Entelgy, se estima un rango salarial aproximado entre S/ 5,000 a S/ 8,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4345414962",
+    "title": "Analista qa",
+    "employer": "Valtx Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4345414962",
+    "reason": "La oferta encaja perfectamente con el perfil. Requiere 3 años de experiencia en pruebas funcionales, automatización de casos de prueba (2 años), pruebas móviles (Android e iOS), API Testing, y experiencia en el sector Banca. Menciona explícitamente automatización de casos de prueba para pruebas de regresión y manejo de herramientas de integración continua como Jenkins, lo cual está alineado con el perfil. Las responsabilidades incluyen elaboración de plan de pruebas, definición de casos de prueba, gestión de defectos, y automatización de casos de prueba. El rango salarial aproximado para un Analista QA con 3 años de experiencia en Lima, Perú, puede variar entre S/ 4,500 y S/ 7,000 mensuales, dependiendo de la complejidad de las funciones y las responsabilidades específicas."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4345444021",
+    "title": "Mid QA Automation",
+    "employer": "Encora Inc.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4345444021",
+    "reason": "Esta oferta se alinea con el perfil de QA Automation Engineer. Se solicita experiencia mixta con un 70% de pruebas funcionales y 30% de pruebas automatizadas, lo cual es relevante. Se menciona experiencia en pruebas de servicios manuales y automatizadas, y específicamente en automatización de pruebas utilizando .NET con C# y Java. Las responsabilidades incluyen la ejecución de pruebas funcionales sobre sistemas core y la realización de pruebas manuales y automatizadas de servicios, así como el desarrollo y mantenimiento de pruebas automatizadas. La empresa Encora es un socio tecnológico importante. El rango salarial aproximado para un Mid QA Automation en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales, considerando la modalidad híbrida y la experiencia requerida."
   }
 ]
