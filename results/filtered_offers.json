@@ -1,18 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4328872366",
-    "title": "QA",
-    "employer": "Banco Falabella Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4328872366",
-    "reason": "Esta oferta encaja con el perfil porque busca un profesional con experiencia en pruebas de certificación y automatización, habilidades clave para un QA Automation Engineer. Las responsabilidades incluyen la estimación, planificación y ejecución de pruebas, generación de informes de defectos y priorización de acciones para automatizar pruebas, todo lo cual se alinea con las preferencias de roles SDET y Automation Engineer. El dominio de Banca y Finanzas de Banco Falabella también es un punto fuerte. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales para un puesto con esta experiencia en Lima, Perú.",
-    "salary_estimate": "S/ 5,000 - S/ 8,000"
+    "id": "https://www.linkedin.com/jobs/view/4346046082",
+    "title": "QA LEAD - CULQI",
+    "employer": "Banco de Crédito BCP",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4346046082",
+    "reason": "La oferta se alinea perfectamente con el perfil. Busca un \"QA LEAD\" con más de 3 años de experiencia en empresas bancarias/fintech, lo cual coincide con las preferencias de \"QA Senior\" y dominios como \"Banca\" y \"Finanzas/Fintech\". Las responsabilidades incluyen \"Liderazgo de Equipo QA (QA Engineer y Automation)\", \"Estrategia de Pruebas\", \"Aseguramiento de la Automatización\" (scripts para APIs y web, integración CI/CD), y el uso de herramientas de automatización como Selenium, Cypress y Appium, lo cual es central para el perfil. Se menciona el uso de frameworks ágiles (Scrum). Si bien no se especifica un rango salarial, para un puesto de QA Lead en una empresa importante como BCP en Lima, se estima un rango aproximado de S/ 8,000 a S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4328683571",
-    "title": "Analista QA",
-    "employer": "Ligo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4328683571",
-    "reason": "La oferta es muy relevante ya que busca un Analista QA con experiencia en pruebas funcionales, técnicas y automatizadas, y especifica la necesidad de implementar y utilizar herramientas de automatización. Las responsabilidades de asegurar la calidad, planificar y ejecutar pruebas, y trabajar con el equipo de desarrollo son centrales para el perfil SDET. El dominio de Fintech de Ligo es un match directo. Se estima un rango salarial aproximado de S/ 4,500 - S/ 7,500 mensuales para un puesto con 2-3 años de experiencia en QA en Lima, Perú.",
-    "salary_estimate": "S/ 4,500 - S/ 7,500"
+    "id": "https://www.linkedin.com/jobs/view/4328799184",
+    "title": "QA Funcional/Analista QA Automatizador",
+    "employer": "Indra",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4328799184",
+    "reason": "Esta oferta encaja fuertemente con el perfil, buscando un \"Analista QA Automatizador\" con más de 3 años de experiencia en el rubro financiero. Las responsabilidades incluyen \"Automatizar pruebas para sitios web, APIs y aplicaciones móviles utilizando herramientas como Selenium, Postman y Appium\", lo que coincide con la experiencia deseada en \"Selenium\", \"Appium\" y \"APIs\". Se mencionan metodologías ágiles y herramientas como Jira y Xray. El dominio \"Financiero\" es un match directo. Dado que es para una empresa reconocida y el perfil es de analista con enfoque en automatización en Lima, se estima un rango salarial aproximado de S/ 6,000 a S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4325260749",
+    "title": "QA Analyst - Analista QA",
+    "employer": "PagoDirecto",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4325260749",
+    "reason": "La oferta es relevante por ser un rol de \"Analista QA\" en el sector \"Fintech\" (PagoDirecto), alineándose con las preferencias y dominios del perfil. Las responsabilidades clave incluyen \"Ejecutar pruebas funcionales, de regresión y smoke (web, móvil y API)\" y \"Realizar API Testing usando Postman\". Aunque menciona \"Deseables: Automatización (Cypress/Playwright)\" y no es un requisito estricto de \"lead\" o \"senior\", la experiencia de 2-3 años y el enfoque en API Testing son puntos fuertes. Para un rol de Analista QA en una Fintech en Lima, se estima un rango salarial aproximado de S/ 4,500 a S/ 7,000 mensuales."
   }
 ]
