@@ -1,23 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4346046082",
-    "title": "QA LEAD - CULQI",
-    "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346046082",
-    "reason": "La oferta se alinea perfectamente con el perfil. Busca un \"QA LEAD\" con más de 3 años de experiencia en empresas bancarias/fintech, lo cual coincide con las preferencias de \"QA Senior\" y dominios como \"Banca\" y \"Finanzas/Fintech\". Las responsabilidades incluyen \"Liderazgo de Equipo QA (QA Engineer y Automation)\", \"Estrategia de Pruebas\", \"Aseguramiento de la Automatización\" (scripts para APIs y web, integración CI/CD), y el uso de herramientas de automatización como Selenium, Cypress y Appium, lo cual es central para el perfil. Se menciona el uso de frameworks ágiles (Scrum). Si bien no se especifica un rango salarial, para un puesto de QA Lead en una empresa importante como BCP en Lima, se estima un rango aproximado de S/ 8,000 a S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4328799184",
-    "title": "QA Funcional/Analista QA Automatizador",
+    "id": "https://www.linkedin.com/jobs/view/4346203865",
+    "title": "Analista QA Automatizador",
     "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4328799184",
-    "reason": "Esta oferta encaja fuertemente con el perfil, buscando un \"Analista QA Automatizador\" con más de 3 años de experiencia en el rubro financiero. Las responsabilidades incluyen \"Automatizar pruebas para sitios web, APIs y aplicaciones móviles utilizando herramientas como Selenium, Postman y Appium\", lo que coincide con la experiencia deseada en \"Selenium\", \"Appium\" y \"APIs\". Se mencionan metodologías ágiles y herramientas como Jira y Xray. El dominio \"Financiero\" es un match directo. Dado que es para una empresa reconocida y el perfil es de analista con enfoque en automatización en Lima, se estima un rango salarial aproximado de S/ 6,000 a S/ 9,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4346203865",
+    "reason": "Esta oferta se ajusta perfectamente al perfil. Busca un 'Analista QA Automatizador' con experiencia en automatización de pruebas (Selenium, Appium), lenguajes de programación como Python, y herramientas de gestión de pruebas y testing continuo (Jira, GitHub). Las responsabilidades incluyen pruebas Mobile, Servicios (APIs) y Web, lo cual coincide con los requisitos de experiencia del perfil. El perfil técnico (Python, Selenium, Appium) y el enfoque en automatización son puntos clave. El rango salarial aproximado para un puesto similar en Lima, Perú, con esta experiencia y en una empresa como Indra, podría estar entre S/ 5,000 y S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4325260749",
-    "title": "QA Analyst - Analista QA",
-    "employer": "PagoDirecto",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4325260749",
-    "reason": "La oferta es relevante por ser un rol de \"Analista QA\" en el sector \"Fintech\" (PagoDirecto), alineándose con las preferencias y dominios del perfil. Las responsabilidades clave incluyen \"Ejecutar pruebas funcionales, de regresión y smoke (web, móvil y API)\" y \"Realizar API Testing usando Postman\". Aunque menciona \"Deseables: Automatización (Cypress/Playwright)\" y no es un requisito estricto de \"lead\" o \"senior\", la experiencia de 2-3 años y el enfoque en API Testing son puntos fuertes. Para un rol de Analista QA en una Fintech en Lima, se estima un rango salarial aproximado de S/ 4,500 a S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4329096801",
+    "title": "QA Funcional Mobile",
+    "employer": "Praxis",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4329096801",
+    "reason": "La oferta es para 'QA Funcional Mobile' y aunque se enfoca en lo funcional, menciona explícitamente 'Experiencia en pruebas API (Postman, similares)' y 'Validar flujos bancarios críticos'. La mención de dominios como 'banca' y 'fintech' en las preferencias del perfil coincide con el dominio 'sector financiero, seguros' de la empresa. Si bien no menciona automatización explícitamente en el título, las responsabilidades de probar APIs y la experiencia en dominios bancarios la hacen relevante. El rango salarial aproximado en Lima, Perú, para este tipo de rol, considerando un proyecto de 4 meses y la experiencia requerida, podría oscilar entre S/ 4,500 y S/ 7,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4346262955",
+    "title": "Senior Backend Developer (Node.js, 4+ años)",
+    "employer": "Emma of Torre.ai",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4346262955",
+    "reason": "Aunque es un rol de 'Senior Backend Developer', las responsabilidades y requisitos incluyen 'Testing con Jest o TestUnit', 'Test-driven development (TDD)', y la mención explícita de 'testing' como una competencia. El perfil valora 'Backend con enfoque en testing'. El stack técnico incluye Node.js y el dominio de experiencia deseado puede ser relevante si la empresa trabaja con servicios financieros o fintech (aunque no se especifica en la oferta). El rango salarial aproximado para un Senior Backend Developer con 4+ años de experiencia en Lima, Perú, especialmente con enfoque en testing, podría estar entre S/ 7,000 y S/ 12,000 mensuales."
   }
 ]
