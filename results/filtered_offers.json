@@ -1,23 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4346203865",
-    "title": "Analista QA Automatizador",
-    "employer": "Indra",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346203865",
-    "reason": "Esta oferta se ajusta perfectamente al perfil. Busca un 'Analista QA Automatizador' con experiencia en automatización de pruebas (Selenium, Appium), lenguajes de programación como Python, y herramientas de gestión de pruebas y testing continuo (Jira, GitHub). Las responsabilidades incluyen pruebas Mobile, Servicios (APIs) y Web, lo cual coincide con los requisitos de experiencia del perfil. El perfil técnico (Python, Selenium, Appium) y el enfoque en automatización son puntos clave. El rango salarial aproximado para un puesto similar en Lima, Perú, con esta experiencia y en una empresa como Indra, podría estar entre S/ 5,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4329096801",
-    "title": "QA Funcional Mobile",
-    "employer": "Praxis",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4329096801",
-    "reason": "La oferta es para 'QA Funcional Mobile' y aunque se enfoca en lo funcional, menciona explícitamente 'Experiencia en pruebas API (Postman, similares)' y 'Validar flujos bancarios críticos'. La mención de dominios como 'banca' y 'fintech' en las preferencias del perfil coincide con el dominio 'sector financiero, seguros' de la empresa. Si bien no menciona automatización explícitamente en el título, las responsabilidades de probar APIs y la experiencia en dominios bancarios la hacen relevante. El rango salarial aproximado en Lima, Perú, para este tipo de rol, considerando un proyecto de 4 meses y la experiencia requerida, podría oscilar entre S/ 4,500 y S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4346262955",
-    "title": "Senior Backend Developer (Node.js, 4+ años)",
-    "employer": "Emma of Torre.ai",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346262955",
-    "reason": "Aunque es un rol de 'Senior Backend Developer', las responsabilidades y requisitos incluyen 'Testing con Jest o TestUnit', 'Test-driven development (TDD)', y la mención explícita de 'testing' como una competencia. El perfil valora 'Backend con enfoque en testing'. El stack técnico incluye Node.js y el dominio de experiencia deseado puede ser relevante si la empresa trabaja con servicios financieros o fintech (aunque no se especifica en la oferta). El rango salarial aproximado para un Senior Backend Developer con 4+ años de experiencia en Lima, Perú, especialmente con enfoque en testing, podría estar entre S/ 7,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4325566321",
+    "title": "Senior Backend Developer",
+    "employer": "Paysafe",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4325566321",
+    "reason": "Esta oferta encaja con el perfil debido a que busca un desarrollador backend con enfoque en la construcción de servicios y APIs eficientes, seguras y escalables, lo cual se alinea con las preferencias de un \"Backend con enfoque en testing\". Las responsabilidades incluyen el diseño y mantenimiento de servicios backend, integración de APIs y bases de datos, y la colaboración con equipos de QA, lo que implica una fuerte conexión con las prácticas de calidad y automatización. La empresa Paysafe opera en el sector Fintech/Finanzas, que es un dominio de interés. Aunque el título no es explícitamente de \"QA Automation Engineer\", las responsabilidades de validación y testing, junto con el requerimiento de experiencia en lenguajes y frameworks como Node.js (parte del tech stack), y la experiencia en el sector financiero, lo hacen un candidato fuerte. Se estima un rango salarial entre S/ 9,000 y S/ 15,000 mensuales para un Senior Backend Developer con 8 años de experiencia en Lima, Perú, en una empresa del sector Fintech."
   }
 ]
