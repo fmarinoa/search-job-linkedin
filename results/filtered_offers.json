@@ -1,9 +1,44 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4325566321",
-    "title": "Senior Backend Developer",
-    "employer": "Paysafe",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4325566321",
-    "reason": "Esta oferta encaja con el perfil debido a que busca un desarrollador backend con enfoque en la construcción de servicios y APIs eficientes, seguras y escalables, lo cual se alinea con las preferencias de un \"Backend con enfoque en testing\". Las responsabilidades incluyen el diseño y mantenimiento de servicios backend, integración de APIs y bases de datos, y la colaboración con equipos de QA, lo que implica una fuerte conexión con las prácticas de calidad y automatización. La empresa Paysafe opera en el sector Fintech/Finanzas, que es un dominio de interés. Aunque el título no es explícitamente de \"QA Automation Engineer\", las responsabilidades de validación y testing, junto con el requerimiento de experiencia en lenguajes y frameworks como Node.js (parte del tech stack), y la experiencia en el sector financiero, lo hacen un candidato fuerte. Se estima un rango salarial entre S/ 9,000 y S/ 15,000 mensuales para un Senior Backend Developer con 8 años de experiencia en Lima, Perú, en una empresa del sector Fintech."
+    "id": "https://www.linkedin.com/jobs/view/4350514417",
+    "title": "QA Automatizador - Remoto",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4350514417",
+    "reason": "Esta oferta encaja con el perfil ya que busca un 'QA Automatizador Senior con enfoque DevSecOps' y menciona explícitamente la 'Automatización Web y Servicios' y la 'Automatización de APIs REST y SOAP'. Si bien no se especifica experiencia mínima, el título 'Senior' sugiere un nivel acorde. La empresa Synopsis S.A. opera en el sector de tecnología, lo cual es relevante para el perfil. Se prioriza esta oferta debido a la alineación directa con roles de QA Automation. El rango salarial aproximado para un puesto Senior en Lima, Perú, puede variar entre S/ 6,000 y S/ 9,000 mensuales brutos, dependiendo de la experiencia específica y beneficios adicionales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4350415394",
+    "title": "QA Automatizador Remoto - KaneAI",
+    "employer": "TiSmart",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4350415394",
+    "reason": "Esta oferta es altamente relevante ya que busca '05 QA's Automatizador' con 'Experiencia mínima de 4 años en adelante' y destaca 'Experiencia en automatización de pruebas con Selenium'. Menciona explícitamente el diseño y ejecución de casos de prueba de manera automatizada. TiSmart es una empresa de tecnología, lo cual se alinea bien. Se prioriza por su enfoque directo en automatización y el requisito de experiencia. El rango salarial aproximado para un puesto con 4+ años de experiencia en automatización en Lima, Perú, puede oscilar entre S/ 5,500 y S/ 8,000 mensuales brutos."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4329313233",
+    "title": "QA Automatizador Senior",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4329313233",
+    "reason": "La oferta busca un 'QA Automatizador Senior' con '4 años o más de experiencia automatizando con alguna de las siguientes tecnologías: Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium', lo cual se alinea perfectamente con el perfil. NTT DATA es una empresa líder en servicios TI a nivel mundial. Se prioriza por ser un puesto senior explícitamente enfocado en automatización. El rango salarial aproximado para un QA Automatizador Senior en NTT DATA en Lima, Perú, puede variar entre S/ 6,500 y S/ 10,000 mensuales brutos, dada la envergadura de la empresa y los proyectos."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4346345685",
+    "title": "Ingeniero de Software Semi Senior/Senior",
+    "employer": "Alticsa",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4346345685",
+    "reason": "Aunque el título principal es 'Ingeniero de Software', la descripción de la oferta (que no se proporciona) debería ser analizada para confirmar si incluye responsabilidades de testing y automatización. Sin embargo, dado el título 'Semi Senior/Senior', es posible que haya oportunidades dentro del desarrollo para aplicar habilidades de automatización de pruebas. Si la oferta detalla implicación en la calidad del código y pruebas automatizadas, sería una buena opción. Dada la falta de descripción, se le da una prioridad menor pero se considera por el nivel de experiencia. El rango salarial aproximado para un Ingeniero de Software Semi Senior/Senior en Lima, Perú, puede ser entre S/ 5,000 y S/ 8,000 mensuales brutos."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4348338623",
+    "title": "Technical Product Owner",
+    "employer": "Infosys",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4348338623",
+    "reason": "Esta oferta de 'Technical Product Owner' menciona explícitamente 'Collaborate with engineering teams to ensure that technical solutions are aligned with product requirements and business goals, providing technical leadership throughout the development process.' y 'Review product increments to ensure they meet the technical design, customer-required functionality, safety, quality standards and documentation.' y 'QA Testers' en la gestión del backlog. Si bien no es un rol de QA Automation Engineer directo, la interacción cercana con equipos de desarrollo y QA, y el enfoque técnico, podrían permitir la aplicación de habilidades de testing y automatización, especialmente si el rol incluye la definición de criterios de aceptación relacionados con la calidad y pruebas. Infosys es una empresa global de servicios de TI. El rango salarial aproximado para un Technical Product Owner en Lima, Perú, podría variar entre S/ 7,000 y S/ 11,000 mensuales brutos, dependiendo de la experiencia y la complejidad del producto."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4346258410",
+    "title": "Backend Senior – .NET Core 8",
+    "employer": "Sermaluc Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4346258410",
+    "reason": "Si bien la oferta es para 'Backend Senior – .NET Core 8', menciona experiencia en el rubro Bancario y financiero ('rubro Bancario y financiero', 'sistemas productivos críticos (banca, finanzas, seguros u otros entornos regulados)'). Dada la preferencia del perfil por los dominios de Banca y Finanzas, y el hecho de que un rol de backend Senior implica un conocimiento profundo del sistema que puede ser aplicado en la mejora de procesos de testing automatizado, esta oferta podría ser interesante. Aunque no es un rol de QA directo, la experiencia en estos dominios es un plus. El rango salarial aproximado para un Backend Senior en .NET Core 8 en Sermaluc (enfocado en banca/finanzas) en Lima, Perú, podría ser entre S/ 7,000 y S/ 10,000 mensuales brutos."
   }
 ]
