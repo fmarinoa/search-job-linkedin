@@ -1,72 +1,10 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4346559561",
-    "title": "Analista de calidad (QA)",
-    "employer": "GRUPO HNG",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346559561",
-    "reason": "La oferta solicita 3 años de experiencia en roles de QA con enfoque en pruebas y 1 año de experiencia en automatización de pruebas, lo cual se alinea con el perfil \"3+ años en automatización de pruebas web, mobile y APIs y desarrollo ágil.\". Se menciona la necesidad de \"Automatizar pruebas de software utilizando herramientas (indispensable)\" y \"Trabajar en conjunto con áreas de desarrollo, producto y usuarios para definir funcionalidades críticas a automatizar\", lo que encaja con las preferencias de \"SDET\" y \"Automation Engineer\". Las responsabilidades incluyen \"Diseñar y ejecutar planes de pruebas y manuales\", \"Realizar pruebas unitarias, funcionales, de regresión, smoke tests y pruebas de aceptación de usuario\", \"Monitorear KPIs de calidad, registrar y dar seguimiento a bugs\", y \"Automatizar pruebas de software utilizando herramientas\". La ubicación en Lima y la naturaleza del puesto sugieren un rango salarial aproximado de S/ 4,500 - S/ 7,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4329676008",
-    "title": "QA Tester Funcional",
-    "employer": "Stefanini Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4329676008",
-    "reason": "Esta oferta solicita \"Experiencia comprobada como QA Tester Functional o rol similar de 2 años\" y \"Experiencia en pruebas Móviles, Web, APIS, Escritorio, Mainframe\", con conocimiento \"en pruebas automatizadas (web, móviles) Lenguaje Java | Selenium | Appium (Deseable)\". Si bien la experiencia en automatización es deseable y no mandatoria, el rol de \"QA Tester Funcional\" con enfoque en APIS y móviles, y la mención de pruebas automatizadas, lo hacen un candidato potencial, especialmente si la experiencia total es cercana a los 3 años requeridos. Las responsabilidades incluyen \"Desarrollar y ejecutar planes de prueba, casos de prueba y scripts de prueba\", \"Identificar, documentar y realizar un seguimiento de los defectos\", \"Realizar pruebas funcionales\", \"Realizar pruebas de regresión\" y \"Participar en el diseño e implementación de marcos y herramientas de pruebas automatizadas\". La experiencia en Banca es un plus. Dada la ubicación y el nivel de experiencia, un rango salarial aproximado sería de S/ 4,000 - S/ 6,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4346771199",
-    "title": "QA Automation",
-    "employer": "Softtek",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346771199",
-    "reason": "La oferta solicita \"03-04 años de experiencia en pruebas manuales, funcionales\" y \"02-03 años de experiencia en automatización de pruebas\", lo cual se alinea perfectamente con el perfil \"3+ años en automatización de pruebas web, mobile y APIs y desarrollo ágil.\". Se menciona \"Experiencia con herramienta de automatización : Selenium\" y \"Experiencia en Postman\", tecnologías mencionadas en el perfil. Las responsabilidades principales para un rol de QA Automation son la ejecución de pruebas automatizadas, diseño de scripts y colaboración con equipos de desarrollo. El hecho de que sea \"Híbrida (03 veces presencial por semana en Miraflores-Lima)\" confirma la ubicación. Se estima un rango salarial de S/ 5,000 - S/ 8,000 mensuales para este puesto en Softtek."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4346713277",
-    "title": "QA Engineer",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346713277",
-    "reason": "La oferta busca un \"QA Engineer con sólidos conocimientos en pruebas funcionales y metodologías de aseguramiento de calidad\", con \"Egresados de sistemas, desarrollo o afines con +3 años de experiencia en QA/ Pruebas de Calidad de Software\". Si bien el enfoque principal es funcional, se menciona \"Conocimiento básico en automatización y nociones de código\", y \"Familiaridad con herramientas de automatización y CI/CD\" como requerimientos adicionales. Las responsabilidades incluyen \"Análisis, diseño, ejecución y documentación de casos de prueba\" y \"Participar en procesos ágiles (Scrum)\". La experiencia de 3+ años en QA, con al menos un conocimiento básico en automatización, hace que esta oferta sea relevante, especialmente si se le considera para roles de \"Automation Engineer\" en el futuro. La ubicación es Lima, Perú. El rango salarial aproximado sería de S/ 4,800 - S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4350825761",
-    "title": "Lider de Servicio QA (sector bancario)",
-    "employer": "Tsoft",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4350825761",
-    "reason": "Aunque es un rol de liderazgo, la oferta menciona \"Cinco (5) años de experiencia en gestión de proyectos y/o servicios (excluyente)\" y \"Amplia experiencia en fábricas de testing gestionadas en sector bancario (excluyente)\", \"Experiencia gestionando equipos QA\" y \"Conocimiento de ISTQB\". El \"sector bancario\" es un dominio clave del perfil. Si bien no especifica automatización de manera explícita, un líder de servicio QA en este contexto suele tener un fuerte entendimiento de la automatización. Dada la experiencia requerida y el dominio, este puesto podría ser una oportunidad para un profesional senior con un perfil de \"Backend con enfoque en testing\" o \"QA Senior\". La ubicación es Lima Metropolitan Area. El rango salarial para un líder de servicio QA en el sector bancario en Lima podría ser de S/ 8,000 - S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4350835906",
-    "title": "Chapter Lead QA",
-    "employer": "Tsoft",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4350835906",
-    "reason": "Este es un rol de \"Chapter Lead QA\" con \"Más de 8 años de experiencia con pruebas funcionales (5 años en banca)\". Se destaca \"Experiencia con IA en qa, automatización, performance y pruebas de seguridad\". La mención explícita de \"automatización\" y \"performance\", junto con la experiencia en banca y el alto nivel de experiencia, lo posicionan como un puesto para un \"QA Senior\" o un perfil con \"Backend con enfoque en testing\" que tenga habilidades de liderazgo. La ubicación es Lima, Peru. Se estima un rango salarial de S/ 9,000 - S/ 14,000 mensuales para este rol."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4346743050",
-    "title": "Senior QA Automation",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346743050",
-    "reason": "La oferta es para \"Senior QA Automation Engineers con experiencia en automatización de pruebas para aplicaciones web, servicios y APIs\". Esto se alinea directamente con el perfil \"3+ años en automatización de pruebas web, mobile y APIs y desarrollo ágil.\" y \"QA Senior\", \"SDET\", \"Automation Engineer\". Se mencionan \"Diseñar, desarrollar y ejecutar pruebas automatizadas para APIs y servicios\", \"Automatizar pruebas en frontend web (mandatorio) y mobile (deseable)\", \"Implementar pruebas con frameworks como Karate (obligatorio para Senior...)\" y \"Participar en procesos de CI/CD y automatización de pipelines\", lo que encaja con el \"tech_stack\" y \"domains\". La ubicación es Lima, Peru. Se estima un rango salarial de S/ 7,000 - S/ 10,000 mensuales para este puesto."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4346655270",
-    "title": "Mid QA Automation",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346655270",
-    "reason": "La oferta es para \"Mid QA Automation Engineer con experiencia en automatización de pruebas para aplicaciones web, servicios y APIs\". Requiere \"+3 años de experiencia en Automatización de Pruebas\", \"Experiencia en automatización de APIs y servicios\", \"Experiencia en automatización frontend web (mandatorio) y mobile (ideal)\", y \"Conocimiento en Karate, Cypress o frameworks similares\". Esto se alinea perfectamente con el perfil \"3+ años en automatización de pruebas web, mobile y APIs y desarrollo ágil.\" y \"Automation Engineer\". La ubicación es Lima, Peru. Se estima un rango salarial de S/ 5,500 - S/ 8,500 mensuales para este puesto."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4346597646",
-    "title": "QA Funcional Senior",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346597646",
-    "reason": "Esta oferta es para \"QA Funcional Senior\" en \"San Isidro, Peru\". Si bien el título es \"Funcional\", la palabra \"Senior\" se alinea con las preferencias. Dado que el perfil tiene \"3+ años en automatización\", un rol Senior funcional a menudo tiene una fuerte base en automatización o una transición hacia ella. Sin información adicional en la descripción, se asume que un rol senior en QA implica un entendimiento de las tendencias actuales, incluyendo la automatización. Las responsabilidades suelen incluir diseño de pruebas, gestión de calidad y colaboración con equipos. El rango salarial estimado para un \"QA Funcional Senior\" en Lima sería de S/ 6,000 - S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4329724461",
-    "title": "Quality Assurance Engineer - Trabajo Remoto",
+    "id": "https://www.linkedin.com/jobs/view/4329699095",
+    "title": "QA Engineer (IntrosMatter) - Remote Work",
     "employer": "BairesDev",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4329724461",
-    "reason": "Esta oferta busca un \"Quality Assurance Engineer\" para trabajo remoto, con ubicación en \"Lima, Peru\". BairesDev suele buscar perfiles con experiencia sólida y habilidades técnicas específicas. Si bien la descripción está vacía, al ser un rol de QA Engineer y dado el perfil solicitado, es probable que se busquen habilidades en automatización, testing web/mobile/API, y metodologías ágiles. La inclusión de \"Trabajo Remoto\" y la empresa BairesDev sugieren un buen encaje para perfiles con experiencia. Se estima un rango salarial competitivo para roles remotos de este nivel, entre S/ 6,000 - S/ 9,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4329699095",
+    "reason": "La oferta se alinea perfectamente con el perfil buscado. Se enfatiza la automatización de pruebas (70%) para UI (Cypress, Playwright, Selenium) y APIs (Postman, Cypress), así como la experiencia con bases de datos SQL y el desarrollo ágil. El rol implica mantener y extender frameworks de automatización, lo cual es clave para un SDET o QA Automation Engineer senior. BairesDev, como empresa reconocida en el sector de talento IT, probablemente ofrece salarios competitivos. Dado que es un rol remoto con sede en Lima, Perú, se estima un rango salarial anual entre $35,000 y $55,000 USD, considerando la experiencia requerida y la demanda de profesionales con estas habilidades.",
+    "salary_estimate": "$35,000 - $55,000 USD (Anual)"
   }
 ]
