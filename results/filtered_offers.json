@@ -1,10 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4329699095",
-    "title": "QA Engineer (IntrosMatter) - Remote Work",
-    "employer": "BairesDev",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4329699095",
-    "reason": "La oferta se alinea perfectamente con el perfil buscado. Se enfatiza la automatización de pruebas (70%) para UI (Cypress, Playwright, Selenium) y APIs (Postman, Cypress), así como la experiencia con bases de datos SQL y el desarrollo ágil. El rol implica mantener y extender frameworks de automatización, lo cual es clave para un SDET o QA Automation Engineer senior. BairesDev, como empresa reconocida en el sector de talento IT, probablemente ofrece salarios competitivos. Dado que es un rol remoto con sede en Lima, Perú, se estima un rango salarial anual entre $35,000 y $55,000 USD, considerando la experiencia requerida y la demanda de profesionales con estas habilidades.",
-    "salary_estimate": "$35,000 - $55,000 USD (Anual)"
+    "id": "https://www.linkedin.com/jobs/view/4346856310",
+    "title": "React + React Native Engineer",
+    "employer": "Katapult Labs",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4346856310",
+    "reason": "Esta oferta encaja con el perfil dado que se busca un ingeniero con experiencia en desarrollo web y mobile, lo cual se alinea con las preferencias de roles de \"Automation Engineer\" y \"Backend con enfoque en testing\", aunque el rol principal es de desarrollo. El énfasis en \"AI-first approach to product engineering\", \"experiment, iterate, and ship rapid product changes\", \"A/B testing, rapid prototyping, conversion optimization\", y \"leverage AI tools to accelerate development, testing, and deployment\" sugiere un entorno donde la automatización de pruebas y la calidad del código son cruciales, incluso si no se especifica explícitamente \"QA Automation Engineer\". Las tecnologías mencionadas como React, React Native, TypeScript, y la integración con APIs son relevantes. Aunque no se especifica directamente la automatización de pruebas como responsabilidad principal, el contexto de \"rapid iteration\", \"AI-first\", y \"testing\" implícito en la descripción, junto con la necesidad de \"shipping high-quality work quickly\", hace que este rol sea un candidato fuerte. El rango salarial aproximado para este tipo de rol en Lima, Perú, trabajando para una empresa de tecnología con presencia internacional, podría estar entre $3500 - $6000 USD mensuales, dada la modalidad de contratación como contratista y el enfoque en talento senior."
   }
 ]
