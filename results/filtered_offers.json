@@ -1,9 +1,34 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4346856310",
-    "title": "React + React Native Engineer",
-    "employer": "Katapult Labs",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4346856310",
-    "reason": "Esta oferta encaja con el perfil dado que se busca un ingeniero con experiencia en desarrollo web y mobile, lo cual se alinea con las preferencias de roles de \"Automation Engineer\" y \"Backend con enfoque en testing\", aunque el rol principal es de desarrollo. El énfasis en \"AI-first approach to product engineering\", \"experiment, iterate, and ship rapid product changes\", \"A/B testing, rapid prototyping, conversion optimization\", y \"leverage AI tools to accelerate development, testing, and deployment\" sugiere un entorno donde la automatización de pruebas y la calidad del código son cruciales, incluso si no se especifica explícitamente \"QA Automation Engineer\". Las tecnologías mencionadas como React, React Native, TypeScript, y la integración con APIs son relevantes. Aunque no se especifica directamente la automatización de pruebas como responsabilidad principal, el contexto de \"rapid iteration\", \"AI-first\", y \"testing\" implícito en la descripción, junto con la necesidad de \"shipping high-quality work quickly\", hace que este rol sea un candidato fuerte. El rango salarial aproximado para este tipo de rol en Lima, Perú, trabajando para una empresa de tecnología con presencia internacional, podría estar entre $3500 - $6000 USD mensuales, dada la modalidad de contratación como contratista y el enfoque en talento senior."
+    "id": "https://www.linkedin.com/jobs/view/4350957348",
+    "title": "QA Automatizador Senior - Remoto",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4350957348",
+    "reason": "Esta oferta se ajusta al perfil dado que busca un \"QA Automatizador Senior\" con enfoque en \"DevSecOps\" y experiencia en \"automatización Web y Servicios con Java o C#\", \"Automatización de APIs REST y SOAP\", \"Integración Continua y DevOps en Azure\" y \"Pruebas de Performance\". El rol requiere conocimientos técnicos y experiencia que coinciden con las preferencias de 'QA Senior' y 'Automation Engineer'. Las responsabilidades principales incluyen la automatización de pruebas web y de servicios, así como la integración con pipelines de CI/CD, lo cual es un pilar del rol SDET/QA Automation Engineer. El dominio de \"Finanzas\" o \"Banca\" no está explícitamente mencionado, pero la naturaleza de la automatización y DevSecOps en una empresa de tecnología sugiere un entorno que podría ser compatible.  El rango salarial aproximado para un puesto de QA Automatizador Senior en Lima, Perú, con la experiencia y responsabilidades descritas, podría oscilar entre S/ 8,000 y S/ 12,000 mensuales.",
+    "responsibilities": [
+      "Automatización Web y Servicios con Java o C#",
+      "Framework Serenity BDD y patrón Screenplay",
+      "Automatización de APIs REST y SOAP",
+      "Integración Continua y DevOps en Azure",
+      "Pruebas de Performance",
+      "Conocimiento intermedio en DevSecOps"
+    ],
+    "salary_range": "S/ 8,000 - S/ 12,000 (aproximado)"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4326940285",
+    "title": "Senior QA Engineer",
+    "employer": "Paysafe",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4326940285",
+    "reason": "La oferta se alinea perfectamente con el perfil, buscando un 'Senior QA Engineer' con \"8+ años de experiencia en pruebas de software\" y \"sólida experiencia en frameworks de automatización\", \"liderazgo de iniciativas de QA\" y \"conocimiento experto de metodologías de testing\". El rol requiere \"diseñar y desarrollar scripts de pruebas automatizados\" y \"desplegar estos scripts usando software de automatización\", lo cual corresponde a las preferencias de 'QA Senior' y 'Automation Engineer', y se relaciona directamente con las funciones de un SDET. Paysafe opera en el sector de pagos, lo cual encaja con los dominios de \"Banca\", \"Finanzas\" y \"Fintech\". La mención de \"CI/CD pipelines\" también es un plus. El rol también implica \"mentoría de ingenieros de QA junior\". El rango salarial para un Senior QA Engineer en Lima, Perú, con estas responsabilidades y experiencia, podría estimarse entre S/ 9,000 y S/ 15,000 mensuales.",
+    "responsibilities": [
+      "Desarrollar e implementar protocolos y procedimientos de aseguramiento de la calidad.",
+      "Realizar pruebas exhaustivas en aplicaciones de software para identificar y resolver malfuncióneamiento del sistema.",
+      "Crear y mantener documentación de pruebas manuales y automatizadas.",
+      "Diseñar y desarrollar scripts de pruebas automatizados y desplegarlos.",
+      "Realizar análisis de causa raíz para defectos descubiertos y proporcionar soluciones proactivas.",
+      "Mentorizar a ingenieros de QA junior."
+    ],
+    "salary_range": "S/ 9,000 - S/ 15,000 (aproximado)"
   }
 ]
