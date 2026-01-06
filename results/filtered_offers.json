@@ -1,34 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4350957348",
-    "title": "QA Automatizador Senior - Remoto",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4350957348",
-    "reason": "Esta oferta se ajusta al perfil dado que busca un \"QA Automatizador Senior\" con enfoque en \"DevSecOps\" y experiencia en \"automatización Web y Servicios con Java o C#\", \"Automatización de APIs REST y SOAP\", \"Integración Continua y DevOps en Azure\" y \"Pruebas de Performance\". El rol requiere conocimientos técnicos y experiencia que coinciden con las preferencias de 'QA Senior' y 'Automation Engineer'. Las responsabilidades principales incluyen la automatización de pruebas web y de servicios, así como la integración con pipelines de CI/CD, lo cual es un pilar del rol SDET/QA Automation Engineer. El dominio de \"Finanzas\" o \"Banca\" no está explícitamente mencionado, pero la naturaleza de la automatización y DevSecOps en una empresa de tecnología sugiere un entorno que podría ser compatible.  El rango salarial aproximado para un puesto de QA Automatizador Senior en Lima, Perú, con la experiencia y responsabilidades descritas, podría oscilar entre S/ 8,000 y S/ 12,000 mensuales.",
-    "responsibilities": [
-      "Automatización Web y Servicios con Java o C#",
-      "Framework Serenity BDD y patrón Screenplay",
-      "Automatización de APIs REST y SOAP",
-      "Integración Continua y DevOps en Azure",
-      "Pruebas de Performance",
-      "Conocimiento intermedio en DevSecOps"
-    ],
-    "salary_range": "S/ 8,000 - S/ 12,000 (aproximado)"
+    "id": "https://www.linkedin.com/jobs/view/4354650352",
+    "title": "Software Test Engineer 1 (QA/Automatizador)",
+    "employer": "Interbank",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4354650352",
+    "reason": "Esta oferta se alinea perfectamente con el perfil, ya que busca un \"QA/Automatizador\" con experiencia en aseguramiento de la calidad y automatización de pruebas funcionales. Cumple con los requisitos de experiencia en automatización (indispensable), marcos ágiles y lenguajes como Python. Las responsabilidades incluyen la creación e implementación de métodos de pruebas automatizadas y funcionales, lo cual es clave. El rango salarial para un puesto similar en Lima, Perú, para un rol con esta experiencia y en una empresa importante como Interbank, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4326940285",
-    "title": "Senior QA Engineer",
-    "employer": "Paysafe",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4326940285",
-    "reason": "La oferta se alinea perfectamente con el perfil, buscando un 'Senior QA Engineer' con \"8+ años de experiencia en pruebas de software\" y \"sólida experiencia en frameworks de automatización\", \"liderazgo de iniciativas de QA\" y \"conocimiento experto de metodologías de testing\". El rol requiere \"diseñar y desarrollar scripts de pruebas automatizados\" y \"desplegar estos scripts usando software de automatización\", lo cual corresponde a las preferencias de 'QA Senior' y 'Automation Engineer', y se relaciona directamente con las funciones de un SDET. Paysafe opera en el sector de pagos, lo cual encaja con los dominios de \"Banca\", \"Finanzas\" y \"Fintech\". La mención de \"CI/CD pipelines\" también es un plus. El rol también implica \"mentoría de ingenieros de QA junior\". El rango salarial para un Senior QA Engineer en Lima, Perú, con estas responsabilidades y experiencia, podría estimarse entre S/ 9,000 y S/ 15,000 mensuales.",
-    "responsibilities": [
-      "Desarrollar e implementar protocolos y procedimientos de aseguramiento de la calidad.",
-      "Realizar pruebas exhaustivas en aplicaciones de software para identificar y resolver malfuncióneamiento del sistema.",
-      "Crear y mantener documentación de pruebas manuales y automatizadas.",
-      "Diseñar y desarrollar scripts de pruebas automatizados y desplegarlos.",
-      "Realizar análisis de causa raíz para defectos descubiertos y proporcionar soluciones proactivas.",
-      "Mentorizar a ingenieros de QA junior."
-    ],
-    "salary_range": "S/ 9,000 - S/ 15,000 (aproximado)"
+    "id": "https://www.linkedin.com/jobs/view/4330078228",
+    "title": "Especialista QA (Control de Calidad Software)",
+    "employer": "BANCO GNB PERÚ",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4330078228",
+    "reason": "La oferta es para un \"Especialista QA\" con experiencia en el sector financiero/bancario, lo cual coincide con los dominios de interés. Se enfoca en \"garantizar la calidad end-to-end de soluciones digitales en entornos bancarios\" y menciona explícitamente la \"Automatización de pruebas (Selenium, Cypress deseable)\" y \"Pruebas de APIs REST\". Si bien la experiencia mínima es de 2-3 años, el enfoque y las responsabilidades son muy relevantes. El rango salarial aproximado para un puesto de Especialista QA en Lima, Perú, en una entidad bancaria, podría estar entre S/ 5,500 y S/ 8,000 mensuales."
   }
 ]
