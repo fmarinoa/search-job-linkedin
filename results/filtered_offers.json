@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "https://www.linkedin.com/jobs/view/4362756393",
+    "title": "QA Automatizador",
+    "employer": "QDS - Quality & Development Software SAC",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4362756393",
+    "reason": "Esta oferta encaja perfectamente con el perfil. El puesto de \"QA Automatizador\" requiere \"Experiencia de 4 años como QA\" y \"Experiencia de 1 año automatizando pruebas en entornos web/móviles\" con herramientas como Selenium o Playwright, las cuales están en el stack tecnológico del perfil. Se menciona explícitamente \"diseñar, desarrollar y ejecutar automatización de pruebas\" y \"pruebas de concurrencia y estrés\", lo que se alinea con las preferencias de \"QA Senior\", \"SDET\" y \"Automation Engineer\". El dominio de \"QA Automation\" es explícito. La experiencia solicitada (4 años como QA, 1 año en automatización) es superior a los \"3+ años en automatización\" del perfil. El uso de Javascript es un lenguaje de programación común para automatización. Se valora experiencia en \"manejo de endpoints\" y \"Postman\", lo que se relaciona con las pruebas de API. Las responsabilidades incluyen \"Aseguramiento de la calidad del software\" con \"enfoque ágil\" y \"Análisis de Historias de Usuario\", indicando un rol activo en el ciclo de desarrollo. El rango salarial aproximado para un \"QA Automatizador\" con 4 años de experiencia en Lima, Perú, y dada la naturaleza de la empresa (QDS es una empresa de consultoría de software), podría estar entre S/ 4,000 y S/ 7,000 mensuales brutos, dependiendo de la experiencia específica y negociaciones. El perfil de \"Backend con enfoque en testing\" se ve reflejado en las responsabilidades relacionadas con APIs y la necesidad de entender la arquitectura de software.",
+    "salary_range": "S/ 4,000 - S/ 7,000 (aproximado)"
+  }
+]
