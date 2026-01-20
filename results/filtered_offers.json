@@ -1,16 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4363505218",
-    "title": "Analista qa",
-    "employer": "Altimea",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4363505218",
-    "reason": "Esta oferta se alinea al perfil debido a que se busca un \"Analista QA\" con experiencia mínima de 3 años, y específicamente 1 año en automatización con Playwright y Karate, integrándose en CI/CD. Las responsabilidades incluyen el desarrollo de pruebas automatizadas end-to-end y de integración, validación en pipelines CI/CD (Jenkins), y experiencia deseable en el rubro fintech/banco. Cumple con la experiencia requerida y un enfoque claro en automatización. Se prioriza porque Altimea es una consultora de tecnología con enfoque en innovación, lo que sugiere un entorno dinámico. Rango salarial aproximado para Lima, Perú: S/ 5.500 - S/ 8.500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4360024431",
-    "title": "Quality Assurance Specialist",
-    "employer": "BANCO GNB PERÚ",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4360024431",
-    "reason": "Esta oferta es altamente relevante ya que busca un \"Quality Assurance Specialist\" con un propósito de garantizar la calidad end-to-end de soluciones digitales en entornos bancarios. Los requisitos incluyen experiencia en el sector financiero o bancario y conocimientos en automatización de pruebas (Selenium, Cypress deseable), pruebas de APIs REST y herramientas de gestión de incidencias. El rol implica acompañar al equipo desde etapas tempranas del desarrollo, validando aplicaciones web, mobile e integraciones. Se prioriza BANCO GNB PERÚ por ser una institución financiera importante, y el rol tiene un enfoque directo en QA con potencial de automatización. Rango salarial aproximado para Lima, Perú: S/ 6.000 - S/ 9.000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4360435021",
+    "title": "QA Lead",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4360435021",
+    "reason": "Aunque el título es 'QA Lead', la descripción enfatiza la experiencia liderando proyectos de QA a nivel técnico y coordinando con equipos, lo que podría alinearse con un rol senior de automatización, especialmente en una empresa del tamaño y alcance de NTT DATA. El perfil busca roles de 'QA Senior' y 'Automation Engineer'. Se prioriza esta oferta por ser de una empresa importante en la región y por la posibilidad de que el rol implique un fuerte componente de automatización y liderazgo técnico. El rango salarial aproximado para un QA Lead en Lima, Perú, con la experiencia requerida, podría estar entre $2500 y $4500 USD mensuales, dependiendo de la envergadura de los proyectos."
   }
 ]
