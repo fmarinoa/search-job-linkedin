@@ -1,7 +1,3 @@
-import os
-
-from dotenv import load_dotenv
-
 from job_scrapper.client.analyze_offers import GeminiAnalyzer
 from job_scrapper.exporter.csv_exporter import append_results_csv
 from job_scrapper.exporter.html_exporter import generate_html

@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "0 0 * * 2-6" # De martes a sábado a las 0:00 UTC
+    - cron: '0 0 * * 2-6' # De martes a sábado a las 0:00 UTC
 
 jobs:
   run-script:
@@ -22,10 +22,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
-
-      - name: Debug Print API Key
-        run: echo "${{ secrets.GEMINI_API_KEY }}" | sed 's/./& /g'
+          python-version: '3.11'
 
       - name: Instalar dependencias
         run: pip install -r requirements.txt
