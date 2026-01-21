@@ -1,17 +1,19 @@
+import os
+
+from dotenv import load_dotenv
+
 from job_scrapper.client.analyze_offers import GeminiAnalyzer
 from job_scrapper.exporter.csv_exporter import append_results_csv
 from job_scrapper.exporter.html_exporter import generate_html
 from job_scrapper.exporter.json_exporter import append_results_json
 from job_scrapper.scrapper import scrape_jobs
-from dotenv import load_dotenv
-import os
 
 
 def main():
     load_dotenv()
     GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
     debug = GEMINI_API_KEY
-    print(debug)
+    print("GEMINI_API_KEY: " + str(debug))
     results = scrape_jobs()
 
     if results is None or not results or len(results) < 2:
