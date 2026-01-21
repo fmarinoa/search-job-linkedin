@@ -1,9 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4360435021",
-    "title": "QA Lead",
+    "id": "https://www.linkedin.com/jobs/view/4364982524",
+    "title": "Analista qa",
+    "employer": "Altimea",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4364982524",
+    "reason": "Esta oferta de Altimea encaja muy bien con el perfil ya que busca explícitamente un Analista QA con experiencia en automatización de pruebas web (Playwright/Selenium), APIs (Karate), y desarrollo ágil, incluyendo experiencia con Node.js/TypeScript y CI/CD (Jenkins). Las responsabilidades incluyen la ejecución y desarrollo de pruebas automatizadas end-to-end y de integración, validación de despliegues en pipelines CI/CD y colaboración con el equipo de desarrollo. Si bien no se especifica el rango salarial, para un puesto de Analista QA con 3+ años de experiencia en Lima, Perú, con las habilidades requeridas, se estima un rango aproximado de S/ 5,000 a S/ 8,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4360956849",
+    "title": "Líder QA",
     "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4360435021",
-    "reason": "Aunque el título es 'QA Lead', la descripción enfatiza la experiencia liderando proyectos de QA a nivel técnico y coordinando con equipos, lo que podría alinearse con un rol senior de automatización, especialmente en una empresa del tamaño y alcance de NTT DATA. El perfil busca roles de 'QA Senior' y 'Automation Engineer'. Se prioriza esta oferta por ser de una empresa importante en la región y por la posibilidad de que el rol implique un fuerte componente de automatización y liderazgo técnico. El rango salarial aproximado para un QA Lead en Lima, Perú, con la experiencia requerida, podría estar entre $2500 y $4500 USD mensuales, dependiendo de la envergadura de los proyectos."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4360956849",
+    "reason": "Esta oferta de NTT DATA es una excelente oportunidad para un perfil con experiencia en QA, especialmente si se considera un rol senior. Requiere +8 años de experiencia en QA con al menos 3 años liderando QA en proyectos bancarios y financieros, lo que se alinea con el dominio de 'Banca' y 'Finanzas' del perfil. Menciona explícitamente conocimientos en automatización de pruebas (Selenium, Playwright, etc.), metodologías ágiles y testing de integraciones (APIs, microservicios), así como experiencia con Jira. Las responsabilidades implican liderazgo y aplicación de conocimientos técnicos en proyectos de alta criticidad. Dado el nivel de liderazgo y la experiencia requerida en un sector especializado como el bancario, el rango salarial estimado para un Líder QA en Lima, Perú, podría oscilar entre S/ 9,000 y S/ 15,000 mensuales."
   }
 ]
