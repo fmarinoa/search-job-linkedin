@@ -24,7 +24,7 @@ RAW_DIR = get_day_folder_path() / "raw"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 if not GEMINI_API_KEY:
     raise EnvironmentError("GEMINI_API_KEY no encontrada en variables de entorno")
-print(GEMINI_API_KEY)
+
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 MAX_ATTEMPTS = int(os.getenv("GEMINI_MAX_ATTEMPTS", "3"))
