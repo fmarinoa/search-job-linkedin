@@ -1,16 +1,37 @@
 [
   {
+    "id": "https://www.linkedin.com/jobs/view/4362097109",
+    "title": "QA AUTOMATIZADOR",
+    "employer": "NTT DATA, Inc.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4362097109",
+    "reason": "La oferta de QA Automatizador en NTT DATA encaja perfectamente con el perfil. Busca un profesional con más de 2 años de experiencia en QA Automatización, utilizando Selenium WebDriver, Karate DSL, Rest Assured, Serenity y Appium, lo cual se alinea directamente con la experiencia requerida en automatización de pruebas web, mobile y APIs. El dominio de NTT DATA en sectores como banca, finanzas y administración pública es relevante. Las responsabilidades implican la automatización de pruebas, lo cual es el enfoque principal. El rango salarial aproximado para un QA Automatizador Senior en Lima, Perú, con más de 2 años de experiencia y trabajando para una empresa como NTT DATA podría estar entre S/ 5,000 y S/ 8,000 mensuales, dependiendo de la negociación y la experiencia específica."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4365112920",
+    "title": "QA Funcional Semisenior",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4365112920",
+    "reason": "Esta oferta para QA Funcional Semisenior en Tata Consultancy Services es una buena opción. Requiere 3 años de experiencia en pruebas funcionales, pruebas en entornos ágiles y específicamente 1 año de experiencia en pruebas funcionales en el sector Banca, lo cual se ajusta al dominio financiero buscado. Aunque se enfoca en pruebas funcionales, se menciona experiencia deseable en lenguajes de programación Java y Bases de Datos, y la empresa tiene un fuerte enfoque en tecnología. Las responsabilidades incluyen la realización de pruebas funcionales para aplicaciones WEB, microservicios y mobile. El rango salarial aproximado para un QA Funcional Semisenior en Lima, Perú, en una empresa como TCS, podría oscilar entre S/ 4,500 y S/ 7,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4365088776",
+    "title": "Analista QA Funcional - Semi Senior",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4365088776",
+    "reason": "La oferta de Analista QA Funcional - Semi Senior en EVOL (TSnet) se alinea con el perfil debido a su enfoque en calidad de software y experiencia en el entorno financiero. Requiere 3 años de experiencia como QA Funcional, conocimiento en herramientas CI/CD, manejo de bases de datos y experiencia en entornos ágiles. Aunque el enfoque principal es funcional, se menciona experiencia deseable en automatización de pruebas (Selenium, Serenity BDD, Cucumber, JMeter, Postman), lo que suma puntos. Las responsabilidades incluyen diseñar y ejecutar pruebas funcionales y no funcionales, y coordinar con equipos técnicos y de negocio. El rango salarial aproximado para un Analista QA Funcional Semisenior en Lima, Perú, en una empresa con este perfil, podría estar entre S/ 4,000 y S/ 6,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4364925726",
+    "title": "Business Specialist Proficient - Tecnología",
+    "employer": "Yape",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4364925726",
+    "reason": "Si bien este rol no es puramente de ingeniería de pruebas, el perfil de Business Specialist Proficient - Tecnología en Yape tiene aspectos que lo hacen relevante. Requiere más de 4 años de experiencia liderando proyectos tecnológicos, con conocimientos sólidos en Frontend, Backend, integración de APIs y arquitecturas modernas. Crucialmente, menciona la necesidad de actuar como puente entre business specialists, diseñadores y el equipo tech (Frontend, Backend y QA), y la responsabilidad de gestionar el backlog tech y el seguimiento detallado de tareas. La mención explícita del equipo de QA y la necesidad de automatizar procesos clave lo conecta con el perfil de desarrollo de pruebas. Además, Yape opera en el sector Fintech, que es un dominio deseado. El rango salarial para un rol de liderazgo tecnológico en una empresa como Yape, con 4+ años de experiencia, podría variar ampliamente, pero un rango aproximado podría ser entre S/ 7,000 y S/ 12,000 mensuales o más, dependiendo de la estructura salarial y las responsabilidades exactas."
+  },
+  {
     "id": "https://www.linkedin.com/jobs/view/4364982524",
     "title": "Analista qa",
     "employer": "Altimea",
     "linkOffer": "https://www.linkedin.com/jobs/view/4364982524",
-    "reason": "Esta oferta de Altimea encaja muy bien con el perfil ya que busca explícitamente un Analista QA con experiencia en automatización de pruebas web (Playwright/Selenium), APIs (Karate), y desarrollo ágil, incluyendo experiencia con Node.js/TypeScript y CI/CD (Jenkins). Las responsabilidades incluyen la ejecución y desarrollo de pruebas automatizadas end-to-end y de integración, validación de despliegues en pipelines CI/CD y colaboración con el equipo de desarrollo. Si bien no se especifica el rango salarial, para un puesto de Analista QA con 3+ años de experiencia en Lima, Perú, con las habilidades requeridas, se estima un rango aproximado de S/ 5,000 a S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4360956849",
-    "title": "Líder QA",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4360956849",
-    "reason": "Esta oferta de NTT DATA es una excelente oportunidad para un perfil con experiencia en QA, especialmente si se considera un rol senior. Requiere +8 años de experiencia en QA con al menos 3 años liderando QA en proyectos bancarios y financieros, lo que se alinea con el dominio de 'Banca' y 'Finanzas' del perfil. Menciona explícitamente conocimientos en automatización de pruebas (Selenium, Playwright, etc.), metodologías ágiles y testing de integraciones (APIs, microservicios), así como experiencia con Jira. Las responsabilidades implican liderazgo y aplicación de conocimientos técnicos en proyectos de alta criticidad. Dado el nivel de liderazgo y la experiencia requerida en un sector especializado como el bancario, el rango salarial estimado para un Líder QA en Lima, Perú, podría oscilar entre S/ 9,000 y S/ 15,000 mensuales."
+    "reason": "La oferta de Analista QA en Altimea es relevante por su enfoque en automatización. Requiere experiencia mínima de 3 años como Analista QA, con 1 año en automatización de pruebas utilizando Playwright (E2E) y Karate (API), o 3 años con Selenium. También se menciona experiencia en pruebas automatizadas usando JS o TS, y el framework Cucumber. Las funciones incluyen desarrollar pruebas automatizadas end-to-end y de integración, y validar despliegues en pipelines CI/CD (Jenkins). Esto se alinea directamente con la experiencia en automatización web, API y desarrollo ágil. El rango salarial aproximado para un Analista QA con este nivel de experiencia en automatización en Lima, Perú, podría estar entre S/ 4,000 y S/ 7,000 mensuales."
   }
 ]
