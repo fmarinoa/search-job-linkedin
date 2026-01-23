@@ -1,58 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4362131183",
-    "title": "Marketing Project Manager - E-commerce Industry",
-    "employer": "Scale Up Recruiting Partners",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4362131183",
-    "reason": "La oferta no se alinea directamente con el perfil técnico del perfil (SDET/QA Automation). Sin embargo, se considera para inclusión futura si el perfil se expandiera. El rol implica gestión de proyectos en e-commerce. El rango salarial aproximado para este tipo de rol en Lima, Perú, con experiencia, podría oscilar entre S/ 5,000 y S/ 9,000, dependiendo de la experiencia específica y la empresa."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4362094421",
-    "title": "Marketing Project Manager - E-commerce Industry",
-    "employer": "Scale Up Recruiting Partners",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4362094421",
-    "reason": "La oferta no se alinea directamente con el perfil técnico del perfil (SDET/QA Automation). Sin embargo, se considera para inclusión futura si el perfil se expandiera. El rol implica gestión de proyectos en e-commerce. El rango salarial aproximado para este tipo de rol en Callao, Perú, con experiencia, podría oscilar entre S/ 5,000 y S/ 9,000, dependiendo de la experiencia específica y la empresa."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4362087022",
-    "title": "QA Funcional Senior",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4362087022",
-    "reason": "Aunque el título indica 'QA Funcional Senior', la descripción está vacía. Si el rol tuviera un componente de automatización o fuera una empresa importante en el sector financiero, podría considerarse. Sin embargo, dada la falta de información y el enfoque en 'Funcional', se prioriza menos. El rango salarial aproximado para un QA Funcional Senior en Lima, Perú, podría estar entre S/ 6,000 y S/ 10,000."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4365105666",
-    "title": "UX/UI Designer",
-    "employer": "Applaudo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4365105666",
-    "reason": "Este rol es de UX/UI Designer, que no se alinea directamente con el perfil de SDET/QA Automation. Las responsabilidades principales incluyen diseño de experiencias digitales, investigación de usuarios, prototipado y colaboración con equipos de desarrollo y QA. Se descarta por no coincidir con el enfoque de automatización de pruebas. El rango salarial aproximado para un UX/UI Designer Senior en Lima, Perú, con la experiencia mencionada, podría oscilar entre S/ 7,000 y S/ 12,000."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4365112920",
+    "id": "https://www.linkedin.com/jobs/view/4358163670",
     "title": "QA Funcional Semisenior",
     "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4365112920",
-    "reason": "Aunque se menciona 'QA Funcional Semisenior', el perfil requiere 3 años de experiencia en pruebas funcionales, experiencia en proyectos ágiles y experiencia en pruebas funcionales en Banca (dominio del perfil). Sin embargo, la oferta NO menciona explícitamente automatización. Si bien TCS es una empresa importante, la falta de enfoque directo en automatización la hace menos prioritaria. Responsabilidades: Realizar pruebas funcionales de aplicaciones WEB, microservicios, mobile; elaborar escenarios de pruebas; preparar ambientes de prueba; apoyo en planificación de plan de pruebas y estimaciones. El rango salarial aproximado para un QA Funcional Semisenior en Lima, Perú, podría estar entre S/ 4,500 y S/ 7,500."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4358163670",
+    "reason": "La oferta se ajusta al perfil profesional por su enfoque en pruebas funcionales de aplicaciones WEB, microservicios y mobile, con 3 años de experiencia laboral en pruebas funcionales y experiencia en proyectos ágiles. Menciona experiencia en pruebas funcionales en banca, lo cual es un dominio deseado. Aunque no especifica automatización de forma explícita en el título, la descripción menciona conocimientos de automatización de pruebas en Selenium y Karate, lo que se alinea con el perfil. El nivel 'Semisenior' y la experiencia requerida coinciden con el perfil. Se estima un rango salarial aproximado entre S/5,500 y S/8,000 soles mensuales para un puesto Semisenior en Lima, Perú en una empresa como TCS, considerando la experiencia solicitada y el enfoque en banca."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4365088776",
-    "title": "Analista QA Funcional - Semi Senior",
-    "employer": "EVOL (TSnet)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4365088776",
-    "reason": "El título 'Analista QA Funcional - Semi Senior' y la experiencia en el entorno financiero (dominio del perfil) son puntos positivos. Sin embargo, el rol se enfoca principalmente en pruebas funcionales y no funcionales. Menciona 'Deseable: experiencia en automatización de pruebas (Selenium, Serenity BDD, Cucumber, JMeter, Postman)', lo cual es un plus, pero no el foco principal. Se prioriza menos que roles explícitamente de automatización. Responsabilidades: Diseñar y ejecutar pruebas funcionales y no funcionales; gestionar y dar seguimiento a incidencias de calidad; coordinar con equipos técnicos y de negocio. El rango salarial aproximado para un Analista QA Funcional Semi Senior con experiencia en automatización deseable en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000."
+    "id": "https://www.linkedin.com/jobs/view/4365311526",
+    "title": "QA Automation Ssr",
+    "employer": "Grupo CINTE",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4365311526",
+    "reason": "Esta oferta encaja perfectamente con el perfil. El título 'QA Automation Ssr' indica el rol y el nivel. La descripción detalla responsabilidades como 'diseñar, implementar y mantener frameworks de automatización para pruebas UI y API', 'Automatizar casos de prueba', e 'Integrar y ejecutar pruebas automatizadas dentro de pipelines CI/CD', que son clave para un perfil SDET/QA Automation Engineer. Los 'Skills técnicos requeridos' incluyen experiencia con Selenium, Cypress o Playwright, pruebas de APIs, y CI/CD (Jenkins), todos dentro del tech stack y experiencia del perfil. La experiencia solicitada es 'Más de 4 años', lo cual supera el mínimo de 3 años del perfil. Se estima un rango salarial aproximado entre S/7,000 y S/10,000 soles mensuales para un puesto Senior/Semi Senior de automatización en Lima, Perú, dada la experiencia y las habilidades técnicas requeridas en una empresa como Grupo CINTE."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4362097109",
-    "title": "QA Automatizador",
-    "employer": "NTT DATA, Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4362097109",
-    "reason": "Esta oferta se ajusta perfectamente al perfil. El título es 'QA Automatizador' y requiere '+2 de años de experiencia en QA Automatización'. Las tecnologías mencionadas como Selenium WebDriver, Karate DSL, Rest Assured y Appium son relevantes. NTT DATA es una empresa importante a nivel global. Responsabilidades: Se infiere la automatización de pruebas, diseño y ejecución de casos de prueba automatizados, y colaboración con equipos de desarrollo. El rango salarial aproximado para un QA Automatizador con 2+ años de experiencia en Lima, Perú, podría estar entre S/ 5,500 y S/ 9,000."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4354251339",
-    "title": "Analista QA",
-    "employer": "ZAT | Data & AI LATAM",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4354251339",
-    "reason": "Aunque el título es 'Analista QA', el rol implica validar procesos ETL y asegurar la integridad de datos. La experiencia requerida es de 2 años como QA en proyectos de datos, con validación de ETL (IBM DataStage deseable) y SQL avanzado. No menciona explícitamente automatización de pruebas web/mobile/API, lo que lo hace menos prioritario para este perfil. Se considera un rol con un enfoque diferente a la automatización esperada. Responsabilidades: Diseñar y ejecutar planes de prueba para procesos ETL y reporting; validar la integridad, completitud y consistencia de datos; colaborar con equipos de desarrollo y data engineers. El rango salarial aproximado para un Analista QA con enfoque en datos y ETL en Lima, Perú, podría estar entre S/ 4,000 y S/ 6,500."
+    "id": "https://www.linkedin.com/jobs/view/4365189739",
+    "title": "Senior Full-Stack/AI Engineer",
+    "employer": "Katapult Labs",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4365189739",
+    "reason": "Aunque el título es 'Senior Full-Stack/AI Engineer', la descripción menciona explícitamente 'implementing QA processes' y 'Implement regression testing, QA automation, and edge case coverage to maintain product stability'. El perfil solicitado incluye experiencia en 'Node.js', 'TypeScript', y 'AWS', que son parte del tech stack de la oferta. La experiencia de '5+ years as a full stack engineer' y la habilidad para 'take ownership of features from concept to production deployment' y 'Experience setting up QA automation' se alinean con las preferencias del perfil ('Backend con enfoque en testing' y roles Senior). La ubicación 'Lima, Peru' es un match. Se estima un rango salarial aproximado entre S/9,000 y S/14,000 soles mensuales para un rol de Senior Full-Stack/AI Engineer en Lima, Perú, considerando la experiencia y la tecnología requerida, y el hecho de que la empresa opera con modelos de 'team augmentation'."
   }
 ]
