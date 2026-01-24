@@ -1,23 +1,26 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4358163670",
-    "title": "QA Funcional Semisenior",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4358163670",
-    "reason": "La oferta se ajusta al perfil profesional por su enfoque en pruebas funcionales de aplicaciones WEB, microservicios y mobile, con 3 años de experiencia laboral en pruebas funcionales y experiencia en proyectos ágiles. Menciona experiencia en pruebas funcionales en banca, lo cual es un dominio deseado. Aunque no especifica automatización de forma explícita en el título, la descripción menciona conocimientos de automatización de pruebas en Selenium y Karate, lo que se alinea con el perfil. El nivel 'Semisenior' y la experiencia requerida coinciden con el perfil. Se estima un rango salarial aproximado entre S/5,500 y S/8,000 soles mensuales para un puesto Semisenior en Lima, Perú en una empresa como TCS, considerando la experiencia solicitada y el enfoque en banca."
+    "id": "https://www.linkedin.com/jobs/view/4363484510",
+    "title": "QA Automatizador Ssr.",
+    "employer": "SOAINT",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4363484510",
+    "reason": "Esta oferta se ajusta al perfil debido a que busca un 'QA Automatizador Ssr.' con experiencia en automatización de pruebas (Selenium, Playwright) y CI/CD (Jenkins), lo cual coincide con las preferencias del perfil ('QA Senior', 'SDET', 'Automation Engineer'). Las responsabilidades incluyen la participación en ceremonias ágiles, diseño y ejecución de pruebas automatizadas, y promoción de la integración continua. El rango salarial aproximado para un puesto Senior en Lima, Perú, con este perfil y responsabilidades en una empresa de consultoría TI como SOAINT, podría estar entre S/ 7,000 y S/ 12,000 mensuales.",
+    "salary_approx": "S/ 7,000 - S/ 12,000 mensuales"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4365311526",
-    "title": "QA Automation Ssr",
-    "employer": "Grupo CINTE",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4365311526",
-    "reason": "Esta oferta encaja perfectamente con el perfil. El título 'QA Automation Ssr' indica el rol y el nivel. La descripción detalla responsabilidades como 'diseñar, implementar y mantener frameworks de automatización para pruebas UI y API', 'Automatizar casos de prueba', e 'Integrar y ejecutar pruebas automatizadas dentro de pipelines CI/CD', que son clave para un perfil SDET/QA Automation Engineer. Los 'Skills técnicos requeridos' incluyen experiencia con Selenium, Cypress o Playwright, pruebas de APIs, y CI/CD (Jenkins), todos dentro del tech stack y experiencia del perfil. La experiencia solicitada es 'Más de 4 años', lo cual supera el mínimo de 3 años del perfil. Se estima un rango salarial aproximado entre S/7,000 y S/10,000 soles mensuales para un puesto Senior/Semi Senior de automatización en Lima, Perú, dada la experiencia y las habilidades técnicas requeridas en una empresa como Grupo CINTE."
+    "id": "https://www.linkedin.com/jobs/view/4326940285",
+    "title": "Senior QA Engineer",
+    "employer": "Paysafe",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4326940285",
+    "reason": "La oferta es para un 'Senior QA Engineer' con 8+ años de experiencia en testing, fuerte experiencia en frameworks de automatización y CI/CD, y conocimiento de metodologías ágiles. Esto se alinea perfectamente con las preferencias ('QA Senior', 'SDET', 'Automation Engineer') y experiencia requerida del perfil. Las responsabilidades incluyen liderar iniciativas de QA, desarrollar scripts de automatización, mentoring de juniors y asegurar la calidad de los productos. Paysafe es una empresa global en el sector de pagos, lo que se alinea con dominios como Finanzas/Fintech. El rango salarial para un puesto Senior en Lima, Perú, en una empresa internacional como Paysafe, podría estar entre S/ 9,000 y S/ 15,000 mensuales.",
+    "salary_approx": "S/ 9,000 - S/ 15,000 mensuales"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4365189739",
-    "title": "Senior Full-Stack/AI Engineer",
-    "employer": "Katapult Labs",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4365189739",
-    "reason": "Aunque el título es 'Senior Full-Stack/AI Engineer', la descripción menciona explícitamente 'implementing QA processes' y 'Implement regression testing, QA automation, and edge case coverage to maintain product stability'. El perfil solicitado incluye experiencia en 'Node.js', 'TypeScript', y 'AWS', que son parte del tech stack de la oferta. La experiencia de '5+ years as a full stack engineer' y la habilidad para 'take ownership of features from concept to production deployment' y 'Experience setting up QA automation' se alinean con las preferencias del perfil ('Backend con enfoque en testing' y roles Senior). La ubicación 'Lima, Peru' es un match. Se estima un rango salarial aproximado entre S/9,000 y S/14,000 soles mensuales para un rol de Senior Full-Stack/AI Engineer en Lima, Perú, considerando la experiencia y la tecnología requerida, y el hecho de que la empresa opera con modelos de 'team augmentation'."
+    "id": "https://www.linkedin.com/jobs/view/4365533325",
+    "title": "QA Automatizador Senior",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4365533325",
+    "reason": "Esta oferta es para un 'QA Automatizador Senior', lo cual encaja directamente con las preferencias ('QA Senior', 'Automation Engineer') y roles del perfil. Aunque la descripción está vacía, el título y la empresa sugieren un rol con enfoque en automatización de pruebas. IDM Technology es una empresa de tecnología, y siendo un puesto Senior en Lima, el rango salarial aproximado podría estar entre S/ 8,000 y S/ 13,000 mensuales.",
+    "salary_approx": "S/ 8,000 - S/ 13,000 mensuales"
   }
 ]
