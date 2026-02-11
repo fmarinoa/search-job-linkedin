@@ -1,30 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4370891718",
-    "title": "Analista de certificación QA",
-    "employer": "Valtx Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4370891718",
-    "reason": "La oferta encaja perfectamente con el perfil debido a la alta priorización en automatización de pruebas (mencionado como indispensable) y experiencia específica en sistemas bancarios. Las responsabilidades incluyen la automatización de casos de prueba para pruebas de regresión, lo cual se alinea directamente con el rol de Automation Engineer/SDET. El rango salarial aproximado para un Analista de Certificación QA con 4 años de experiencia en Perú, especialmente en empresas de tecnología como Valtx, estaría entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4370998144",
+    "title": "Analista de Datos Cumplimiento",
+    "employer": "Caja Cencosud Scotiabank",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4370998144",
+    "reason": "Esta oferta se alinea fuertemente con el perfil debido a su enfoque en la automatización de procesos de gestión y validación de datos, así como la ejecución de controles y pruebas de QA. El requisito de experiencia mínima de 3 años y el dominio de Python y SQL son puntos clave. Las responsabilidades incluyen aplicar reglas de automatización, ejecutar procesos ETL, automatizar flujos y validaciones, y ejecutar controles y pruebas de QA. El rango salarial aproximado para un Analista de Datos con 3 años de experiencia en Lima, Perú, en el sector financiero, podría estar entre S/ 4,500 y S/ 7,000 mensuales, dependiendo de las responsabilidades específicas y el paquete de beneficios."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4370531103",
-    "title": "Quality Assurance Analyst",
-    "employer": "Monnet Payments",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4370531103",
-    "reason": "Esta oferta es una excelente coincidencia ya que busca específicamente un \"Semi Senior QA Engineer\" con más de 3 años de experiencia en automatización de pruebas y al menos 1 año de experiencia con Playwright + TypeScript, que son tecnologías clave del perfil. Además, se valora la experiencia en la industria fintech/bancaria. Las responsabilidades incluyen diseñar y ejecutar casos de prueba, lo que se complementa con la automatización. El rango salarial aproximado para un QA Semi Senior con estas especificaciones en una Fintech como Monnet Payments en Lima sería entre S/ 6,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4370468404",
-    "title": "Future Sr. SDET Opportunity (Gaming Industry)",
-    "employer": "Perform",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4370468404",
-    "reason": "La oferta se alinea directamente con el perfil de 'SDET' y 'Automation Engineer' al describir un rol centrado en la programación, la construcción de pruebas automatizadas y la mejora de la infraestructura de pruebas. Se requiere experiencia significativa en el diseño y mantenimiento de suites de pruebas automatizadas con enfoque principal en la automatización, y experiencia práctica escribiendo pruebas automatizadas utilizando TypeScript. Las responsabilidades incluyen diseñar e implementar pruebas automatizadas end-to-end y depurar problemas. Dado que es una oportunidad Senior en la industria del gaming, el rango salarial aproximado en Lima para un Sr. SDET sería entre S/ 7,000 y S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4369244307",
+    "id": "https://www.linkedin.com/jobs/view/4371025710",
     "title": "SDLC TRANSFORMATION SPECIALIST",
     "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4369244307",
-    "reason": "Aunque el título es \"SDLC Transformation Specialist\", el perfil requerido (3 a 5 años en ingeniería de software, DevOps, QA, arquitectura o modernización del SDLC) y las responsabilidades (liderar revisiones técnicas, evaluar casos de uso de IA en el SDLC, supervisar y acompañar la adopción de capacidades SDLC) implican un fuerte componente de automatización y aseguramiento de la calidad dentro del ciclo de vida del desarrollo. Se busca experiencia en iniciativas de modernización SDLC y automatización. El rol, al ser en el Banco de Crédito BCP, una de las empresas más importantes en el sector financiero en Perú, y dado el nivel de experiencia requerido, tendría un rango salarial aproximado entre S/ 8,000 y S/ 13,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4371025710",
+    "reason": "Esta oferta es muy relevante ya que busca experiencia en ingeniería de software, DevOps, QA, arquitectura o modernización del SDLC con un mínimo de 3 a 5 años. Las responsabilidades incluyen proponer lineamientos y mejores prácticas, liderar revisiones técnicas, diseñar y construir spikes y PoCs para validar herramientas y automatizaciones, y evaluar casos de uso de IA en el SDLC. La mención de la experiencia en QA y la modernización del SDLC, así como el enfoque en prácticas de ingeniería y automatización, se ajustan al perfil. El rango salarial aproximado para un especialista en transformación de SDLC con 3-5 años de experiencia en el sector bancario en Lima, Perú, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4370727210",
+    "title": "Sr. SDET (Gaming Industry)",
+    "employer": "Perform",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4370727210",
+    "reason": "Esta es una excelente coincidencia. El puesto se describe explícitamente como un rol de QA centrado en la programación y la construcción de pruebas automatizadas, no en pruebas manuales. Requiere 6+ años de experiencia con un fuerte enfoque en pruebas automatizadas, diseño y mantenimiento de suites de pruebas automatizadas, y experiencia escribiendo pruebas automatizadas con TypeScript. Las responsabilidades clave incluyen diseñar e implementar pruebas automatizadas, depurar problemas, revisar código de pruebas y colaborar estrechamente con ingeniería y producto. Dado que es un rol Senior y en la industria del gaming, el rango salarial aproximado en Lima, Perú, podría ser significativamente competitivo, posiblemente entre S/ 7,000 y S/ 12,000 mensuales o más."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4363121567",
+    "title": "Analista de seguridad de información & procesos Junior",
+    "employer": "Balkaned Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4363121567",
+    "reason": "Aunque el título indica 'Junior', la descripción solicita una 'Mínimo 3 años de experiencia en la posición'. Las responsabilidades incluyen 'Identificar escenarios y ejecutar casos de prueba como parte de las actividades de QA' y 'Automatización de pruebas de seguridad e integración al proceso de desarrollo de aplicaciones brindando características ágiles de identificación de riesgos'. Estas funciones se alinean con un enfoque en automatización y QA, aunque el dominio de seguridad es principal. El rango salarial para un puesto con 3 años de experiencia en Lima, Perú, que involucra aspectos de QA y automatización, podría estar entre S/ 3,500 y S/ 5,500 mensuales."
   }
 ]
