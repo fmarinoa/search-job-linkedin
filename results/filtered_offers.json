@@ -1,30 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4371161397",
-    "title": "QA Automatizador Junior",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4371161397",
-    "reason": "Aunque el título indica 'Junior', la descripción menciona experiencia mínima de 1 año en automatización con Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium, lo cual se alinea con la experiencia requerida en automatización. Además, se mencionan herramientas de testing continuo como Jenkins, lo cual es relevante para el perfil. El rol se enfoca en automatización de pruebas, lo cual es un punto clave del perfil. El rango salarial aproximado para un rol junior/semi-senior en automatización QA en Lima, Perú, con una empresa del tamaño de NTT DATA, podría estar entre S/ 3500 y S/ 5500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4372111728",
+    "title": "Ingeniero de asuntos de calidad",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4372111728",
+    "reason": "Esta oferta encaja perfectamente con el perfil buscado, ya que se solicita un 'QA Automatizador' con más de 5 años de experiencia en automatización (Web, Servicios y Mainframe/Host), experiencia en sector bancario y dominio de Java. Las responsabilidades incluyen automatización Web con Selenium/Serenity, automatización de APIs REST/SOAP, y manejo de GIT y Jira. El rango salarial aproximado para un rol de esta naturaleza en Lima, Perú, y con la experiencia requerida, estaría entre S/ 7,000 y S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4371611741",
-    "title": "QA Automation",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4371611741",
-    "reason": "Esta oferta se ajusta perfectamente al perfil. Requiere un mínimo de 4 años en QA Automation, sólidos conocimientos en automatización con Java/Javascript y frameworks como Selenium, Appium, Rest Assured, Karate. Menciona experiencia en metodologías BDD, Gherkin, patrones de diseño de pruebas, ejecución de pruebas integrales en Backend, Web, Mobile y Escritorio. También incluye experiencia en CI/CD y DevSecOps con Jenkins, gestión del ciclo de vida de pruebas con Jira, Xray, y bases de datos. El rol está explícitamente enfocado en QA Automation. El rango salarial aproximado para un perfil con 4+ años de experiencia en QA Automation en Lima, Perú, en una consultora como Inetum, podría estar entre S/ 5000 y S/ 8000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4371879806",
+    "title": "Quality Assurance Automation Engineer",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4371879806",
+    "reason": "Esta oferta es una excelente coincidencia, ya que se busca un 'QA Automatizador' con más de 5 años de experiencia en automatización (Web, Servicios y Mainframe/Host), experiencia en sector bancario y manejo de Java. Las responsabilidades cubren automatización Web con Selenium/Serenity, automatización de APIs REST/SOAP, y uso de GIT y Jira. El rango salarial aproximado para este puesto en Lima, Perú, considerando la experiencia y la empresa, oscilaría entre S/ 7,000 y S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4371448876",
-    "title": "QA Tester - Automatización",
-    "employer": "GFT Technologies",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4371448876",
-    "reason": "Esta oferta es altamente relevante ya que busca un 'QA Tester - Automatización' con un mínimo de 2 años de experiencia en pruebas de software y automatización. Menciona herramientas de automatización como Selenium, Appium, Cypress, y conocimientos en TDD, patrones de automatización, e integración y despliegue continuo con Jenkins y Bitbucket. La experiencia previa con entornos BBVA es un plus, dado el dominio de Banca/Finanzas del perfil. El rango salarial aproximado para un QA Tester con 2+ años de experiencia en automatización en Lima, Perú, en una empresa como GFT, podría estar entre S/ 4000 y S/ 6500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4371893281",
+    "title": "Senior Test Engineer Automation (C#) - OP02040",
+    "employer": "Dev.Pro",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4371893281",
+    "reason": "Esta oferta se alinea muy bien con el perfil, solicitando un 'Senior Test Automation Engineer' con más de 5 años de experiencia en automatización, fuerte enfoque en backend/API testing con .NET y C#, y experiencia con NUnit/xUnit. También se menciona experiencia deseable en Playwright y plataformas cloud como Azure/AWS. Las responsabilidades incluyen definir la estrategia de automatización, construir frameworks y pipelines CI/CD. El rango salarial aproximado para un rol senior de automatización en Lima, Perú, con estas tecnologías y experiencia, podría estar entre S/ 8,000 y S/ 15,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4371443843",
-    "title": "QA automatizador",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4371443843",
-    "reason": "El título 'QA automatizador' indica directamente que el rol tiene un enfoque en automatización, lo cual se alinea con el perfil. Aunque la descripción está vacía, la naturaleza del título permite inferir que se buscan habilidades en automatización de pruebas. Dada la ubicación y la industria de TI, el rango salarial aproximado para un QA automatizador en Lima, Perú, podría estar entre S/ 4500 y S/ 7000 mensuales, dependiendo de la experiencia específica requerida."
+    "id": "https://www.linkedin.com/jobs/view/4372164300",
+    "title": "QA Automatizador - Semi Senior",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4372164300",
+    "reason": "Esta oferta es un buen candidato, ya que busca un 'QA Automatizador Semi Senior' con 3 años de experiencia en automatización, enfoque híbrido funcional y técnico, y experiencia en metodologías ágiles. Las responsabilidades incluyen diseño y ejecución de pruebas automatizadas con Serenity y Cucumber, pruebas de servicios/API, y pruebas de carga/performance. La experiencia en entornos financieros es deseable. El rango salarial aproximado para este puesto en Lima, Perú, podría estar entre S/ 5,000 y S/ 9,000 mensuales."
   }
 ]
