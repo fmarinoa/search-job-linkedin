@@ -1,51 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4372726530",
-    "title": "Quality Assurance Specialist",
-    "employer": "Playtech",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4372726530",
-    "reason": "La oferta busca un \"Quality Assurance Specialist\" con responsabilidades que incluyen \"testing and monitoring both new and existing gaming products\", \"Run internal test cycles\", \"Create clear reports\", \"Identify and flag issues or potential risks\". Aunque no menciona explícitamente automatización, las tareas implican un enfoque de calidad robusto. El perfil requerido no especifica años de experiencia en automatización ni un stack tecnológico de automatización. Se prioriza roles con enfoque en automatización, por lo que esta oferta tiene una prioridad baja. El rango salarial aproximado para este tipo de puesto en Lima, Perú, considerando la empresa podría estar entre S/ 3,500 - S/ 6,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4373825792",
+    "title": "Líder QA (Banca/hibrido)",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4373825792",
+    "reason": "Esta oferta se alinea con el perfil por su enfoque en liderazgo QA Senior en el dominio de Banca y Finanzas. Cumple con la experiencia requerida en automatización de pruebas (Playwright, Cypress, REST Assured, Postman, JMeter) y experiencia en entornos cloud (Azure, AWS). Si bien el título es 'Líder QA', la descripción detalla responsabilidades de QA Automatizador. Se prioriza por la experiencia en banca y el nivel senior. El rango salarial aproximado para un puesto de Líder QA Senior en Lima, Perú, con más de 6 años de experiencia en el sector financiero, podría estar entre S/ 8,000 y S/ 15,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4364405772",
-    "title": "QA Automation",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4364405772",
-    "reason": "La oferta busca un \"QA Automation\" con requisitos que incluyen \"Conocimientos en Banca\", \"Lenguaje programación java\", \"Experiencia con herramientas de automatización, Selenium, appium, serenity\", \"Experiencia desarrollando o haciendo mantenimiento en proyectos de automatización\", \"Herramientas para uso de apis Postman, Bruno\", \"Metodologías de prueba: Comprensión de tipos de pruebas (funcionales, de regresión, rendimiento) y su aplicación en entornos ágiles\", \"Conocimientos o experiencia en pruebas de rendimiento con Jmeter\", \"Experiencia ejecutando pruebas manuales / automatizadas (Mobile/Web)\". Las responsabilidades incluyen \"Análisis de requisitos\", \"Diseño de pruebas\", \"Desarrollo de automatización: Escribir, implementar y mantener scripts y programas para ejecutar las pruebas de manera automática.\", \"Ejecución de pruebas\", \"Análisis e interpretación de resultados\", \"Registro y validación de errores\", \"Colaboración\". Encaja con el perfil, especialmente con la experiencia en automatización web y mobile, Java, Selenium y Appium. El dominio del sector Banca es un plus. El rango salarial aproximado en Lima, Perú, para un rol de este nivel y con esta empresa podría estar entre S/ 5,000 - S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4373845305",
+    "title": "QA Automatizador Senior",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4373845305",
+    "reason": "Esta oferta es un match perfecto con el perfil. Se busca explícitamente un 'QA Automatizador Senior' con 5 años de experiencia mínima en el sector bancario, lo cual se ajusta a los dominios y experiencia solicitados. Menciona automatización avanzada, frameworks, pruebas de rendimiento, cloud testing (AWS/Azure), y seguridad aplicativa, cubriendo la mayoría de las tecnologías y dominios del perfil. El rol de liderazgo técnico y visión estratégica también encaja con las preferencias de QA Senior. El rango salarial aproximado para un puesto de QA Automatizador Senior en Lima, Perú, con 5 años de experiencia en el sector bancario, podría estar entre S/ 7,000 y S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4372292547",
-    "title": "QA Automatizador",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4372292547",
-    "reason": "La oferta es para un \"QA Automatizador\" con \"Exp de 5 años como QA +2 años de experiencia en testing de aplicaciones web y/o móviles. +2 año en automatización de pruebas.\" Requisitos técnicos incluyen \"Manejo de herramientas como Selenium, Playwright, QMetry o similares.\", \"Experiencia en pruebas de rendimiento (JMeter o similares).\", \"Conocimiento en JavaScript, GIT, SCRUM y principios OWASP.\", \"Experiencia con APIs (Postman, endpoints), manejo de BDs y preparación de entornos de prueba.\" Las funciones son \"Asegurar la calidad del software (funcional y no funcional) en entornos ágiles.\", \"Diseñar y ejecutar planes, casos y automatización de pruebas.\", \"Detectar y reportar incidencias.\", \"Realizar pruebas de rendimiento y colaborar con el equipo.\" Cumple con los requisitos de experiencia en automatización web/mobile, uso de Selenium/Playwright, APIs y metodologías ágiles. El rango salarial aproximado para este puesto en Lima, Perú, podría ser de S/ 5,500 - S/ 8,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4364775580",
+    "title": "Desarrollador/a Backend Node.js",
+    "employer": "Ligo",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4364775580",
+    "reason": "Aunque el título es 'Desarrollador/a Backend', la oferta menciona la colaboración con el equipo de QA y la aplicación de buenas prácticas de codificación, pruebas y documentación. Además, se busca experiencia con Node.js, uno de los lenguajes del tech stack preferido, y en el dominio Fintech. La descripción de 'asegurar que las soluciones backend sean escalables, seguras y eficientes' y la integración con otros sistemas pueden implicar un enfoque en la calidad y pruebas. Se prioriza por el dominio Fintech y la tecnología Node.js. El rango salarial aproximado para un Desarrollador Backend Node.js con 2 años de experiencia en Lima, Perú, en el sector Fintech, podría estar entre S/ 4,500 y S/ 7,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4326940285",
-    "title": "Senior QA Engineer",
-    "employer": "Paysafe",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4326940285",
-    "reason": "La oferta es para un \"Senior QA Engineer\" con \"8+ years of software testing experience.\" Se busca \"Strong experience with test automation frameworks.\" y \"Proven track record of leading QA initiatives.\" Las responsabilidades incluyen \"Develop and implement quality assurance protocols and procedures.\", \"Conduct thorough testing on software applications to identify and resolve system malfunctions.\", \"Create and maintain documentation on manual and automated tests.\", \"Design and develop automated testing scripts and deploy these scripts using automation software.\", \"Mentor junior QA Engineers\". Encaja con el perfil de \"QA Senior\" y \"Automation Engineer\" con énfasis en automatización, liderazgo y mentoría. El rango salarial para un rol Senior en Lima, Perú, con una empresa internacional como Paysafe, podría estar entre S/ 7,000 - S/ 10,000+ mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4364493318",
-    "title": "Analista QA Automatizador Senior - Outsourcing",
-    "employer": "SEIDOR",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4364493318",
-    "reason": "La oferta es para \"ANALISTA QA AUTOMATIZADOR SENIOR\" con \"Experiencia de 2 a 4 años en automatización de pruebas de software (API, web y móvil).\" Requisitos técnicos: \"Automatizar pruebas API, web y móviles usando Playwright, Selenium, Appium y RestAssured.\", \"Desarrollar y mantener scripts de automatización con TypeScript/JavaScript, Python u otros lenguajes.\", \"Conocimientos intermedios en herramientas de automatización (Playwright, Selenium, Appium)\". Las responsabilidades incluyen \"Analizar el alcance de las iniciativas y definir la estrategia de pruebas.\", \"Diseñar y elaborar casos de prueba\", \"Ejecutar, gestionar y dar seguimiento a pruebas y defectos\". Encaja perfectamente con el perfil de \"QA Senior\", \"SDET\" y \"Automation Engineer\", con experiencia en múltiples tecnologías y tipos de pruebas. El rango salarial aproximado en Lima, Perú, para este puesto podría ser de S/ 6,000 - S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4372799903",
-    "title": "Chapter Lead QA Automation",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4372799903",
-    "reason": "La oferta es para \"Chapter Lead QA Automation\" con \"3 años liderando equipos de pruebas, con conocimiento avanzado en gestión de proyectos tradicionales y ágiles.\", \"Experiencia práctica con herramientas para pruebas automatizadas: Selenium, UFT, Postman, etc.\", \"Experiencia liderando proyectos de alta complejidad con equipos multidisciplinarios.\", \"Conocimiento para realizar pruebas automatizadas en web, servicios, microservicios, escritorio.\" Aunque es un rol de liderazgo, las responsabilidades están fuertemente ligadas a la automatización y la excelencia metodológica, lo que lo hace atractivo para un perfil senior con aspiraciones de liderazgo. Encaja con el perfil de \"QA Senior\" y \"Automation Engineer\" con un enfoque de liderazgo. El rango salarial aproximado para un rol de Chapter Lead en Lima, Perú, podría ser de S/ 8,000 - S/ 12,000+ mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4372734793",
-    "title": "Mid-level QA Automation Engineer - Remote - Latin America",
-    "employer": "FullStack",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4372734793",
-    "reason": "La oferta es para \"Mid-level QA Automation Engineer\" con \"4+ years of professional software quality engineering experience, covering both manual and automated testing.\" Se requiere \"Proven experience with Playwright for automated testing.\" y \"Experience with other test automation frameworks such as FlaUI or Selenium.\" \"Proficiency in C#, JavaScript, Python, or similar programming languages.\" \"Strong experience testing SOA or microservice architectures including non-functional testing (performance, security, load).\" \"Familiarity with test-driven development, the agile test pyramid, and modern QA best practices.\" \"Practical experience using CI/CD tools like GitLab, Jenkins, and automation pipelines.\" Cumple excelentemente con el perfil de \"Automation Engineer\" con experiencia en automatización web/API, uso de Playwright/Selenium, lenguajes de programación y herramientas CI/CD. La descripción como \"Mid-level\" puede ser interpretada como senior dado los 4+ años de experiencia requeridos. El rango salarial aproximado para este rol remoto en Latinoamérica, con clientes de USA, podría estar entre S/ 5,000 - S/ 9,000 mensuales (considerando la conversión de USD a PEN)."
+    "id": "https://www.linkedin.com/jobs/view/4373907001",
+    "title": "Senior Full-Stack / AI Engineer",
+    "employer": "Katapult Labs",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4373907001",
+    "reason": "Esta oferta se destaca por su fuerte enfoque en automatización de pruebas ('implementing QA processes', 'Implement regression testing, QA automation, and edge case coverage'), el uso de AWS, Node.js y TypeScript, que son parte del tech stack preferido. Aunque es un rol 'Full-Stack', la mención explícita de QA y automatización, junto con el requisito de experiencia en entornos de startup y el enfoque en la calidad y fiabilidad de la plataforma, lo hace relevante. Se prioriza por la fuerte mención a QA automation y las tecnologías de backend. El rango salarial aproximado para un Senior Full-Stack / AI Engineer con 5+ años de experiencia, trabajando remotamente desde LATAM para una empresa en USA, podría variar significativamente, pero estimations en el rango de USD $4,000 - $7,000 mensuales (aproximadamente S/ 15,000 - S/ 26,000) son razonables."
   }
 ]
