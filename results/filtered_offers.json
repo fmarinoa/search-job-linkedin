@@ -1,37 +1,107 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4372601277",
+    "id": "https://www.linkedin.com/jobs/view/4261902308",
+    "title": "QA tester QE pleno",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4261902308",
+    "reason": "Esta oferta encaja con el perfil de \"QA Automation Engineer\" o \"Test Automation Engineer\" con más de 3 años de experiencia. Menciona explícitamente \"responsable de automatizar casos de prueba garantizando la adopción de pruebas automatizadas en todos los proyectos\" y experiencia con \"Selenium, Apium, Cucumber, etc\". Además, se alinea con el dominio \"QA Automation\" y el marco de trabajo ágil. Se valora positivamente el conocimiento en Python y Java, así como el uso de herramientas de CI/CD como Jenkins. El puesto de \"QE pleno\" sugiere un nivel senior. Rango salarial aproximado: S/ 7,000 - S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4205304186",
     "title": "QA Automatizador",
-    "employer": "SOAINT",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4372601277",
-    "reason": "Esta oferta encaja con el perfil debido a que busca un 'QA Automatizador' con experiencia en automatización de pruebas web (Selenium, Playwright), APIs y conocimientos en CI/CD (Jenkins). Las responsabilidades incluyen el diseño y ejecución de pruebas automatizadas en cada iteración, promoción de la integración continua y apoyo en la detección temprana de defectos. El perfil de experiencia mínima de 2 años como QA es aceptable, aunque el perfil busca 3+ años. La empresa SOAINT es relevante en el sector TI. Se estima un rango salarial aproximado de S/ 4,000 - S/ 7,000 soles mensuales para este tipo de rol en Lima."
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4205304186",
+    "reason": "Esta oferta es ideal para un \"QA Automation Engineer\" o \"Test Automation Engineer\" con experiencia en herramientas de automatización como Selenium, Playwright, y conocimientos en lenguajes como Java y Python. Cumple con el requisito de \"desarrollo ágil\" y el dominio \"QA Automation\". Se valoran las habilidades en BDD, ATDD y CI/CD (Jenkins). El puesto de \"QA Automatizador\" es coherente con las preferencias del perfil. Rango salarial aproximado: S/ 6,000 - S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4375047361",
-    "title": "QA Bantotal Senior",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4375047361",
-    "reason": "Esta oferta es altamente relevante ya que busca un 'QA Bantotal Senior' con experiencia mínima de 5 años en QA, y al menos 3 años en pruebas de performance y liderazgo técnico. Se mencionan explícitamente JMeter y/o k6, lo cual se alinea con las tecnologías de testing de performance y automatización. El dominio del sector banca o financiero es un plus importante, alineándose con los dominios preferidos. Las responsabilidades incluyen definir y liderar la estrategia de pruebas de performance, diseñar y ejecutar pruebas de carga, estrés, volumen, e integrar pruebas en pipelines CI/CD. Dada la experiencia requerida (5+ años) y el sector, se estima un rango salarial aproximado de S/ 6,000 - S/ 9,000 soles mensuales para este puesto senior en Lima."
+    "id": "https://www.linkedin.com/jobs/view/4237974439",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4237974439",
+    "reason": "Esta oferta se alinea perfectamente con un \"QA Automation Engineer\" o \"Test Automation Engineer\". Requiere experiencia en herramientas de automatización como Selenium, Playwright, y conocimientos en Java y Python, lo cual coincide con el perfil. El enfoque en BDD, ATDD y CI/CD (Jenkins) son requisitos clave. El dominio \"QA Automation\" y el marco ágil son explícitamente mencionados. Rango salarial aproximado: S/ 6,000 - S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4372644234",
-    "title": "Líder QA Senior (técnico)",
+    "id": "https://www.linkedin.com/jobs/view/4255616431",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4255616431",
+    "reason": "Esta oferta se ajusta al perfil de \"QA Automation Engineer\" y \"Test Automation Engineer\". Se buscan conocimientos en herramientas de automatización como Selenium, Playwright, y lenguajes como Java y Python. El enfoque en BDD, ATDD y CI/CD (Jenkins) son puntos fuertes. El dominio \"QA Automation\" y el marco ágil son parte integral de la descripción. Rango salarial aproximado: S/ 6,000 - S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4264298806",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4264298806",
+    "reason": "Esta oferta es para un \"QA Automation Engineer\" o \"Test Automation Engineer\". Se requieren herramientas de automatización como Selenium, Playwright, y conocimientos en lenguajes como Java y Python. La mención de BDD, ATDD y CI/CD (Jenkins) son indicativos de un rol de automatización. El dominio \"QA Automation\" y el marco ágil son aspectos importantes. Rango salarial aproximado: S/ 6,000 - S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4341256392",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4341256392",
+    "reason": "Esta oferta se alinea directamente con un \"QA Automation Engineer\" y \"Test Automation Engineer\". Se buscan herramientas de automatización como Selenium, Playwright, y conocimientos en lenguajes como Java, Python, y específicamente Javascript/Typescript, lo cual coincide con el perfil. Se valoran las habilidades en BDD, ATDD y CI/CD (Jenkins). El dominio \"QA Automation\" y el marco ágil son aspectos clave. Rango salarial aproximado: S/ 6,500 - S/ 9,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4145429990",
+    "title": "QA Funcional",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4145429990",
+    "reason": "Aunque el título es \"QA Funcional\", la descripción menciona explícitamente \"Elaborar y ejecutar pruebas de API\", \"Manejo de herramientas de integración continua como Git y Azure DevOps\", \"Experiencia con pruebas de API\", \"Manejo de conceptos de APIs, herramienta Postman\" y \"Experiencia en trabajo con equipos agiles\". Esto sugiere un rol que puede evolucionar o incluir automatización, especialmente en APIs. Si bien no es un rol de automatización pura desde el título, las responsabilidades mencionadas podrían encajar con un \"Automation Engineer\" con enfoque en APIs. El dominio \"Banca\" es un plus. Rango salarial aproximado: S/ 5,500 - S/ 8,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4264222881",
+    "title": "QA Tester Junior Banca - Commodity",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4264222881",
+    "reason": "Aunque el título dice \"Junior\", la descripción menciona \"Uso de frameworks para la automatización de las pruebas\" y \"Conocimiento básico en herramientas de automatización por plataforma\". Además, se enfoca en el dominio \"Banca\" y se valoran conocimientos en \"Testing Continuo\" y \"herramientas de integración continua (Jenkins)\". Si bien el nivel \"Junior\" contradice el perfil, las menciones de automatización y el dominio bancario lo hacen un candidato a considerar si la experiencia requerida se ajusta más a un nivel \"pleno\" o si se considera la posibilidad de un rol de aprendizaje en automatización dentro de un sector clave. Rango salarial aproximado (para un rol que involucre automatización en Banca): S/ 5,000 - S/ 7,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4373125671",
+    "title": "Ingeniero de Pruebas (QA)",
+    "employer": "Industrias San Miguel",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4373125671",
+    "reason": "Esta oferta se alinea con el perfil de \"QA Automation Engineer\" o \"Test Automation Engineer\". Se buscan \"Experiencia mínima de 2 años en pruebas manuales y automatizadas de software\", \"Manejo de herramientas de automatización como Selenium, JMeter y/o Postman\" y \"Conocimientos avanzados en programación web y backend\". Se mencionan metodologías Agile y el deseo de \"integración de sistemas de pruebas con plataformas como SAP R/3, Office 365 y Azure\", lo cual puede implicar automatización. Aunque no menciona el dominio \"Banca/Finanzas\", \"QA Automation\" es un dominio principal. Rango salarial aproximado: S/ 6,000 - S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4373166296",
+    "title": "QA Lead Senior (técnico)",
     "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4372644234",
-    "reason": "Esta oferta es muy relevante ya que busca un 'Líder QA Senior' con experiencia en QA Funcional y Automatizador, conocimientos en arquitecturas cloud (Azure, AWS) y automatización de pruebas con Playwright/Cypress, Karate/REST Assured, Postman/Newman. El perfil solicita +6 años de experiencia en QA en entornos financieros o críticos, lo cual encaja perfectamente con el perfil. Las responsabilidades incluyen liderar equipos y asegurar la calidad en entornos de misión crítica. Dado el nivel de seniority y el sector, se estima un rango salarial aproximado de S/ 7,000 - S/ 10,000 soles mensuales para este puesto en Lima."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4373166296",
+    "reason": "Esta oferta se alinea con el perfil de \"QA Senior\" y \"Automation Engineer\" por el título \"Lead Senior (técnico)\". Si bien no detalla la tecnología específica, el rol de liderazgo técnico en QA suele implicar un fuerte componente de automatización. Al ser un puesto senior, se asume experiencia en \"automatización de pruebas web, mobile y APIs y desarrollo ágil\". La empresa Synopsis S.A. no es de las más importantes en el sector financiero local, pero el rol en sí se ajusta al perfil. Rango salarial aproximado: S/ 8,000 - S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4374795886",
+    "id": "https://www.linkedin.com/jobs/view/4375184591",
     "title": "QA Automatizador",
     "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4374795886",
-    "reason": "Esta oferta se alinea fuertemente con el perfil, buscando un 'QA Automatizador' con experiencia indispensable en el sector bancario. Solicita 5+ años de experiencia en automatización (Web, Servicios y Mainframe/Host), dominio de Java, y experiencia sólida con Serenity BDD + Screenplay. También incluye experiencia en pruebas de performance, automatización web con Selenium/Serenity, automatización de APIs REST/SOAP, y automatización en pantalla negra (TN3270/Telnet). La mención de GIT, Jira + Xray y Copilot también es relevante. Las responsabilidades clave son la automatización de pruebas en diversas capas. Se estima un rango salarial aproximado de S/ 5,500 - S/ 8,500 soles mensuales para este puesto senior en Lima, considerando la experiencia requerida y el sector bancario."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4375184591",
+    "reason": "Esta oferta se ajusta al perfil de \"QA Automation Engineer\" y \"Test Automation Engineer\". Al ser un rol de \"QA Automatizador\", se infiere experiencia en \"automatización de pruebas web, mobile y APIs\". Tata Consultancy Services es una empresa importante en el sector tecnológico. Aunque no se especifica el dominio, este rol suele ser transversal y la empresa tiene presencia en diversos sectores. Se asume experiencia en desarrollo ágil. Rango salarial aproximado: S/ 6,500 - S/ 9,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4374498020",
-    "title": "QA Automatizador Senior",
+    "id": "https://www.linkedin.com/jobs/view/4268661692",
+    "title": "Functional QA Semi Senior",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4268661692",
+    "reason": "La oferta \"Functional QA Semi Senior\" en Inetum coincide con el perfil por su enfoque en QA y nivel semi senior, lo que implica experiencia relevante en automatización. Aunque no especifica la tech stack, Inetum es una empresa tecnológica importante en la región. Se prioriza por su rol de QA y nivel. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales para un rol semi senior en Lima, Perú."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4375181796",
+    "title": "QA Automatizador",
     "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4374498020",
-    "reason": "Esta oferta es altamente relevante al buscar un 'QA Automatizador Senior'. Aunque la descripción está vacía, el título y el empleador (Tata Consultancy Services, una empresa importante en el sector TI) sugieren un rol enfocado en automatización de pruebas con un nivel de experiencia senior. Dada la información disponible y el perfil solicitado, se asume que cubrirá aspectos de automatización web, API y posiblemente otros dominios técnicos. Se estima un rango salarial aproximado de S/ 6,000 - S/ 9,000 soles mensuales para este puesto senior en Lima."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4375181796",
+    "reason": "Esta oferta de \"QA Automatizador\" en Tata Consultancy Services (TCS) se alinea directamente con el perfil por el rol de automatización. TCS es una multinacional tecnológica con presencia en la región. Se prioriza por el rol explícito de automatizador. Se estima un rango salarial aproximado de S/ 4,500 - S/ 7,500 mensuales para un rol de QA Automatizador en Lima, Perú."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4375028159",
+    "title": "QA Automatizador Senior",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4375028159",
+    "reason": "La oferta \"QA Automatizador Senior\" en IDM Technology es una prioridad alta debido a que especifica \"Senior\" y \"Automatizador\", lo cual encaja perfectamente con la experiencia requerida y las preferencias del perfil. IDM Technology puede ser una empresa relevante en el sector tecnológico peruano. Se prioriza por su nivel senior y rol de automatizador. Se estima un rango salarial aproximado de S/ 7,000 - S/ 10,000 mensuales para un rol senior en Lima, Perú."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4341582944",
+    "title": "QA Automatizador - Nov 25 II - Med",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4341582944",
+    "reason": "Esta oferta \"QA Automatizador\" de Inetum, aunque no especifica \"Senior\", se ajusta al perfil por el rol de \"Automatizador\". Inetum es una empresa tecnológica con operaciones en la región. Se prioriza por su rol de automatizador. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales para un rol de automatizador en Lima, Perú."
   }
 ]
