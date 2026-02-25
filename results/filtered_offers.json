@@ -1,37 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4376818885",
-    "title": "QA Funcional Senior",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4376818885",
-    "reason": "Esta oferta se ajusta al perfil por el rol de 'QA Funcional Senior', la experiencia requerida de 'al menos 3 años en el sector banca o financiero', y la mención explícita de 'pruebas funcionales (manuales y automatizadas)' y 'metodologías ágiles (Scrum)'. Si bien el enfoque es funcional, se mencionan pruebas automatizadas. El rango salarial aproximado para un puesto Senior en Lima, Perú, en una empresa de tecnología especializada en TI, podría estar entre S/ 6,000 y S/ 9,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4328872366",
+    "title": "QA",
+    "employer": "Banco Falabella Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4328872366",
+    "reason": "Esta oferta encaja con el perfil debido a que se busca un profesional con 3 o más años de experiencia en pruebas de certificación, incluyendo conocimientos de automatización de pruebas y experiencia en ejecución de servicios (SOAP, APIs). Las responsabilidades incluyen estimar, planificar y ejecutar pruebas, generar informes y proponer acciones para automatizar pruebas. Aunque no se especifica rango salarial, para un puesto de QA con 3+ años de experiencia en Lima, Perú, en una empresa del sector bancario como Banco Falabella, se podría esperar un rango salarial aproximado entre S/ 5,000 y S/ 8,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4376803393",
-    "title": "QA Automatizador Senior",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4376803393",
-    "reason": "Esta oferta es altamente relevante al ser un 'QA Automatizador Senior' con experiencia sólida en 'banca/fintech', alineándose perfectamente con los dominios y preferencias del perfil. Se mencionan responsabilidades como 'liderar la estrategia integral de QA', 'definición de test strategy y estándares de calidad', 'Automatización avanzada (APIs, Karate, Postman)' y 'Pruebas de performance y stress testing'. El rango salarial aproximado para un rol Senior con estas características en Lima, Perú, en el sector fintech, podría oscilar entre S/ 7,000 y S/ 10,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4376424667",
+    "title": "QA Automatizador",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4376424667",
+    "reason": "La oferta es para un QA Automation Engineer, lo que se alinea directamente con las preferencias del perfil. Se solicita experiencia en Automation con tecnologías como Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium, y experiencia en Testing Continuo con Jenkins, lo cual coincide con la tech stack preferida. Las responsabilidades implican aplicar metodologías de automatización. No se indica rango salarial, pero para un puesto de QA Automation Engineer en Lima, Perú, con la experiencia requerida (mínimo 1 año, pero el perfil busca 3+ años, lo que podría implicar un nivel senior), el rango salarial aproximado podría estar entre S/ 4,500 y S/ 7,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4374233621",
-    "title": "QA Automatizador Senior",
-    "employer": "METRICA USA",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4374233621",
-    "reason": "Si bien la descripción está vacía, el título 'QA Automatizador Senior' es una correspondencia directa con el perfil buscado, especialmente si se considera la experiencia en automatización y roles senior. El rango salarial aproximado para un puesto Senior en Lima, Perú, en una empresa de tecnología, podría estar entre S/ 6,000 y S/ 9,000 mensuales brutos."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4376575589",
-    "title": "Semi Senior QA Engineer",
+    "id": "https://www.linkedin.com/jobs/view/4374821205",
+    "title": "Ingeniero de aseguramiento de la calidad (Playwright)",
     "employer": "Monnet Payments",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4376575589",
-    "reason": "Esta oferta se alinea bien con el perfil debido a la mención de 'Semi Senior QA Engineer', 'Más de 3 años de experiencia en automatización de pruebas', 'Al menos 1 año utilizando Playwright + TypeScript' y 'Más de 1 año de experiencia en la industria fintech y/o bancaria'. Las responsabilidades incluyen 'Diseñar y ejecutar casos de prueba de complejidad media', 'Colaborar en la optimización de procesos' y 'Dar soporte, capacitar y empoderar a los QAs trainee y junior'. El rango salarial aproximado para un rol Semi Senior en una Fintech en Lima, Perú, podría estar entre S/ 5,000 y S/ 7,500 mensuales brutos."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4374821205",
+    "reason": "Esta oferta es para un Ingeniero de aseguramiento de la calidad (QA) con enfoque en Playwright, una herramienta de automatización que se alinea con el perfil. Aunque la descripción está vacía, el título sugiere un rol de automatización. La mención de 'Pagos' en el empleador podría indicar un dominio relacionado con Finanzas/Fintech. El rango salarial aproximado para un rol de QA Engineer con experiencia en automatización (especialmente con herramientas modernas como Playwright) en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4376819033",
-    "title": "Ingeniero Senior de Automatización de Aseguramiento de Calidad",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4376819033",
-    "reason": "Esta oferta es una correspondencia directa con el perfil, siendo un 'Ingeniero Senior de Automatización de Aseguramiento de Calidad' con 'Experiencia en la posición mínima de 5 años' y 'Experiencia mínima de 3 años automatizando web y/o Mobile'. Se especifica el uso de 'Playwright o similares (indispensable)' y 'JMeter', lo cual encaja con la tech stack. El rango salarial aproximado para un rol Senior de automatización con estas características en Lima, Perú, podría estar entre S/ 6,500 y S/ 9,500 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4377428512",
+    "title": "QA Backend",
+    "employer": "Valtx Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4377428512",
+    "reason": "Este puesto de 'QA Backend' se alinea con las preferencias del perfil ('Backend con enfoque en testing'). Aunque la descripción está vacía, la posición de QA Backend sugiere un enfoque en la automatización y pruebas de APIs/servicios, que son áreas de interés para el perfil. Dada la ubicación y el tipo de rol, el rango salarial aproximado para un QA Backend con experiencia en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
   }
 ]
