@@ -1,66 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4378270749",
-    "title": "Quality Manager",
-    "employer": "AECOM",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4378270749",
-    "reason": "La oferta busca un 'Quality Manager' con experiencia en aseguramiento de calidad para proyectos de infraestructura, lo cual se alinea con la preferencia por roles senior en QA y un enfoque en calidad. Aunque no se menciona explícitamente automatización, la gestión del Quality Management System (QMS) y la supervisión de procesos de monitoreo y evaluación implican un alto nivel de control y mejora continua, aspectos clave para un perfil experimentado. La descripción menciona experiencia en 'Quality Assurance leadership role' y conocimiento de sistemas de gestión de calidad, lo que sugiere un rol estratégico que puede involucrar la supervisión de áreas de testing. Se espera un rango salarial aproximado entre S/ 8,000 y S/ 14,000 mensuales, considerando la senioridad del puesto, la ubicación en Lima, Perú y el tipo de empresa (consultoría global de infraestructura).",
-    "salary_approximation": "S/ 8,000 - S/ 14,000"
+    "id": "https://www.linkedin.com/jobs/view/4380379011",
+    "title": "TRANSFORMATION SPECIALIST",
+    "employer": "Banco de Crédito BCP",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4380379011",
+    "reason": "Esta oferta encaja con el perfil debido a que busca un \"TRANSFORMATION SPECIALIST\" con 3 a 5 años de experiencia en ingeniería de software, DevOps, QA, arquitectura o modernización del SDLC, y experiencia ejecutando revisiones técnicas o arquitectónicas. Aunque no menciona directamente roles de SDET o QA Automation Engineer, las responsabilidades de \"Liderar revisiones técnicas por hitos, verificando cumplimiento de gates, evaluando riesgos técnicos, emitiendo recomendaciones y decisiones go/no‑go\" y \"Diseñar, construir, experimentar y documentar spikes y PoCs para validar herramientas, nuevas prácticas, automatizaciones\" se alinean con un enfoque de automatización y mejora de la calidad del software. Además, el dominio \"Banca\" es un plus. El rango salarial aproximado para un puesto de esta naturaleza en Lima, Perú, con 3-5 años de experiencia en una empresa como el BCP, podría estar entre S/ 6,000 y S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4379983993",
-    "title": "Quality Assurance Automation Engineer",
-    "employer": "Belcorp",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4379983993",
-    "reason": "Esta oferta encaja perfectamente con el perfil buscado. El título 'Quality Assurance Automation Engineer' y las responsabilidades de 'Automatizar pruebas web, mobile y APIs' y 'Automatizar pruebas web, mobile y APIs' son directas. La experiencia requerida de '3+ años como QA Engineer' y el dominio de 'Playwright, Selenium y Appium' son tecnologías clave mencionadas en el perfil. Belcorp es una empresa importante en la región (LatAm), operando en el sector de consumo, lo que podría relacionarse con Finanzas/Fintech en términos de transacciones y datos. Se estima un rango salarial aproximado entre S/ 6,000 y S/ 10,000 mensuales para un rol de QA Automation Engineer con 3+ años de experiencia en una empresa como Belcorp en Lima, Perú.",
-    "salary_approximation": "S/ 6,000 - S/ 10,000"
+    "id": "https://www.linkedin.com/jobs/view/4380705872",
+    "title": "Analista QA automatizador con enfoque en datos",
+    "employer": "Valtx Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4380705872",
+    "reason": "Esta oferta se ajusta al perfil, ya que busca un \"Analista QA automatizador con enfoque en datos\" con 5+ años de experiencia en pruebas de automatización con enfoque a datos. Las funciones incluyen liderar la administración y gobernanza de Jira/Xray, automatizar procesos en Jira, diseñar arquitectura de datos end-to-end, implementar ETL y construir dashboards en Power BI. Si bien el perfil principal es SDET, la experiencia en automatización y el enfoque en QA son directamente relevantes. El dominio \"QA Automation\" es explícito. El rango salarial aproximado para este puesto en Lima, Perú, con 5 años de experiencia en una empresa como Valtx, podría oscilar entre S/ 5,500 y S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4377797739",
-    "title": "Analista QA",
-    "employer": "wirbi®",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4377797739",
-    "reason": "La oferta 'Analista QA' es una buena opción ya que busca explícitamente 'automatización de pruebas' con una experiencia mínima de 'al menos 1 año en automatización de pruebas', complementando la experiencia en QA funcional. Las responsabilidades incluyen 'Colaborar en la automatización de pruebas utilizando herramientas como Selenium, Cucumber (BDD), RestAssured o Karate', que coinciden con el perfil técnico. El objetivo del puesto es 'Garantizar la calidad funcional, técnica y operativa de aplicaciones web, móviles y servicios, mediante la planificación y ejecución de pruebas manuales y automatizadas', alineándose con el perfil. wirbi® opera en el sector de tecnología, lo que puede ser relevante. Se estima un rango salarial aproximado entre S/ 5,000 y S/ 8,000 mensuales para un Analista QA con experiencia en automatización en Lima, Perú.",
-    "salary_approximation": "S/ 5,000 - S/ 8,000"
+    "id": "https://www.linkedin.com/jobs/view/4380566812",
+    "title": "QA automatizador Sr. / Canales asistidos",
+    "employer": "Valtx Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4380566812",
+    "reason": "Esta oferta se alinea perfectamente con el perfil, buscando un \"QA automatizador Sr.\" con 5+ años de experiencia en QA Automation y participación en proyectos de interacción física asistida. Las responsabilidades incluyen realizar pruebas automatizadas, generar planes y casos de pruebas, identificar y reportar defectos, y asegurar el cumplimiento de estándares. La experiencia en automatización con herramientas como Selenium, Appium, conocimiento de Python/TypeScript y metodologías ágiles son requisitos clave que coinciden con el perfil. El dominio \"QA Automation\" es explícito. El rango salarial aproximado para este puesto en Lima, Perú, con 5 años de experiencia en una empresa como Valtx, podría oscilar entre S/ 6,000 y S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4379972851",
-    "title": "IT Quality Engineer",
+    "id": "https://www.linkedin.com/jobs/view/4380543119",
+    "title": "Senior IT Quality Engineer",
     "employer": "TRANZACT",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4379972851",
-    "reason": "Esta oferta es muy relevante. El título 'IT Quality Engineer' junto con la descripción que menciona 'expertise in functional testing, test automation, and artificial intelligence' y 'proven experience designing, building, and executing automated test cases' se ajusta fuertemente al perfil. Las responsabilidades incluyen 'Handle all aspects of developing, executing, and maintaining both manual and automated test cases' y 'Develop test scripts using automation tools, verifying the usability, functionality, performance, and scalability of our applications'. La mención de 'Selenium, Robot Framework, or Python' para la automatización y el trabajo con 'AI-integrated applications' son puntos fuertes. TRANZACT opera en el sector de seguros, que está relacionado con finanzas. Se estima un rango salarial aproximado entre S/ 5,500 y S/ 9,000 mensuales para un IT Quality Engineer con estas responsabilidades en Lima, Perú.",
-    "salary_approximation": "S/ 5,500 - S/ 9,000"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4378370005",
-    "title": "QA Automation Engineer",
-    "employer": "Credicorp",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4378370005",
-    "reason": "Esta oferta es una prioridad alta ya que Credicorp es una institución financiera líder en la región. El título 'QA Automation Engineer' y la descripción que busca asegurar la calidad de las soluciones tecnológicas, así como la automatización de pruebas web, mobile y APIs, se alinean perfectamente con el perfil. La experiencia solicitada de '3+ años como QA Engineer' y el dominio de 'Playwright, Selenium y Appium' son requisitos clave del perfil. El dominio de tecnologías como Node.js, TypeScript, Python, Java, .NET, AWS y Jenkins se alinean con el tech stack deseado. El sector 'Banca' y 'Finanzas' es una preferencia explícita. Se estima un rango salarial aproximado entre S/ 7,000 y S/ 12,000 mensuales para un rol de QA Automation Engineer en una institución como Credicorp en Lima, Perú, dada su magnitud y el sector. El 'backend con enfoque en testing' también es una preferencia alineada.",
-    "salary_approximation": "S/ 7,000 - S/ 12,000"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4377795805",
-    "title": "QA Medios de Pagos Senior",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4377795805",
-    "reason": "La oferta 'QA Medios de Pagos Senior' encaja bien, especialmente por el término 'Senior' que se alinea con la preferencia 'QA Senior'. El dominio de 'medios de pagos' sugiere una conexión con los sectores de 'Banca', 'Finanzas' o 'Fintech'. Aunque la descripción específica de responsabilidades y el tech stack no están disponibles, un rol senior en QA dentro de este dominio probablemente implicará automatización de pruebas para transacciones y sistemas financieros, lo cual es altamente relevante. Se estima un rango salarial aproximado entre S/ 6,500 y S/ 10,000 mensuales, considerando la senioridad, el dominio especializado y la ubicación en Lima, Perú.",
-    "salary_approximation": "S/ 6,500 - S/ 10,000"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4379946257",
-    "title": "QA Automatizador Semi Senior",
-    "employer": "EVOL (TSnet)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4379946257",
-    "reason": "Esta oferta es muy relevante ya que busca explícitamente un 'QA Automatizador Semi Senior'. La descripción, aunque ausente, implica un enfoque en automatización, lo cual es central en el perfil. El término 'Semi Senior' indica un nivel de experiencia que encaja con los '3+ años en automatización'. EVOL (TSnet) es una empresa de tecnología, y el rol de automatización es crucial en el desarrollo ágil. Se estima un rango salarial aproximado entre S/ 5,000 y S/ 8,000 mensuales para un QA Automatizador Semi Senior en Lima, Perú.",
-    "salary_approximation": "S/ 5,000 - S/ 8,000"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4378469920",
-    "title": "QA Funcional Semi Senior",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4378469920",
-    "reason": "La oferta 'QA Funcional Semi Senior' es relevante por el nivel 'Semi Senior' y la experiencia en 'pruebas funcionales'. Aunque no menciona explícitamente automatización en el título, en NTT DATA, una gran consultora TI, es probable que se integren prácticas de automatización en roles funcionales, especialmente para proyectos de gran envergadura. La mención de certificación ISTQB es un plus. La falta de mención explícita de automatización en el título y descripción limita su prioridad, pero la empresa y nivel son importantes. Se estima un rango salarial aproximado entre S/ 4,500 y S/ 7,000 mensuales para un QA Funcional Semi Senior en una consultora como NTT DATA en Lima, Perú.",
-    "salary_approximation": "S/ 4,500 - S/ 7,000"
+    "linkOffer": "https://www.linkedin.com/jobs/view/4380543119",
+    "reason": "Esta oferta se ajusta al perfil, buscando un \"Senior IT Quality Engineer\" con fuerte experiencia en plataformas de datos y arquitecturas cloud, y 4+ años en QA / Quality Engineering con exposición a datos. Las responsabilidades incluyen diseñar y ejecutar estrategias de prueba para pipelines de datos, validar Databricks, probar integraciones API y servicios orientados a eventos. Esto es muy relevante para roles de automatización con un enfoque backend y en la calidad de sistemas complejos. La experiencia en testing de Databricks, Airflow y AWS servicios son un buen match con el stack tecnológico. El dominio \"QA Automation\" es implícito en las responsabilidades. El rango salarial aproximado para un puesto de Senior IT Quality Engineer en Lima, Perú, con 4+ años de experiencia en una empresa internacional como TRANZACT, podría estar entre S/ 7,000 y S/ 12,000 mensuales."
   }
 ]
