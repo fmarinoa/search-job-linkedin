@@ -1,30 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4380379011",
-    "title": "TRANSFORMATION SPECIALIST",
-    "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4380379011",
-    "reason": "Esta oferta encaja con el perfil debido a que busca un \"TRANSFORMATION SPECIALIST\" con 3 a 5 años de experiencia en ingeniería de software, DevOps, QA, arquitectura o modernización del SDLC, y experiencia ejecutando revisiones técnicas o arquitectónicas. Aunque no menciona directamente roles de SDET o QA Automation Engineer, las responsabilidades de \"Liderar revisiones técnicas por hitos, verificando cumplimiento de gates, evaluando riesgos técnicos, emitiendo recomendaciones y decisiones go/no‑go\" y \"Diseñar, construir, experimentar y documentar spikes y PoCs para validar herramientas, nuevas prácticas, automatizaciones\" se alinean con un enfoque de automatización y mejora de la calidad del software. Además, el dominio \"Banca\" es un plus. El rango salarial aproximado para un puesto de esta naturaleza en Lima, Perú, con 3-5 años de experiencia en una empresa como el BCP, podría estar entre S/ 6,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4380516373",
+    "title": "QA Medio de Pagos Senior [Banca]",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4380516373",
+    "reason": "Esta oferta es altamente relevante ya que se enfoca en \"QA Senior\" y \"Banca\", dominios y preferencias del perfil. La posición Senior en QA con enfoque en \"Medio de Pagos\" dentro del sector bancario sugiere un rol con responsabilidades de automatización y aseguramiento de calidad en un dominio crítico. Se asume que las responsabilidades incluyen la automatización de pruebas para medios de pago, asegurando la calidad de transacciones y procesos financieros. El rango salarial aproximado para un puesto Senior en Lima, Perú, en el sector financiero/tecnológico, podría estar entre S/ 6,000 y S/ 10,000 mensuales, dependiendo de la experiencia específica y el alcance de las responsabilidades."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4380705872",
-    "title": "Analista QA automatizador con enfoque en datos",
-    "employer": "Valtx Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4380705872",
-    "reason": "Esta oferta se ajusta al perfil, ya que busca un \"Analista QA automatizador con enfoque en datos\" con 5+ años de experiencia en pruebas de automatización con enfoque a datos. Las funciones incluyen liderar la administración y gobernanza de Jira/Xray, automatizar procesos en Jira, diseñar arquitectura de datos end-to-end, implementar ETL y construir dashboards en Power BI. Si bien el perfil principal es SDET, la experiencia en automatización y el enfoque en QA son directamente relevantes. El dominio \"QA Automation\" es explícito. El rango salarial aproximado para este puesto en Lima, Perú, con 5 años de experiencia en una empresa como Valtx, podría oscilar entre S/ 5,500 y S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4380941750",
+    "title": "Analista QA Funcional Semi Senior",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4380941750",
+    "reason": "Aunque el título indica \"Funcional\", la descripción menciona \"pruebas sobre APIs (Postman u otras herramientas similares)\", lo cual se alinea con el perfil de automatización. El nivel \"Semi Senior\" y la mención de \"metodologías ágiles\" también son positivos. Se prioriza porque, a pesar de no ser explícitamente un rol de SDET, la experiencia en APIs y el enfoque en automatización son un punto de conexión. Las responsabilidades incluyen diseñar y ejecutar casos de prueba funcionales y de integración, pruebas de regresión, validación de requerimientos, y pruebas sobre servicios y APIs. El rango salarial aproximado para un Analista QA Funcional Semi Senior en Lima, Perú, podría estar entre S/ 4,000 y S/ 7,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4380566812",
-    "title": "QA automatizador Sr. / Canales asistidos",
-    "employer": "Valtx Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4380566812",
-    "reason": "Esta oferta se alinea perfectamente con el perfil, buscando un \"QA automatizador Sr.\" con 5+ años de experiencia en QA Automation y participación en proyectos de interacción física asistida. Las responsabilidades incluyen realizar pruebas automatizadas, generar planes y casos de pruebas, identificar y reportar defectos, y asegurar el cumplimiento de estándares. La experiencia en automatización con herramientas como Selenium, Appium, conocimiento de Python/TypeScript y metodologías ágiles son requisitos clave que coinciden con el perfil. El dominio \"QA Automation\" es explícito. El rango salarial aproximado para este puesto en Lima, Perú, con 5 años de experiencia en una empresa como Valtx, podría oscilar entre S/ 6,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4381121864",
+    "title": "Technical Author - AI for QA (part-time)",
+    "employer": "TripleTen",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4381121864",
+    "reason": "Esta oferta es interesante por su enfoque en \"AI for QA\", que se alinea con el componente de desarrollo y herramientas de automatización. Si bien el rol es de \"Technical Author\", los requisitos incluyen \"Professional experience in QA engineering, 5+ years\" y \"Hands-on experience with AI-assisted QA engineering tools\", lo que sugiere un profundo conocimiento de la automatización de pruebas. Las responsabilidades implican crear contenido educativo sobre herramientas de IA para QA. El rango salarial ofrecido es de $40-$85 USD por hora, lo que para 10-15 horas semanales resultaría en un ingreso considerable, además de ser un rol que potencia el perfil de automatización y desarrollo. Se incluye como una oportunidad de desarrollo en un área emergente."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4380543119",
-    "title": "Senior IT Quality Engineer",
-    "employer": "TRANZACT",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4380543119",
-    "reason": "Esta oferta se ajusta al perfil, buscando un \"Senior IT Quality Engineer\" con fuerte experiencia en plataformas de datos y arquitecturas cloud, y 4+ años en QA / Quality Engineering con exposición a datos. Las responsabilidades incluyen diseñar y ejecutar estrategias de prueba para pipelines de datos, validar Databricks, probar integraciones API y servicios orientados a eventos. Esto es muy relevante para roles de automatización con un enfoque backend y en la calidad de sistemas complejos. La experiencia en testing de Databricks, Airflow y AWS servicios son un buen match con el stack tecnológico. El dominio \"QA Automation\" es implícito en las responsabilidades. El rango salarial aproximado para un puesto de Senior IT Quality Engineer en Lima, Perú, con 4+ años de experiencia en una empresa internacional como TRANZACT, podría estar entre S/ 7,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4378987767",
+    "title": "Technical Author - AI for QA (part-time)",
+    "employer": "TripleTen Indonesia",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4378987767",
+    "reason": "Similar a la oferta anterior, este rol de \"Technical Author\" se enfoca en \"AI for QA\", alineándose con el perfil de automatización y desarrollo. Los requisitos de \"Professional experience in QA engineering, 5+ years\" y \"Hands-on experience with AI-assisted QA engineering tools\" son clave. Las responsabilidades giran en torno a la creación de contenido educativo sobre herramientas de IA para QA. El rango salarial es de $40-$85 USD por hora, para un total de 10-15 horas semanales. Se considera por su potencial para aplicar y compartir conocimientos en automatización y herramientas de IA."
   }
 ]
