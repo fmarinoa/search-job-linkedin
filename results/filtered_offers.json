@@ -1,26 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4381113856",
-    "title": "QA Engineer",
-    "employer": "WorkCapIT",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4381113856",
-    "reason": "La oferta de QA Engineer (Semi Senior / Senior) en WorkCapIT encaja perfectamente con el perfil buscado. El rol tiene un fuerte enfoque en aseguramiento de calidad técnico, pruebas funcionales, integración y validación de APIs, lo cual se alinea con la experiencia requerida en automatización de pruebas web, mobile y APIs. Las responsabilidades incluyen la elaboración de planes de prueba, casos de prueba, ejecución de pruebas funcionales sobre frontend y backend, pruebas de integración y pruebas sobre APIs REST. Se mencionan metodologías ágiles y herramientas como Jira. La experiencia requerida es de 3+ años, lo cual cumple con el requisito. Aunque no se especifica el rango salarial, para un puesto Semi Senior/Senior de QA Engineer en Lima, Perú, se estima un rango aproximado de S/ 6,000 a S/ 9,000 mensuales brutos, dependiendo de la experiencia específica y las responsabilidades finales.",
-    "salary_estimate": "S/ 6,000 - S/ 9,000 mensuales brutos"
+    "id": "https://www.linkedin.com/jobs/view/4382187568",
+    "title": "ANALISTA QA AUTOMATIZADOR Semi Senior",
+    "employer": "METRICA Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4382187568",
+    "reason": "Esta oferta se ajusta al perfil por su enfoque directo en QA Automation, experiencia semi-senior solicitada y el uso de tecnologías relevantes como Java, JavaScript, TypeScript, Selenium y Postman. Las responsabilidades incluyen diseño de estrategia de automatización, implementación de pruebas para APIs y microservicios, integración con CI/CD, y análisis de resultados. El dominio de 'procesos bancarios, medios de pagos digitales y/o adquirientes' es un plus. Se valora la experiencia en entornos ágiles. El rango salarial aproximado para un perfil Semi Senior en Lima, Perú, en una multinacional tecnológica como METRICA, con estas responsabilidades y requisitos, estaría entre S/. 6,000 y S/. 9,000 soles mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4381694852",
-    "title": "Analista Sr Cumplimiento Datos",
-    "employer": "Caja Cencosud Scotiabank",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4381694852",
-    "reason": "Esta oferta para Analista Sr Cumplimiento Datos en Caja Cencosud Scotiabank tiene varios puntos de conexión con el perfil, especialmente en el área de automatización de procesos y aseguramiento de calidad de datos. Las responsabilidades clave incluyen 'Desarrollo y automatización de procesos y/o reportes mediante ETL', 'Aseguramiento de calidad de datos (QA) en cumplimiento con la regulación y normas corporativas e internas' y 'Experiencia avanzada en automatización de procesos en (Python, Power automate u otras plataformas), lenguajes de programación (SQL, Java, Python, C++, Javascript)'. El requisito de experiencia mínima de 3 años en análisis de datos y gestión de riesgos, junto con el conocimiento avanzado en SQL, Python y JavaScript, se alinea con la tech stack y la experiencia buscada. El sector financiero (Banca/Finanzas/Fintech) es un dominio de preferencia. El rango salarial estimado para un puesto de Analista Sr en el sector financiero en Lima, Perú, podría variar entre S/ 7,000 y S/ 11,000 mensuales brutos, considerando la experiencia avanzada y el conocimiento en normativas y lenguajes de programación.",
-    "salary_estimate": "S/ 7,000 - S/ 11,000 mensuales brutos"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4329642399",
-    "title": "Full Stack Engineer",
-    "employer": "Paysafe",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4329642399",
-    "reason": "Si bien el título es 'Full Stack Engineer', la descripción de la empresa Paysafe (un proveedor de soluciones de pago que opera en el sector financiero/fintech) y la ubicación en Lima, junto con la experiencia requerida en desarrollo ágil y la posibilidad de que un rol Full Stack tenga componentes de testing, lo hacen un candidato a considerar. A menudo, los ingenieros Full Stack colaboran estrechamente con los equipos de QA y pueden ser responsables de la calidad de su propio código, incluyendo pruebas unitarias y de integración. Dado que no hay ofertas de SDET explícitas con alta prioridad en este batch, un rol con potencial de implicar automatización y desarrollo en un dominio financiero es relevante. El rango salarial para un Full Stack Engineer en Lima, Perú, con 3+ años de experiencia en una empresa como Paysafe, podría estar entre S/ 7,000 y S/ 10,000 mensuales brutos, dependiendo del alcance exacto de las responsabilidades de automatización y backend.",
-    "salary_estimate": "S/ 7,000 - S/ 10,000 mensuales brutos"
+    "id": "https://www.linkedin.com/jobs/view/4382135370",
+    "title": "QA Automation Engineer",
+    "employer": "Confederación de Desarrolladores Inmobiliarios del Perú - CODIP",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4382135370",
+    "reason": "Esta oferta es altamente relevante ya que busca explícitamente un 'QA Automation Engineer' con experiencia en automatización de pruebas web (Playwright, Cypress, Selenium) y APIs (Postman, Karate Testing). Las responsabilidades incluyen diseñar, ejecutar y automatizar pruebas, integrarlas en pipelines CI/CD, y trabajar en un entorno ágil. El dominio de 'productos digitales para el rubro inmobiliario' es un añadido. La oferta incluye un rango salarial de S/. 6,500 soles mensuales, lo cual está alineado con un perfil con más de 3 años de experiencia y el nivel de responsabilidades descrito."
   }
 ]
