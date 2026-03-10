@@ -1,16 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4382187568",
-    "title": "ANALISTA QA AUTOMATIZADOR Semi Senior",
-    "employer": "METRICA Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4382187568",
-    "reason": "Esta oferta se ajusta al perfil por su enfoque directo en QA Automation, experiencia semi-senior solicitada y el uso de tecnologías relevantes como Java, JavaScript, TypeScript, Selenium y Postman. Las responsabilidades incluyen diseño de estrategia de automatización, implementación de pruebas para APIs y microservicios, integración con CI/CD, y análisis de resultados. El dominio de 'procesos bancarios, medios de pagos digitales y/o adquirientes' es un plus. Se valora la experiencia en entornos ágiles. El rango salarial aproximado para un perfil Semi Senior en Lima, Perú, en una multinacional tecnológica como METRICA, con estas responsabilidades y requisitos, estaría entre S/. 6,000 y S/. 9,000 soles mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4383417416",
+    "title": "QA Automation",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4383417416",
+    "reason": "Esta oferta se ajusta al perfil, ya que busca un \"QA Automation\" con más de 3 años de experiencia, lo cual es coherente con el requisito de \"3+ años en automatización de pruebas web, mobile y APIs y desarrollo ágil\". La descripción menciona explícitamente \"Experiencia en Python\", \"Experiencia en API Testing (Postman/SoapUI)\", \"Experiencia en Selenium+Java para frontEnd\", lo cual se alinea con la \"tech_stack\" solicitada. El dominio \"QA Automation\" es un match directo. El rol de \"QA Automation\" coincide con las preferencias. Se valora la experiencia en \"Marco de trabajo Agile\". La oferta es para Lima, Perú. El rango salarial aproximado para este tipo de rol en Lima, Perú, con 3+ años de experiencia, podría estar entre S/ 6,000 y S/ 9,000 soles mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4382135370",
-    "title": "QA Automation Engineer",
-    "employer": "Confederación de Desarrolladores Inmobiliarios del Perú - CODIP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4382135370",
-    "reason": "Esta oferta es altamente relevante ya que busca explícitamente un 'QA Automation Engineer' con experiencia en automatización de pruebas web (Playwright, Cypress, Selenium) y APIs (Postman, Karate Testing). Las responsabilidades incluyen diseñar, ejecutar y automatizar pruebas, integrarlas en pipelines CI/CD, y trabajar en un entorno ágil. El dominio de 'productos digitales para el rubro inmobiliario' es un añadido. La oferta incluye un rango salarial de S/. 6,500 soles mensuales, lo cual está alineado con un perfil con más de 3 años de experiencia y el nivel de responsabilidades descrito."
+    "id": "https://www.linkedin.com/jobs/view/4379972851",
+    "title": "IT Quality Engineer",
+    "employer": "TRANZACT",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4379972851",
+    "reason": "Esta oferta es un excelente match para el perfil. Busca un \"Quality Engineer\" con experiencia en \"functional testing, test automation, and artificial intelligence\", lo cual se alinea con el rol \"SDET\" y la experiencia requerida en automatización. Se menciona \"diseñando, construyendo y ejecutando casos de prueba automatizados\", \"aplicando mejores prácticas y técnicas modernas de automatización\", y \"trabajará con aplicaciones integradas con IA\", lo que coincide con la \"tech_stack\" y \"domains\". Se especifican \"Selenium, Robot Framework, or Python\" para la automatización, \"API testing, integration testing, database testing\", \"Postman, SQL/PostgreSQL, GitHub\", todo dentro de un \"entorno ágil\". La oferta es para Lima Metropolitan Area. El rango salarial aproximado para un \"IT Quality Engineer\" con experiencia en automatización y IA en Lima, Perú, podría estar entre S/ 7,000 y S/ 11,000 soles mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4383413101",
+    "title": "Analista QA Automatizador Senior",
+    "employer": "FRACTAL",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4383413101",
+    "reason": "Esta oferta se ajusta al perfil, ya que busca un \"Analista QA Automatizador Senior\", lo que encaja directamente con las preferencias de \"QA Senior\" y \"Automation Engineer\". El título implica una experiencia considerable en automatización de pruebas. La oferta es para San Isidro, Peru. Aunque la descripción está vacía, el título y la ubicación son suficientes para considerarla un match potencial, asumiendo que cumplirá con los requisitos de experiencia y tecnología. El rango salarial aproximado para un rol \"Senior\" de este tipo en Lima, Perú, podría estar entre S/ 7,500 y S/ 12,000 soles mensuales."
   }
 ]
