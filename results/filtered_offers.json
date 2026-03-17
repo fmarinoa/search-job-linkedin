@@ -1,51 +1,51 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4385361344",
-    "title": "Analista qa",
-    "employer": "Altimea",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4385361344",
-    "reason": "Esta oferta es una fuerte candidata debido a su enfoque explícito en automatización de pruebas web, mobile y APIs, además de la experiencia requerida en metodologías ágiles. Las responsabilidades incluyen el diseño, desarrollo y mantenimiento de suites de pruebas automatizadas, lo cual se alinea perfectamente con el perfil. Aunque no se menciona un rango salarial, para un rol de Analista QA con 3 años de experiencia en Lima, Perú, se esperaría un salario aproximado entre S/ 3500 y S/ 5500 mensuales. El requisito de experiencia con herramientas como Selenium, Playwright y Appium, junto con la experiencia en entornos de CI/CD (Azure DevOps, GitLab CI) y GCP, refuerza la idoneidad."
+    "id": "https://www.linkedin.com/jobs/view/4385265305",
+    "title": "Analista QA",
+    "employer": "Universidad Científica del Sur",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4385265469",
+    "reason": "Esta oferta se ajusta al perfil ya que busca un Analista QA con más de 3 años de experiencia y menciona explícitamente la automatización de pruebas web, móviles y API. Las responsabilidades incluyen el diseño, desarrollo y ejecución de planes de prueba automatizados, implementación de frameworks como Selenium, desarrollo de pruebas de API con Postman/REST Assured, y la integración en pipelines CI/CD. La empresa es una institución educativa, lo que podría implicar un entorno estable. Se estima un rango salarial entre S/4,500 y S/7,000 (aprox. USD 1,200 - USD 1,900) para un rol senior en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4385507481",
-    "title": "QA funcional",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4385507481",
-    "reason": "Esta oferta se alinea con el perfil al buscar un QA Funcional Senior con experiencia en banca digital y sistemas financieros. Aunque el título principal es 'QA funcional', la descripción menciona explícitamente 'Experiencia en automatización avanzada (BDD para reglas contables complejas)' y la necesidad de servir de enlace entre Finanzas y TI, lo cual sugiere un rol con componentes de automatización y un fuerte enfoque en dominios de banca y finanzas. Se busca un profesional con 4+ años de experiencia en QA de sistemas financieros. El rango salarial para un rol Senior en Lima, Perú, en este sector podría oscilar entre S/ 5000 y S/ 8000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4385508618",
-    "title": "QA datos",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4385508618",
-    "reason": "Esta oferta, aunque enfocada en 'QA datos', incluye la responsabilidad de 'Automatización de pruebas' y la experiencia requerida de 3+ años en QA de datos. Dado el perfil que prioriza la automatización y busca roles con enfoque en testing, este puesto podría ser una buena opción si se considera la automatización de pruebas de datos como una extensión válida del perfil. La experiencia en SQL y Databricks son puntos clave. Para un rol de QA Datos en Lima, Perú, se podría estimar un salario entre S/ 4000 y S/ 6000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4383148845",
-    "title": "QA Automatizador",
-    "employer": "Tsoft",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4383148845",
-    "reason": "Esta oferta es una excelente coincidencia, ya que busca explícitamente un 'QA Automation Engineer' con enfoque en aplicaciones web y APIs. Las funciones detalladas incluyen diseñar, desarrollar, mantener y ejecutar pruebas automatizadas, así como diseñar e implementar frameworks de automatización, todo lo cual se alinea perfectamente con el perfil. Se requiere experiencia de 4 años en QA funcional y automatización, y se mencionan herramientas como Selenium WebDriver, Cypress, Appium, Python y JavaScript, además de Git y CI/CD. El rango salarial para este tipo de rol Senior en Lima, Perú, podría estar entre S/ 5000 y S/ 7500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4385577901",
+    "id": "https://www.linkedin.com/jobs/view/4386557481",
     "title": "QA Automatizador",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4385577901",
-    "reason": "Esta oferta se ajusta bien al perfil al buscar un 'QA Automatizador' con experiencia en herramientas como Selenium, Karate DSL, Playwright, y lenguajes como Java y Python. Las responsabilidades incluyen la redacción de pruebas en Gherkin y conocimiento de BDD/ATDD, así como experiencia en CI/CD (Jenkins, Gitlab, Azure DevOps) y herramientas de gestión de pruebas (JIRA). El perfil de entrada requiere conocimientos básicos en estas áreas, lo cual es compatible con un perfil con 3+ años de experiencia. Para un QA Automatizador en Lima, Perú, el rango salarial podría estar entre S/ 4500 y S/ 7000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386557481",
+    "reason": "La oferta es para un QA Automatizador con experiencia en herramientas de automatización como Selenium y Playwright, y conocimiento de lenguajes como Python, lo cual encaja con el perfil. Se mencionan pruebas de microservicios y APIs, así como herramientas de CI/CD y gestión de pruebas (JIRA). El dominio de QA Automation está explícitamente nombrado. Inetum es una consultora global de servicios ágiles. Se estima un rango salarial entre S/4,000 y S/6,500 (aprox. USD 1,100 - USD 1,800) para este rol en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4385553748",
-    "title": "QA Automation Engineer Web",
-    "employer": "Bluetab, an IBM Company (América)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4385553748",
-    "reason": "El título de la oferta 'QA Automation Engineer Web' indica una clara alineación con el perfil buscado, especialmente en lo referente a la automatización de pruebas web. Aunque la descripción detallada no está disponible, el título y la empresa (Bluetab, an IBM Company) sugieren un rol técnico en el área de QA con enfoque en automatización, probablemente requiriendo experiencia en tecnologías de testing y desarrollo ágil. Para un puesto de este tipo en Lima, Perú, se esperaría un rango salarial entre S/ 4500 y S/ 7500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4386570581",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
+    "reason": "Esta oferta de Inetum busca un QA Automatizador con más de 3 años de experiencia, experiencia en Python, API Testing (Postman/SoapUI), backend con RestAssure+Java, y frontend con Selenium+Java. También se menciona experiencia en pipelines de datos y marcos Agile. El rol se alinea directamente con las preferencias y requisitos del perfil. Se estima un rango salarial entre S/4,000 y S/6,500 (aprox. USD 1,100 - USD 1,800) para este rol en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4385580414",
-    "title": "ANALISTA QA AUTOMATIZADOR SENIOR",
-    "employer": "INFORMÁTICA DELTA SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4385580414",
-    "reason": "Esta oferta es una coincidencia perfecta debido a su título 'ANALISTA QA AUTOMATIZADOR SENIOR', que se alinea directamente con las preferencias de 'QA Senior' y 'Automation Engineer'. Implica una fuerte experiencia en automatización de pruebas. Para un rol Senior de QA Automatizador en Lima, Perú, se podría estimar un rango salarial entre S/ 5500 y S/ 8500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4386565831",
+    "title": "QA Automatizador - Mar 26 - Med",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
+    "reason": "Aunque la descripción es breve, la oferta para 'QA Automatizador' de Inetum y la mención implícita de herramientas de automatización (basado en otras ofertas de Inetum y la etiqueta 'Med' que podría referirse a 'medium' o especialización) sugieren un encaje. La empresa Inetum es una consultora importante. Se estima un rango salarial entre S/4,000 y S/6,500 (aprox. USD 1,100 - USD 1,800) para este rol en Lima, Perú."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4386528071",
+    "title": "QA Automation Senior",
+    "employer": "organización confidencial",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386528071",
+    "reason": "Esta oferta se ajusta perfectamente al perfil de 'QA Automation Senior'. Requiere experiencia avanzada con Python, SQL, PL/SQL, y específicamente menciona la validación de procesos de procesamiento y transformación de datos en plataformas de datos y entornos cloud (Azure), lo cual incluye experiencia con Azure Databricks y Azure Data Factory. La experiencia en tuning y optimización de procesos distribuidos, así como Shell Scripting y comandos Linux/Unix, son requisitos clave. El dominio 'Banca' es un plus. Se estima un rango salarial competitivo para un rol senior en banca, entre S/6,000 y S/9,000 (aprox. USD 1,600 - USD 2,400) en Lima, Perú."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4384977244",
+    "title": "QA Automatizador Senior",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4384977244",
+    "reason": "La oferta para 'QA Automatizador Senior' de NTT DATA encaja con las preferencias de 'QA Senior' y 'Automation Engineer'. NTT DATA es una empresa de servicios TI importante a nivel global. Aunque la descripción está vacía, el título y la empresa sugieren un rol de automatización con experiencia. Se estima un rango salarial entre S/5,500 y S/8,500 (aprox. USD 1,500 - USD 2,300) para un rol Senior en una consultora como NTT DATA en Lima, Perú."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4386395534",
+    "title": "Analista QA Automatizador",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386395534",
+    "reason": "Esta oferta, aunque con descripción vacía, se alinea con el perfil al buscar un 'Analista QA Automatizador'. EVOL (TSnet) es una empresa de tecnología. Dada la experiencia requerida (3+ años) y el título, se considera un buen ajuste. Se estima un rango salarial entre S/4,500 y S/7,000 (aprox. USD 1,200 - USD 1,900) para este rol en Lima, Perú."
   }
 ]
