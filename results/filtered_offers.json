@@ -1,44 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4387868378",
-    "title": "QA Automation Engineer",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4387868378",
-    "reason": "La oferta se ajusta perfectamente al perfil de \"QA Automation Engineer\" con experiencia en automatización de pruebas de software. Las responsabilidades incluyen diseñar, desarrollar y ejecutar pruebas automatizadas, implementar frameworks y estrategias de automatización, lo cual se alinea con el rol buscado.  El puesto no especifica rango salarial, pero para un \"QA Automation Engineer\" en Lima, Perú, con experiencia y habilidades solicitadas, se estima un rango de S/ 5,000 a S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4389419398",
+    "title": "QA Senior",
+    "employer": "DEVOS Inc - Soluciones Tecnológicas",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4389419398",
+    "reason": "Esta oferta se ajusta al perfil por ser un rol 'QA Senior' y buscar experiencia en automatización (implícito en las tecnologías solicitadas). Menciona experiencia en bases de datos relacionales y no relacionales, herramientas de BDD (Serenity BDD, Gherkin, Cucumber), contenedores (Kubernetes, Docker), monitoreo (Kibana), pruebas de carga (Gatling & Meter), Azure DevOps, Jira y Jenkins, así como experiencia en Java y JavaScript. El rango salarial para un QA Senior en Lima, Perú, con esta experiencia puede variar entre S/ 6,000 - S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4387859830",
-    "title": "QA Automation Engineer (Quality Engineering)",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4387859830",
-    "reason": "Esta oferta es ideal para el perfil de \"QA Automation Engineer\", ya que el rol se enfoca en asegurar la calidad del software mediante la automatización de pruebas e implementación de buenas prácticas. Las responsabilidades de diseñar, desarrollar y ejecutar pruebas automatizadas, así como implementar frameworks, coinciden con las preferencias.  Aunque no se especifica, para un \"QA Automation Engineer\" en Lima, Perú, se estima un rango salarial de S/ 5,000 a S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4389047095",
+    "title": "QA Automation",
+    "employer": "Atlantic City Casino & Sports",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4389047095",
+    "reason": "La oferta está directamente relacionada con automatización de pruebas ('QA Automation'). Requiere 2 años de experiencia en automatización, mencionando Selenium WebDriver y Cypress, y experiencia desarrollando scripts con Java, Cucumber y/o Gherkin. Incluye experiencia en Postman, SoapUI, pruebas de rendimiento con JMeter, control de versiones (GitHub, GitLab), bases de datos SQL, configuración CI/CD (Jenkins) y metodologías ágiles. Menciona experiencia deseable con AWS y Appium, lo cual encaja con el perfil. El rango salarial estimado para este puesto en Lima, Perú, podría ser de S/ 5,000 - S/ 7,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4388122860",
-    "title": "Senior Quality Engineer [SEGUROS]",
+    "id": "https://www.linkedin.com/jobs/view/4389096883",
+    "title": "QE SENIOR [SEGUROS]",
     "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4388122860",
-    "reason": "La oferta de \"Senior Quality Engineer\" se alinea con el perfil de \"QA Senior\" y \"Automation Engineer\" por sus responsabilidades en definir estrategias de pruebas, ejecutar y supervisar pruebas funcionales y no funcionales, y lo más importante, \"Diseñar, desarrollar y evolucionar frameworks de automatización para backend, frontend y mobile\" e integrar pruebas automatizadas en pipelines CI/CD. El dominio en pruebas de backend con Postman y Karate, y de frontend con Playwright y Selenium es un plus importante. El sector de Seguros es un dominio deseado. El puesto no indica rango salarial, pero para un \"Senior Quality Engineer\" en Lima con 5 años de experiencia en QA y 2 en posiciones senior, se estima un rango de S/ 7,000 a S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4387624347",
-    "title": "Senior QA Automation Engineer (Playwright) - Remote - Latin America",
-    "employer": "FullStack",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4387624347",
-    "reason": "Esta oferta es una coincidencia directa para un \"Senior QA Automation Engineer\", alineándose perfectamente con las preferencias del perfil. El énfasis en \"Playwright\" es una tecnología moderna y relevante en automatización. Las responsabilidades implícitas para un rol senior de automatización incluyen diseño, implementación y mantenimiento de frameworks de automatización de pruebas.  Aunque la oferta es remota para Latinoamérica, el rango salarial para un \"Senior QA Automation Engineer\" con experiencia en Playwright en la región suele estar entre S/ 7,000 y S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4388150114",
-    "title": "Analista QA Senior - 3 meses",
-    "employer": "Praxis",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4388150114",
-    "reason": "La oferta de \"Analista QA Senior\" encaja con el perfil de \"QA Senior\" y \"Automation Engineer\" debido a la experiencia requerida de \"mas de 4 años de experiencia en QA (manual y/o automatizado)\" y \"Experiencia en aseguramiento de calidad del software (QA)\".  Si bien no especifica automatización en la descripción, el nivel senior y la mención de \"automatizado\" permiten inferir un enfoque que podría incluirla. El proyecto es de 3 meses y 100% remoto, con residencia en Lima requerida.  No se especifica rango salarial, pero para un \"Analista QA Senior\" con experiencia mixta en Lima, un proyecto de 3 meses podría ofrecer entre S/ 6,000 y S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4387860918",
-    "title": "QA Engineer Senior",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4387860918",
-    "reason": "Esta oferta de \"QA Engineer Senior\" se alinea con las preferencias de \"QA Senior\". Aunque la descripción menciona \"experiencia en pruebas manuales y/o automatizadas\", el rol senior implica responsabilidades estratégicas y de mejora de procesos que podrían incluir la automatización o la supervisión de la misma. Las responsabilidades como \"diseñar y ejecutar estrategias de testing\", \"automatizar pruebas cuando sea posible\" y \"promover buenas prácticas de calidad\" son relevantes.  El rango salarial para un \"QA Engineer Senior\" en Lima, Perú, se estima entre S/ 6,000 y S/ 10,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4389096883",
+    "reason": "Esta oferta busca un 'QE Senior' con un fuerte enfoque en automatización, mencionando explícitamente 'diseñar, desarrollar y evolucionar frameworks de automatización para backend, frontend y mobile'. Las tecnologías requeridas incluyen Playwright, Selenium, JMeter, Swagger, Postman, Jenkins, y conocimiento de bases de datos SQL Server/Oracle. La experiencia en el sector seguros es un requisito, pero el rol de automatización y la experiencia senior son el principal punto de ajuste. El rango salarial para un rol Senior Quality Engineer en el sector seguros en Lima, Perú, podría estar entre S/ 7,000 - S/ 10,000 mensuales."
   }
 ]
