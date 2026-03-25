@@ -1,23 +1,57 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4389419398",
-    "title": "QA Senior",
-    "employer": "DEVOS Inc - Soluciones Tecnológicas",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4389419398",
-    "reason": "Esta oferta se ajusta al perfil por ser un rol 'QA Senior' y buscar experiencia en automatización (implícito en las tecnologías solicitadas). Menciona experiencia en bases de datos relacionales y no relacionales, herramientas de BDD (Serenity BDD, Gherkin, Cucumber), contenedores (Kubernetes, Docker), monitoreo (Kibana), pruebas de carga (Gatling & Meter), Azure DevOps, Jira y Jenkins, así como experiencia en Java y JavaScript. El rango salarial para un QA Senior en Lima, Perú, con esta experiencia puede variar entre S/ 6,000 - S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4389800891",
+    "title": "QA Lead",
+    "employer": "Stefanini LATAM",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4389800891",
+    "reason": "Esta oferta se alinea directamente con el perfil buscado, ya que requiere experiencia en liderazgo de equipos de QA, automatización de pruebas, y validación de APIs, además de tener un enfoque en modelos ágiles. La descripción menciona \"Automatización de pruebas\" como un punto deseable, y el rol de \"QA Lead\" se enfoca en la estrategia de calidad y ejecución de pruebas. El rango salarial aproximado para un QA Lead en Lima, Perú, con más de 3 años de experiencia puede variar entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la empresa y responsabilidades específicas.",
+    "main_responsibilities": [
+      "Liderar la estrategia de pruebas dentro de la fábrica (certificación, regresión, automatización).",
+      "Planificar, estimar y supervisar la ejecución de pruebas.",
+      "Gestionar y validar la definición de casos de prueba.",
+      "Supervisar la documentación de evidencias y registro de defectos.",
+      "Generar reportes de avance y ejecución de pruebas.",
+      "Proponer e implementar mejoras en el proceso de calidad y automatización de pruebas.",
+      "Liderar la ejecución de pruebas funcionales, integrales, de sistema y de regresión.",
+      "Definir estrategias para pruebas en pases a producción y post-producción.",
+      "Validación de servicios: APIs (REST / SOAP).",
+      "Uso de herramientas: Postman, JMeter."
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4389047095",
-    "title": "QA Automation",
-    "employer": "Atlantic City Casino & Sports",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4389047095",
-    "reason": "La oferta está directamente relacionada con automatización de pruebas ('QA Automation'). Requiere 2 años de experiencia en automatización, mencionando Selenium WebDriver y Cypress, y experiencia desarrollando scripts con Java, Cucumber y/o Gherkin. Incluye experiencia en Postman, SoapUI, pruebas de rendimiento con JMeter, control de versiones (GitHub, GitLab), bases de datos SQL, configuración CI/CD (Jenkins) y metodologías ágiles. Menciona experiencia deseable con AWS y Appium, lo cual encaja con el perfil. El rango salarial estimado para este puesto en Lima, Perú, podría ser de S/ 5,000 - S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4325859789",
+    "title": "Analytics Quality Engineer III (Lima)",
+    "employer": "Qualifacts",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4325859789",
+    "reason": "Esta oferta se ajusta al perfil debido a la necesidad de experiencia en automatización de pruebas (Python) y validación de pipelines de datos y flujos de analítica, lo cual se relaciona con el dominio de \"QA Automation\" y el uso de tecnologías como Python. El rol de \"Analytics Quality Engineer\" con énfasis en \"Python-based automation\" y \"validate data pipelines and analytics workflows\" encaja bien. El rango salarial aproximado para un puesto de este nivel en Lima, Perú, podría estar entre S/ 7,000 y S/ 11,000 mensuales.",
+    "main_responsibilities": [
+      "Desarrollar planes y casos de prueba desde requisitos de software.",
+      "Ejecutar pruebas de software a través de todas las capas de la aplicación (web, middleware y móvil).",
+      "Auditar revisiones de cumplimiento.",
+      "Analizar métricas de calidad de software para determinar estrategias de prueba.",
+      "Crear automatización basada en Python para flujos de trabajo de QA.",
+      "Colaborar con el equipo de Data Engineering para validar pipelines de datos y flujos de analítica.",
+      "Ejecutar scripts SQL para validaciones a nivel de base de datos.",
+      "Experiencia en pruebas de integridad de datos, migración de datos o pipelines de datos."
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4389096883",
-    "title": "QE SENIOR [SEGUROS]",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4389096883",
-    "reason": "Esta oferta busca un 'QE Senior' con un fuerte enfoque en automatización, mencionando explícitamente 'diseñar, desarrollar y evolucionar frameworks de automatización para backend, frontend y mobile'. Las tecnologías requeridas incluyen Playwright, Selenium, JMeter, Swagger, Postman, Jenkins, y conocimiento de bases de datos SQL Server/Oracle. La experiencia en el sector seguros es un requisito, pero el rol de automatización y la experiencia senior son el principal punto de ajuste. El rango salarial para un rol Senior Quality Engineer en el sector seguros en Lima, Perú, podría estar entre S/ 7,000 - S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4380125837",
+    "title": "Middle Java Developer - 3 yoe",
+    "employer": "Sovos",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4380125837",
+    "reason": "Aunque el título principal es \"Middle Java Developer\", la descripción del rol enfatiza la participación en \"desarrollo, testing y despliegue de software\", \"campeón de una cultura de calidad de código\", \"realizar revisiones de código entre pares para asegurar la calidad\", \"following and improving the team's Continuous Development and Continuous Integration practices\", y \"Work with other team members to solve complex problems, including UX/UI designers, QA testers, and DBAs\". Esto indica una fuerte colaboración con el área de QA y un enfoque en la calidad del software, que puede ser un punto de entrada para alguien con un perfil de SDET o Automation Engineer con experiencia en desarrollo. Se menciona experiencia en AWS, microservicios, y REST APIs. El rango salarial para un \"Middle Java Developer\" con 3 años de experiencia en Lima podría variar entre S/ 6,000 y S/ 10,000 mensuales.",
+    "main_responsibilities": [
+      "Participar en el desarrollo, testing y despliegue de aplicaciones y soluciones de software.",
+      "Ser un asesor técnico para el Product Manager.",
+      "Fomentar una cultura de calidad de código y aprendizaje continuo.",
+      "Realizar revisiones de código entre pares para asegurar la calidad.",
+      "Utilizar habilidades analíticas y de resolución de problemas para diseño de programación e interfaz de usuario.",
+      "Integrar prácticas de tecnología, proceso, prueba y negocio.",
+      "Seguir y mejorar las prácticas de Desarrollo Continuo e Integración Continua del equipo.",
+      "Resolver problemas complejos con diseñadores UX/UI, testers QA y DBAs.",
+      "Realizar y diseñar protocolos de prueba para asegurar que el producto esté completamente probado.",
+      "Implementar soluciones impulsadas por IA para mejorar la funcionalidad del software y automatizar procesos."
+    ]
   }
 ]
