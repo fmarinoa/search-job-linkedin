@@ -1,44 +1,26 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4383417416",
-    "title": "QA Automation",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4383417416",
-    "reason": "Esta oferta encaja perfectamente con el perfil, ya que busca un 'QA Automation' con experiencia mínima de 3 años. Menciona explícitamente experiencia en Python, API Testing (Postman/SoapUI), RestAssure+Java para backend y Selenium+Java para frontend, así como metodologías ágiles. Las responsabilidades giran en torno a la automatización de pruebas y la validación de datos. El rango salarial aproximado para un rol senior en Lima, Perú, con estas características se estima entre S/ 8,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4394952350",
+    "title": "QA Automation Engineer",
+    "employer": "Encora Inc.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4394952350",
+    "reason": "Esta oferta es para un \"QA Automation Engineer Senior\", lo cual se alinea perfectamente con el perfil buscado, especialmente con las preferencias de \"QA Senior\" y \"Automation Engineer\". Se mencionan explícitamente responsabilidades de diseño, desarrollo y mantenimiento de pruebas automatizadas, implementación de frameworks, colaboración con equipos de desarrollo y participación en ceremonias ágiles, que son puntos clave del perfil. La experiencia requerida en automatización de pruebas de software, herramientas como Selenium o Cypress, y entornos ágiles son un match directo. El dominio de \"QA Automation\" y la experiencia en desarrollo ágil son requisitos. Se asume un rango salarial aproximado de S/ 6,000 - S/ 9,000 mensuales para un puesto Senior en automatización de QA en Lima, Perú, dado el tipo de empresa (Encora es un socio preferido para ingeniería digital) y la seniority del rol.",
+    "salary_range": "S/ 6,000 - S/ 9,000"
   },
   {
     "id": "https://www.linkedin.com/jobs/view/4393202996",
     "title": "QA Engineer",
     "employer": "Monnet Payments",
     "linkOffer": "https://www.linkedin.com/jobs/view/4393202996",
-    "reason": "La oferta es para 'QA Engineer' y requiere más de 3 años de experiencia en automatización de pruebas, con al menos 1 año utilizando Playwright + TypeScript. También menciona experiencia en la industria fintech/bancaria, lo que se alinea con los dominios preferidos. Las responsabilidades incluyen diseño y ejecución de casos de prueba, automatización y soporte a QAs junior. Dado que es una Fintech y se busca experiencia senior, el rango salarial aproximado se estima entre S/ 8,500 y S/ 13,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4335754934",
-    "title": "QA Automation Senior",
-    "employer": "Bluetab, an IBM Company",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4335754934",
-    "reason": "Esta oferta es explícitamente para 'QA Automation Senior' y tiene requisitos muy alineados, incluyendo experiencia sólida (3+ años) en frameworks de automatización con Cypress, WebDriverIO, Appium y Cucumber. También menciona pruebas de API avanzadas, k6 para performance, integración CI/CD y dominio de JS/TS. Las responsabilidades incluyen liderar la calidad end-to-end y la guía técnica del equipo. Al ser un puesto senior en una empresa reconocida, el rango salarial aproximado se estima entre S/ 9,000 y S/ 14,000 mensuales."
+    "reason": "La oferta describe un \"QA Engineer\" con requisitos explícitos de \"Más de 3 años de experiencia en automatización de pruebas\" y \"Al menos 1 año utilizando Playwright + TypeScript\". Esto encaja directamente con el perfil \"SDET\", \"QA Automation Engineer\" y \"Test Automation Engineer\", así como con la experiencia requerida en \"automatización de pruebas web, mobile y APIs\". Se menciona experiencia en la industria \"Fintech y/o bancaria\", lo cual es un dominio clave para el perfil. Las responsabilidades incluyen diseño y ejecución de casos de prueba, colaboración con el equipo de desarrollo y optimización de procesos. La oferta también menciona \"soporte, capacitar y empoderar a los QAs trainee y junior\", lo que sugiere un rol con cierta seniority. El uso de Playwright + TypeScript, junto con experiencia en Fintech, son puntos fuertes de alineación. Se estima un rango salarial aproximado de S/ 7,000 - S/ 10,000 mensuales para este puesto Senior en una Fintech en Lima, Perú, considerando la experiencia requerida y las tecnologías específicas.",
+    "salary_range": "S/ 7,000 - S/ 10,000"
   },
   {
     "id": "https://www.linkedin.com/jobs/view/4379972851",
     "title": "IT Quality Engineer",
     "employer": "TRANZACT",
     "linkOffer": "https://www.linkedin.com/jobs/view/4379972851",
-    "reason": "La oferta busca un 'IT Quality Engineer' con experiencia en pruebas de automatización y aplicaciones con IA. Menciona explícitamente la experiencia en la construcción y ejecución de casos de prueba automatizados utilizando Selenium, Robot Framework, o Python. Las responsabilidades incluyen participar en ceremonias ágiles, desarrollar scripts de automatización y coordinar con otros equipos. Dada la experiencia requerida y el tipo de empresa, el rango salarial aproximado se estima entre S/ 7,500 y S/ 11,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4393953114",
-    "title": "QA Automation mobile",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4393953114",
-    "reason": "Esta oferta es para 'QA Automation mobile' y requiere experiencia en automatización con Appium y Python, lo cual coincide con el perfil. Se enfoca en asegurar la calidad del software mediante pruebas automatizadas, diseño y mantenimiento de scripts. Las responsabilidades incluyen pruebas funcionales y no funcionales. Dado que Inetum es una empresa de servicios de TI, el rango salarial aproximado para un rol con enfoque mobile y experiencia se estima entre S/ 7,000 y S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4393972295",
-    "title": "Frontend Automation Testing Engineer - Remote - Latin America",
-    "employer": "FullStack",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4393972295",
-    "reason": "Aunque el título es 'Frontend Automation Testing Engineer', el perfil solicitado incluye 3+ años de experiencia en test automation o QA engineering, con habilidades de programación en JavaScript o Java, experiencia en API testing (Postman o REST Assured) y SQL. La automatización es clave. Dada la naturaleza remota y la empresa que conecta con clientes de EE. UU., el rango salarial aproximado podría ser más competitivo, estimado entre S/ 8,000 y S/ 12,000 mensuales para roles con estas características en Perú."
+    "reason": "Este puesto de \"IT Quality Engineer\" se alinea con el perfil buscado, especialmente con las preferencias de \"Automation Engineer\" y \"Backend con enfoque en testing\". Las responsabilidades incluyen \"diseñando, construyendo y ejecutando casos de prueba automatizados\", \"desarrollo de scripts de automatización\" y \"pruebas de API, integración, base de datos, aplicaciones web\". La experiencia requerida en \"Selenium, Robot Framework, o Python\" es relevante. Se menciona \"Node.js\" como un \"Nice to Have\", que está en la tech stack del perfil. Se valora la experiencia en \"QA processes and the SDLC within an agile environment\". Se asume un rango salarial aproximado de S/ 6,500 - S/ 9,500 mensuales para un puesto de IT Quality Engineer con enfoque en automatización en una empresa como TRANZACT en Lima, Perú.",
+    "salary_range": "S/ 6,500 - S/ 9,500"
   }
 ]
