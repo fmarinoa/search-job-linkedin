@@ -1,26 +1,91 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4394952350",
-    "title": "QA Automation Engineer",
-    "employer": "Encora Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4394952350",
-    "reason": "Esta oferta es para un \"QA Automation Engineer Senior\", lo cual se alinea perfectamente con el perfil buscado, especialmente con las preferencias de \"QA Senior\" y \"Automation Engineer\". Se mencionan explícitamente responsabilidades de diseño, desarrollo y mantenimiento de pruebas automatizadas, implementación de frameworks, colaboración con equipos de desarrollo y participación en ceremonias ágiles, que son puntos clave del perfil. La experiencia requerida en automatización de pruebas de software, herramientas como Selenium o Cypress, y entornos ágiles son un match directo. El dominio de \"QA Automation\" y la experiencia en desarrollo ágil son requisitos. Se asume un rango salarial aproximado de S/ 6,000 - S/ 9,000 mensuales para un puesto Senior en automatización de QA en Lima, Perú, dado el tipo de empresa (Encora es un socio preferido para ingeniería digital) y la seniority del rol.",
-    "salary_range": "S/ 6,000 - S/ 9,000"
+    "id": "https://www.linkedin.com/jobs/view/4205304186",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4205304186",
+    "reason": "Esta oferta se ajusta al perfil porque busca un 'QA Automatizador' y menciona explícitamente herramientas de automatización como Selenium, Playwright, y lenguajes como Python, que son parte del tech stack y las preferencias del perfil. Se valora la experiencia en BDD, ATDD y herramientas CI/CD como Jenkins, así como en pruebas de microservicios y APIs. El rol implica la redacción de pruebas en Gherkin, diseño de casos de prueba y marco Agile. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales, considerando la experiencia requerida y el mercado en Lima, Perú, para un puesto de automatización de QA.",
+    "responsibilities": [
+      "Búsqueda de (04) QA Automatizador.",
+      "Uso de herramientas de Automatización de Pruebas como Selenium, Karate DSL, Playwright.",
+      "Conocimiento de lenguajes como Java, Python.",
+      "Redacción de pruebas en lenguaje Gherkin.",
+      "Conocimiento de BDD y ATDD.",
+      "Uso de herramientas de CI/CD como Jenkins, Gitlab, Azure DevOps.",
+      "Configuración de pipeline, ejecución de pruebas.",
+      "Uso de herramientas para pruebas de performance como Jmeter, Blazemeter, k6.",
+      "Pruebas de microservicios y/o APIs, uso de herramientas como Postman, Karate.",
+      "Uso de herramientas de Gestión de Pruebas como JIRA, Zephyr, QMetry.",
+      "Técnicas de diseño de casos de prueba.",
+      "Marco de trabajo Agile (Scrum/Kanban)."
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4393202996",
-    "title": "QA Engineer",
-    "employer": "Monnet Payments",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4393202996",
-    "reason": "La oferta describe un \"QA Engineer\" con requisitos explícitos de \"Más de 3 años de experiencia en automatización de pruebas\" y \"Al menos 1 año utilizando Playwright + TypeScript\". Esto encaja directamente con el perfil \"SDET\", \"QA Automation Engineer\" y \"Test Automation Engineer\", así como con la experiencia requerida en \"automatización de pruebas web, mobile y APIs\". Se menciona experiencia en la industria \"Fintech y/o bancaria\", lo cual es un dominio clave para el perfil. Las responsabilidades incluyen diseño y ejecución de casos de prueba, colaboración con el equipo de desarrollo y optimización de procesos. La oferta también menciona \"soporte, capacitar y empoderar a los QAs trainee y junior\", lo que sugiere un rol con cierta seniority. El uso de Playwright + TypeScript, junto con experiencia en Fintech, son puntos fuertes de alineación. Se estima un rango salarial aproximado de S/ 7,000 - S/ 10,000 mensuales para este puesto Senior en una Fintech en Lima, Perú, considerando la experiencia requerida y las tecnologías específicas.",
-    "salary_range": "S/ 7,000 - S/ 10,000"
+    "id": "https://www.linkedin.com/jobs/view/4237974439",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4237974439",
+    "reason": "Esta oferta se ajusta al perfil porque busca un 'QA Automatizador' y detalla el uso de herramientas de automatización como Selenium y Playwright, lenguajes como Python, y la experiencia con Jenkins, todos ellos contemplados en el perfil. Se valoran los conocimientos en Gherkin, BDD, y pruebas de microservicios/APIs. El rol requiere habilidades de comunicación, proactividad y orientación al aprendizaje. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales, considerando la experiencia requerida y el mercado en Lima, Perú, para un puesto de automatización de QA.",
+    "responsibilities": [
+      "Búsqueda de (04) QA Automatizador.",
+      "Uso de herramientas de Automatización de Pruebas como Selenium, Karate DSL, Playwright.",
+      "Conocimiento de lenguajes como Java, Python.",
+      "Redacción de pruebas en lenguaje Gherkin.",
+      "Conocimiento de BDD y ATDD.",
+      "Uso de herramientas de CI/CD como Jenkins, Gitlab, Azure DevOps.",
+      "Configuración de pipeline, ejecución de pruebas.",
+      "Uso de herramientas para pruebas de performance como Jmeter, Blazemeter, k6.",
+      "Pruebas de microservicios y/o APIs, uso de herramientas como Postman, Karate.",
+      "Uso de herramientas de Gestión de Pruebas como JIRA, Zephyr, QMetry.",
+      "Técnicas de diseño de casos de prueba.",
+      "Marco de trabajo Agile (Scrum/Kanban)."
+    ]
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4261902308",
+    "title": "QA tester QE pleno",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4261902308",
+    "reason": "Esta oferta es de alta relevancia ya que busca un 'QA tester QE pleno' con experiencia mínima de 3 años en ejecución de pruebas manuales y de automatización. Incluye explícitamente el requisito de 'responsable de automatizar casos de prueba garantizando la adopción de pruebas automatizadas'. Menciona herramientas clave como Selenium, Apium, Cucumber, lenguaje GHERKIN, Python, Java, Jenkins, y consulta de BD SQL, todas alineadas con el perfil. La experiencia en marcos ágiles y la certificación ISTQB son puntos fuertes. Se estima un rango salarial aproximado de S/ 6,000 - S/ 9,000 mensuales, considerando la experiencia de 'pleno' y los requisitos técnicos avanzados.",
+    "responsibilities": [
+      "Análisis de requerimientos, estimación y planificación de pruebas.",
+      "Diseño de casos de prueba y generación de datos de prueba.",
+      "Ejecución de pruebas funcionales y no funcionales en ambientes productivos y no productivos.",
+      "Generación de reportes de proyectos y seguimiento de defectos.",
+      "Ejecución de pruebas Smoke, sanity test.",
+      "Acompañamiento y ejecución de pruebas UAT.",
+      "Automatizar casos de prueba garantizando la adopción de pruebas automatizadas.",
+      "Experiencia en despliegue de componentes y utilización de herramientas de integración continua (Jenkins, Azure DevOps, etc).",
+      "Proponer mejoras en el proceso de atención de pruebas.",
+      "Experiencia mínima de 3 años en ejecución de pruebas manuales y de automatización.",
+      "Experiencia trabajando bajo marcos tradicional cascada y Scrum.",
+      "Experiencia práctica con herramientas para pruebas automatizadas: Selenium, Apium, Cucumber, etc y trabajo con lenguaje GHERKIN.",
+      "Experiencia en análisis de Logs.",
+      "Experiencia trabajando con herramientas de gestión de calidad: Quality Center, Jira, Xray, etc.",
+      "Conocimiento en tecnología informática y lenguajes de programación: Phyton, Java u otros.",
+      "Experiencia en consulta de BD SQL.",
+      "Experiencia en el uso de herramientas de integración continua: Jenkins y otros.",
+      "Experiencia en pruebas de rendimiento: JMeter u otras."
+    ]
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4248392784",
+    "title": "QA Automation",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4248392784",
+    "reason": "Esta oferta se titula 'QA Automation', lo cual se alinea directamente con el perfil buscado. Aunque la descripción está vacía, el título sugiere un fuerte enfoque en automatización de pruebas. Dada la prioridad a la automatización y la empresa Inetum que aparece en otras ofertas relevantes, se asume que requerirá experiencia y habilidades en este campo. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales, considerando el título del puesto y el mercado en Lima, Perú, para un puesto de automatización de QA.",
+    "responsibilities": [
+      "No especificado en la descripción, pero se infiere un rol enfocado en automatización de pruebas."
+    ]
   },
   {
     "id": "https://www.linkedin.com/jobs/view/4379972851",
     "title": "IT Quality Engineer",
     "employer": "TRANZACT",
     "linkOffer": "https://www.linkedin.com/jobs/view/4379972851",
-    "reason": "Este puesto de \"IT Quality Engineer\" se alinea con el perfil buscado, especialmente con las preferencias de \"Automation Engineer\" y \"Backend con enfoque en testing\". Las responsabilidades incluyen \"diseñando, construyendo y ejecutando casos de prueba automatizados\", \"desarrollo de scripts de automatización\" y \"pruebas de API, integración, base de datos, aplicaciones web\". La experiencia requerida en \"Selenium, Robot Framework, o Python\" es relevante. Se menciona \"Node.js\" como un \"Nice to Have\", que está en la tech stack del perfil. Se valora la experiencia en \"QA processes and the SDLC within an agile environment\". Se asume un rango salarial aproximado de S/ 6,500 - S/ 9,500 mensuales para un puesto de IT Quality Engineer con enfoque en automatización en una empresa como TRANZACT en Lima, Perú.",
-    "salary_range": "S/ 6,500 - S/ 9,500"
+    "reason": "Esta oferta para 'IT Quality Engineer' en TRANZACT, aunque no especifica explícitamente automatización, es una oportunidad potencial dado el dominio de 'QA Automation' en el perfil y la naturaleza generalista de la ingeniería de calidad. Si bien requiere más investigación sobre las responsabilidades específicas (posiblemente manuales y de automatización), la empresa y el rol son relevantes para el campo de QA. Se estima un rango salarial aproximado de S/ 4,500 - S/ 7,000 mensuales, considerando la posición de ingeniero de calidad y el mercado en Lima, Perú, esperando que pueda tener un componente de automatización.",
+    "responsibilities": [
+      "No especificado en la descripción, pero se infiere un rol enfocado en asegurar la calidad de sistemas IT."
+    ]
   }
 ]
