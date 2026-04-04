@@ -1,91 +1,131 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4205304186",
+    "id": "https://www.linkedin.com/jobs/view/4264298806",
     "title": "QA Automatizador",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4205304186",
-    "reason": "Esta oferta se ajusta al perfil porque busca un 'QA Automatizador' y menciona explícitamente herramientas de automatización como Selenium, Playwright, y lenguajes como Python, que son parte del tech stack y las preferencias del perfil. Se valora la experiencia en BDD, ATDD y herramientas CI/CD como Jenkins, así como en pruebas de microservicios y APIs. El rol implica la redacción de pruebas en Gherkin, diseño de casos de prueba y marco Agile. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales, considerando la experiencia requerida y el mercado en Lima, Perú, para un puesto de automatización de QA.",
-    "responsibilities": [
-      "Búsqueda de (04) QA Automatizador.",
-      "Uso de herramientas de Automatización de Pruebas como Selenium, Karate DSL, Playwright.",
-      "Conocimiento de lenguajes como Java, Python.",
-      "Redacción de pruebas en lenguaje Gherkin.",
-      "Conocimiento de BDD y ATDD.",
-      "Uso de herramientas de CI/CD como Jenkins, Gitlab, Azure DevOps.",
-      "Configuración de pipeline, ejecución de pruebas.",
-      "Uso de herramientas para pruebas de performance como Jmeter, Blazemeter, k6.",
-      "Pruebas de microservicios y/o APIs, uso de herramientas como Postman, Karate.",
-      "Uso de herramientas de Gestión de Pruebas como JIRA, Zephyr, QMetry.",
-      "Técnicas de diseño de casos de prueba.",
-      "Marco de trabajo Agile (Scrum/Kanban)."
-    ]
+    "linkOffer": "https://www.linkedin.com/jobs/view/4264298806",
+    "reason": "La oferta busca un QA Automatizador con experiencia en herramientas como Selenium, Playwright, y lenguajes como Python, lo cual se alinea directamente con el perfil. Las responsabilidades incluyen redacción de pruebas en Gherkin, BDD, ATDD, y uso de herramientas CI/CD como Jenkins, cubriendo así las expectativas técnicas. El rango salarial aproximado para un rol de QA Automatizador con este perfil en Lima, Perú, para una empresa como Inetum, estaría entre S/5,500 y S/9,000 mensuales, dependiendo de la experiencia específica y el paquete de beneficios."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4237974439",
+    "id": "https://www.linkedin.com/jobs/view/4255616431",
     "title": "QA Automatizador",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4237974439",
-    "reason": "Esta oferta se ajusta al perfil porque busca un 'QA Automatizador' y detalla el uso de herramientas de automatización como Selenium y Playwright, lenguajes como Python, y la experiencia con Jenkins, todos ellos contemplados en el perfil. Se valoran los conocimientos en Gherkin, BDD, y pruebas de microservicios/APIs. El rol requiere habilidades de comunicación, proactividad y orientación al aprendizaje. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales, considerando la experiencia requerida y el mercado en Lima, Perú, para un puesto de automatización de QA.",
-    "responsibilities": [
-      "Búsqueda de (04) QA Automatizador.",
-      "Uso de herramientas de Automatización de Pruebas como Selenium, Karate DSL, Playwright.",
-      "Conocimiento de lenguajes como Java, Python.",
-      "Redacción de pruebas en lenguaje Gherkin.",
-      "Conocimiento de BDD y ATDD.",
-      "Uso de herramientas de CI/CD como Jenkins, Gitlab, Azure DevOps.",
-      "Configuración de pipeline, ejecución de pruebas.",
-      "Uso de herramientas para pruebas de performance como Jmeter, Blazemeter, k6.",
-      "Pruebas de microservicios y/o APIs, uso de herramientas como Postman, Karate.",
-      "Uso de herramientas de Gestión de Pruebas como JIRA, Zephyr, QMetry.",
-      "Técnicas de diseño de casos de prueba.",
-      "Marco de trabajo Agile (Scrum/Kanban)."
-    ]
+    "linkOffer": "https://www.linkedin.com/jobs/view/4255616431",
+    "reason": "Esta oferta se ajusta al perfil por requerir experiencia en herramientas de automatización como Selenium, Playwright, y conocimientos en lenguajes como Python. Se mencionan BDD, ATDD y uso de herramientas CI/CD (Jenkins), que son parte de las preferencias del perfil. El rango salarial aproximado para un rol de QA Automatizador con estas características en Lima, Perú, y para Inetum, se estima entre S/5,500 y S/9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4261902308",
-    "title": "QA tester QE pleno",
+    "id": "https://www.linkedin.com/jobs/view/4341256392",
+    "title": "QA Automatizador",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4261902308",
-    "reason": "Esta oferta es de alta relevancia ya que busca un 'QA tester QE pleno' con experiencia mínima de 3 años en ejecución de pruebas manuales y de automatización. Incluye explícitamente el requisito de 'responsable de automatizar casos de prueba garantizando la adopción de pruebas automatizadas'. Menciona herramientas clave como Selenium, Apium, Cucumber, lenguaje GHERKIN, Python, Java, Jenkins, y consulta de BD SQL, todas alineadas con el perfil. La experiencia en marcos ágiles y la certificación ISTQB son puntos fuertes. Se estima un rango salarial aproximado de S/ 6,000 - S/ 9,000 mensuales, considerando la experiencia de 'pleno' y los requisitos técnicos avanzados.",
-    "responsibilities": [
-      "Análisis de requerimientos, estimación y planificación de pruebas.",
-      "Diseño de casos de prueba y generación de datos de prueba.",
-      "Ejecución de pruebas funcionales y no funcionales en ambientes productivos y no productivos.",
-      "Generación de reportes de proyectos y seguimiento de defectos.",
-      "Ejecución de pruebas Smoke, sanity test.",
-      "Acompañamiento y ejecución de pruebas UAT.",
-      "Automatizar casos de prueba garantizando la adopción de pruebas automatizadas.",
-      "Experiencia en despliegue de componentes y utilización de herramientas de integración continua (Jenkins, Azure DevOps, etc).",
-      "Proponer mejoras en el proceso de atención de pruebas.",
-      "Experiencia mínima de 3 años en ejecución de pruebas manuales y de automatización.",
-      "Experiencia trabajando bajo marcos tradicional cascada y Scrum.",
-      "Experiencia práctica con herramientas para pruebas automatizadas: Selenium, Apium, Cucumber, etc y trabajo con lenguaje GHERKIN.",
-      "Experiencia en análisis de Logs.",
-      "Experiencia trabajando con herramientas de gestión de calidad: Quality Center, Jira, Xray, etc.",
-      "Conocimiento en tecnología informática y lenguajes de programación: Phyton, Java u otros.",
-      "Experiencia en consulta de BD SQL.",
-      "Experiencia en el uso de herramientas de integración continua: Jenkins y otros.",
-      "Experiencia en pruebas de rendimiento: JMeter u otras."
-    ]
+    "linkOffer": "https://www.linkedin.com/jobs/view/4341256392",
+    "reason": "La oferta es para un QA Automatizador y menciona explícitamente el uso de herramientas como Selenium, Playwright, y lenguajes como Python, además de TypeScript, lo que coincide con el perfil. Las responsabilidades incluyen BDD, ATDD y herramientas CI/CD como Jenkins. El rango salarial estimado para esta posición en Lima, Perú, en una empresa como Inetum, se sitúa entre S/5,500 y S/9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4248392784",
+    "id": "https://www.linkedin.com/jobs/view/4249899762",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4249899762",
+    "reason": "La oferta se centra en un rol de QA Automatizador y especifica el uso de herramientas como Selenium y Playwright, además de lenguajes como Python. Las responsabilidades implican BDD, ATDD y herramientas CI/CD como Jenkins, que son clave para el perfil. El rango salarial aproximado para un puesto similar en Lima, Perú, con la experiencia requerida y en una empresa como Inetum, oscila entre S/5,500 y S/9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4120670894",
     "title": "QA Automation",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4248392784",
-    "reason": "Esta oferta se titula 'QA Automation', lo cual se alinea directamente con el perfil buscado. Aunque la descripción está vacía, el título sugiere un fuerte enfoque en automatización de pruebas. Dada la prioridad a la automatización y la empresa Inetum que aparece en otras ofertas relevantes, se asume que requerirá experiencia y habilidades en este campo. Se estima un rango salarial aproximado de S/ 5,000 - S/ 8,000 mensuales, considerando el título del puesto y el mercado en Lima, Perú, para un puesto de automatización de QA.",
-    "responsibilities": [
-      "No especificado en la descripción, pero se infiere un rol enfocado en automatización de pruebas."
-    ]
+    "linkOffer": "https://www.linkedin.com/jobs/view/4120670894",
+    "reason": "Este puesto de QA Automation en Inetum es relevante ya que se alinea con el perfil de automatización de pruebas. Aunque la descripción es escasa, se infiere la necesidad de habilidades en automatización de pruebas. El rango salarial aproximado para un rol de Automation QA en Lima, Perú, para una empresa como Inetum, se sitúa entre S/5,500 y S/9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4341582944",
+    "title": "QA Automatizador - Nov 25 II - Med",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4341582944",
+    "reason": "La oferta para QA Automatizador en Inetum se alinea con el perfil debido a la necesidad de experiencia en automatización de pruebas. Aunque la descripción detallada no está disponible, el título del puesto y la empresa sugieren un rol enfocado en automatización. El rango salarial aproximado para un QA Automatizador en Lima, Perú, en esta compañía, podría estar entre S/5,500 y S/9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4214301550",
+    "title": "Pivot QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4214301550",
+    "reason": "Este rol de Pivot QA Automatizador en Inetum es un buen match con el perfil, ya que el enfoque principal es la automatización de pruebas. Aunque la descripción es limitada, el título indica claramente la especialización. El rango salarial aproximado para este tipo de puesto en Lima, Perú, se estima entre S/5,500 y S/9,000 mensuales."
   },
   {
     "id": "https://www.linkedin.com/jobs/view/4379972851",
     "title": "IT Quality Engineer",
     "employer": "TRANZACT",
     "linkOffer": "https://www.linkedin.com/jobs/view/4379972851",
-    "reason": "Esta oferta para 'IT Quality Engineer' en TRANZACT, aunque no especifica explícitamente automatización, es una oportunidad potencial dado el dominio de 'QA Automation' en el perfil y la naturaleza generalista de la ingeniería de calidad. Si bien requiere más investigación sobre las responsabilidades específicas (posiblemente manuales y de automatización), la empresa y el rol son relevantes para el campo de QA. Se estima un rango salarial aproximado de S/ 4,500 - S/ 7,000 mensuales, considerando la posición de ingeniero de calidad y el mercado en Lima, Perú, esperando que pueda tener un componente de automatización.",
-    "responsibilities": [
-      "No especificado en la descripción, pero se infiere un rol enfocado en asegurar la calidad de sistemas IT."
-    ]
+    "reason": "La oferta de IT Quality Engineer en TRANZACT podría encajar si el rol implica automatización de pruebas, lo cual es una métrica clave del perfil. Aunque el título es más general, es probable que una empresa en el sector tecnológico requiera automatización. El rango salarial aproximado para un IT Quality Engineer con enfoque en automatización en Lima, Perú, se sitúa entre S/5,000 y S/8,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4264504156",
+    "title": "Chapter Lead QA",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4264504156",
+    "reason": "Este rol de Chapter Lead QA en Inetum es un match fuerte, ya que requiere experiencia liderando equipos de pruebas, conocimiento avanzado en gestión ágil, y experiencia práctica con herramientas para pruebas automatizadas (Selenium, Postman). El rol de líder implica también la elaboración de la estrategia de automatización. El rango salarial aproximado para un Chapter Lead QA en Lima, Perú, con esta experiencia, estaría entre S/8,000 y S/12,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4290999254",
+    "title": "Chapter Lead QA",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4290999254",
+    "reason": "La oferta para Chapter Lead QA en Inetum es altamente relevante ya que el perfil solicita experiencia liderando equipos de pruebas y conocimiento en herramientas de automatización como Selenium y Postman, además de la elaboración de estrategias de automatización. Este rol se alinea con un nivel Senior y enfoque en automatización. El rango salarial estimado para un Chapter Lead QA en Lima, Perú, con estas responsabilidades, se encuentra entre S/8,000 y S/12,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4247591865",
+    "title": "Chapter Lead QA",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4247591865",
+    "reason": "Esta oferta de Chapter Lead QA en Inetum coincide con el perfil por requerir experiencia en liderar equipos de pruebas y conocimiento en herramientas de automatización como Selenium y Postman. La elaboración de la estrategia de automatización es una responsabilidad clave. El rango salarial aproximado para un rol de Chapter Lead QA en Lima, Perú, con la experiencia requerida, oscila entre S/8,000 y S/12,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4279693086",
+    "title": "Chapter Lead QA",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4279693086",
+    "reason": "El puesto de Chapter Lead QA en Inetum es un match ideal, ya que busca experiencia liderando equipos de pruebas, conocimiento de herramientas de automatización (Selenium, Postman) y elaboración de estrategias de automatización, lo cual se alinea perfectamente con el perfil de QA Senior con enfoque en automatización. El rango salarial aproximado para un Chapter Lead QA en Lima, Perú, con este nivel de experiencia, se estima entre S/8,000 y S/12,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4395291408",
+    "title": "Principal Auditor - *GCP experience required",
+    "employer": "Syneos Health",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4395291408",
+    "reason": "Aunque el título es de 'Principal Auditor', la mención de 'GCP experience required' podría implicar un rol de calidad en ambientes regulados. Sin embargo, no hay indicación clara de automatización de pruebas de software. El rol parece más enfocado en auditoría que en desarrollo de QA Automation. Por lo tanto, no se considera un match directo con el perfil de automatización."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4383046331",
+    "title": "SENIOR SOFTWARE ENGINEER",
+    "employer": "Ticketmaster",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4383046331",
+    "reason": "Este rol de Senior Software Engineer en Ticketmaster no se alinea con el perfil de QA Automation Engineer. Aunque es un rol senior, el enfoque es en desarrollo de software, no en testing y automatización de pruebas. Por lo tanto, no se considera un match."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4383054027",
+    "title": "SENIOR FRONTEND ENGINEER",
+    "employer": "Ticketmaster",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4383054027",
+    "reason": "La oferta para Senior Frontend Engineer en Ticketmaster no se ajusta al perfil. El rol está enfocado en desarrollo frontend, no en automatización de pruebas de software. Por lo tanto, no se considera un match."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4336451812",
+    "title": "Analista de Aseguramiento de Calidad",
+    "employer": "Inetum",
+    "location": "Lima Metropolitan Area",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4336451812",
+    "reason": "La oferta de 'Analista de Aseguramiento de Calidad' en Inetum requiere más de 4 años de experiencia en QA/Testing y al menos 1 año en gestión de proyectos. Si bien menciona experiencia en pruebas manuales y automatizadas, el énfasis principal parece estar en la gestión de indicadores y la comunicación a nivel de cliente, sin especificar un rol de automatización profunda. Además, el requisito de \"más de 04 años de experiencia en aseguramiento de calidad QA / Testing\" es genérico. El rango salarial aproximado para un Analista de QA con experiencia en gestión y automatización en Lima, Perú, se sitúa entre S/4,500 y S/7,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4228150000",
+    "title": "QA Tester Junior Banca - Commodity",
+    "employer": "Inetum",
+    "location": "San Isidro, Peru",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4228150000",
+    "reason": "Esta oferta es para un 'QA Tester Junior' y menciona \"conocimiento básico en herramientas de automatización por plataforma\" y \"conocimiento básico de java\", lo cual no cumple con el requisito de \"3+ años en automatización de pruebas\" ni el nivel esperado para un rol senior. Por lo tanto, no se considera un match."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4145429990",
+    "title": "QA Funcional",
+    "employer": "Inetum",
+    "location": "San Isidro, Peru",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4145429990",
+    "reason": "La oferta de 'QA Funcional' en Inetum tiene una experiencia mínima de 02 años y menciona \"pruebas de API\" y \"pruebas de estrés\", además de herramientas de integración continua como Git y Azure DevOps. Sin embargo, no hay un enfoque explícito en automatización de pruebas web/mobile/API ni en el uso de frameworks como Selenium o Playwright con la profundidad requerida por el perfil. Se enfoca más en pruebas funcionales y de API. El rango salarial aproximado para un QA Funcional con experiencia en API en Lima, Perú, se sitúa entre S/4,000 y S/6,500 mensuales."
   }
 ]
