@@ -1,51 +1,37 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4397975490",
-    "title": "Tech Lead Java Senior",
-    "employer": "Ayesa Digital",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4397975490",
-    "reason": "Esta oferta es altamente relevante ya que se busca un \"Tech Lead Java Senior\" con fortaleza en arquitectura y desarrollo backend, lo cual se alinea con el interés en roles \"Backend con enfoque en testing\" y el rol \"Software Development Engineer in Test (SDET)\". Las responsabilidades incluyen definir y evolucionar la arquitectura de extremo a extremo (backend + APIs + frontend + integraciones), actuar como referencia técnica para QA, y dirigir sesiones técnicas, code reviews y pair programming, lo que implica una fuerte componente de aseguramiento de la calidad. Aunque no se especifica explícitamente experiencia en automatización de pruebas, la naturaleza del rol de Tech Lead en un entorno moderno con CI/CD y la necesidad de colaborar con QA sugiere un enfoque en la calidad y la eficiencia de los procesos de desarrollo y despliegue. El stack técnico mencionado, Java (Spring Boot), la experiencia en arquitecturas y diseño de procesos asíncronos, y la participación en CI/CD (Azure DevOps), son compatibles con el perfil. El rango salarial aproximado para un Tech Lead Java Senior en Lima, Perú, puede variar entre S/ 8,000 y S/ 15,000 mensuales, dependiendo de la empresa y la experiencia específica."
+    "id": "https://www.linkedin.com/jobs/view/4398279481",
+    "title": "Analista QA Semi Senior",
+    "employer": "Soluciones Digitales",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4398279481",
+    "reason": "Esta oferta se ajusta al perfil de 'QA Senior' y 'SDET' con más de 3 años de experiencia en automatización. La descripción menciona explícitamente experiencia en desarrollo de aplicaciones web, bases de datos SQL, y conocimientos en lenguajes como .NET, Python, Nodejs, lo cual está alineado con el tech stack del perfil. Las responsabilidades incluyen el análisis, diseño y desarrollo de aplicaciones front/back-end, garantía de funcionalidad, aplicación de buenas prácticas de codificación y metodologías ágiles, todo lo cual es coherente con un rol de automatización y desarrollo enfocado en testing. El salario aproximado para un puesto 'Semi Senior' en Lima, Perú, con esta experiencia y en una empresa de soluciones digitales, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4397961663",
-    "title": "Tech Lead .NET Senior",
-    "employer": "Ayesa Digital",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4397961663",
-    "reason": "Esta oferta es muy pertinente dado que se busca un \"Tech Lead .NET Senior\" con experiencia en arquitectura y desarrollo backend. Si bien el perfil principal se enfoca en \"SDET\" y \"QA Automation Engineer\", el rol de Tech Lead en un entorno de desarrollo ágil con enfoque en CI/CD (Azure DevOps) y la necesidad de actuar como referencia técnica para QA implica una profunda comprensión y colaboración en las prácticas de calidad del software. Las responsabilidades incluyen definir y evolucionar la arquitectura de extremo a extremo, diseñar y construir servicios backend en .Net, e implementar integraciones. La experiencia en .NET, principios SOLID, patrones de arquitectura, manejo de concurrencia, asincronía, y participación en CI/CD son aspectos valorables. Aunque no se mencionan herramientas de automatización de pruebas explícitamente en las responsabilidades, la naturaleza del rol y la colaboración con QA hacen que sea un puesto con un fuerte componente de aseguramiento de la calidad. El rango salarial aproximado para un Tech Lead .NET Senior en Lima, Perú, puede variar entre S/ 8,000 y S/ 15,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4394759019",
+    "title": "QA Automatizador",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4394759019",
+    "reason": "La oferta busca un 'QA Automatizador' y pide experiencia en 'Automation' con tecnologías como Selenium WebDriver y Appium, lo cual coincide directamente con el perfil 'QA Automation Engineer' y 'SDET'. El requisito de experiencia de 1 año o más en automatización es inferior a los 3+ años del perfil, pero la naturaleza del rol y el uso de herramientas de automatización y testing continuo (Jenkins, Bitbucket) lo hacen relevante. Las responsabilidades implican aplicar metodologías de automatización y testing. El salario aproximado para un QA Automatizador en NTT DATA en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4394397927",
-    "title": "ANALISTA FUNCIONAL TI JUNIOR / ANALISTA DE CALIDAD (QA) JUNIOR",
-    "employer": "Novit Lab",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4394397927",
-    "reason": "Esta oferta, aunque marcada como \"JUNIOR\", incluye \"ANALISTA DE CALIDAD (QA)\" en el título. El perfil principal tiene un requisito de \"3+ años en automatización de pruebas\". Dado que esta oferta es para un rol \"Junior\" y no especifica automatización, no es una prioridad alta. Sin embargo, la mención de \"Analista de Calidad (QA)\" podría implicar un punto de entrada si la empresa tuviera oportunidades de crecimiento hacia la automatización. El rango salarial aproximado para un Analista de Calidad Junior en Lima, Perú, suele estar entre S/ 2,500 y S/ 4,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4386570581",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
+    "reason": "Esta oferta es para un 'QA Automatizador' y requiere una 'Experiencia mínima de 3 años a más dentro del rol', lo que se alinea perfectamente con el requisito de experiencia del perfil. La descripción menciona experiencia en Python, API Testing (Postman/SoapUI), RestAssure+Java para backend, y Selenium+Java para frontEnd, así como metodologías Agile, todas ellas muy relevantes para un SDET o QA Automation Engineer. Las responsabilidades incluyen validación de datos, pruebas en pipelines de datos, y pruebas API/backend/frontend. El rango salarial aproximado para este puesto en Inetum en Lima, Perú, podría estar entre S/ 6,500 y S/ 9,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4394485799",
-    "title": "Desarrollador Genexus",
-    "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4394485799",
-    "reason": "Esta oferta busca un \"Desarrollador Genexus\" con experiencia en \"automatización de despliegues de soluciones\" y \"DevOps\", lo cual tiene una conexión indirecta con la automatización de pruebas. Se mencionan entornos bancarios de alta criticidad y el rol implica asegurar la \"calidad del software\". Las responsabilidades incluyen la gestión de procesos CI/CD (Jenkins, GitLab CI, Azure DevOps) y la colaboración con equipos de QA. Si bien el rol principal no es de \"SDET\" o \"QA Automation Engineer\", la experiencia en DevOps y CI/CD, junto con el entorno bancario, lo hacen interesante. El rango salarial aproximado para un desarrollador con este perfil en Lima, Perú, podría estar entre S/ 4,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4398901960",
+    "title": "QA Funcional Senior [BANCA]",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4398901960",
+    "reason": "Aunque el título es 'QA Funcional Senior', la descripción detalla que se diseñarán, ejecutarán y documentarán casos de prueba funcionales (manuales y automatizados), y se enfatiza la experiencia en 'pruebas funcionales automatizadas' y 'pruebas de rendimiento'. El sector 'Banca' es una preferencia clave en el perfil. Se requieren 5 años como QA Funcional, con al menos 3 en banca, y experiencia en metodologías ágiles y BDD. Si bien el enfoque principal podría ser funcional, la mención de pruebas automatizadas y el sector bancario lo hacen una oferta prioritaria. El salario aproximado para un QA Funcional Senior en el sector bancario en Lima, Perú, podría oscilar entre S/ 7,000 y S/ 11,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4398065143",
-    "title": "Practicante Profesional de Desarrollo Digital",
-    "employer": "Komatsu-Mitsui Maquinarias Peru S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4398065143",
-    "reason": "Esta es una oferta de \"Practicante Profesional\", lo cual no se alinea con el requisito de \"3+ años de experiencia\" y las preferencias de \"QA Senior\" o \"SDET\". Sin embargo, la descripción menciona \"Apoyar en pruebas funcionales (QA), registro de incidencias y elaboración de evidencias de prueba\" y \"Aplicar las herramientas y tecnologías del stack del área (control de versiones, lenguajes de programación, plataformas digitales)\". Dado que el perfil tiene experiencia y el rol es junior, no se prioriza, pero se incluye como una posibilidad de ingreso a la empresa si no hay otras opciones más directas. El rango salarial aproximado para un practicante profesional en Lima, Perú, suele ser la subvención económica según ley, que es un monto fijo."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4397790913",
-    "title": "Practicante de control de calidad",
-    "employer": "EUROPLAST S.A.C.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4397790913",
-    "reason": "Esta es una oferta para \"Practicante de control de calidad\" en el rubro de plásticos. No se alinea con el perfil de automatización de pruebas, ya que el requisito principal es experiencia en plantas industriales y las funciones se centran en inspección de productos y gestión de calidad manual. Se descarta de alta prioridad debido a que el perfil busca roles senior en automatización y este es claramente un rol junior y manual. El rango salarial aproximado para un practicante en esta área suele ser la subvención económica según ley."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4398307415",
-    "title": "Jefe de Proyecto TI - Integraciones",
-    "employer": "METRICA Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4398307415",
-    "reason": "Esta oferta busca un \"Jefe de Proyecto TI - Integraciones\". Si bien se menciona \"Coordinar con equipos de desarrollo y QA asegurando la correcta ejecución de los proyectos\" y \"Gestión de múltiples proyectos en paralelo garantizando tiempos, calidad y alcance\", el rol principal es de gestión de proyecto, no de automatización de pruebas o SDET. El perfil solicitado es \"background técnico en desarrollo (Java + Spring deseable)\" y \"Conocimiento en integraciones vía APIs\". No es un rol directo de automatización de pruebas. El rango salarial aproximado para un Jefe de Proyecto TI en Lima, Perú, puede variar entre S/ 7,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4386565831",
+    "title": "QA Automatizador - Mar 26 - Med",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
+    "reason": "Similar a la otra oferta de Inetum, esta es para un 'QA Automatizador' y especifica experiencia en Python, API Testing, RestAssure+Java, y Selenium+Java. La experiencia mínima de 3 años se alinea con el perfil. Las responsabilidades incluyen validación de datos y pruebas en pipelines de datos, lo cual es relevante para un enfoque de QA con desarrollo. El rango salarial aproximado para este puesto en Inetum en Lima, Perú, podría estar entre S/ 6,500 y S/ 9,500 mensuales."
   }
 ]
