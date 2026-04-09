@@ -1,37 +1,29 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4398279481",
-    "title": "Analista QA Semi Senior",
-    "employer": "Soluciones Digitales",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4398279481",
-    "reason": "Esta oferta se ajusta al perfil de 'QA Senior' y 'SDET' con más de 3 años de experiencia en automatización. La descripción menciona explícitamente experiencia en desarrollo de aplicaciones web, bases de datos SQL, y conocimientos en lenguajes como .NET, Python, Nodejs, lo cual está alineado con el tech stack del perfil. Las responsabilidades incluyen el análisis, diseño y desarrollo de aplicaciones front/back-end, garantía de funcionalidad, aplicación de buenas prácticas de codificación y metodologías ágiles, todo lo cual es coherente con un rol de automatización y desarrollo enfocado en testing. El salario aproximado para un puesto 'Semi Senior' en Lima, Perú, con esta experiencia y en una empresa de soluciones digitales, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4396303104",
+    "title": "Líder de calidad - QA",
+    "employer": "Stefanini LATAM",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4396303104",
+    "reason": "Esta oferta se alinea con el perfil de un \"Automation Engineer\" o \"QA Senior\" con enfoque en automatización. Se busca un líder para la estrategia de calidad, incluyendo automatización de pruebas, planificación, ejecución y control. Los requisitos mencionados como \"Experiencia en automatización de pruebas\" y \"Proponer e implementar mejoras en el proceso de calidad y automatización de pruebas\" son clave. El dominio de herramientas como Postman y JMeter también es relevante. Se estima un rango salarial aproximado de S/ 8,000 - S/ 12,000 mensuales, considerando la ubicación (Lima, Perú), la empresa de tecnología y el rol de liderazgo.",
+    "responsibilities": "Liderar la estrategia de pruebas, planificar, estimar y supervisar la ejecución de pruebas (incluyendo automatización), gestionar defectos, generar reportes, coordinar con equipos de desarrollo y negocio, proponer mejoras en procesos de calidad y automatización, definir estrategias para pruebas en pases a producción, asegurar buenas prácticas ISTQB, y validación de servicios (APIs).",
+    "salary_estimate": "S/ 8,000 - S/ 12,000 mensuales (aproximado)"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4394759019",
-    "title": "QA Automatizador",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4394759019",
-    "reason": "La oferta busca un 'QA Automatizador' y pide experiencia en 'Automation' con tecnologías como Selenium WebDriver y Appium, lo cual coincide directamente con el perfil 'QA Automation Engineer' y 'SDET'. El requisito de experiencia de 1 año o más en automatización es inferior a los 3+ años del perfil, pero la naturaleza del rol y el uso de herramientas de automatización y testing continuo (Jenkins, Bitbucket) lo hacen relevante. Las responsabilidades implican aplicar metodologías de automatización y testing. El salario aproximado para un QA Automatizador en NTT DATA en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4386570581",
-    "title": "QA Automatizador",
+    "id": "https://www.linkedin.com/jobs/view/4399467421",
+    "title": "QA Automation",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
-    "reason": "Esta oferta es para un 'QA Automatizador' y requiere una 'Experiencia mínima de 3 años a más dentro del rol', lo que se alinea perfectamente con el requisito de experiencia del perfil. La descripción menciona experiencia en Python, API Testing (Postman/SoapUI), RestAssure+Java para backend, y Selenium+Java para frontEnd, así como metodologías Agile, todas ellas muy relevantes para un SDET o QA Automation Engineer. Las responsabilidades incluyen validación de datos, pruebas en pipelines de datos, y pruebas API/backend/frontend. El rango salarial aproximado para este puesto en Inetum en Lima, Perú, podría estar entre S/ 6,500 y S/ 9,500 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4399467421",
+    "reason": "Esta oferta se ajusta perfectamente al perfil de \"QA Automation Engineer\" y \"Automation Engineer\". Se busca explícitamente un \"QA Automation\" responsable de asegurar la calidad del software a través de la implementación y ejecución de pruebas automatizadas. Los requisitos de \"Lenguajes de Programación: Python\" y \"Pruebas Automatizadas: Experiencia en el diseño, desarrollo y ejecución de scripts de prueba automatizados\" coinciden directamente con las habilidades buscadas. Se menciona la remuneración en planilla con todas las condiciones de ley, vale de alimentos y otros beneficios, además de capacitaciones. Se estima un rango salarial aproximado de S/ 6,000 - S/ 10,000 mensuales, considerando la ubicación, el tipo de empresa y el rol.",
+    "responsibilities": "Asegurar la calidad del software mediante la implementación y ejecución de pruebas automatizadas, colaborar estrechamente con desarrolladores, identificar y resolver problemas de calidad, diseñar, desarrollar y mantener scripts de prueba automatizados, y analizar resultados de pruebas.",
+    "salary_estimate": "S/ 6,000 - S/ 10,000 mensuales (aproximado)"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4398901960",
-    "title": "QA Funcional Senior [BANCA]",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4398901960",
-    "reason": "Aunque el título es 'QA Funcional Senior', la descripción detalla que se diseñarán, ejecutarán y documentarán casos de prueba funcionales (manuales y automatizados), y se enfatiza la experiencia en 'pruebas funcionales automatizadas' y 'pruebas de rendimiento'. El sector 'Banca' es una preferencia clave en el perfil. Se requieren 5 años como QA Funcional, con al menos 3 en banca, y experiencia en metodologías ágiles y BDD. Si bien el enfoque principal podría ser funcional, la mención de pruebas automatizadas y el sector bancario lo hacen una oferta prioritaria. El salario aproximado para un QA Funcional Senior en el sector bancario en Lima, Perú, podría oscilar entre S/ 7,000 y S/ 11,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4386565831",
-    "title": "QA Automatizador - Mar 26 - Med",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
-    "reason": "Similar a la otra oferta de Inetum, esta es para un 'QA Automatizador' y especifica experiencia en Python, API Testing, RestAssure+Java, y Selenium+Java. La experiencia mínima de 3 años se alinea con el perfil. Las responsabilidades incluyen validación de datos y pruebas en pipelines de datos, lo cual es relevante para un enfoque de QA con desarrollo. El rango salarial aproximado para este puesto en Inetum en Lima, Perú, podría estar entre S/ 6,500 y S/ 9,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4376499519",
+    "title": "QA Engineer II - Data",
+    "employer": "OpenLoop",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4376499519",
+    "reason": "Este rol de \"QA Engineer II - Data\" encaja con el perfil de \"Automation Engineer\" y \"Backend con enfoque en testing\", especialmente considerando la experiencia requerida en \"QA automation o software testing, con un enfoque en data pipelines o backend systems\". El uso de Python y TypeScript para automatización de pruebas, la experiencia con CI/CD (GitHub Actions, AWS CodePipeline), y el trabajo con AWS y ETL processes son puntos fuertes que coinciden con el tech stack y dominios de interés. La oferta menciona \"Formal employment (“Planilla”) under a Peruvian entity — all legal benefits in soles (CTS, Gratificaciones, etc.)\" y \"Unlimited vacation days\", además de coworking. El rango salarial es competitivo, se estima entre S/ 7,000 - S/ 11,000 mensuales.",
+    "responsibilities": "Ser dueño y mantener el conjunto de pruebas automatizadas en el pipeline de CI, incluyendo pruebas de integración, comprobaciones de calidad de datos y smoke tests para la infraestructura de datos. Colaborar con ingenieros de datos para entender la arquitectura de pipelines, desarrollar estrategias de testing, escribir y mantener pruebas automatizadas para pipelines de datos usando Python y TypeScript, implementar comprobaciones de calidad de datos, construir y mantener frameworks de testing que se integren con pipelines CI/CD, y documentar casos de prueba y estrategias.",
+    "salary_estimate": "S/ 7,000 - S/ 11,000 mensuales (aproximado)"
   }
 ]

@@ -1,5 +1,27 @@
 [
     {
+        "titleJob": "Líder QA",
+        "employer": "Periferia IT Group",
+        "linkProfileEmployer": "https://co.linkedin.com/company/periferia-it-group?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "14 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "¡Prepárate para vivir una nueva etapa con Periferia IT Group! 🌟Si tienes experiencia como Líder QA y quieres generar un impacto en el mundo tecnológico, esta es tu oportunidad para unirte a nuestro equipo. Trabajarás con más de 1,000 profesionales en una multinacional colombiana líder en el sector TI, con fuerte presencia en América Latina y Estados Unidos. ¡Impulsa tu carrera con nosotros y haz crecer tu potencial! 🚀📈💼💻¿Te gustaría llevar tu carrera al siguiente nivel con Periferia IT Group?👥 Únete a nuestra cultura Periferia enfocada al servicio y la innovación, donde cada idea cuenta para superar las expectativas de nuestros clientes.🚀 Sumérgete en un entorno laboral dinámico que fomenta el aprendizaje continuo y el desarrollo personal.💡 Participa en proyectos desafiantes donde podrás aplicar tus conocimientos y habilidades para generar un impacto real.🤝 Disfruta de un equilibrio entre tu vida personal y laboral, mientras promovemos el bienestar integral de todos nuestros colaboradores.Para destacar en tu postulación debes:🎓 Ser Bachiller en Ingeniería de Software, Sistemas, Informática o disciplinas relacionadas.💻 Contar con experiencia superior a 3 años como Líder QA.📊 Dominar un nivel alto de estrategias de testing, testing en múltiples entornos, principios de automatización de pruebas y principios de pruebas no funcionales.🌱 Capacidad de adaptarse a nuevas tecnologías y enfoques innovadores para maximizar su impacto.Tus funciones específicas serán:📈 Diseñar e implementar estrategias de testing (manual, automatizado y performance).🧠 Gestionar los defectos y métricas de calidad.💼 Coordinar con equipos de Desarrollo, Seguridad y Negocio.Lo que encontrarás al unirte al mundo de Periferia IT Group:🏢 Trabajo presencial en San Isidro – Lima / Perú.📜 Contrato a plazo Determinado.💰 Salario negociable según experiencia y habilidades.🎁 Beneficios a la carta para tu bienestar y estilo de vida.¡Da el paso y únete hoy a nuestro equipo Periferia IT! 🎉",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4395999072"
+    },
+    {
+        "titleJob": "Líder de calidad - QA",
+        "employer": "Stefanini LATAM",
+        "linkProfileEmployer": "https://br.linkedin.com/company/stefaninilatam?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "San Borja, Peru",
+        "howLongAgo": "14 hours ago",
+        "recruiter": "Lic. Abigail Grimberg",
+        "profileRecruiter": "https://ar.linkedin.com/in/lic-abigail-grimberg-389161151",
+        "descriptionOffer": "¡Sé parte de Stefanini!En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor.Liderar la estrategia de calidad en la fábrica de desarrollo, asegurando la correcta planificación, ejecución y control de las pruebas, garantizando la calidad de los entregables y el cumplimiento de los estándares definidos.Funciones:Liderar la estrategia de pruebas dentro de la fábrica (certificación, regresión, automatización).Planificar, estimar y supervisar la ejecución de pruebas de certificación.Gestionar y validar la definición de casos de prueba.Supervisar la documentación de evidencias en herramientas corporativas.Asegurar el registro, seguimiento y cierre de defectos.Generar reportes de avance, ejecución y cierre de pruebas.Coordinar con equipos de desarrollo y negocio para asegurar la calidad del producto.Proponer e implementar mejoras en el proceso de calidad y automatización de pruebas.Liderar la ejecución de:Pruebas funcionalesPruebas integralesPruebas de sistemaPruebas de regresiónDefinir estrategias para pruebas en pases a producción y post-producción.Asegurar el uso de buenas prácticas (ISTQB) en la elaboración de casos de prueba.Validación de servicios: APIs (REST / SOAP)Uso de herramientas: Postman (servicios) / JMeter (pruebas de estrés)Requisitos y competencias:Obligatorios+5 años de experiencia en pruebas de certificación.Experiencia liderando equipos de QA en modelo fábrica o ágil.Certificación ISTQB Foundation o equivalente.Experiencia en gestión de defectos y ciclo de pruebas end-to-end.DeseablesExperiencia en automatización de pruebas.Conocimiento en herramientas de CI/CD y calidad (ej. SonarQube).Experiencia en entornos de alta demanda o transformación digital.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4396303104"
+    },
+    {
         "titleJob": "Functional Quality Assurance",
         "employer": "Tata Consultancy Services",
         "linkProfileEmployer": "https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
@@ -11,124 +33,124 @@
         "linkOffer": "https://www.linkedin.com/jobs/view/4392923603"
     },
     {
-        "titleJob": "Analista de Mejora Continua",
-        "employer": "Recsa Perú",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/recsaperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Technical Author - AI for QA (part-time)",
+        "employer": "TripleTen Indonesia",
+        "linkProfileEmployer": "https://id.linkedin.com/school/tripletenindonesia/?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
         "howLongAgo": "13 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "ANALISTA DE MEJORA CONTINUAObjetivoResponsable de optimizar procesos operativos de cobranza, hacer seguimiento en búsqueda de consecución de objetivos, enfocado en mejorar contactabilidad, intensidad y eficiencia mediante tecnología, motor de performance y eficiencia operativa.Responsabilidades Principales Del PuestoAnalizar indicadores operativos como TMO, Nivel de Servicio, Abandono, Contactabilidad, Productividad, QA y NPS, con el fin de identificar desviaciones, cuellos de botella y oportunidades de mejora en los procesos, elaborando reportes ejecutivos que contengan insights accionables para una adecuada toma de decisiones.Diseñar, implementar y dar seguimiento a iniciativas de mejora continua (Lean, Six Sigma u otros), mediante el mapeo de procesos AS-IS y TO-BE para optimizar los flujos operativos, liderando proyectos orientados a la reducción de tiempos y costos.Proponer automatizaciones de procesos mediante el uso de macros, dashboards y herramientas de BI, así como implementar soluciones tecnológicas orientadas a optimizar la eficiencia de la operación.Coordinar con las áreas de Operaciones, Calidad, TI y RRHH la ejecución de iniciativas de mejora, realizando seguimiento a los planes de acción para asegurar el cumplimiento de plazos y midiendo el impacto post-implementación a través de indicadores como ROI y mejoras en KPIs.Monitorear la estabilidad de los procesos implementados, generando alertas tempranas ante posibles desviaciones operativas y asegurando la adecuada documentación y estandarización de los mismos.REQUISITOS: Estudios culminados en Ingeniería Industrial, Administración, Economía, Estadística o afines✓ SQL (indispensable) ✓ Power BI / Tableau (preferente) ✓ Excel avanzado ✓ Python (deseable) ✓ Discadores (Genesys, Avaya, MItrol) ✓ Modelamiento de datos ✓ Análisis de datos estadísticos ✓ Manejo de stakeholders Experiencia mínima de 3 años en el puesto o puestos similares Disponibilidad laboral de Lunes a Viernes 8am a 6pm en el centro de Lima (Alt Plaza San Martin)BeneficiosSalario superior al mercadoParticipación en proyectos formativos de alto impactoEntorno colaborativo y motivador",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4398533016"
+        "descriptionOffer": "DescriptionNebius Academy is an educational platform that helps experienced software developers stay at the forefront of technological innovation. We create specialized courses that teach professionals how to effectively use AI tools in real-world development workflows.Our programs are designed to help engineers critically and productively apply artificial intelligence in their professional work, improving code quality, development speed, and overall work efficiency.Our mission: Provide engineers with access to cutting-edge knowledge in AI-assisted development and help them become leaders in the new era of programming.Who We're Looking ForWe are seeking experienced developers and technical experts (5+ years) with hands-on AI tools experience, a proven track record in tech leadership or mentoring, and the ability to explain complex concepts clearly. Ideal candidates are fluent in English, detail-oriented, able to work independently, and can commit 10-15 hours per week to creating educational content for professional developers.Please submit your resume in English.What You Will DoCollaborate with us to create a course structure that satisfies the target audience's needs.Create learning objectives for each content module for students together with instructional designers (if you don’t have experience with this, that’s ok. We’ll teach you and work on it together).Create clear, concise, and comprehensive content for lessons, manuals, guides, synchronous online sessions outlines, and assessments. Several iterations of content improvement can be necessary (in collaboration with an instructional designer). Content includes texts, draft slides, and screencasts.Participate as a speaker in our learning videos.Design the final project for the course.Ensure all content meets industry standards and aligns with the courses’ objectives.Participate in students’ feedback analysis and iterative content improvements based on the feedback.Additional: You can participate as a teacher in synchronous online learning sessions, if you wish; it is paid separately.⌛ This role requires 10-15 hours of availability per week. For the Spanish-speaking position, flexibility for Spanish and Latin American time zones is preferred.RequirementsProfessional experience in QA engineering, 5+ years.Hands-on experience with AI-assisted QA engineering tools (e.g. testRigor, Magic Inspector, Rainforest QA**,** etc.) and successful cases of their implementation.Proven track record in engineer advocacy, tech leadership, conference participation, or mentoring.Fluent in English (both written and spoken).Desire to share your knowledge and ability to describe difficult concepts in a comprehensible way.Strong attention to detail.Ability to work independently.Time commitment: able to devote 10 hours per week for collaboration.Nice To HaveExperience as a Technical Writer/Editor/Author or in a similar role.Experience in teaching or creating educational content.Your own experience as a student online.Interest in instructional design and education.What We Can Offer YouThe opportunity to create impactful content while maintaining your primary job: Share your expertise without leaving your current roleCompetitive hourly rate of $40-$85 USD for flexible part-time collaboration with significant impact and an amazing team!Remote cooperation with a schedule convenient for both you and the team: We don't focus on micromanagementCross-cultural experience: Become part of an international team and connect with professionals from diverse backgroundsMeaningful impact: Share your knowledge and help experienced engineers advance their skills through high-quality educational contentParticipation in innovative projects: Contribute to shaping the future of programming education and AI adoptionProfessional growth: Receive feedback and develop your skills as a technical content creator and thought leader",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4398495158"
     },
     {
-        "titleJob": "Analista de Aseguramiento de la Calidad QF",
-        "employer": "Salog",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/salog?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Callao, Constitutional Province of Callao, Peru",
-        "howLongAgo": "13 hours ago",
+        "titleJob": "Technical Author - AI for QA (part-time)",
+        "employer": "TripleTen",
+        "linkProfileEmployer": "https://www.linkedin.com/school/tripleten/?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "14 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Importante empresa del sector salud, se encuentra en búsqueda del mejor talento para la posición de Analista de Aseguramiento de la Calidad -Callao.Requisitos Bachiller Químico Farmacéutico (No solicitamos REGENCIA) Experiencia mínima de 2 años en áreas de Dirección Técnica, Aseguramiento de la Calidad, Control de Calidad u otros. MS Office nivel IntermedioFunciones Evaluación de expedientes técnicos de Material Estratégico. Evaluación y muestreo organoléptico de Materiales Estratégicos. Orientar y apoyar al personal en el manejo de productos farmacéuticos y afines, de acuerdo a las BPA y BPDT. Realizar las inspecciones diarias a todos los procesos de Recepción, Almacenamiento, Distribución y Transporte de Material Estratégica. Entre otras funciones según el jefe inmediato.Beneficios Ingreso a Planilla Capacitaciones Todos los Beneficios de Ley",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4398531096"
+        "descriptionOffer": "Nebius Academy is an educational platform that helps experienced software developers stay at the forefront of technological innovation. We create specialized courses that teach professionals how to effectively use AI tools in real-world development workflows.Our programs are designed to help engineers critically and productively apply artificial intelligence in their professional work, improving code quality, development speed, and overall work efficiency.Our mission: Provide engineers with access to cutting-edge knowledge in AI-assisted development and help them become leaders in the new era of programming.Who We're Looking ForWe are seeking experienced developers and technical experts (5+ years) with hands-on AI tools experience, a proven track record in tech leadership or mentoring, and the ability to explain complex concepts clearly. Ideal candidates are fluent in English, detail-oriented, able to work independently, and can commit 10-15 hours per week to creating educational content for professional developers.Please submit your resume in English.What you will do:Collaborate with us to create a course structure that satisfies the target audience's needs.Create learning objectives for each content module for students together with instructional designers (if you don’t have experience with this, that’s ok. We’ll teach you and work on it together).Create clear, concise, and comprehensive content for lessons, manuals, guides, synchronous online sessions outlines, and assessments. Several iterations of content improvement can be necessary (in collaboration with an instructional designer). Content includes texts, draft slides, and screencasts.Participate as a speaker in our learning videos.Design the final project for the course.Ensure all content meets industry standards and aligns with the courses’ objectives.Participate in students’ feedback analysis and iterative content improvements based on the feedback.Additional: You can participate as a teacher in synchronous online learning sessions, if you wish; it is paid separately.⌛ This role requires 10-15 hours of availability per week. For the Spanish-speaking position, flexibility for Spanish and Latin American time zones is preferred.Requirements:Professional experience in QA engineering, 5+ years.Hands-on experience with AI-assisted QA engineering tools (e.g. testRigor, Magic Inspector, Rainforest QA**,** etc.) and successful cases of their implementation.Proven track record in engineer advocacy, tech leadership, conference participation, or mentoring.Fluent in English (both written and spoken).Desire to share your knowledge and ability to describe difficult concepts in a comprehensible way.Strong attention to detail.Ability to work independently.Time commitment: able to devote 10 hours per week for collaboration.Nice to have:Experience as a Technical Writer/Editor/Author or in a similar role.Experience in teaching or creating educational content.Your own experience as a student online.Interest in instructional design and education.What we can offer you:The opportunity to create impactful content while maintaining your primary job: Share your expertise without leaving your current roleCompetitive hourly rate of $40-$85 USD for flexible part-time collaboration with significant impact and an amazing team!Remote cooperation with a schedule convenient for both you and the team: We don't focus on micromanagementCross-cultural experience: Become part of an international team and connect with professionals from diverse backgroundsMeaningful impact: Share your knowledge and help experienced engineers advance their skills through high-quality educational contentParticipation in innovative projects: Contribute to shaping the future of programming education and AI adoptionProfessional growth: Receive feedback and develop your skills as a technical content creator and thought leader",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4399253736"
     },
     {
-        "titleJob": "Analista QA Semi Senior",
-        "employer": "Soluciones Digitales",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/soluciones-digitales-a-medida?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "9 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "Analista QA Semi SeniorEstamos en la búsqueda del mejor talento; Personal calificado, comprometido con pensamiento crítico y con capacidad de adaptación al cambio en los diferentes proyectos y operaciones, y a su vez contribuya a la innovación y mejora continua a través de un modelo de trabajo principalmente virtual que promueva la colaboración remota y presencial de ser requerido.Nivel academico. Tecnico Titulado o Bachiller en Ingenieria de Sistemas o carreras afines.Requisitos. Experiencia minima de 05 años en analisis, diseño y desarrollo de aplicaciones web (INDISPENSABLE). Conocimiento y experiencia minima de 05 años en programacion con base de datos SQL avanzado (INDISPENSABLE). Conocimiento de buenas practicas de codificacion, patrones de diseño y principos de desarrollo de software (INDISPENSABLE). Capacidad para interpretar informes de herramientas de inspeccion de codigo y aplicar correcciones y/o mejorasConocimiento. Lenguajes: .Net, Python, PHP, Nodejs, Docker, SQL (Postgresql, SQL Server) MongoDB, HTML, JavaScript, CSS.. Herramientas: Git, Jira, Azure, VsCode, Intellij.. Otros: Agile Mark Down, Scrum, Micro Services, WebServices programming, Diseño de Arquitectura, Diseño BD's Relacionales y No Relacionales, Direccionamiento IP, Excel AvanzadoFunciones. Diseñara interfaces de usuario y otras funcionalidades para su posterior implementacion. Debera tener la capacidad de analizar y desarrollar aplicaciones front/back-end.. Tendra la responsabilidad de brindar soporte a las areas relacionadas para la creacion de servidores y base de datos para su correcta operatividad.. Garantizara la funcionlidad de las aplicaciones (troubleshooting).. Cumplira con los estandares tecnicos y directivas relacionadas al performance y escalabilidad de las aplicaciones que le han sido asignadas para su desarrollo y/o mantenimiento.. Debera de aplicar buenas practicas (peer review) a fin de asegurar la calidad del software.. Debera de aplicar buenas practicas/metodologias/componentes agiles (KANBAN, desarrollo iterativo, retrospectivas, ceremonias agiles, etc) en el proceso de desarrollo de software.Consideraciones del proceso:. Los examenes tecnicos, razonamiento matematico, psicotecnico, verbal y Psicolaboral será de manera presencial.. Al finalizar el proceso de reclutamiento y seleccion se solicitaá el CV documentado.Condiciones Laboral:Trabajo HibridoHorario: Lunes - Viernes 09:00 a.m. - 18:00 p.m.Salario: Indicar el rango de su pretensión salarial.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4398279481"
-    },
-    {
-        "titleJob": "QA Automatizador",
-        "employer": "NTT DATA Europe & Latam",
-        "linkProfileEmployer": "https://es.linkedin.com/company/ntt-data-europe-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima Metropolitan Area",
-        "howLongAgo": "23 hours ago",
-        "recruiter": "Stefany Cuadros Ruiz",
-        "profileRecruiter": "https://pe.linkedin.com/in/stefany-cuadros-ruiz-34160b199",
-        "descriptionOffer": "Somos NTT DATA, la empresa de servicios TI más grande del mundo, contamos con más de 140.000 profesionales y operamos en más de 50 países. Brindamos soluciones de negocio, estrategia, desarrollo y mantenimiento de aplicaciones tecnológicas y outsourcing.Queremos seguir construyendo un entorno único de colaboración, creativo, cercano y generoso; que nos permita seguir evolucionando juntos, como comunidad y como sociedad, prosperando en un día a día lleno de nuevas y mejores posibilidades.En NTT DATA todos somos Digital Lovers, nos une la tecnología y el corazón, dos ideas que cuando se mezclan nos dan infinitas posibilidades. Ser un Digital Lover es ser un amante de lo digital, es poner el corazón en lo que se hace, es no tener miedo de tener la cabeza en las nubes y ser capaz de iniciar cada proyecto con mariposas en el estómago.¡Estas a un paso de ser un Digital Lover, te invitamos a revisar la vacante de QA Automationy vivir esta experiencia!Requisitos:Egresado de carrera técnica o universitaria en Ing. de Sistemas, Desarrollo de Software o afines1 año a más de experiencia en Automation con alguna de las siguientes tecnologías: Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium.Test Management: Jira + Xray, Gherkin.Testing Continuo: Jenkins, Bitbucket.Certificado ISTQB (deseable).Metodología BDD.Beneficios:Contrato indeterminado desde el primer día.Inmejorable oportunidad de línea de carrera profesional en nuestra consultora líder en el mercado TI.Capacitaciones y Certificaciones.EPS cubierta al 100%.Tarjeta de alimentos.Oportunidad de trabajar en proyectos de clientes de gran envergadura locales e internacionales.“NTT DATA es un entorno inclusivo donde cada voz es escuchada y cada historia es valorada. Por eso, nuestro proceso de selección y reclutamiento se enfoca en identificar el talento sin distinción o sesgos relacionados con género, sexo, orientación sexual, discapacidad, edad u otras características personales”",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4394759019"
-    },
-    {
-        "titleJob": "QA Lead",
-        "employer": "IDM Technology",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/idmtechperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "9 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4398566105"
-    },
-    {
-        "titleJob": "QA Automatizador",
+        "titleJob": "QA Automation",
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima Metropolitan Area",
-        "howLongAgo": "13 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "Descripción del empleoNos encontramos en la busqueda de (04) QA AutomatizadorRequisitosEgresado de las carreras universitarias de Ingeniería de Sistemas, Ingeniería Informática o Ingeniería de Software y/o afines.Experiencia mínima de 3 años a más dentro del rol.Experiencia en herramientas de Casos de Pruebas: Azure Test PlanExperiencia en PythonExperiencia en DBeaver y Trino - BasicoExperiencia en SonarQube (Revisión de código).Experiencia en validación de datos y uso de herramientas de Analytics.Experiencia en pruebas en pipelines de datos y validación de integridad.Experiencia bajo Marco de trabajo Agile (Scrum/Kanban).Conocimiento del proceso de Software Test Lyfe Cycle (STLC)Conocimiento del proceso de Softwate Development Lyfe Cycle (SDLC)Conocimiento de BDD relacionales (SQL) + BDD No Relacionales (MongoDB)Conocimiento de API Testing (Postman/SoapUI)Conocimiento de RestAssure+Java para backendConocimiento de Selenium+Java para frontEndConocimiento deseable en JMeterConocimiento deseable en GitHubInformación adicional",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4386570581"
-    },
-    {
-        "titleJob": "QA Funcional Senior [BANCA]",
-        "employer": "IDM Technology",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/idmtechperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
+        "location": "Surquillo, Peru",
         "howLongAgo": "5 hours ago",
-        "recruiter": "Heinny Saavedra",
-        "profileRecruiter": "https://pe.linkedin.com/in/heinny-saavedra",
-        "descriptionOffer": "IDM Technology, especialistas en soluciones de TI se encuentra en la búsqueda de un QA Funcional Senior para sumarse a una importante compañía en la región. Funciones: Gestionar y dar seguimiento a los requisitos funcionales asegurando su correcta implementación. Coordinar y propiciar el trabajo en mesas de trabajo multidisciplinarias, garantizando la alineación entre equipos y proyectos. Asegurar que los desarrollos y productos cumplan con los criterios de calidad y lleguen a buen término dentro de los plazos establecidos. Participar activamente en las ceremonias de Scrum y colaborar con el Product Owner en la definición y validación de requerimientos. Diseñar, ejecutar y documentar casos de prueba funcionales (manuales y automatizados) en todas las fases del proyecto. Monitorear la calidad del software a través de pruebas de rendimiento y herramientas de control de calidad de código. Requisitos: Profesional en Ingeniería de Sistemas, Informática o carreras afines. Experiencia mínima de 5 años como QA Funcional, con al menos 3 años en el sector banca o financiero. Experiencia en proyectos de implementación desde cero. Manejo de requisitos funcionales y pruebas funcionales (manuales y automatizadas). Participación activa en mesas de trabajo bajo metodologías ágiles (Scrum), con dominio de todas sus ceremonias. Colaboración estrecha con Product Owner en la definición y validación de requerimientos. Conocimiento y manejo de BDD (Behavior Driven Development). Experiencia en diseño, redacción avanzada y ejecución de casos de prueba en Gherkin. Experiencia en pruebas funcionales automatizadas. Experiencia en pruebas de rendimiento, incluyendo pruebas de carga y de estrés. Conocimiento y uso de herramientas de calidad de código (ejemplo: SonarQube). Experiencia gestionando proyectos en paralelo y trabajando con múltiples equipos. Beneficios: Oportunidad de crecimiento profesional Proyecto desafiante Banda salarial en planilla Si cumples con los requisitos, envíanos tu CV indicando tus pretensiones salariales a: postulante@idmtechnology.com.pe con el asunto: QAF Conoce todas nuestras vacantes disponibles en ✅: https://lnkd.in/e89vRFWg",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4398901960"
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "Somos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes en el proceso de digitalización aprovechando al máximo el digital flow.Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el grupo tiene cerca de 27,000 colaboradores y apunta a seguir creciendo.¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito!Si te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de TI y negocios, ¡postula ahora!Actualmente nos encontramos en búsqueda de un 01 QA Automation para que se integre a nuestro equipo.¿Cuáles son los requisitos del puesto?Es responsable de asegurar la calidad del software a través de la implementación y ejecución de pruebas automatizadas, colabora estrechamente con los desarrolladores y otros miembros del equipo para identificar y resolver problemas de calidad desde las primeras etapas del desarrollo. Debe tener un sólido conocimiento en herramientas y frameworks de automatización, así como habilidades para diseñar, desarrollar y mantener scripts de prueba automatizados.[Conocimientos]Lenguajes de Programación: Python.Metodologías Ágiles: Scrum o Kanban.Ciclo de Vida del Desarrollo de Software (SDLC).Pruebas Automatizadas: Experiencia en el diseño, desarrollo y ejecución de scripts de prueba automatizados.Pruebas Funcionales y No Funcionales: Conocimiento en diferentes tipos de pruebas, incluyendo pruebas de regresión, pruebas de integración y pruebas de sistema.Análisis de Resultados de Pruebas: Habilidad para interpretar y analizar los resultados de las pruebas y reportar defectos de manera efectiva.[Certificaciones]ISTQB Certified Tester Foundation Level (CTFL)¿Cuáles son los detalles de la posición?Modalidad trabajo remotoHorario de Lunes a Viernes de 8:30 a.m. a 6:30 p.m.Remuneración en planilla con todas las condiciones de ley.vale de alimentos (tarjeta Sodexo)Bonificación por trabajo remotoBeneficios corporativosAcceso a EPSCapacitaciones constantes acorde a tu línea de carrera y otras de interés general (plataformas de e-learning)La oportunidad de participar en retos altamente innovadores.Conoce más de nosotros en www.inetum.world/es o visita nuestras redes sociales como Inetum Perú para conocer más de nuestra cultura corporativa y metodologías de trabajo. ¡Te esperamos!En Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidad de desarrollo profesional.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4399467421"
     },
     {
-        "titleJob": "QA Funcional Mobile - 4 meses",
-        "employer": "Praxis",
-        "linkProfileEmployer": "https://mx.linkedin.com/company/praxis_2?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "10 hours ago",
+        "titleJob": "Analista de calidad del software",
+        "employer": "DigitalHub",
+        "linkProfileEmployer": "https://www.linkedin.com/company/digitalhubpe?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "San Isidro, Peru",
+        "howLongAgo": "6 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4398561316"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4399454466"
     },
     {
-        "titleJob": "QA Automatizador - Mar 26 - Med",
-        "employer": "Inetum",
-        "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "15 hours ago",
+        "titleJob": "QA Engineer II - Data",
+        "employer": "OpenLoop",
+        "linkProfileEmployer": "https://www.linkedin.com/company/openloophealth?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima Metropolitan Area",
+        "howLongAgo": "13 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4386565831"
+        "descriptionOffer": "About OpenLoopOpenLoop was co-founded by CEO, Dr. Jon Lensing, and COO, Christian Williams, with the vision to bring care anywhere. Our telehealth support solutions are thoughtfully designed to streamline and simplify go-to-market care delivery for companies offering meaningful virtual support to patients across an expansive array of specialties, in all 50 states.About The RoleWe're seeking a QA Automation Engineer to join our Data Engineering team and take ownership of quality assurance across our data pipelines and infrastructure. This role will be instrumental in building and maintaining automated test suites that ensure the reliability and accuracy of our healthcare data systems. You'll work closely with a small, focused team of data engineers to establish testing strategies, prioritize coverage for critical data paths, and maintain quality standards as we scale.What You'll DoQuality Ownership: Own and maintain the automated test suite that runs in our CI pipeline, including integration tests, data quality checks, and smoke tests for our data infrastructure. Strategic Collaboration: Partner closely with data engineers to understand pipeline architecture, identify critical data paths, and develop comprehensive testing strategies that prioritize business-critical datapoints. Test Development: Write and maintain automated tests for data pipelines using Python and TypeScript, ensuring coverage across batch and event-driven workflows. Data Validation: Implement data quality checks including row counts, schema validation, key-column validation, idempotency testing, and duplicate handling across ETL processes. CI/CD Integration: Build and maintain testing frameworks that integrate seamlessly with our CI/CD pipelines using GitHub Actions, AWS CodePipeline, and CodeArtifact. Documentation & Standards: Document test cases, testing strategies, and coverage metrics to establish repeatable quality standards across the data team. Continuous Improvement: Identify testing gaps and systematically expand coverage toward end-to-end testing of critical data pipelines.Requirements 3 years of experience in QA automation or software testing, with a focus on data pipelines or backend systems. 3 years of hands-on experience with Python and TypeScript for test automation. Strong experience with CI/CD pipelines (GitHub Actions, AWS CodePipeline, CodeArtifact). Hands-on experience working with data lakes and ETL processes on AWS (familiarity with services like S3, Glue, Athena, Lambda, Step Functions, SQS, EventBridge). Experience with testing frameworks for Python (pytest, unittest) and TypeScript/JavaScript (Jest, Mocha). Understanding of data structures, data modeling concepts, and data lineage. Experience testing in a multi-tenant SaaS environment. English (C1/C2) fluency.Preferred Qualifications Experience testing monorepo architectures. Experience reading and understanding CDK or CloudFormation templates. Knowledge of data quality validation tools such as Great Expectations or similar frameworks. Experience testing event-driven architectures and distributed systems. Familiarity with HIPAA compliance requirements or regulated healthcare environments. Experience validating API Gateway integrations and serverless architectures. Strong problem-solving skills and ability to diagnose complex data quality issues. Excellent communication skills and ability to collaborate cross-functionally with engineering teams.Reports to: QA LeadOur BenefitsIn addition to competitive salaries, this role includes:Formal employment (“Planilla”) under a Peruvian entity — all legal benefits in soles (CTS, Gratificaciones, etc.).Full-time schedule: Monday–Friday, 9am–6pm.Unlimited vacation days 🏖️ — yes, we mean it!EPS healthcare (Rimac) covered 100%.Oncology insurance (Rimac) covered 100%.AFP retirement plan.Coworking access in Miraflores, Lima — with free beverages, talks, bicycle parking, and amazing city views.Company laptop and tools provided.Disclaimer: This position is also open for candidates with some kind of disabilities that are part of the CONADIS list. The coworking is adequate for people with special mobility needs.Our CompanyWe have a relatively flat organizational structure here at OpenLoop. Everyone is encouraged to bring ideas to the table and make things happen. This fits in well with our core values of Autonomy, Competence and Belonging, as we want everyone to feel empowered and supported to do their best work.Sound like a good fit? We’d love to meet you.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4376499519"
     },
     {
-        "titleJob": "Analista Funcional UX & Tech",
-        "employer": "Cencosud S.A.",
-        "linkProfileEmployer": "https://www.linkedin.com/company/cencosud-s-a-?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
+        "titleJob": "Control de Calidad - Sector Consumo Masivo",
+        "employer": "Inversiones Castillo Orbegoso S.A.",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/icofoodservice?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Puente Piedra, Peru",
         "howLongAgo": "4 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4398402767"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4398639442"
     },
     {
-        "titleJob": "Ingeniero Supervisor - Mecánico (Proyectos)",
-        "employer": "Impala Terminals",
-        "linkProfileEmployer": "https://ch.linkedin.com/company/impalaterminals?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "Analista de Gestión de la Calidad y QAQC",
+        "employer": "AIRTEC",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/airtec-sa?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Callao, Constitutional Province of Callao, Peru",
-        "howLongAgo": "2 hours ago",
+        "howLongAgo": "3 hours ago",
+        "recruiter": "Alexandro T.",
+        "profileRecruiter": "https://pe.linkedin.com/in/alexandro-t-85928ab9",
+        "descriptionOffer": "Objetivo: Asegurar el cumplimiento de estándares de calidad en procesos productivos, gestionando desviaciones, mejora continua y documentación del sistema de gestión.Funciones principales:Elaborar y actualizar planes de calidad e inspección.Analizar datos de control y gestionar no conformidades.Implementar acciones correctivas y preventivas.Administrar documentación del Sistema de Gestión (ISO 9001).Elaborar indicadores (KPIs) y reportes.Participar en auditorías internas.Evaluar proveedores y revisar dossiers de calidad.Controlar calibración de equipos de medición.Requisitos:Bachiller/Titulado en Ing. Industrial, Mecánica o afines.Especialización en gestión de calidad.Conocimiento en ISO 9001 y herramientas de mejora (Ishikawa, Pareto, 5 porqués).Excel intermedio/avanzado y manejo de ERP.Experiencia mínima de 2 años en QA/QC en sector industrial o metalmecánico.Responsabilidades:Garantizar trazabilidad del producto.Mantener actualizado el sistema de calidad.Cumplir normas de seguridad, salud y medio ambiente.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4399486623"
+    },
+    {
+        "titleJob": "QA Lead Calibrator – Portuguese and English Speaking",
+        "employer": "eClerx",
+        "linkProfileEmployer": "https://in.linkedin.com/company/eclerx?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "11 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4398436070"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4361540803"
+    },
+    {
+        "titleJob": "Convocatoria TI: Frontend, Backend y QA Funcional | Perú",
+        "employer": "VASS",
+        "linkProfileEmployer": "https://es.linkedin.com/company/vass?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "8 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4399424468"
+    },
+    {
+        "titleJob": "SAP Commerce Cloud Frontend Tech Lead",
+        "employer": "Ayesa Digital",
+        "linkProfileEmployer": "https://es.linkedin.com/company/ayesadigital?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima Metropolitan Area",
+        "howLongAgo": "6 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4398623410"
+    },
+    {
+        "titleJob": "Desarrollador React Native Senior – Arquitectura Mobile",
+        "employer": "Entelgy",
+        "linkProfileEmployer": "https://es.linkedin.com/company/entelgy?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "14 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4395985848"
     }
 ]
