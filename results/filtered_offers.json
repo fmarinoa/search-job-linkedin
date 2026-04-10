@@ -1,29 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4396303104",
-    "title": "Líder de calidad - QA",
-    "employer": "Stefanini LATAM",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4396303104",
-    "reason": "Esta oferta se alinea con el perfil de un \"Automation Engineer\" o \"QA Senior\" con enfoque en automatización. Se busca un líder para la estrategia de calidad, incluyendo automatización de pruebas, planificación, ejecución y control. Los requisitos mencionados como \"Experiencia en automatización de pruebas\" y \"Proponer e implementar mejoras en el proceso de calidad y automatización de pruebas\" son clave. El dominio de herramientas como Postman y JMeter también es relevante. Se estima un rango salarial aproximado de S/ 8,000 - S/ 12,000 mensuales, considerando la ubicación (Lima, Perú), la empresa de tecnología y el rol de liderazgo.",
-    "responsibilities": "Liderar la estrategia de pruebas, planificar, estimar y supervisar la ejecución de pruebas (incluyendo automatización), gestionar defectos, generar reportes, coordinar con equipos de desarrollo y negocio, proponer mejoras en procesos de calidad y automatización, definir estrategias para pruebas en pases a producción, asegurar buenas prácticas ISTQB, y validación de servicios (APIs).",
-    "salary_estimate": "S/ 8,000 - S/ 12,000 mensuales (aproximado)"
+    "id": "https://www.linkedin.com/jobs/view/4400336553",
+    "title": "QA automatizador",
+    "employer": "Valtx Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4400336553",
+    "reason": "Esta oferta se ajusta al perfil al buscar un \"QA - AUTOMATIZADOR\" con más de 5 años de experiencia en QA Automation, experiencia demostrable en aplicaciones web y móviles, y experiencia en automatización con Selenium y Appium. Además, se valora experiencia en entornos bancarios o financieros y conocimiento de Python/TypeScript, lo cual coincide con la tech stack y dominios deseados. Las responsabilidades incluyen realizar pruebas automatizadas, generar planes y casos de pruebas, y crear/mantener scripts de pruebas automatizadas. El rango salarial aproximado para un rol de QA Automation con esta experiencia en Lima, Perú, estaría entre S/ 5,000 y S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4399467421",
-    "title": "QA Automation",
+    "id": "https://www.linkedin.com/jobs/view/4400352055",
+    "title": "QA Automation Engineer",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4399467421",
-    "reason": "Esta oferta se ajusta perfectamente al perfil de \"QA Automation Engineer\" y \"Automation Engineer\". Se busca explícitamente un \"QA Automation\" responsable de asegurar la calidad del software a través de la implementación y ejecución de pruebas automatizadas. Los requisitos de \"Lenguajes de Programación: Python\" y \"Pruebas Automatizadas: Experiencia en el diseño, desarrollo y ejecución de scripts de prueba automatizados\" coinciden directamente con las habilidades buscadas. Se menciona la remuneración en planilla con todas las condiciones de ley, vale de alimentos y otros beneficios, además de capacitaciones. Se estima un rango salarial aproximado de S/ 6,000 - S/ 10,000 mensuales, considerando la ubicación, el tipo de empresa y el rol.",
-    "responsibilities": "Asegurar la calidad del software mediante la implementación y ejecución de pruebas automatizadas, colaborar estrechamente con desarrolladores, identificar y resolver problemas de calidad, diseñar, desarrollar y mantener scripts de prueba automatizados, y analizar resultados de pruebas.",
-    "salary_estimate": "S/ 6,000 - S/ 10,000 mensuales (aproximado)"
+    "linkOffer": "https://www.linkedin.com/jobs/view/4400354373",
+    "reason": "La oferta busca un \"QA Automation Engineer\" con al menos 3 años de experiencia en el rol, experiencia en diseño, desarrollo y ejecución de scripts de prueba automatizados, y conocimientos sólidos en herramientas de automatización como Selenium y Appium, lo cual se alinea perfectamente con el perfil. Se mencionan conocimientos en Python, Git, y experiencia en pruebas de APIs con Postman, todas ellas parte de la tech stack deseada. Las responsabilidades incluyen diseño, desarrollo y ejecución de scripts de prueba automatizados y ejecución de pruebas en pipelines CI/CD. El rango salarial aproximado para un QA Automation Engineer con 3+ años de experiencia en Lima, Perú, estaría entre S/ 4,500 y S/ 8,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4376499519",
-    "title": "QA Engineer II - Data",
-    "employer": "OpenLoop",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4376499519",
-    "reason": "Este rol de \"QA Engineer II - Data\" encaja con el perfil de \"Automation Engineer\" y \"Backend con enfoque en testing\", especialmente considerando la experiencia requerida en \"QA automation o software testing, con un enfoque en data pipelines o backend systems\". El uso de Python y TypeScript para automatización de pruebas, la experiencia con CI/CD (GitHub Actions, AWS CodePipeline), y el trabajo con AWS y ETL processes son puntos fuertes que coinciden con el tech stack y dominios de interés. La oferta menciona \"Formal employment (“Planilla”) under a Peruvian entity — all legal benefits in soles (CTS, Gratificaciones, etc.)\" y \"Unlimited vacation days\", además de coworking. El rango salarial es competitivo, se estima entre S/ 7,000 - S/ 11,000 mensuales.",
-    "responsibilities": "Ser dueño y mantener el conjunto de pruebas automatizadas en el pipeline de CI, incluyendo pruebas de integración, comprobaciones de calidad de datos y smoke tests para la infraestructura de datos. Colaborar con ingenieros de datos para entender la arquitectura de pipelines, desarrollar estrategias de testing, escribir y mantener pruebas automatizadas para pipelines de datos usando Python y TypeScript, implementar comprobaciones de calidad de datos, construir y mantener frameworks de testing que se integren con pipelines CI/CD, y documentar casos de prueba y estrategias.",
-    "salary_estimate": "S/ 7,000 - S/ 11,000 mensuales (aproximado)"
+    "id": "https://www.linkedin.com/jobs/view/4387624347",
+    "title": "Senior QA Automation Engineer (Playwright) - Remote - Latin America",
+    "employer": "FullStack",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4387624347",
+    "reason": "Esta oferta es para un \"Senior QA Automation Engineer\" y menciona explícitamente \"Playwright\" en la tech stack, lo cual es un punto de interés dado el perfil. Asumiendo que un rol \"Senior\" implica más de 3 años de experiencia y un enfoque fuerte en automatización, encaja bien. Las responsabilidades se centrarán en la automatización de pruebas y la ingeniería de calidad. El rango salarial aproximado para un Senior QA Automation Engineer en Latinoamérica (considerando Lima como base) podría estar entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la empresa y el nivel de senioridad."
   }
 ]
