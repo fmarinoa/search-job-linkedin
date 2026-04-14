@@ -1,79 +1,34 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4400656936",
-    "title": "QA Automation Engineer",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400656936",
-    "reason": "Esta oferta encaja con el perfil porque busca un 'QA Automation Engineer' con experiencia en automatización web y servicios, lo cual se alinea directamente con el rol y las preferencias. La experiencia requerida es de 2 años, pero el perfil solicita 3+, lo cual sigue siendo un buen match. Se menciona experiencia en entornos ágiles, integración continua y DevOps, así como conocimientos en bancos.  Las responsabilidades incluyen liderar estándares de calidad, desarrollar automatizaciones, y garantizar la calidad del software. El rango salarial aproximado para un puesto de este tipo en Lima, Perú, con una empresa como Indra, podría oscilar entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4401345324",
+    "title": "Analista Programador Web",
+    "employer": "Real Systems",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4401345324",
+    "reason": "La oferta solicita un Analista Programador Web con al menos 3 años de experiencia y conocimientos en C#, ReactJS, NodeJS, TypeScript, APIs y microservicios, lo cual se alinea con el perfil de desarrollo y testing en backend. Se menciona explícitamente la realización de pruebas unitarias y de integración, así como la solución de problemas de funcionalidad y rendimiento previos al QA, lo que indica un enfoque en la calidad. La experiencia deseable en automatización de pruebas refuerza la compatibilidad. Se puede estimar un rango salarial de S/ 4,500 a S/ 7,000 soles mensuales para un perfil con esta experiencia en Lima, Perú.",
+    "salary_estimate": "S/ 4,500 - S/ 7,000 mensuales"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4399040771",
-    "title": "QA Automation Engineer (Serenity BDD / AWS-Azure)",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4399040771",
-    "reason": "Esta oferta es un fuerte candidato ya que el título es 'QA Automation Engineer', alineándose directamente con el perfil. Si bien la descripción no especifica los años exactos de experiencia, el contexto de Indra y las tecnologías mencionadas (Serenity BDD, AWS-Azure) sugieren un nivel Senior. Las responsabilidades implican el desarrollo de automatizaciones y la garantía de calidad. El rango salarial aproximado para este puesto en Lima, Perú, con una empresa como Indra, podría estar entre S/ 5,500 y S/ 8,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4401328488",
+    "title": "Desarrollador Fullstack Python (FastAPI) / Angular",
+    "employer": "EVOLTA CRM",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4401328488",
+    "reason": "Esta oferta busca un Desarrollador Fullstack con un fuerte enfoque en backend (Python + FastAPI), lo cual coincide con las preferencias del perfil. Se mencionan explícitamente la experiencia en APIs REST, testing (pytest, unit testing) y la colaboración con QA en un entorno ágil. La experiencia requerida de más de 4 años en desarrollo de software (Back y Front) y el dominio de Python, FastAPI, Angular y APIs REST, son altamente relevantes. Se puede estimar un rango salarial de S/ 5,500 a S/ 8,500 soles mensuales para un perfil con esta experiencia en Lima, Perú.",
+    "salary_estimate": "S/ 5,500 - S/ 8,500 mensuales"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4400354373",
-    "title": "QA Automation Engineer",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400354373",
-    "reason": "La oferta se titula 'QA Automation Engineer', lo cual es un match directo con las preferencias del perfil. Aunque la descripción detallada no está disponible, el rol y la empresa sugieren un enfoque en automatización. El perfil busca 3+ años de experiencia, y un rol así en una empresa como Inetum probablemente lo requiera. El rango salarial aproximado para un puesto de este tipo en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4401530961",
+    "title": "Desarrollador web",
+    "employer": "Instituto de Ingenieros de Minas del Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4401530961",
+    "reason": "La oferta menciona un 'enfoque en calidad' para el Desarrollador Web. Las responsabilidades incluyen ejecutar pruebas funcionales, de regresión y validaciones post-deploy, documentar incidencias, y validar integraciones vía APIs. Si bien no es un rol de QA Automation Engineer puro, el énfasis en la calidad y las validaciones lo hace compatible, especialmente con la experiencia deseable en automatización de pruebas. Con más de 4 años de experiencia en desarrollo web y enfoque en calidad, se puede estimar un rango salarial de S/ 4,000 a S/ 6,500 soles mensuales en Lima, Perú.",
+    "salary_estimate": "S/ 4,000 - S/ 6,500 mensuales"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4400645059",
-    "title": "QA Automation Senior",
-    "employer": "Bluetab, an IBM Company (América)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400645059",
-    "reason": "El título 'QA Automation Senior' es un match perfecto con las preferencias y el nivel de experiencia buscado. La mención de ser una 'IBM Company' sugiere una empresa importante y con proyectos de envergadura. Las responsabilidades de un rol Senior en automatización de QA son implícitas en el título. El rango salarial aproximado para un puesto de 'QA Automation Senior' en Lima, Perú, con una empresa asociada a IBM, podría oscilar entre S/ 6,000 y S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4400614961",
+    "id": "https://www.linkedin.com/jobs/view/4400023925",
     "title": "QA Automatizador",
-    "employer": "NTT DATA, Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400614961",
-    "reason": "El título 'QA Automatizador' se alinea con el perfil de automatización. NTT DATA es una empresa global importante en el sector tecnológico. Aunque la descripción no está disponible, se infiere que el rol se centra en la automatización de pruebas. El perfil solicita 3+ años de experiencia, lo cual se esperaría para este tipo de rol en NTT DATA. El rango salarial aproximado para un 'QA Automatizador' en Lima, Perú, con esta empresa, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4399043130",
-    "title": "QA Funcional/.NET",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4399043130",
-    "reason": "Esta oferta es relevante porque, aunque se enfoca en 'QA Funcional', menciona explícitamente '.NET' y la validación de APIs REST desarrolladas en C#/.NET. El perfil tiene experiencia en '.NET' y automatización de APIs. Las responsabilidades incluyen diseño y ejecución de pruebas, validación de datos en SQL Server y pruebas de APIs. El rango salarial aproximado para un 'QA Funcional/.NET' semi senior en Lima, Perú, con Indra, podría estar entre S/ 4,500 y S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4399034690",
-    "title": "Analista Funcional",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4399034690",
-    "reason": "Aunque el título es 'Analista Funcional', la descripción menciona explícitamente 'Experiencia en integraciones y APIs a nivel funcional (endpoints, contratos, flujos y manejo de errores)' y la elaboración de 'casos de prueba funcionales'. Dada la preferencia por un 'Backend con enfoque en testing', este rol puede ser interesante si el candidato tiene la capacidad de aplicar sus conocimientos de testing a nivel funcional y de API. El rango salarial aproximado para un 'Analista Funcional Senior' en Lima, Perú, con Indra, podría ser de S/ 5,000 a S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4399046264",
-    "title": "QA Funcional (Mobile)",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4399046264",
-    "reason": "Esta oferta es relevante debido a que se enfoca en 'QA Funcional (Mobile)' y menciona experiencia en 'pruebas de APIs e integraciones', lo cual se alinea con el componente de automatización de APIs del perfil. Las responsabilidades incluyen diseño y ejecución de casos de prueba, validación de APIs y pruebas en aplicaciones móviles. El rango salarial aproximado para un 'QA Funcional (Mobile) Semi Senior' en Lima, Perú, con Indra, podría estar entre S/ 4,500 y S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4400670384",
-    "title": "QA Funcional (Mobile) Semi Senior",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400670384",
-    "reason": "Similar a la oferta anterior, esta posición de 'QA Funcional (Mobile) Semi Senior' es relevante por su enfoque en pruebas móviles y de APIs. La experiencia requerida de 3 años en pruebas funcionales y de regresión, junto con la validación de APIs, encaja con las habilidades deseadas. Las responsabilidades son claras en cuanto a diseño y ejecución de pruebas. El rango salarial aproximado para este puesto en Lima, Perú, con Indra, podría oscilar entre S/ 4,500 y S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4400670373",
-    "title": "QA Funcional/.NET/ Semi Senior",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400670373",
-    "reason": "Esta oferta se titula 'QA Funcional/.NET/ Semi Senior' y busca experiencia en '.NET', lo cual es un match con el perfil. Aunque se enfoca en QA Funcional, la experiencia con '.NET' y la validación de APIs REST en este entorno son beneficiosas. Las responsabilidades incluyen diseño y ejecución de pruebas, validación de datos y APIs. El rango salarial aproximado para este puesto en Lima, Perú, con Indra, podría estar entre S/ 4,500 y S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4400578682",
-    "title": "QA Funcional (Mobile) Semi Senior",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400578682",
-    "reason": "Esta oferta de 'QA Funcional (Mobile) Semi Senior' es pertinente por su enfoque en pruebas móviles y la validación de APIs. La experiencia de 3 años en pruebas funcionales y de regresión, junto con el manejo de herramientas como Postman/Insomnia, son valiosos. Las responsabilidades incluyen diseño y ejecución de pruebas, así como la validación de APIs. El rango salarial aproximado para este puesto en Lima, Perú, con Indra, podría oscilar entre S/ 4,500 y S/ 7,500 mensuales."
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4400023925",
+    "reason": "Esta oferta es un match directo con el perfil de 'QA Automation Engineer' y 'SDET'. Requiere experiencia en Automation con tecnologías como Selenium WebDriver y menciona Test Management (Jira + Xray) y Testing Continuo (Jenkins), que son parte del tech stack y las preferencias del perfil. Aunque se menciona una experiencia mínima de 6 meses en Automation, el título del puesto y las tecnologías descritas sugieren un rol que podría encajar en un nivel inicial dentro de la experiencia deseada de 3+ años. Se puede estimar un rango salarial de S/ 3,500 a S/ 5,500 soles mensuales para un perfil con este tipo de experiencia en Lima, Perú, dado el requisito de solo 6 meses de experiencia específica.",
+    "salary_estimate": "S/ 3,500 - S/ 5,500 mensuales"
   }
 ]
