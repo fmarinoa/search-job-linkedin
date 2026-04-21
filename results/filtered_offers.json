@@ -1,30 +1,26 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4400882369",
-    "title": "Analista QA Automatizador",
+    "id": "https://www.linkedin.com/jobs/view/4401638779",
+    "title": "QA Automation",
     "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400882369",
-    "reason": "Esta oferta encaja perfectamente con el perfil dado que busca un 'Analista QA Automatizador' con 4 años de experiencia, lo cual supera los '3+ años en automatización'. Las responsabilidades incluyen el manejo de herramientas de automatización como Selenium y Karate, pruebas backend, web y escritorio automatizadas, y ceremonias ágiles, todo alineado con las preferencias de 'Backend con enfoque en testing' y 'Automation Engineer'. El dominio financiero es un plus. Se menciona el modelo de trabajo híbrido y beneficios como EPS y acceso a Udemy. Se estima un rango salarial de S/ 5,500 - S/ 7,500 mensuales para un puesto senior en Lima, Perú, considerando la experiencia y la empresa."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4401638779",
+    "reason": "Esta oferta se alinea perfectamente con el perfil, ya que busca un \"QA Automation\" con experiencia en lenguajes como Python y Java, automatización mobile con Appium y frameworks como Selenium o Playwright, además de experiencia en el sector banca. Las responsabilidades incluyen diseñar, desarrollar y ejecutar scripts de automatización, identificar y reportar defectos, y mantener frameworks. Se estima un rango salarial aproximado de 1500-2500 USD mensuales para un rol de 5 años de experiencia en Lima, Perú.",
+    "salary_estimate": "1500-2500 USD"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4403561624",
-    "title": "QA Automation  - Ingles",
-    "employer": "Softtek",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4403561624",
-    "reason": "La oferta busca 'QA Automation' y especifica experiencia en automatización de pruebas con Playwright o Selenium, desarrollo y automatización de pruebas utilizando TypeScript, y ejecución de scripts automatizados desde Jenkins, lo cual coincide directamente con el perfil 'SDET' y 'QA Automation Engineer'. Se mencionan pruebas unitarias, funcionales, de integración, regresión, estrés y volumen, y manejo avanzado de SQL Server. El perfil 'SSR' tiene 2-4 años de experiencia, lo cual está dentro del rango requerido de 3+ años. Se ofrece ingreso a planilla, EPS al 100%, capacitación constante y línea de carrera. Se estima un rango salarial de S/ 5,000 - S/ 7,000 mensuales para un rol SSR en Lima, Perú."
+    "id": "https://www.linkedin.com/jobs/view/4404323483",
+    "title": "QA Funcional Senior",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4404323483",
+    "reason": "La oferta busca un \"QA Funcional Senior\" con al menos 3 años de experiencia en el sector banca o financiero, lo cual coincide con las preferencias del perfil. Aunque el título es \"Funcional\", la descripción menciona explícitamente \"pruebas funcionales (manuales y automatizadas)\" y \"Experiencia en pruebas funcionales automatizadas\". Las responsabilidades incluyen diseñar, ejecutar y documentar casos de prueba, participar en ceremonias Scrum y colaborar con Product Owner. Se estima un rango salarial aproximado de 1800-3000 USD mensuales para un rol Senior con 5 años de experiencia en Lima, Perú.",
+    "salary_estimate": "1800-3000 USD"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4403478145",
-    "title": "Senior QA Automation FP065KA",
-    "employer": "Coderio",
-    "linkOffer": "https://www.linkedin.com/jobs/4403478145",
-    "reason": "Esta oferta es para un 'Senior QA Automation' con '+5 años de experiencia comprobable en automatización de pruebas o funciones SDET', lo que se alinea perfectamente con el perfil 'SDET' y 'QA Automation Engineer', superando los 3+ años requeridos. Las responsabilidades clave incluyen el diseño de frameworks escalables, automatización de pruebas web y mobile (con Appium), pruebas de API, validación de datos en bases de datos (MySQL, PostgreSQL), CI/CD con GitHub Actions, y experiencia en AWS. Se valoran especialmente los dominios de 'Fintech' (aunque la oferta menciona 'finanzas y RRHH'). Ofrece modalidad remota y participación en proyectos estratégicos. Se estima un rango salarial de S/ 7,000 - S/ 9,000 mensuales para un rol senior en Lima, Perú, considerando la experiencia y la empresa."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4400831864",
-    "title": "QA Automatizador Mobile (Modalidad presencial)",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4400831864",
-    "reason": "La oferta busca un 'QA Automatizador con experiencia en Mobile' para un proyecto del sector financiero (banca), lo cual encaja con los dominios preferidos y el rol de 'Automation Engineer'. Los requisitos incluyen 3 años de experiencia con pruebas móviles y manejo de Appium, además de lenguajes como Python, Java o JavaScript, y automatización de APIs. Se menciona específicamente el sector financiero ('banca'). Se ofrece EPS al 100% y Udemy. Se estima un rango salarial de S/ 5,500 - S/ 7,500 mensuales para un puesto con 5-6 años de experiencia en Lima, Perú, considerando la especialización en mobile y el sector."
+    "id": "https://www.linkedin.com/jobs/view/4403119481",
+    "title": "QA Automation Engineer",
+    "employer": "Talently",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4403119481",
+    "reason": "Esta oferta es un match directo con el perfil de \"QA Automation Engineer\" con 3 años de experiencia en QA automation, enfocada en data pipelines y backend systems. Requiere experiencia en Python y TypeScript para test automation, CI/CD pipelines, y AWS. Las responsabilidades incluyen mantener suites de pruebas automatizadas, desarrollar tests para data pipelines y realizar validaciones de datos. Se estima un rango salarial aproximado de 1600-2800 USD mensuales para un rol con 3 años de experiencia en Lima, Perú.",
+    "salary_estimate": "1600-2800 USD"
   }
 ]
