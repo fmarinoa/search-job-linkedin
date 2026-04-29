@@ -1,32 +1,37 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4407433721",
-    "title": "QA Automation Engineer Sr (cypress)",
-    "employer": "Bluetab, an IBM Company (América)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4407433721",
-    "reason": "Esta oferta encaja perfectamente con el perfil ya que busca un \"QA Automation Engineer Sr\" con más de 3 años de experiencia en automatización, específicamente con Cypress y Appium, y experiencia avanzada en pruebas de APIs REST/GraphQL. La descripción menciona la integración de pruebas en pipelines CI/CD (Jenkins, GitHub Actions), lo cual se alinea con las habilidades de desarrollo ágil y la tech stack requerida (JavaScript/TypeScript). El dominio en microservicios y bases de datos, así como la familiaridad con Azure, Grafana, Datadog, son puntos adicionales. Se valorará experiencia en .NET y Java. El rol implica diseño y ejecución de pruebas automatizadas, desarrollo de frameworks de automatización, integración en CI/CD, reporte de resultados y colaboración con equipos de desarrollo. Se trata de un rol Senior en Lima, Perú, con alta probabilidad de un rango salarial entre S/ 8,000 y S/ 14,000 mensuales, dependiendo de la experiencia específica y negociación."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4407511055",
-    "title": "Ingeniero de prueba (Hibrido)",
-    "employer": "Tynpu - Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4407511055",
-    "reason": "Aunque el título es \"Ingeniero de prueba\", la descripción menciona \"Analista QA\" y \"sólida experiencia en aseguramiento de calidad de software, orientados a la detección temprana de errores, mejora continua y protección de la experiencia del usuario final.\" El requisito de \"Experiencia mínima de 3 años en roles de QA, testing o calidad de software\" y \"Experiencia trabajando en equipos ágiles\" se ajusta al perfil. Se valorará \"Conocimientos en automatización de pruebas (deseable)\", aunque no es un requisito indispensable. Las funciones incluyen asegurar la calidad del software, analizar, diseñar y ejecutar casos de prueba, ejecutar pruebas de rendimiento y validar comportamiento del sistema, identificar, documentar y reportar defectos. El rol se ubica en Lima, Perú, y aunque no especifica rango salarial, se puede estimar entre S/ 5,000 y S/ 9,000 mensuales para un rol con estas características y 3+ años de experiencia."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4407469069",
-    "title": "QA Automatizador Semi Senior - IA",
+    "id": "https://www.linkedin.com/jobs/view/4408061402",
+    "title": "QA Funcional Semisenior (Remoto)",
     "employer": "Synopsis S.A.",
-    "location": "Lima, Peru",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4407469069",
-    "reason": "Esta oferta es para \"QA Automatizador Semi Senior - IA\" y la descripción menciona \"Experiencia como QA Funcional (nivel semi senior)\", \"Experiencia en pruebas de APIs\", \"Experiencia en testing funcional y no funcional\". Si bien no menciona explícitamente experiencia en automatización web/mobile/APIs con las herramientas específicas del perfil, el título y la descripción sugieren un enfoque en automatización y pruebas. El sector \"banca\" es un dominio preferido. Las funciones incluyen validar soluciones basadas en inteligencia artificial, diseñar y ejecutar pruebas de prompts, evaluar respuestas de modelos LLMs, realizar testing funcional y no funcional. El rol es remoto con asistencia a oficina 1-2 veces al mes en Lima, Perú. Se estima un rango salarial entre S/ 6,000 y S/ 10,000 mensuales para un puesto Semi Senior en este sector y ubicación."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4408061402",
+    "reason": "Esta oferta encaja con el perfil por los siguientes motivos: busca un \"QA Funcional Semisenior\" con experiencia en el \"Sector Banca\", lo cual se alinea con las preferencias y dominios del perfil. Las responsabilidades incluyen \"diseño y automatización de casos de prueba\", \"validación de aplicaciones web y móviles\", \"pruebas de APIs y pruebas de performance\", todas ellas directamente relacionadas con la automatización de pruebas. Además, menciona \"experiencia en proyectos de banca digital\" y \"experiencia en pruebas funcionales y automatización\", \"experiencia en API Testing y pruebas de performance\", requisitos técnicos clave. Se solicita \"Certificación ISTQB Foundation (indispensable)\" y \"Manejo de herramientas como Jira y Xray\". Se estima un rango salarial aproximado entre S/ 5,000 - S/ 8,000 mensuales para un puesto Semisenior en el sector bancario en Lima."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4407455363",
-    "title": "QA Automatizador Engineer - Semi Senior",
-    "employer": "Synopsis S.A.",
-    "location": "Lima, Peru",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4407455363",
-    "reason": "Similar a la oferta anterior del mismo empleador, esta es para \"QA Automatizador Engineer - Semi Senior\". La descripción detalla \"Experiencia como QA Funcional (nivel semi senior)\", \"Experiencia en pruebas de APIs\" y \"Experiencia en testing funcional y no funcional\". El título y las funciones (validar soluciones basadas en IA, pruebas de prompts, evaluación de LLMs, testing funcional y no funcional) indican un fuerte componente de QA y potencial de automatización. El sector \"banca\" se alinea con las preferencias. Es un rol remoto con asistencia ocasional a oficina en Lima, Perú. El rango salarial estimado para este puesto Semi Senior es entre S/ 6,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4408013161",
+    "title": "QA Automation Mobile - Web",
+    "employer": "Bluetab, an IBM Company",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4408013161",
+    "reason": "Esta oferta es una excelente coincidencia ya que busca un \"QA Automation Engineer Sr\" con \"+3 años de experiencia en automatización de pruebas\", lo cual se alinea perfectamente con el perfil. Las responsabilidades incluyen \"automatización de pruebas web y móviles (Android & iOS)\", \"pruebas de APIs\", \"Automatización sobre microservicios\" y \"Experiencia con CI/CD (Jenkins, GitHub Actions u otros)\". Menciona experiencia con \"frameworks como Selenium, Cypress, Appium, Cucumber o equivalentes\" y \"lenguajes como Java, Ruby, Typescript\", todas tecnologías relevantes para el perfil. Se busca un \"cliente del sector bancario\", lo cual se alinea con los dominios de interés. Se estima un rango salarial aproximado entre S/ 6,000 - S/ 9,000 mensuales para un rol Senior en una empresa internacional como Bluetab (an IBM Company) en Lima."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4386565831",
+    "title": "QA Automatizador - Mar 26 - Med",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
+    "reason": "Esta oferta coincide con el perfil dado que busca un \"QA Automatizador\" con experiencia en \"Herramientas de Automatización de Pruebas como Selenium, Karate DSL, Playwright, etc.\", \"Conocimiento de lenguajes como Java, Python\", \"Redacción de pruebas en lenguaje Gherkin\", \"BDD\", \"ATDD\" y \"Herramientas de CI/CD como Jenkins, Gitlab, Azure DevOps\". Las responsabilidades incluyen \"ejecución de pruebas\", \"configuración de pipeline, ejecución de pruebas\", \"Pruebas de microservicios y/o APIs\" y \"Herramientas de Gestión de Pruebas como JIRA\". Inetum es una empresa importante en el sector de TI, y la oferta es para Lima. Se estima un rango salarial aproximado entre S/ 4,500 - S/ 7,500 mensuales para este tipo de rol en Inetum en Lima."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4386570581",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
+    "reason": "Esta oferta se ajusta al perfil al buscar un \"QA Automatizador\" con una \"Experiencia mínima de 3 años a más dentro del rol\". Las responsabilidades mencionadas incluyen \"Experiencia en herramientas de Casos de Pruebas: Azure Test Plan\", \"Experiencia en Python\", \"Experiencia en validación de datos y uso de herramientas de Analytics\", \"Experiencia en pruebas en pipelines de datos y validación de integridad\", \"Experiencia bajo Marco de trabajo Agile\", \"Conocimiento del proceso de Software Test Lyfe Cycle (STLC)\", \"Conocimiento del proceso de Softwate Development Lyfe Cycle (SDLC)\", \"Conocimiento de BDD relacionales (SQL) + BDD No Relacionales (MongoDB)\", \"Conocimiento de API Testing (Postman/SoapUI)\" y \"Conocimiento de RestAssure+Java para backend\", \"Conocimiento de Selenium+Java para frontEnd\". Inetum es una empresa importante en el sector de TI, y la oferta es para el área metropolitana de Lima. Se estima un rango salarial aproximado entre S/ 4,500 - S/ 7,500 mensuales para este tipo de rol en Inetum en Lima."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4408067195",
+    "title": "Analista QA Automatizador Semi Senior",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4408067195",
+    "reason": "Esta oferta es relevante ya que busca un \"Analista QA Automatizador Semi Senior\". Aunque la descripción está vacía, el título del puesto y el nivel de experiencia esperado (\"Semi Senior\") se alinean con el perfil. Se asume que las responsabilidades y tecnologías requeridas serían acordes a un rol de automatización de QA de nivel semi senior en el sector tecnológico. EVOL (TSnet) es una empresa conocida en el ámbito de servicios de TI en Perú. Se estima un rango salarial aproximado entre S/ 5,000 - S/ 8,000 mensuales para un puesto Semi Senior de Automatización QA en Lima."
   }
 ]
