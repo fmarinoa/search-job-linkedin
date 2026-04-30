@@ -1,37 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4408061402",
-    "title": "QA Funcional Semisenior (Remoto)",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4408061402",
-    "reason": "Esta oferta encaja con el perfil por los siguientes motivos: busca un \"QA Funcional Semisenior\" con experiencia en el \"Sector Banca\", lo cual se alinea con las preferencias y dominios del perfil. Las responsabilidades incluyen \"diseño y automatización de casos de prueba\", \"validación de aplicaciones web y móviles\", \"pruebas de APIs y pruebas de performance\", todas ellas directamente relacionadas con la automatización de pruebas. Además, menciona \"experiencia en proyectos de banca digital\" y \"experiencia en pruebas funcionales y automatización\", \"experiencia en API Testing y pruebas de performance\", requisitos técnicos clave. Se solicita \"Certificación ISTQB Foundation (indispensable)\" y \"Manejo de herramientas como Jira y Xray\". Se estima un rango salarial aproximado entre S/ 5,000 - S/ 8,000 mensuales para un puesto Semisenior en el sector bancario en Lima."
+    "id": "https://www.linkedin.com/jobs/view/4408584226",
+    "title": "Líder de Control de calidad",
+    "employer": "Money, Inc.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4408584226",
+    "reason": "La oferta busca un Líder de Control de Calidad con al menos 4 años de experiencia, experiencia en automatización con Selenium, y experiencia en desarrollo ágil. Se menciona explícitamente la revisión y supervisión de casos de prueba manuales/automatizados, supervisión técnica de programación de casos automatizados, y participación en la integración de casos de prueba automatizados con canalizaciones. Esto se alinea directamente con las preferencias de 'QA Senior', 'Automation Engineer' y 'Backend con enfoque en testing'.  La mención de proyectos en el sector financiero (implícito por el empleador 'Money, Inc.') y la experiencia en automatización de pruebas son puntos fuertes.  Se estima un rango salarial aproximado de S/ 7,000 - S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4408013161",
-    "title": "QA Automation Mobile - Web",
-    "employer": "Bluetab, an IBM Company",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4408013161",
-    "reason": "Esta oferta es una excelente coincidencia ya que busca un \"QA Automation Engineer Sr\" con \"+3 años de experiencia en automatización de pruebas\", lo cual se alinea perfectamente con el perfil. Las responsabilidades incluyen \"automatización de pruebas web y móviles (Android & iOS)\", \"pruebas de APIs\", \"Automatización sobre microservicios\" y \"Experiencia con CI/CD (Jenkins, GitHub Actions u otros)\". Menciona experiencia con \"frameworks como Selenium, Cypress, Appium, Cucumber o equivalentes\" y \"lenguajes como Java, Ruby, Typescript\", todas tecnologías relevantes para el perfil. Se busca un \"cliente del sector bancario\", lo cual se alinea con los dominios de interés. Se estima un rango salarial aproximado entre S/ 6,000 - S/ 9,000 mensuales para un rol Senior en una empresa internacional como Bluetab (an IBM Company) en Lima."
+    "id": "https://www.linkedin.com/jobs/view/4406086960",
+    "title": "Ingeniero de calidad - Q",
+    "employer": "LUMINA   Consultora de Talento",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4406086960",
+    "reason": "Esta oferta es para un Ingeniero QA con experiencia en testing funcional, automatización y gestión de procesos de calidad para una fintech peruana. Las responsabilidades incluyen ejecutar pruebas funcionales manuales y automatizadas, diseñar, desarrollar y mantener scripts de automatización (regresión y funcionales), pruebas de APIs y backend, e implementar y mantener pipelines de CI/CD (Jenkins). Se mencionan frameworks de automatización como Karate, Selenium, Cypress, Playwright o Appium. El perfil se ajusta a 'SDET', 'QA Automation Engineer' y 'Automation Engineer', con experiencia en dominios como Fintech y QA Automation. Se estima un rango salarial aproximado de S/ 6,000 - S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4386565831",
-    "title": "QA Automatizador - Mar 26 - Med",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
-    "reason": "Esta oferta coincide con el perfil dado que busca un \"QA Automatizador\" con experiencia en \"Herramientas de Automatización de Pruebas como Selenium, Karate DSL, Playwright, etc.\", \"Conocimiento de lenguajes como Java, Python\", \"Redacción de pruebas en lenguaje Gherkin\", \"BDD\", \"ATDD\" y \"Herramientas de CI/CD como Jenkins, Gitlab, Azure DevOps\". Las responsabilidades incluyen \"ejecución de pruebas\", \"configuración de pipeline, ejecución de pruebas\", \"Pruebas de microservicios y/o APIs\" y \"Herramientas de Gestión de Pruebas como JIRA\". Inetum es una empresa importante en el sector de TI, y la oferta es para Lima. Se estima un rango salarial aproximado entre S/ 4,500 - S/ 7,500 mensuales para este tipo de rol en Inetum en Lima."
+    "id": "https://www.linkedin.com/jobs/view/4406091276",
+    "title": "QA de Medios de Pago",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4406091276",
+    "reason": "La oferta busca un QA de Medios de Pago con al menos 5 años de experiencia en roles de QA y 3 años en el sector bancario, validando productos de pagos. Las responsabilidades incluyen diseñar arquitecturas de automatización escalables para flujos de pago, aplicar prácticas de Shift-Left, gestionar métricas de calidad, coordinar con equipos DevOps para la integración continua de pipelines de pruebas automatizadas, y asegurar la validación funcional, técnica y de performance. Se menciona dominio de automatización avanzada aplicada a APIs, Web y Servicios, frameworks de automatización como BDD y Page Object Model, y experiencia en pruebas de rendimiento. El dominio 'Banca' y 'Finanzas' es un fuerte indicador, y las responsabilidades se alinean con un rol de 'Automation Engineer' con enfoque en calidad y backend. Se estima un rango salarial aproximado de S/ 8,000 - S/ 12,000 mensuales, considerando la especialización y experiencia requerida."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4386570581",
-    "title": "QA Automatizador",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
-    "reason": "Esta oferta se ajusta al perfil al buscar un \"QA Automatizador\" con una \"Experiencia mínima de 3 años a más dentro del rol\". Las responsabilidades mencionadas incluyen \"Experiencia en herramientas de Casos de Pruebas: Azure Test Plan\", \"Experiencia en Python\", \"Experiencia en validación de datos y uso de herramientas de Analytics\", \"Experiencia en pruebas en pipelines de datos y validación de integridad\", \"Experiencia bajo Marco de trabajo Agile\", \"Conocimiento del proceso de Software Test Lyfe Cycle (STLC)\", \"Conocimiento del proceso de Softwate Development Lyfe Cycle (SDLC)\", \"Conocimiento de BDD relacionales (SQL) + BDD No Relacionales (MongoDB)\", \"Conocimiento de API Testing (Postman/SoapUI)\" y \"Conocimiento de RestAssure+Java para backend\", \"Conocimiento de Selenium+Java para frontEnd\". Inetum es una empresa importante en el sector de TI, y la oferta es para el área metropolitana de Lima. Se estima un rango salarial aproximado entre S/ 4,500 - S/ 7,500 mensuales para este tipo de rol en Inetum en Lima."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4408067195",
-    "title": "Analista QA Automatizador Semi Senior",
-    "employer": "EVOL (TSnet)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4408067195",
-    "reason": "Esta oferta es relevante ya que busca un \"Analista QA Automatizador Semi Senior\". Aunque la descripción está vacía, el título del puesto y el nivel de experiencia esperado (\"Semi Senior\") se alinean con el perfil. Se asume que las responsabilidades y tecnologías requeridas serían acordes a un rol de automatización de QA de nivel semi senior en el sector tecnológico. EVOL (TSnet) es una empresa conocida en el ámbito de servicios de TI en Perú. Se estima un rango salarial aproximado entre S/ 5,000 - S/ 8,000 mensuales para un puesto Semi Senior de Automatización QA en Lima."
+    "id": "https://www.linkedin.com/jobs/view/4406403009",
+    "title": "QA Performance Engineer",
+    "employer": "SEIDOR",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4406403009",
+    "reason": "Se busca un QA Performance Engineer con más de 4 años en testing de software y 2-3 años en performance testing. Las responsabilidades incluyen diseño de escenarios de prueba complejos, elaboración de planes de prueba, experiencia en pruebas de performance y estrés, dominio de herramientas como Apache JMeter, Gatling o k6, experiencia en pruebas de APIs y servicios, y experiencia integrando pruebas en pipelines CI/CD. El conocimiento en sector financiero es deseable. Aunque el título principal es 'Performance Engineer', las responsabilidades de pruebas de APIs, servicios, CI/CD y la experiencia en el sector financiero lo hacen relevante. Podría encajar en un rol de 'Automation Engineer' con un enfoque particular. Se estima un rango salarial aproximado de S/ 7,000 - S/ 10,000 mensuales."
   }
 ]
