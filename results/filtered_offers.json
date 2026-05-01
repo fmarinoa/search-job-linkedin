@@ -1,30 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4408584226",
-    "title": "Líder de Control de calidad",
-    "employer": "Money, Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4408584226",
-    "reason": "La oferta busca un Líder de Control de Calidad con al menos 4 años de experiencia, experiencia en automatización con Selenium, y experiencia en desarrollo ágil. Se menciona explícitamente la revisión y supervisión de casos de prueba manuales/automatizados, supervisión técnica de programación de casos automatizados, y participación en la integración de casos de prueba automatizados con canalizaciones. Esto se alinea directamente con las preferencias de 'QA Senior', 'Automation Engineer' y 'Backend con enfoque en testing'.  La mención de proyectos en el sector financiero (implícito por el empleador 'Money, Inc.') y la experiencia en automatización de pruebas son puntos fuertes.  Se estima un rango salarial aproximado de S/ 7,000 - S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4409063713",
+    "title": "Ingeniero de control de calidad",
+    "employer": "VASS",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4409063713",
+    "reason": "Esta oferta encaja perfectamente con el perfil. El puesto requiere '+3 años en roles de Analista de calidad, QA' y '+3 años en proyectos o fábricas de testing', lo cual cumple con la experiencia solicitada. Se menciona explícitamente experiencia con 'Auto (Selenium, playwright, Cypress, Karate, Res Assured)' y dominio de 'CI/CD (Pipelines de azure, Jenkins)', tecnologías y herramientas clave del perfil. Además, VASS es una empresa global de transformación digital, lo que sugiere un entorno importante. Las responsabilidades incluyen 'diseño, construcción y ejecución de los casos de pruebas manuales/automatizados', 'desarrollar, mejorar y mantener el código desarrollado para los test automáticos', y 'participar en la integración de los casos de pruebas programados con las canalizaciones implementadas', todas ellas alineadas con un rol de QA Automation/SDET. El dominio de Performance (jmeter, k6, Gatiling) es un plus. Dado el perfil y la ubicación (Lima, Perú), se estima un rango salarial entre S/ 6,000 y S/ 9,000 soles brutos mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4406086960",
-    "title": "Ingeniero de calidad - Q",
-    "employer": "LUMINA   Consultora de Talento",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4406086960",
-    "reason": "Esta oferta es para un Ingeniero QA con experiencia en testing funcional, automatización y gestión de procesos de calidad para una fintech peruana. Las responsabilidades incluyen ejecutar pruebas funcionales manuales y automatizadas, diseñar, desarrollar y mantener scripts de automatización (regresión y funcionales), pruebas de APIs y backend, e implementar y mantener pipelines de CI/CD (Jenkins). Se mencionan frameworks de automatización como Karate, Selenium, Cypress, Playwright o Appium. El perfil se ajusta a 'SDET', 'QA Automation Engineer' y 'Automation Engineer', con experiencia en dominios como Fintech y QA Automation. Se estima un rango salarial aproximado de S/ 6,000 - S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4409087001",
+    "title": "QA Automation",
+    "employer": "Atlantic City Casino & Sports",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4409087001",
+    "reason": "La oferta es para 'QA Automation' y requiere 'Experiencia de 2 años en puestos similares' y 'Experiencia 2 años realizando pruebas de automatización (Selenium WebDriver, Cypress, etc)', lo cual es cercano a la experiencia mínima requerida, y el rol se enfoca fuertemente en automatización. Se menciona experiencia desarrollando scripts con 'Java, Cucumber y/o Gherkin', 'Gobierno Automatización', 'Postman y SoapUI', 'Pruebas de Rendimiento con JMeter', 'sistemas de control de version de software (GitHub, GitLab)', 'base de datos SQL SERVER y MySQL', 'Configuración DC/IC (Jenkins)' y 'metodologías ágiles'. El perfil prefiere 'Backend con enfoque en testing' y las responsabilidades incluyen 'realizar pruebas de automatización en los distintos productos digitales de la empresa' y 'colaborar con los desarrolladores web front-end y back end'. La empresa es un casino y centro deportivo, que podría considerarse un dominio de interés aunque no esté explícitamente listado. La experiencia deseable con AWS y Appium también encaja. El rango salarial estimado para este puesto en Lima, Perú, considerando la experiencia solicitada, sería entre S/ 5,000 y S/ 8,000 soles brutos mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4406091276",
-    "title": "QA de Medios de Pago",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4406091276",
-    "reason": "La oferta busca un QA de Medios de Pago con al menos 5 años de experiencia en roles de QA y 3 años en el sector bancario, validando productos de pagos. Las responsabilidades incluyen diseñar arquitecturas de automatización escalables para flujos de pago, aplicar prácticas de Shift-Left, gestionar métricas de calidad, coordinar con equipos DevOps para la integración continua de pipelines de pruebas automatizadas, y asegurar la validación funcional, técnica y de performance. Se menciona dominio de automatización avanzada aplicada a APIs, Web y Servicios, frameworks de automatización como BDD y Page Object Model, y experiencia en pruebas de rendimiento. El dominio 'Banca' y 'Finanzas' es un fuerte indicador, y las responsabilidades se alinean con un rol de 'Automation Engineer' con enfoque en calidad y backend. Se estima un rango salarial aproximado de S/ 8,000 - S/ 12,000 mensuales, considerando la especialización y experiencia requerida."
+    "id": "https://www.linkedin.com/jobs/view/4407321855",
+    "title": "Analista QA Funcional (Android e iOS)",
+    "employer": "Entelgy",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4407321855",
+    "reason": "Si bien el título es 'Analista QA Funcional', la descripción menciona explícitamente 'Participar en procesos de automatización de pruebas', 'Ejecutar pruebas en aplicaciones web y móviles (Android e iOS)', 'Ejecutar pruebas de API Testing' y 'Experiencia en automatización de casos de prueba'. Requiere 'Mínimo 2 años de experiencia en pruebas funcionales' y experiencia en 'proyectos de banca o relacionados (banca digital, créditos, ahorros, apps/web)', lo cual se alinea con los dominios de interés (Banca, Finanzas, Fintech). Las responsabilidades clave como 'Diseñar, ejecutar y documentar casos de prueba funcionales' y 'colaborar con equipos de desarrollo y negocio para asegurar la calidad de los entregables' son relevantes. La experiencia con Jira y Xray, bases de datos y Git también son importantes. Dada la naturaleza híbrida del rol (funcional con enfoque en automatización y experiencia en banca digital), se estima un rango salarial entre S/ 5,500 y S/ 8,500 soles brutos mensuales en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4406403009",
-    "title": "QA Performance Engineer",
-    "employer": "SEIDOR",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4406403009",
-    "reason": "Se busca un QA Performance Engineer con más de 4 años en testing de software y 2-3 años en performance testing. Las responsabilidades incluyen diseño de escenarios de prueba complejos, elaboración de planes de prueba, experiencia en pruebas de performance y estrés, dominio de herramientas como Apache JMeter, Gatling o k6, experiencia en pruebas de APIs y servicios, y experiencia integrando pruebas en pipelines CI/CD. El conocimiento en sector financiero es deseable. Aunque el título principal es 'Performance Engineer', las responsabilidades de pruebas de APIs, servicios, CI/CD y la experiencia en el sector financiero lo hacen relevante. Podría encajar en un rol de 'Automation Engineer' con un enfoque particular. Se estima un rango salarial aproximado de S/ 7,000 - S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4409026189",
+    "title": "QA Automatizador IA -Semi Senior",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4409026189",
+    "reason": "Esta oferta es muy relevante debido a su enfoque en 'QA Automatizador IA' y que el cliente es del rubro 'banca', alineándose directamente con los dominios de interés. Requiere 'Experiencia como QA Funcional (nivel semi senior)' y 'Experiencia validando soluciones basadas en IA', 'Experiencia en pruebas de prompts y evaluación de respuestas de LLMs', 'Experiencia en testing funcional y no funcional', 'Experiencia en pruebas de APIs' y 'Experiencia en validación de integraciones'. Las responsabilidades incluyen 'Validar soluciones basadas en inteligencia artificial', 'Diseñar y ejecutar pruebas de prompts', y 'Evaluar respuestas de modelos LLMs', lo cual es una especialización de alto valor. Aunque no menciona explícitamente las herramientas de automatización web/mobile del perfil, el enfoque en IA y banca, junto con el nivel semi-senior, lo hacen un fuerte candidato. El rango salarial estimado para un rol de Semi Senior en IA y banca en Lima, Perú, sería entre S/ 7,000 y S/ 11,000 soles brutos mensuales."
   }
 ]
