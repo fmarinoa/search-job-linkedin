@@ -1,30 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4410251649",
-    "title": "Analista QA",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4410251649",
-    "reason": "La oferta se ajusta al perfil porque busca un Analista QA con +3 años de experiencia en \"proyectos o fábricas de testing\" y menciona explícitamente \"Auto (Selenium, playwright, Cypress, Karate, Res Assured)\" y \"Dominio Performance ( jmeter, k6, Gatiling), CI/CD (Pipelines de azure, Jenkins)\", tecnologías clave para un SDET/QA Automation Engineer. Las responsabilidades incluyen diseño, construcción y ejecución de pruebas automatizadas, integración con CI/CD, y supervisión de pruebas de carga/estrés. El rango salarial aproximado para un Analista QA con 3+ años de experiencia en Lima, Perú, en una empresa de transformación digital, se estima entre S/ 5,500 y S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4408456400",
-    "title": "QA",
-    "employer": "LUMINA   Consultora de Talento",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4408456400",
-    "reason": "Esta oferta es muy relevante ya que busca un \"Ingeniero/a QA con experiencia en testing funcional, automatización y gestión de procesos de calidad para una importante fintech peruana\". Las responsabilidades detallan \"Diseñar, desarrollar y mantener scripts de automatización (regresión y funcionales)\", \"Realizar pruebas de APIs y backend\", \"Implementar y mantener pipelines de CI/CD\" y \"Experiencia con herramientas como Selenium, Cypress, Playwright o Appium\", que coinciden directamente con el perfil de SDET/QA Automation Engineer. El enfoque en \"entornos ágiles\" y \"fintech\" también son puntos a favor. El rango salarial aproximado para un perfil similar en Lima, Perú, se estima entre S/ 6,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4410705548",
-    "title": "QA Tester",
-    "employer": "Novacomp",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4410705548",
-    "reason": "La oferta se ajusta al perfil porque está específicamente buscando \"QA Testers Automation\" con experiencia en \"proyectos orientados al sector bancario\" y \"pruebas móviles Android e iOS y en automatización de pruebas móviles\". Menciona \"participar en procesos de automatización de casos de prueba\", lo cual es una responsabilidad central del rol. La experiencia en \"API Testing\" y el conocimiento en \"Jira, Xray, Git\" son también indicativos de un buen encaje. El rango salarial aproximado para un QA Tester Automation con experiencia en el sector bancario en Lima, Perú, se estima entre S/ 5,000 y S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4410742956",
-    "title": "Chapter Lead QA",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4410742956",
-    "reason": "Aunque es un rol de liderazgo (Chapter Lead), se alinea con el perfil por los \"Requisitos\" que incluyen \"Experiencia práctica con herramientas para pruebas automatizadas: Selenium, UFT, Postman, etc.\" y \"Conocimiento para realizar pruebas automatizadas en web, servicios, microservicios, escritorio\". Además, se solicita \"Experiencia liderando equipos de pruebas, con conocimiento avanzado en gestión de proyectos tradicionales y ágiles\" y certificaciones ISTQB, lo cual sugiere un profundo conocimiento técnico en automatización. El rango salarial aproximado para un Chapter Lead QA en Lima, Perú, se estima entre S/ 8,000 y S/ 12,000 mensuales, dependiendo de la experiencia y el tamaño del equipo."
+    "id": "https://www.linkedin.com/jobs/view/4410097411",
+    "title": "QA Automation Engineer",
+    "employer": "Talently",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4410097411",
+    "reason": "Esta oferta encaja perfectamente con el perfil, ya que busca un 'QA Automation Engineer' con más de 3 años de experiencia en automatización de pruebas, específicamente en sistemas backend y data pipelines. El rol implica la propiedad de la suite de pruebas automatizadas, el desarrollo de pruebas para pipelines de datos usando Python y TypeScript, y la integración con CI/CD. La experiencia requerida en Python y TypeScript, así como en AWS, se alinea con el tech stack del perfil. Las responsabilidades principales incluyen la propiedad y mantenimiento de la suite de pruebas automatizadas, el desarrollo de pruebas para pipelines de datos y la validación de datos. No se especifica un rango salarial, pero para un puesto Senior de QA Automation Engineer en Lima, Perú, se estima un rango entre PEN 6,000 y PEN 10,000 mensuales, dependiendo de la experiencia específica y negociaciones."
   }
 ]
