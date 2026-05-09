@@ -1,44 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4409298558",
-    "title": "Analista QA | Sector Banca",
+    "id": "https://www.linkedin.com/jobs/view/4411725714",
+    "title": "Analista QA Senior Atomatizador-Mainframe",
     "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4409298558",
-    "reason": "Esta oferta encaja con el perfil dado que busca un(a) Analista QA para el sector banca, lo cual se alinea con las preferencias de dominio (Banca, Finanzas, Fintech). Las responsabilidades incluyen \"Automatización de pruebas para sitios web, APIs y aplicaciones móviles utilizando herramientas como Selenium, Postman y Appium\", \"Análisis de requisitos funcionales y técnicos\", \"Trabajo colaborativo bajo metodologías ágiles\" y \"Manejo y validación de APIs\". El requisito de \"Mínimo 3 años de experiencia como Analista QA\" también se alinea con la experiencia solicitada. Se busca un perfil con enfoque en calidad y automatización. El rango salarial aproximado para un puesto de Analista QA Senior en Lima, Perú, con 3+ años de experiencia en empresas como Indra Group, podría oscilar entre S/ 5,500 y S/ 8,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4411725714",
+    "reason": "Esta oferta encaja con el perfil ya que busca un 'Analista QA Senior Atomatizador' con más de 4 años de experiencia en pruebas automatizadas y funcionales, lo cual se alinea directamente con las preferencias de 'QA Senior' y 'Automation Engineer'. El dominio de herramientas como Selenium, Rest Assured, Appium, y Cucumber es un punto fuerte. Las responsabilidades incluyen diseñar estrategias de pruebas, definir y ejecutar pruebas manuales y automatizadas, aplicar frameworks de testing, y gestionar datos de prueba, todas ellas tareas clave para un rol de automatización. La experiencia en entornos Mainframe añade un dominio específico. Aunque no se especifica rango salarial, para un puesto Senior en Lima, Perú, se estima entre S/ 7,000 - S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4409616242",
-    "title": "Analista QA Automatizador",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4409616242",
-    "reason": "Esta oferta es un match directo con el perfil, ya que busca un \"QA Automation Engineer\" con experiencia en \"Automatización: Selenium, Appium, Kobiton, Cucumber, Behave, UFT\", \"Lenguajes de programación: Python\", \"Gestión de pruebas: Jira, Xray, Gherkin\", y \"Tipos de pruebas: Mobile, Servicios (APIs) y Web\". Se menciona explícitamente \"Testing continuo\" y \"Control de versiones: GitHub\", lo que demuestra un enfoque moderno en QA. El puesto se enfoca en automatización. El rango salarial aproximado para un QA Automation Engineer en Lima, Perú, con el stack tecnológico y experiencia requerida en Indra Group, podría estar entre S/ 6,000 y S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4412133644",
+    "title": "QA Automatizador IA - Semi Senior",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4412133644",
+    "reason": "La oferta se alinea al perfil al buscar un 'QA Automatizador IA - Semi Senior' con experiencia en testing funcional y no funcional, pruebas de APIs y validación de soluciones basadas en IA. Se mencionan herramientas de testing como Postman. Las responsabilidades incluyen diseñar y ejecutar pruebas de prompts, evaluar respuestas de modelos LLMs, y asegurar la calidad en integraciones, lo cual es relevante para un rol de automatización con enfoque en tecnologías emergentes. El dominio de 'Fintech' (implícito por el rubro banca) y el enfoque en QA Automation son puntos clave. El rango salarial estimado para un rol Semi Senior en Lima, Perú, sería entre S/ 5,500 - S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4411633845",
-    "title": "QA Bantotal Senior",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4411633845",
-    "reason": "Aunque el título menciona \"Funcional\", la descripción detalla \"Diseñar, ejecutar y documentar casos de prueba funcionales (manuales y automatizados)\", \"Experiencia en pruebas funcionales automatizadas\", \"Experiencia en pruebas de rendimiento\", y \"Conocimiento y manejo de BDD (Behavior Driven Development)\" con Gherkin. Se especifica \"al menos 3 años en el sector banca o financiero\", lo cual se alinea con el perfil. Se busca un rol senior con experiencia en automatización y dominios financieros. El rango salarial aproximado para un QA Senior en el sector financiero en Lima, Perú, con este nivel de experiencia y conocimiento en IDM Technology, podría ser de S/ 7,000 a S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4411686878",
-    "title": "QA Funcional ATM",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4411686878",
-    "reason": "Esta oferta busca un \"QA Funcional ATM\" con \"+ de 3 años de experiencia\". Lo más relevante es el conocimiento deseable: \"Deseable experiencia en automatización de pruebas (Selenium, Serenity BDD, Cucumber, JMeter, Postman)\", \"Conocimiento en herramientas CI/CD y gestión de casos en Jira/Xray\", \"Dominio en pruebas funcionales y no funcionales (carga, estrés, regresión)\" y \"Manejo de APIs (REST, SOAP)\". La experiencia en \"banca o afines\" también se alinea. Aunque el título es \"Funcional\", la descripción y los deseables apuntan fuertemente a la automatización. El rango salarial aproximado para un QA con experiencia en banca y deseable automatización en Lima, Perú, en una empresa como Tata Consultancy Services, podría ser de S/ 5,000 a S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4409639141",
-    "title": "QA Automation Engineer (Python)",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4409639141",
-    "reason": "Esta oferta es un match perfecto. Busca explícitamente un \"QA Automation Engineer (Python)\" y especifica \"Automatización: Selenium, Appium, Cucumber, Behave, UFT\", \"Lenguajes de programación: Python\", \"Gestión de pruebas: Jira, Xray, BDD (Gherkin)\", \"Testing continuo / Control de versiones: GitHub\", y \"Tipos de pruebas: Mobile, Servicios (APIs) y Web\", además de \"Pruebas No Funcionales: Experiencia mínima en Performance y Seguridad\". Se alinea con \"QA Senior\", \"SDET\", \"Automation Engineer\". El rango salarial aproximado para un QA Automation Engineer con Python en Lima, Perú, en Indra Group, podría estar entre S/ 6,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4411664399",
-    "title": "QE Senior [SEGUROS]",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4411664399",
-    "reason": "Esta oferta busca un \"Senior Quality Engineer\" y se enfoca en el \"sector seguros\", que se alinea con los dominios preferidos. Las responsabilidades clave son \"Definir la estrategia de pruebas\", \"Ejecutar y supervisar pruebas funcionales y no funcionales\", \"Diseñar, desarrollar y evolucionar frameworks de automatización para backend, frontend y mobile\", \"Asegurar la integración de pruebas dentro del pipeline CI/CD\", \"Dominio en pruebas de backend con Swagger, Postman y Karate (indispensable)\", \"Dominio en pruebas de frontend con Playwright y Selenium (indispensable)\", \"Experiencia integrando pruebas automatizadas en pipelines CI/CD (Jenkins, Bitbucket, Azure)\". El perfil de \"QA Senior\" y \"Automation Engineer\" es un match directo. El rango salarial aproximado para un QE Senior en el sector seguros en Lima, Perú, con esta experiencia en IDM Technology, podría ser de S/ 7,500 a S/ 11,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4411025199",
+    "title": "Líder técnico JR (Microservicios Java)",
+    "employer": "Entelgy",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4411025199",
+    "reason": "Aunque el título es 'Líder Técnico JR', la descripción detalla responsabilidades y requisitos que se solapan con un rol de automatización senior, como 'asegurando la calidad del software', 'adopción de buenas prácticas', 'revisión de código', 'calidad de código', y 'coordinar con equipos multidisciplinarios (QA, DevOps)'. La experiencia indispensable en sector banca y el conocimiento de Java y microservicios son relevantes. Si bien no es un rol de QA explícito, el enfoque en la calidad del desarrollo y la supervisión de la calidad del código lo hace un candidato interesante para alguien con un perfil de backend y enfoque en testing. El rango salarial estimado para un rol de liderazgo técnico en Lima, Perú, podría ser entre S/ 8,000 - S/ 13,000 mensuales, pero dado que se especifica 'JR' y el enfoque es más en liderazgo de desarrollo, podría ser S/ 7,000 - S/ 11,000."
   }
 ]
