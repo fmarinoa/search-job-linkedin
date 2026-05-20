@@ -1,9 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4383417416",
+    "id": "https://www.linkedin.com/jobs/view/4416951969",
     "title": "QA Automation",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4383417416",
-    "reason": "La oferta busca un QA Automation con mínimo 3 años de experiencia, lo cual se alinea con el perfil. Se mencionan explícitamente Python y Java en el stack tecnológico, y se requiere experiencia en API Testing y Selenium+Java para front-end, ambos relevantes para la automatización. El rol implica validación de datos, pruebas en pipelines de datos, y trabajo bajo marco Agile, que son responsabilidades clave para un SDET. Se valora la experiencia en el dominio de QA Automation. El rango salarial aproximado para este tipo de rol en Lima, Perú, con 3+ años de experiencia, se sitúa entre S/ 5000 y S/ 8000 mensuales, aunque la oferta no especifica un monto."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4416951969",
+    "reason": "Esta oferta se ajusta al perfil de QA Automation Engineer con más de 4 años de experiencia en automatización web, mobile y backend. La empresa Inetum es una compañía global de tecnólogos que proporciona soluciones digitales y trabaja en proyectos de TI y negocios. Las responsabilidades incluyen la ejecución de pruebas integrales en Backend, Web y Mobile, dominio de CI/CD, y metodologías ágiles. El rango salarial estimado para un puesto Senior de QA Automation en Lima, Perú, con esta experiencia y responsabilidades, se sitúa entre S/ 6,000 y S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4413382473",
+    "title": "Analista QA Senior Atomatizador-Mainframe",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4413382473",
+    "reason": "Esta oferta encaja con el perfil de QA Senior Automation Engineer, requiriendo más de 4 años de experiencia en pruebas automatizadas y funcionales. Indra Group es una consultora tecnológica que busca talento para proyectos de gran escala. Las responsabilidades incluyen la definición de estrategias de pruebas, diseño de casos de prueba manuales y automatizados, y aplicación de frameworks de testing. Se menciona experiencia en entornos Mainframe, lo cual puede ser un plus. El rango salarial estimado para un Analista QA Senior en Lima, Perú, con estas características, oscila entre S/ 6,500 y S/ 9,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4416959914",
+    "title": "QA Automatizador Senior AWS",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4416959914",
+    "reason": "Este puesto de QA Automatizador Senior se alinea perfectamente con el perfil, solicitando más de 4 años de experiencia en QA Automation, automatización de APIs (Karate, Postman), mobile (Appium) y desarrollo de frameworks en Java. Synopsis S.A. es una empresa que ofrece servicios de staffing y capacitación. Las responsabilidades clave incluyen definir e implementar la estrategia de calidad, diseñar y mantener frameworks de automatización, y validar integraciones y flujos cloud en AWS. El rango salarial estimado para un QA Automatizador Senior con experiencia en AWS en Lima, Perú, se encuentra entre S/ 7,000 y S/ 10,000 mensuales."
   }
 ]
