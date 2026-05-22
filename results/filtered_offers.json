@@ -1,74 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4417389211",
-    "title": "QA Tester ( Funcional & Automatizador )",
-    "employer": "METRICA Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4417389211",
-    "reason": "La oferta encaja con el perfil debido a su énfasis en QA Automation, experiencia implementando QA automatizado para backend y frontend, y conocimiento en pipelines de CI/CD. Si bien no se especifica un rango salarial, para un rol con estas características en Lima, Perú, se estima un rango entre S/5,000 y S/9,000 mensuales.",
-    "responsibilities": [
-      "Impulsar la calidad y experiencia de usuario mediante QA Automation.",
-      "Implementar QA automatizado para backend y frontend.",
-      "Diseñar circuitos de prueba e historias de usuario.",
-      "Conocimiento técnico en pipelines de CI/CD.",
-      "Conocimientos de ciberseguridad aplicada a QA.",
-      "Conocimiento en QA aplicado a IA generativa, agentes o LLMs.",
-      "Conocimiento de herramientas de evaluación LLM (RAGAS, DeepEval o similares)."
-    ]
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4386570581",
-    "title": "QA Automatizador",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
-    "reason": "Esta oferta se alinea fuertemente con el perfil, solicitando 3+ años de experiencia en automatización de pruebas, conocimiento en Python, API testing, y frameworks como Selenium y RestAssure, todos mencionados en el perfil. Se especifica la experiencia bajo marco Agile. Para un rol Senior de QA Automatizador en Lima, Perú, el rango salarial estimado es entre S/6,000 y S/10,000 mensuales.",
-    "responsibilities": [
-      "Experiencia en herramientas de Casos de Pruebas: Azure Test Plan",
-      "Experiencia en Python",
-      "Experiencia en DBeaver y Trino - Basico",
-      "Experiencia en SonarQube (Revisión de código).",
-      "Experiencia en validación de datos y uso de herramientas de Analytics.",
-      "Experiencia en pruebas en pipelines de datos y validación de integridad.",
-      "Experiencia bajo Marco de trabajo Agile (Scrum/Kanban).",
-      "Conocimiento del proceso de Software Test Lyfe Cycle (STLC)",
-      "Conocimiento del proceso de Softwate Development Lyfe Cycle (SDLC)",
-      "Conocimiento de BDD relacionales (SQL) + BDD No Relacionales (MongoDB)",
-      "Conocimiento de API Testing (Postman/SoapUI)",
-      "Conocimiento de RestAssure+Java para backend",
-      "Conocimiento de Selenium+Java para frontEnd",
-      "Conocimiento deseable en JMeter",
-      "Conocimiento deseable en GitHub"
-    ]
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4417317776",
-    "title": "QA Automatizador Senior - AWS",
+    "id": "https://www.linkedin.com/jobs/view/4418041017",
+    "title": "QA Automatizador Semi senior",
     "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4417317776",
-    "reason": "La oferta es altamente relevante, solicitando experiencia sólida en automatización (API con Postman y Karate, mobile con Appium), Java, Performance testing con JMeter, y AWS, lo cual coincide perfectamente con las tecnologías y dominios (Banca) del perfil. La modalidad híbrida en Lima también es un punto a favor. Dado el nivel Senior, la experiencia en banca y las tecnologías, se estima un rango salarial entre S/7,000 y S/12,000 mensuales.",
-    "responsibilities": [
-      "Automatización API con Postman y Karate",
-      "Automatización mobile con Appium",
-      "Experiencia en pruebas mobile para Android e iOS",
-      "Java con patrones POM y ScreenPlay",
-      "Performance testing con JMeter",
-      "BDD con Cucumber / Gherkin",
-      "Pruebas DAST y CI/CD",
-      "AWS (CloudWatch, Lambda, SQS, SNS, DynamoDB, API Gateway, entre otros)",
-      "SQL avanzado",
-      "Definir e implementar estrategias QA",
-      "Diseñar y mantener frameworks de automatización",
-      "Ejecutar pruebas funcionales, performance y seguridad",
-      "Participar en troubleshooting y validaciones en AWS",
-      "Coordinar con equipos técnicos y de negocio",
-      "Participar en pases a producción"
-    ]
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4386565831",
-    "title": "QA Automatizador - Mar 26 - Med",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
-    "reason": "Similar a la otra oferta de Inetum, esta también se alinea con el perfil de QA Automatizador. Aunque la descripción está vacía, el título y el empleador sugieren una coincidencia. Asumiendo requisitos similares a la otra oferta de Inetum y considerando el rango salarial para Lima, Perú, se estima entre S/6,000 y S/10,000 mensuales.",
-    "responsibilities": []
+    "linkOffer": "https://www.linkedin.com/jobs/view/4418041017",
+    "reason": "Esta oferta encaja perfectamente con el perfil debido a que busca un 'QA Automation Semi Senior' con experiencia sólida en automatización, performance y entornos cloud, además de mencionar explícitamente tecnologías como Appium, Java, JMeter y AWS, que se alinean con el tech stack y preferencias del perfil. Las responsabilidades incluyen definir e implementar estrategias QA, diseñar y mantener frameworks de automatización, ejecutar pruebas funcionales, performance y seguridad, y participar en troubleshooting en AWS. El rango salarial aproximado para un puesto similar en Lima, Perú, considerando la experiencia requerida (semi senior) y el sector, podría oscilar entre S/ 5,000 y S/ 8,000 mensuales."
   }
 ]
