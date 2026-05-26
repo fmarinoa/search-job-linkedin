@@ -1,9 +1,34 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4418423474",
-    "title": "Analista Funcional TI",
-    "employer": "Vaope.com",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4418423474",
-    "reason": "Aunque el título no es específicamente SDET o QA Automation Engineer, la descripción menciona \"asegurar que las soluciones desarrolladas estén alineadas a los objetivos del negocio y brinden una experiencia de usuario óptima\", \"asegurar que las entregas de desarrollo cumplan con los requerimientos funcionales antes de las pruebas de QA\" y la experiencia mínima es de 2-3 años. Si bien no se enfoca directamente en automatización de pruebas, el rol de Analista Funcional TI en metodologías ágiles puede implicar la validación de funcionalidades que luego son automatizadas. Se requiere experiencia en productos digitales y flujos de e-commerce. Dado el perfil, este rol podría tener un componente de QA enfocado en la validación funcional y la comunicación con el equipo de desarrollo, aunque la automatización no sea el foco principal. El rango salarial aproximado para un Analista Funcional TI con 2-3 años de experiencia en Lima, Perú, con énfasis en productos digitales, podría oscilar entre S/ 3,500 y S/ 5,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4415201976",
+    "title": "QA Automatizador",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4415201976",
+    "reason": "Esta oferta se ajusta al perfil por requerir un QA Automatizador con experiencia específica en herramientas de automatización como Selenium y Karate, además de experiencia en pruebas Backend, Web y de Servicio (REST SOAP). El rol principal es la automatización de pruebas y la participación en ceremonias ágiles, lo cual es clave para el perfil. Se menciona experiencia con Java/Javascript, Jira y Xray, y se valora la experiencia con BDD (Serenity BDD y Gherkin). El rango salarial para un puesto de QA Automatizador con 5 años de experiencia en Lima, Perú, puede oscilar entre S/ 6,000 y S/ 9,000 mensuales, dependiendo de la negociación y la empresa.",
+    "salary_range": "Aproximadamente S/ 6,000 - S/ 9,000 mensuales"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4415243605",
+    "title": "QA Automatizador",
+    "employer": "Tsoft",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4415243605",
+    "reason": "La oferta es para un QA Automation Ssr con experiencia en aplicaciones web y APIs, enfocado en la automatización de pruebas de regresión, funcionales y end-to-end utilizando frameworks robustos. Los requisitos técnicos incluyen Selenium WebDriver, Cypress, Appium, lenguajes como Java, Python o JavaScript, SQL, Git y CI/CD, lo que se alinea perfectamente con el perfil. Se busca alguien apasionado por la calidad y la automatización, capaz de diseñar y mantener frameworks. El rango salarial para un QA Automation Ssr con 4 años de experiencia en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales.",
+    "salary_range": "Aproximadamente S/ 5,000 - S/ 8,000 mensuales"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4418977034",
+    "title": "QA Automatizador Semi Senior / Senior",
+    "employer": "Grupo CINTE",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4418977034",
+    "reason": "Esta oferta busca un QA Automatizador Semi Senior / Senior con un fuerte enfoque en liderar y fortalecer la estrategia de automatización de pruebas en un equipo ágil. Se requieren más de 4 años de experiencia en automatización con Selenium, Cypress o Playwright, y experiencia sólida en pruebas de APIs, lo cual coincide con los requisitos del perfil. Se valoran conocimientos en CI/CD, BDD (Cucumber, Gherkin) y metodologías ágiles. El rol principal es diseñar, implementar y mantener frameworks de automatización. Para un puesto Semi Senior/Senior en Lima, Perú, el rango salarial aproximado sería de S/ 6,500 a S/ 10,000 mensuales.",
+    "salary_range": "Aproximadamente S/ 6,500 - S/ 10,000 mensuales"
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4418980766",
+    "title": "Product Owner DevOps",
+    "employer": "Banco de Crédito BCP",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4418980766",
+    "reason": "Aunque el título es 'Product Owner DevOps', la descripción menciona explícitamente la habilitación de equipos de ingeniería, incluyendo 'QA/testing', para crear, probar y desplegar software de forma rápida, segura y estandarizada. Se enfoca en la experiencia del desarrollador (DevEx) y en la creación de 'paved roads' (caminos estándar) para toda la organización, lo cual implica una fuerte comprensión de los flujos de trabajo de desarrollo y testing, incluyendo automatización y CI/CD. Se busca experiencia en entornos DevOps, Platform Engineering o Cloud, CI/CD, infraestructura como código y despliegues automatizados. Dada la naturaleza del rol en un banco importante como BCP y la modalidad híbrida en Lima, el rango salarial para un Product Owner con este enfoque podría estar entre S/ 8,000 y S/ 13,000 mensuales.",
+    "salary_range": "Aproximadamente S/ 8,000 - S/ 13,000 mensuales"
   }
 ]
