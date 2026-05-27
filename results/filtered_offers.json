@@ -1,34 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4415201976",
-    "title": "QA Automatizador",
+    "id": "https://www.linkedin.com/jobs/view/4416808760",
+    "title": "QA Funcional (Presencial)",
     "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4415201976",
-    "reason": "Esta oferta se ajusta al perfil por requerir un QA Automatizador con experiencia específica en herramientas de automatización como Selenium y Karate, además de experiencia en pruebas Backend, Web y de Servicio (REST SOAP). El rol principal es la automatización de pruebas y la participación en ceremonias ágiles, lo cual es clave para el perfil. Se menciona experiencia con Java/Javascript, Jira y Xray, y se valora la experiencia con BDD (Serenity BDD y Gherkin). El rango salarial para un puesto de QA Automatizador con 5 años de experiencia en Lima, Perú, puede oscilar entre S/ 6,000 y S/ 9,000 mensuales, dependiendo de la negociación y la empresa.",
-    "salary_range": "Aproximadamente S/ 6,000 - S/ 9,000 mensuales"
+    "linkOffer": "https://www.linkedin.com/jobs/view/4416808760",
+    "reason": "Esta oferta es una buena coincidencia porque, aunque se enfoca en QA Funcional, \"deseable experiencia en automatización de pruebas\" y \"Proponer mejoras continuas en procesos, cobertura y automatización de pruebas\" se alinean con el interés del perfil en automatización. Las responsabilidades incluyen \"Ejecutar pruebas sobre APIs y servicios REST/SOAP\", lo cual es relevante para el perfil. El sector \"Banca\" encaja con las preferencias del perfil. El rol es de \"QA Analyst\" con 3 años de experiencia, lo que puede encajar con un perfil Senior. El rango salarial aproximado para un puesto similar en Lima, Perú, con 3+ años de experiencia en el sector bancario, podría estar entre S/ 4,000 y S/ 7,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4415243605",
-    "title": "QA Automatizador",
-    "employer": "Tsoft",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4415243605",
-    "reason": "La oferta es para un QA Automation Ssr con experiencia en aplicaciones web y APIs, enfocado en la automatización de pruebas de regresión, funcionales y end-to-end utilizando frameworks robustos. Los requisitos técnicos incluyen Selenium WebDriver, Cypress, Appium, lenguajes como Java, Python o JavaScript, SQL, Git y CI/CD, lo que se alinea perfectamente con el perfil. Se busca alguien apasionado por la calidad y la automatización, capaz de diseñar y mantener frameworks. El rango salarial para un QA Automation Ssr con 4 años de experiencia en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales.",
-    "salary_range": "Aproximadamente S/ 5,000 - S/ 8,000 mensuales"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4418977034",
-    "title": "QA Automatizador Semi Senior / Senior",
-    "employer": "Grupo CINTE",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4418977034",
-    "reason": "Esta oferta busca un QA Automatizador Semi Senior / Senior con un fuerte enfoque en liderar y fortalecer la estrategia de automatización de pruebas en un equipo ágil. Se requieren más de 4 años de experiencia en automatización con Selenium, Cypress o Playwright, y experiencia sólida en pruebas de APIs, lo cual coincide con los requisitos del perfil. Se valoran conocimientos en CI/CD, BDD (Cucumber, Gherkin) y metodologías ágiles. El rol principal es diseñar, implementar y mantener frameworks de automatización. Para un puesto Semi Senior/Senior en Lima, Perú, el rango salarial aproximado sería de S/ 6,500 a S/ 10,000 mensuales.",
-    "salary_range": "Aproximadamente S/ 6,500 - S/ 10,000 mensuales"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4418980766",
-    "title": "Product Owner DevOps",
-    "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4418980766",
-    "reason": "Aunque el título es 'Product Owner DevOps', la descripción menciona explícitamente la habilitación de equipos de ingeniería, incluyendo 'QA/testing', para crear, probar y desplegar software de forma rápida, segura y estandarizada. Se enfoca en la experiencia del desarrollador (DevEx) y en la creación de 'paved roads' (caminos estándar) para toda la organización, lo cual implica una fuerte comprensión de los flujos de trabajo de desarrollo y testing, incluyendo automatización y CI/CD. Se busca experiencia en entornos DevOps, Platform Engineering o Cloud, CI/CD, infraestructura como código y despliegues automatizados. Dada la naturaleza del rol en un banco importante como BCP y la modalidad híbrida en Lima, el rango salarial para un Product Owner con este enfoque podría estar entre S/ 8,000 y S/ 13,000 mensuales.",
-    "salary_range": "Aproximadamente S/ 8,000 - S/ 13,000 mensuales"
+    "id": "https://www.linkedin.com/jobs/view/4419486920",
+    "title": "Desarrollador de front-end",
+    "employer": "Sermaluc Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4419486920",
+    "reason": "Esta oferta puede ser considerada porque, aunque es un rol de Frontend, incluye \"Conocimiento intermedio en pruebas unitarias frontend\" y el trabajo con \"APIs REST\" es una habilidad clave para el perfil. Además, el perfil menciona \"Backend con enfoque en testing\", y un desarrollador frontend con experiencia en testing y APIs podría tener una perspectiva valiosa. La empresa \"Sermaluc Perú\" tiene experiencia en el sector \"bancario y financiero\", lo cual se alinea con las preferencias del perfil. El rol se describe como \"Desarrollador Frontend Jr.\" con 2 años de experiencia, pero la mención de \"pruebas unitarias\" y \"APIs REST\" podría hacerlo interesante para alguien con experiencia en QA Automation. El rango salarial aproximado para un Desarrollador Frontend Jr. con estas características en Lima, Perú, podría estar entre S/ 3,000 y S/ 5,000 mensuales."
   }
 ]
