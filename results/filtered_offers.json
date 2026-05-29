@@ -1,34 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4417250254",
-    "title": "ANALISTA DE CALIDAD QA / AUTOMATION",
-    "employer": "SEIDOR",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4417250254",
-    "reason": "Esta oferta de SEIDOR encaja con el perfil dado que busca un 'Analista QA / Automation' con experiencia en automatización de pruebas con APIs, Playwright y Python. Si bien la experiencia mínima solicitada en automatización es de 2 años, y el perfil pide 3+, las tecnologías mencionadas (Playwright, Python) y el enfoque en automatización la hacen relevante. El rol implica la realización de pruebas funcionales QA y la experiencia en metodologías ágiles, lo cual se alinea con el perfil. El dominio 'Seguros' no está explícitamente en las preferencias, pero es un dominio financiero/transaccional que puede ser de interés. El rango salarial aproximado para un puesto de este tipo en Lima, Perú, con esta experiencia, podría estar entre S/ 5,000 y S/ 8,000 mensuales brutos.",
-    "salary_range": "S/ 5,000 - S/ 8,000 (Aprox.)"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4419973788",
+    "id": "https://www.linkedin.com/jobs/view/4419349798",
     "title": "QA Automatizador",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4419973788",
-    "reason": "Esta oferta de QDS para 'QA Automatizador' se ajusta fuertemente al perfil. Solicita más de 1 año de experiencia en automatización, lo cual es menos que los 3+ años del perfil, pero se complementa con más de 5 años como rol QA y experiencia específica en 'dominio básico de Playwright con TypeScript', que está dentro del stack tecnológico requerido. Las responsabilidades incluyen pruebas funcionales, no funcionales, de regresión, gestión de defectos y diseño de casos, alineándose con las expectativas de un rol de automatización. La empresa se enfoca en el 'core educativo', que no es un dominio preferente pero la naturaleza del rol es de automatización pura. El rango salarial aproximado para este puesto en Lima, Perú, podría estar entre S/ 5,500 y S/ 9,000 mensuales brutos.",
-    "salary_range": "S/ 5,500 - S/ 9,000 (Aprox.)"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4419994031",
-    "title": "QE Automatizador",
-    "employer": "NTT DATA, Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4419994031",
-    "reason": "La oferta de NTT DATA para 'QE Automatizador' es una excelente opción. Aunque solicita 1 año a más de experiencia en Automation, el rol de 'QA Automation Engineer' se alinea directamente con el perfil. La mención de tecnologías como Selenium WebDriver, Karate DSL, Rest Assured, Jenkins y Jira/Xray (para Test Management) encaja perfectamente con el tech stack requerido. Las responsabilidades incluyen automatización de pruebas y testing continuo. NTT DATA es una empresa importante en el sector TI, y esta posición se enfoca claramente en automatización. El rango salarial aproximado para este puesto en Lima, Perú, podría oscilar entre S/ 5,000 y S/ 8,500 mensuales brutos.",
-    "salary_range": "S/ 5,000 - S/ 8,500 (Aprox.)"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4418873607",
-    "title": "AI Engineer Semi Senior",
     "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4418873607",
-    "reason": "Esta oferta de Entelgy, aunque titulada 'AI Engineer Semi Senior', menciona explícitamente 'automatización inteligente del ciclo de vida del software' y la integración de herramientas como GitHub Copilot y Claude para optimizar procesos de desarrollo, pruebas, integración continua y operaciones DevOps. Se busca experiencia en desarrollo sobre ecosistemas .NET, Java y Angular, y la construcción de 'agentes especializados para automatización de pruebas unitarias, análisis de cobertura y validación continua'. Esto se alinea con el perfil que busca un enfoque en automatización, desarrollo ágil y el uso de ciertas tecnologías de desarrollo y CI/CD. El dominio 'QA Automation' es un subdominio implícito en las responsabilidades. El rango salarial aproximado para un rol Semi Senior con estas características en Lima, Perú, podría estar entre S/ 7,000 y S/ 12,000 mensuales brutos.",
-    "salary_range": "S/ 7,000 - S/ 12,000 (Aprox.)"
+    "linkOffer": "https://www.linkedin.com/jobs/view/4419349798",
+    "reason": "La oferta se ajusta al perfil ya que busca un 'QA Automatizador' con experiencia en aseguramiento de calidad de software y automatización de pruebas sobre aplicaciones web, APIs, móviles y entornos host-mainframe. Se menciona explícitamente la participación en 'iniciativas de transformación digital, contribuyendo en la validación de soluciones, automatización de pruebas y mejora continua bajo metodologías ágiles'. El rol requiere experiencia en automatización con Java y frameworks como Selenium, Serenity BDD, Cucumber o RestAssured, además de pruebas de APIs. Se mencionan metodologías ágiles y herramientas de gestión como Jira. Si bien no se especifica un rango salarial, para un puesto de QA Automatizador con esta experiencia en Lima, Perú, se podría estimar un rango aproximado de S/ 6,000 - S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4420459377",
+    "title": "QA Automatizador Semi Senior / Senior CON DISPONIBILIDAD INMEDIATA O DE UNA SEMANA COMO MÁXIMO",
+    "employer": "Grupo CINTE",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4420459377",
+    "reason": "La oferta se alinea perfectamente con el perfil buscado, ya que solicita un 'QA Automatizador Semi Senior / Senior' con el objetivo de 'liderar y fortalecer la estrategia de automatización de pruebas'. Se requiere experiencia sólida en automatización, capacidad para proponer mejoras y asegurar la calidad end-to-end. Las responsabilidades incluyen diseñar, implementar y mantener frameworks de automatización para pruebas UI y API, integrando pruebas automatizadas en pipelines CI/CD. Los requisitos técnicos de más de 4 años de experiencia en automatización con Selenium, Cypress o Playwright, y experiencia sólida en pruebas de APIs, encajan directamente con el perfil. El dominio de metodologías ágiles también es un punto clave. Para un rol Senior en Lima, Perú, con esta experiencia y responsabilidades, se estima un rango salarial de S/ 7,000 - S/ 11,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4420470587",
+    "title": "QA Automatizador Semi senior",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4420470587",
+    "reason": "Esta oferta es muy relevante al buscar un 'QA Automation Engineer Semi Senior' específicamente para el sector financiero. El perfil requerido incluye 'sólida experiencia en automatización de pruebas, validación de APIs, pruebas de performance y metodologías ágiles'. Las funciones detallan el diseño, desarrollo y mantenimiento de scripts de automatización, ejecución de pruebas funcionales, de integración, APIs y performance, y el uso de metodologías BDD y Gherkin. La experiencia mínima de 3 años en automatización con Java, Selenium y Serenity, así como experiencia en pruebas de servicios REST y SOAP, son requisitos clave que coinciden con el perfil. Dado que es un rol Semi Senior en el sector financiero en Lima, Perú, se estima un rango salarial de S/ 6,500 - S/ 9,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4420648467",
+    "title": "QE Automatizador Senior [BANCA]",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4420648467",
+    "reason": "La oferta busca un 'QE Automatizador Senior' con 'experiencia mínima de 5 años en QA, con al menos 2 años en posiciones senior o liderando iniciativas de calidad', y específicamente en el sector seguros (con gran afinidad al sector Banca/Finanzas/Fintech). Las funciones incluyen definir la estrategia de pruebas, diseño y evolución de frameworks de automatización para backend, frontend y mobile, e integración de pruebas en pipelines CI/CD. El dominio avanzado en pruebas de backend con Swagger, Postman y Karate, y en pruebas de frontend con Playwright y Selenium, son requisitos técnicos fundamentales que coinciden con el perfil. La experiencia en entornos ágiles también se menciona. Para un rol Senior en el sector financiero/seguros en Lima, Perú, se estima un rango salarial de S/ 8,000 - S/ 12,000 mensuales."
   }
 ]
