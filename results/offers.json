@@ -1,101 +1,90 @@
 [
     {
-        "titleJob": "Analista QA Técnico",
-        "employer": "Inetum",
-        "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "ASEGURAMIENTO DE LA CALIDAD",
+        "employer": "R&G",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/rygperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Ventanilla, Constitutional Province of Callao, Peru",
+        "howLongAgo": "6 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4422147263"
+    },
+    {
+        "titleJob": "QA Funcional Jr.",
+        "employer": "Sermaluc",
+        "linkProfileEmployer": "https://cl.linkedin.com/company/sermaluc-ltda-?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "San Isidro, Peru",
+        "howLongAgo": "6 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4422146456"
+    },
+    {
+        "titleJob": "Marketing Operations Coordinator",
+        "employer": "Finch",
+        "linkProfileEmployer": "https://www.linkedin.com/company/finch-ecomm-agency?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
         "howLongAgo": "12 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Somos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes en el proceso de digitalización aprovechando al máximo el digital flow. Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el Grupo tiene cerca de 27.000 colaboradores y apunta a continuar creciendo. ¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito! Si te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de IT y de negocios: ¡Postula ahora!Actualmente nos encontramos en búsqueda de 01 Analista QA Técnico para cliente del sector Seguros.RequisitosProfesional en Ingeniería de Sistemas, Informática, Computación o afines.Mínimo 02 años de experiencia en el rol o similaresExperiencia en marcos tradicionales (Waterfall) y ágiles (Scrum).ConocimientosPruebas continuas dentro del ciclo de vida del desarrollo.Pruebas de servicios/API REST.Análisis de requerimientos, estimación y planificación de pruebas.Diseño y ejecución de pruebas funcionales, E2E, smoke, integración y aceptación.Generación de datos de prueba, reporte y seguimiento de defectos.Acompañamiento y ejecución de pruebas UAT.Análisis de causa raíz y trazabilidad E2E.Conocimiento en arquitectura de microservicios, eventos y servicios.Validaciones y trazabilidad en AWSConsultas y validaciones en DynamoDB.Manejo de Postman / SOAP UI para pruebas de API REST.Uso de Bitbucket y Jenkins para trazabilidad de PR y despliegues.Jira y Xray para gestión de incidencias, tareas y test cases.BeneficiosIncorporación a planilla con todos los beneficios de leyCapacitaciones generales y específicas de acuerdo a tu especialidadPlataforma Educativa Multi-idiomas (inglés, francés, alemán, entre otros)Actividades de integración y Wellness ProgramsDescuentos corporativos en diversos establecimientosEPS Rímac cubierta al 100% en plan base para titular.Promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4420964861"
+        "descriptionOffer": "We are looking for a Marketing Operations Coordinator to own the technical setup and onboarding execution that makes client launches possible. This role exists to take the operational and technical load off the strategy and account teams, ensuring every new client is set up correctly, completely, and on time before the work begins.The right person for this role is energized by process, takes pride in getting technical details right, and thrives in an environment where speed and accuracy matter equally. You will be the person who makes sure all the pieces are connected before anyone else can do their job — and you will own that responsibility end to end.The ideal candidate is technically capable, fast-moving, and comfortable handling multiple client onboardings simultaneously.ResponsibilitiesExecute technical onboarding tasks across Meta, Shopify, GA4, CRM systems, and related platforms with accuracy and efficiency.Configure and verify Meta Pixels, conversion tracking, domain verification, permissions, and platform connections to ensure accounts are launch-ready.Connect platforms and data sources into reporting dashboards, QA tracking setups, and troubleshoot setup, access, and integration issues.Maintain onboarding checklists, track task completion, and identify and resolve blockers quickly to keep launches on schedule.Work closely with internal strategy and account teams to support multiple client onboardings simultaneously while maintaining speed and accuracy.Why Join FinchWork globally, stay flexible: Join a fully distributed team across the US, LATAM, Europe, and Asia.Meaningful impact from day one: Your work directly enables client launches and sets the foundation for campaign performance.A culture built on curiosity, transparency, and ownership: We share context and empower people to make decisions.High-caliber teammates: Collaborate with specialists across Paid Media, Client Success, Analytics, and Creative.Learning as a default: We are building something new, experimentation and growth are part of the job.RequirementsWe're looking for:2-4 years of experience in a technical, operations, or onboarding role within a digital marketing or agency environmentHands-on experience with Meta Business Manager and Meta Ads setup (Required)Solid understanding of Meta Pixels and conversion tracking implementation (Required)Familiarity with GA4 and basic tracking troubleshootingExperience with CRM systems and platform integrationsExperience with Shopify integrations and basic technical configurationStrong organizational skills and ability to manage multiple projects simultaneouslyComfortable troubleshooting technical setup issues independentlyStrong written communication skills in English, comfortable being client-facingExperience with Funnel.io, Klaviyo, or GoHighLevel (Advantage)Experience with dashboard setup and QA (Advantage)",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4423216838"
     },
     {
-        "titleJob": "Supervisor(a) de calidad (Laboratorio Medio Ambiente)",
-        "employer": "Empresa Confidencial",
-        "linkProfileEmployer": "https://br.linkedin.com/company/empresa-confidencial?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "QA Funcional Jr.",
+        "employer": "Sermaluc Perú",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/sermaluc-per%C3%BA?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "San Isidro, Peru",
+        "howLongAgo": "5 hours ago",
+        "recruiter": "Vilma Chuquihuanga",
+        "profileRecruiter": "https://pe.linkedin.com/in/vilmachuquihuanga",
+        "descriptionOffer": "Sermaluc, empresa con más de 30 años en el mercado, especializada en servicios de TI y outsourcing para el sector bancario y financiero, te invita a postular a la posición de:Rol: 𝗤𝗔 𝗙𝘂𝗻𝗰𝗶𝗼𝗻𝗮𝗹 𝗝𝘂𝗻𝗶𝗼𝗿Modalidad: Híbrida (1 día presencial a la semana)Locación: San Isidro📣 Requisitos:✅ Bachiller, titulado o estudios técnicos/universitarios en Ingeniería de Sistemas, Software, Computación e Informática o afines.✅ Curso y/o certificación ISTQB Foundation (deseable).✅ Manejo de Jira, Xray, QA Touch u otros✅ Conocimiento en SQL / NoSQL✅ Pruebas de rendimiento (JMeter o LoadRunner)📣 Experiencia:✅Experiencia comprobable de 2 años en el rol de QA Funcional (pruebas manuales, todo el ciclo de vida de las pruebas)✅Experiencia comprobable en el uso de gestores de casos de prueba (Jira Xray, QA touch, etc).✅Experiencia en el uso de bases de datos relacionales (SQL Server) y NoSQL (MongoDB)✅Experiencia práctica en el uso de marcos de trabajo Agile como Scrum.✅Conocimiento del proceso de control de calidad de software basados en el estándar ISQTB.✅Conocimiento y experiencia en el uso de herramientas de pruebas de performance y rendimiento como JMeter, LoadRunner, etc.✅Conocimiento básico en pruebas automatizadas (Selenium, SerenityDB, lenguaje Gherkin) (deseable).✅Conocimiento y experiencia en el uso de lenguajes de programación: Java, .Net, NodeJs u otros (deseable).⭐Competencias:Comunicación | Capacidad analítica | Trabajo en equipo | Organización | Adaptabilidad | ProactividadÚNETE Y SE MÁS EN SERMALUC!",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4422148864"
+    },
+    {
+        "titleJob": "QA Automatizador",
+        "employer": "NTT DATA Europe & Latam",
+        "linkProfileEmployer": "https://es.linkedin.com/company/ntt-data-europe-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "23 hours ago",
+        "howLongAgo": "14 hours ago",
+        "recruiter": "Stefany Cuadros Ruiz",
+        "profileRecruiter": "https://pe.linkedin.com/in/stefany-cuadros-ruiz-34160b199",
+        "descriptionOffer": "Somos NTT DATA, la empresa de servicios TI más grande del mundo, contamos con más de 140.000 profesionales y operamos en más de 50 países. Brindamos soluciones de negocio, estrategia, desarrollo y mantenimiento de aplicaciones tecnológicas y outsourcing.Queremos seguir construyendo un entorno único de colaboración, creativo, cercano y generoso; que nos permita seguir evolucionando juntos, como comunidad y como sociedad, prosperando en un día a día lleno de nuevas y mejores posibilidades.En NTT DATA todos somos Digital Lovers, nos une la tecnología y el corazón, dos ideas que cuando se mezclan nos dan infinitas posibilidades. Ser un Digital Lover es ser un amante de lo digital, es poner el corazón en lo que se hace, es no tener miedo de tener la cabeza en las nubes y ser capaz de iniciar cada proyecto con mariposas en el estómago.¡Estas a un paso de ser un Digital Lover, te invitamos a revisar la vacante de QA Automatizador, y vivir esta experiencia!Requisitos:Egresado de carrera técnica o universitaria en Ing. de Sistemas, Desarrollo de Software o afinesCon mínimo 6 meses de experiencia en Automation con alguna de las siguientes tecnologías: Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium.Test Management: Jira + Xray, Gherkin.Testing Continuo: Jenkins, Bitbucket.Certificado ISTQB (deseable).Metodología BDD.Beneficios:Contrato indeterminado desde el primer día.Inmejorable oportunidad de línea de carrera profesional en nuestra consultora líder en el mercado TI.Capacitaciones y Certificaciones.EPS cubierta al 100%.Tarjeta de alimentos.Oportunidad de trabajar en proyectos de clientes de gran envergadura locales e internacionales.“NTT DATA es un entorno inclusivo donde cada voz es escuchada y cada historia es valorada. Por eso, nuestro proceso de selección y reclutamiento se enfoca en identificar el talento sin distinción o sesgos relacionados con género, sexo, orientación sexual, discapacidad, edad u otras características personales”",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4422886953"
+    },
+    {
+        "titleJob": "QA",
+        "employer": "Tsoft",
+        "linkProfileEmployer": "https://ar.linkedin.com/company/tsoft?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "7 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "🔍 ¡Estamos en búsqueda de un/a Supervisor(a) de calidad - Laboratorio Medio Ambiente!🎯 Propósito del rolBrindar la supervisión y asesoría correspondiente a los analistas en la realización de los diferentes muestreos con la finalidad de lograr una mayor satisfacción de los clientes externos e internos, proponiendo y llevando a cabo las mejoras continuas.✅ Requisitos🎓 Formación: Ing. ambiental, Ing. Química, Técnico ambiental, Biología, carreras afines.📄 Grado académico: Titulado o Bachiller.🧪 Experiencia: 05 años en monitoreo ambiental, 03 año de los cuales haya liderado personal🛠️ Funciones principalesRealizar la capacitación del personal en los procedimientos, metodologías, instructivos y otros sobre los muestreos de las diferentes matrices.Presentar informes trimestrales de QA/QC y atender cualquier observación y/o queja. Habilitar al personal en las diferentes matrices de muestreo ambientales de acuerdo con la NTP 17025.Hacer el seguimiento al Sistema de Gestión participando en auditorias internas, externas e inspecciones según correspondaEjecutar acciones correctivas frente a las No conformidades resultantes de la auditoria, tanto internas como externas; para subsanar las observaciones encontradas en los procesos del área de monitoreos ambientales.Hacer seguimiento al plan de habilitaciones del área de monitoreos de la Sede a la que pertenece para asegurar el cumplimiento de las normas y estándares establecidos por los entes reguladores del estado y entes acreditadores como: INACAL, A2LA según aplique📍 Modalidad: Regimen 10x10",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4419739667"
+        "descriptionOffer": "¿Te apasionan los desafíos y tu objetivo es dar la milla extra siempre? 🚀Nos encontramos en la búsqueda de un QA con experiencia en banca para formar parte de esta gran familia.Requisitos:Titulado en Ingeniería de Sistemas o carreras afines.Experiencia 4 años mínimo de QA de preferencia sector de Seguros.Experiencia con herramientas de gestión de pruebas (Jira Xray, QMetry, entre otros).Experiencia ejecutando pruebas manuales en proyectos de banca o sector TI.Nociones de SQL para validación de datos.Manejo de defect tracking.Conceptos básicos de automatización y CI/CDCertificados Deseables:Certificación ISTQB Foundation Level v4.0SCRUM⬆️Línea de Carrera👩🏻 💻Bono de Conectividad🚑EPS😎Beneficios corporativos¿Queres formar parte de este gran equipo y vivir esta experiencia? 💥Póstula y envíanos tu cv actualizado.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4418799921"
     },
     {
-        "titleJob": "QA Expert Engineer",
-        "employer": "Novacomp",
-        "linkProfileEmployer": "https://cr.linkedin.com/company/novacomp?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "4 hours ago",
-        "recruiter": "Alessandra Arrunategui Zeta",
-        "profileRecruiter": "https://pe.linkedin.com/in/alearrunategui",
-        "descriptionOffer": "✨ La calidad del software es el motor que asegura confianza y excelencia en cada entrega y buscamos a quienes eleven ese estándar.¡En Novacomp estamos buscando un/a QA Expert Engineer!📍 Modalidad Híbrida – Perú🎯 ¿Qué harás en este rol?Diseñar estrategias de pruebas para proyectos complejos, aplicando enfoques Shift Left, TDD/BDD y pruebas basadas en riesgos.Velar por el cumplimiento del modelo de gobierno de calidad en squads y mesas de trabajo.Promover la adopción de frameworks de pruebas y actuar como referente técnico en QA.Definir planes de prueba, métricas y KPIs de calidad.Ejecutar pruebas funcionales, integración, regresión, exploratorias, performance, frontend y backend.Implementar y mantener frameworks de automatización en entornos ágiles y DevOps.Validar datos con SQL y realizar pruebas en ERP’s (SAP, Odoo) y productos digitales (web/móvil).Colaborar en integración continua con GitHub y Azure DevOps.🧠 ¿Qué buscamos en ti?Licenciatura en Ingeniería de Sistemas o afines.≥ 6 años de experiencia en QA y liderazgo técnico de calidad.Experiencia liderando equipos QA por más de 2 años.Certificaciones deseables: ISTQB (Foundation/Advanced), SCRUM, SAP Testing, TMMI.Experiencia en pruebas de ERP (SAP), sistemas core de negocio y productos digitales.Conocimientos sólidos en microservicios, APIs (Postman), integraciones en nube (AWS, Azure).Manejo de herramientas de gestión de pruebas (Azure TestPlan, Panaya deseable).Soft skills: pensamiento crítico, liderazgo técnico, comunicación efectiva y trabajo colaborativo.🎁 ¿Qué te ofrecemos?Proyectos estratégicos de alto impacto en calidad de software y transformación digital.Colaboración directa con equipos de desarrollo, negocio y QA Lead.Oportunidad de crecimiento en automatización, frameworks de pruebas y entornos SAP.Participación en iniciativas de innovación y mejora continua con alcance corporativo.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4421265089"
-    },
-    {
-        "titleJob": "QA Automatizador Senior (GCP)",
+        "titleJob": "QA Automatizador Senior - Remoto",
         "employer": "Synopsis S.A.",
         "linkProfileEmployer": "https://pe.linkedin.com/company/synopsis-s.a.?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "10 hours ago",
+        "howLongAgo": "7 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "🚨 Oportunidad Laboral | QA Automatizador Senior 🚨📍 Solo PerúNos encontramos en búsqueda de un/a QA Automatizador Senior para importante cliente del rubro banca. 💳🏦🔎 Requisitos técnicos:✔ Automatización de APIs y eventos✔ Karate / Appium / Python✔ Rest Assured✔ Postman✔ Event Testing✔ GCP Pub/Sub, Cloud Run y Apigee✔ Contract Testing✔ Mocking / Service Virtualization / Microcks✔ Trazabilidad E2E✔ Performance Testing con K6✔ Testing de interoperabilidad entre entidades financieras📌 Condiciones laborales:✅ Planilla completa desde el primer día✅ Cliente del sector banca✅ Horario: Lunes a Viernes de 8:30 a.m. a 6:30 p.m.✅ Modalidad remota (Asistencias puntuales a oficina 1 o 2 veces al mes, previa coordinación)",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4417960446"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4419212049"
     },
     {
-        "titleJob": "QA Automatizador Senior",
-        "employer": "IDM Technology",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/idmtechperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "13 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4422013167"
-    },
-    {
-        "titleJob": "Especialista de Proyectos de TI",
-        "employer": "Bancom Perú",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/bancom-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "titleJob": "QA Automatizador Ssr (Banca)",
+        "employer": "EVOL (TSnet)",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/evol-biz?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
         "howLongAgo": "4 hours ago",
-        "recruiter": "Robert Coletti Romero",
-        "profileRecruiter": "https://pe.linkedin.com/in/robert-coletti",
-        "descriptionOffer": "En Bancom Perú #PotenciamosTuTalento y queremos que seas parte de nuestro equipo de Tecnología y juntos vivamos nuestro propósito de Impulsar el progreso de las personas. Anímate a ser el protagonista en un Banco 100% peruano y #CRECE con nosotros.Perfil requeridoProfesional en Ingeniería de Sistemas, Informática, Computación o carrera afínMínimo 5 años de experiencia como Analista Senior, Especialista, o líder técnico en el sector bancario, con al menos 3 en gestión de proyectos CORE.Experiencia previa requerida:Integración de canales digitales y medios de pago con el CORE.Elaboración de planes de proyecto, EDT, cronogramas y gestión de riesgos.Supervisión de ciclos de desarrollo: análisis, diseño, codificación, QA y despliegue.Diseño y análisis de esquemas de datos bancarios.Gestión de ambientes: Desarrollo, Calidad (QA) y Producción.Conocimientos requeridos:Conocimiento funcional y técnico de sistemas CORE bancarios .Conocimiento de entornos Linux y sistemas IBM i (AS/400).Principios de seguridad en capas: redes, aplicaciones, bases de datos.Metodologías de gestión de proyectos: PMI/PMBOK, SCRUM o SAFe.Herramientas de modelado: diagramas UML, BPMN, Mermaid o Visio.lenguajes relevantes: Java (EE/Spring), RPG/400, Python.Dominio de SQL y gestión en DB2/400, SQL Server.Microsoft Project o herramientas equivalentes (Jira, Azure DevOps, similares) para planificación.Principales desafíos que asumirás:Implementar proyectos del negocio cumpliendo los objetivos y el cronograma establecido.Mantener los estándares de TI en cuanto a Software, hardware y Canales de Comunicación.Ejecutar las medidas correctivas pertinentes para mitigar las desviaciones respecto al cumplimiento de los objetivos de los proyectos.Controlar de calidad del desarrollo, testear los desarrollos para que no existan contingencias en su implementación en producción, Llevar el control de cambio de versiones de fuentesEvaluar y elaborar presupuesto de los proyectos propuestos.Garantizar el desarrollo y mantenimiento de los sistemas en producción, velando por el buen funcionamiento de los Software.Gestionar los recursos internos o externos del proyecto para asegurar el cumplimento de los objetivos planificados.Controlar y administrar los riesgos que pueden presentarse en la vida útil del proyecto.Revisar los requerimientos de los usuarios, para asegurarse que son completos, razonables, que se pueden integrar con la infraestructura y recursos existentes y que sigan los estándares definidos, para luego proceder a priorizar y asignar los recursos necesarios para su atención.Asesorar a las unidades organizativas del banco en temas correspondientes a soluciones de software.Analizar las necesidades de información de las diferentes unidades organizativas del banco para formular estrategias de desarrollo e integración de los sistemas.Te ofrecemosEPS cubierta al 85% (aplica para el colaborador y derechohabientes).Seguro oncológico cubierto al 85% (aplica para el colaborador y derechohabientes).Utilidades de Ley.Bono por escolaridad, cuando corresponda.Convenios educativos (para estudios de pregrado y postgrado).Cuponera de tiempo libre.De conformidad con la RM 171-2019, los postulantes que por motivos de discapacidad requieran algún tipo de ajuste razonable para su participación en el proceso de selección, deben hacerlo saber para que la empresa implemente dichos ajustes o proponga otros alternativos a fin de asegurar que todos participen bajo las mismas condiciones. Para ello deberán presentar junto a su curriculum una solicitud simple con el ajuste razonable requerido adjuntado una copia simple del certificado de discapacidad.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4417993253"
-    },
-    {
-        "titleJob": "Business Analyst",
-        "employer": "Ayesa Digital",
-        "linkProfileEmployer": "https://es.linkedin.com/company/ayesadigital?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "8 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "¡En Ayesa Digital crecemos contigo! Cada profesional de nuestra empresa es importante para nosotros, nos ayudan a crecer de manera diversa y gracias a ellos somos más de 11.000 personas trabajando con el mismo objetivo en 10 países. Si eres una persona entusiasta y buscas un nuevo reto profesional, ¡este es tu sitio! Buscamos ampliar nuestro equipo con un BUSINESS ANALYST SENIOR – SECTOR BANCA para incorporarse en las oficinas de nuestro cliente en Perú-Lima. ¿Qué buscamos?Formación y Experiencia:Profesionales titulados en Ingeniería de Sistemas, Ingeniería Industrial, Economía, Administración o carreras afines. Experiencia no menor a cinco (05) años en el análisis de negocio o gestión de proyectos. Trayectoria en proyectos de transformación digital, core bancario, cumplimiento normativo o mejoras operativas.Competencias Técnicas:Dominio de metodologías ágiles (Scrum, Kanban) y tradicionales.Conocimiento sólido del ciclo de vida bancario: créditos, productos pasivos, medios de pago, banca digital y riesgos.Manejo de herramientas de análisis y documentación: BPMN (Bizagi, Visio), Jira / Confluence, SQL básico o intermedio y herramientas de prototipado.Certificaciones deseables: CBAP, ECBA, PMI-PBA, o Scrum Master / Product Owner.Responsabilidades del puestoLiderar y gestionar el levantamiento, estructuración y priorización de requerimientos funcionales y no funcionales. Analizar procesos bancarios end-to-end e identificar oportunidades de mejora, eficiencia operativa y automatización.Coordinar equipos de trabajo multidisciplinarios para asegurar que las iniciativas aporten valor y cumplan con los objetivos. Elaborar documentación técnica: BRD, user stories, diagramas BPMN, casos de uso y flujos de datos.Garantizar la calidad de las soluciones mediante la participación en QA funcional y validación UAT. Alinear las iniciativas con las normativas locales (SBS), regulaciones AML, KYC y seguridad de la información.Colaborar estrechamente con stakeholders y equipos de negocio para gestionar expectativas y comunicación. ¿Qué ofrecemos?Oportunidad para trabajar en un proyecto innovador. Ambiente dinámico y colaborativo. Remuneración competitiva según el mercado. PostulaciónInteresados enviar CV documentado a cehuapaya@ayesa.com, con el asunto: BA SENIOR BANCA. ¡Anímate a dar el salto! Te estamos esperando. Únete a la multinacional española tecnológica referente en el mundo. Atendiendo a lo establecido en la Ley N.º 26772, que prohíbe toda discriminación en la oferta de empleo y acceso al mismo por motivo de origen, raza, sexo, idioma, religión, opinión, condición económica o de cualquier otra índole, así como en la Ley General de las Personas con Discapacidad (Ley N.º 29973), Ayesa promueve la igualdad de oportunidades en el acceso y permanencia al empleo para todas las personas, sin distinción.#Trabajo #AyesaPerú #BusinessAnalyst #Banca #TIC #Agile",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4417966726"
-    },
-    {
-        "titleJob": "Desarrollador/a Java Spring Boot",
-        "employer": "QoxIT",
-        "linkProfileEmployer": "https://uy.linkedin.com/company/qoxit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "15 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4417941566"
-    },
-    {
-        "titleJob": "Desarrollador Mobile Senior Flutter",
-        "employer": "Blauer Consultores",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/blauerseleccion?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Comas, Peru",
-        "howLongAgo": "12 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4420973441"
+        "descriptionOffer": "EVOL es una firma de consultoría de procesos y tecnologías de la información, orientada a apoyar a las organizaciones en el despliegue exitoso de las estrategias empresariales y de transformación digital que permitan hacerlas más grandes, más fuertes y ágiles. Contamos con más de 25 años de experiencia local y regional y con un equipo de consultores especializados por industria.Estamos en búsqueda de un/a QA Automatizador Semi Senior para formar parte de uno de nuestros clientes del sector banca.REQUISITOS:Experiencia laboral mínima de 3 liderando procesos de automatización de pruebas y mejora continua.Sólido dominio del patrón de diseño Screenplay (Java + Selenium + Serenity) para garantizar un código mantenible.Capacidad de análisis y ejecución de pruebas de rendimiento con JMeter.Manejo intermedio de consultas SQL para la validación integral de bases de datos.Experiencia en el diseño e implementación de frameworks de pruebas y alineación de procesos QA con los objetivos del negocio.Mentalidad Scrum/Kanban para trabajar en células de desarrollo de alto impacto.Disponibilidad de trabajar de manera hibrida en Lima (4 a 5 veces presencial al mes).BENEFICIOS:EPS cubierta al 100% para ti en un plan excelente.Oportunidades de desarrollo profesional y capacitación continua.Modalidad Híbrida.Excelente clima laboral.Actividades recreativas, salud y bienestar.Incorporación rápida y dinámica.“Cabe informar que el postulante afirma su consentimiento y autorización del uso de sus datos personales expuestos en su CV, dentro del marco de la Ley de Protección de Datos Personales N° 29733, para fines únicamente de postulación con la organización, este registro se deriva al área de RRHH y se conservará durante un plazo máximo de 6 meses, posterior al proceso de selección”.MIMP y normas complementarias, se reciben también postulaciones de personas con discapacidad, debidamente acreditadas y certificadas, a fin de ser evaluadas según la descripción del puesto.En cumplimiento de la Ley N.º 29733, Ley de Protección de Datos Personales, y su Reglamento, autorizo a TS NET S.A., con domicilio en Av. Javier Prado Este N° 2612, Urb. San Borja Norte, San Borja, Lima, a recopilar y tratar mis datos personales con la finalidad de gestionar los procesos de reclutamiento, selección y evaluación de personal, incluyendo su análisis, verificación, comunicación durante el proceso y eventual consideración en futuras convocatorias.He sido informado de que mis datos serán almacenados en el banco de datos “Postulantes a puestos de trabajo”, Código PJ-2025-3843 y se conservarán hasta que solicite su cancelación. Asimismo, se me ha informado que mis datos no serán transferidos, salvo obligación legal. Reconozco que el suministro de mis datos es necesario para las finalidades indicadas.Finalmente, declaro conocer que puedo ejercer mis derechos de Acceso, Rectificación, Cancelación y Oposición, así como revocar mi consentimiento, mediante solicitud al correo privacy@evol.biz.com o por escrito en las oficinas de la empresa.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4413486904"
     }
 ]

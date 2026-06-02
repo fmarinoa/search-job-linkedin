@@ -1,30 +1,37 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4417960446",
-    "title": "QA Automatizador Senior (GCP)",
+    "id": "https://www.linkedin.com/jobs/view/4418799921",
+    "title": "QA",
+    "employer": "Tsoft",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4418799921",
+    "reason": "La oferta busca un QA con experiencia en banca, lo cual se alinea con el dominio 'Banca' y 'Finanzas' del perfil. Se menciona experiencia con herramientas de gestión de pruebas y ejecución de pruebas manuales, pero también se requieren nociones de SQL y conceptos básicos de automatización y CI/CD, lo que sugiere un enfoque que podría evolucionar hacia la automatización. Si bien no se enfoca puramente en automatización, la experiencia en banca y los conceptos de automatización la hacen una candidata. El rango salarial aproximado para un puesto QA en Lima, Perú, con 4 años de experiencia en banca, podría estar entre S/ 4,000 y S/ 7,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4419212049",
+    "title": "QA Automatizador Senior - Remoto",
     "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4417960446",
-    "reason": "Esta oferta se prioriza porque el título 'QA Automatizador Senior' y las responsabilidades descritas como 'Automatización de APIs y eventos', 'Karate / Appium / Python', 'Rest Assured', 'Postman', 'Event Testing', 'GCP Pub/Sub, Cloud Run y Apigee', 'Contract Testing', 'Mocking / Service Virtualization / Microcks', 'Trazabilidad E2E', y 'Performance Testing con K6' se alinean directamente con el perfil buscado, especialmente en automatización de pruebas API. El dominio 'Banca' también es un plus. El puesto es de nivel Senior. Se estima un rango salarial de S/ 7,000 - S/ 10,000 mensuales para un puesto Senior de QA Automatizador en el sector banca en Lima, Perú."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4419212049",
+    "reason": "Esta oferta se ajusta perfectamente al perfil, ya que busca un 'QA Automatizador Senior' con experiencia en el rubro de banca. Las responsabilidades incluyen 'Automatización de APIs y eventos', lo cual es clave. El stack tecnológico mencionado ('Karate / Appium / Python', 'Rest Assured', 'Postman', 'Event Testing', 'GCP Pub/Sub, Cloud Run y Apigee', 'Contract Testing', 'Mocking / Service Virtualization / Microcks', 'Trazabilidad E2E', 'Performance Testing con K6') es robusto y se alinea con la experiencia requerida. El perfil de 'QA Senior' y 'Automation Engineer' es prioritario. Dado que es un puesto Senior y remoto, el rango salarial aproximado en Lima, Perú, podría estar entre S/ 6,000 y S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4421265089",
-    "title": "QA Expert Engineer",
-    "employer": "Novacomp",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4421265089",
-    "reason": "Esta oferta se prioriza por el título 'QA Expert Engineer' y las responsabilidades que incluyen 'Diseñar estrategias de pruebas', 'Promover la adopción de frameworks de pruebas', 'Definir planes de prueba, métricas y KPIs de calidad', 'Ejecutar pruebas funcionales, integración, regresión, exploratorias, performance, frontend y backend', y 'Implementar y mantener frameworks de automatización en entornos ágiles y DevOps'. La experiencia de '≥ 6 años de experiencia en QA y liderazgo técnico de calidad' y 'Experiencia liderando equipos QA por más de 2 años' encaja con un rol senior. Aunque no especifica un tech stack de automatización exacto, el enfoque en frameworks y automatización es clave. Se estima un rango salarial de S/ 7,500 - S/ 11,000 mensuales para un puesto Expert/Senior de QA en Lima, Perú."
+    "id": "https://www.linkedin.com/jobs/view/4413486904",
+    "title": "QA Automatizador Ssr (Banca)",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4413486904",
+    "reason": "La oferta es para un 'QA Automatizador Semi Senior' con experiencia en banca, lo cual se alinea directamente con los dominios 'Banca', 'Finanzas' y 'Fintech', así como con las preferencias 'QA Senior' y 'Automation Engineer'. Las responsabilidades incluyen 'liderando procesos de automatización de pruebas', 'diseño e implementación de frameworks de pruebas' y un 'Sólido dominio del patrón de diseño Screenplay (Java + Selenium + Serenity)'. El stack tecnológico mencionado ('Java', 'Selenium', 'Serenity', 'JMeter', 'SQL') es relevante. Se busca experiencia en automatización, lo que la convierte en una oferta de alta prioridad. El rango salarial aproximado para un puesto Semi Senior en automatización en Lima, Perú, podría estar entre S/ 4,500 y S/ 8,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/jobs/view/4422013167",
-    "title": "QA Automatizador Senior",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4422013167",
-    "reason": "Esta oferta se prioriza por el título 'QA Automatizador Senior', que indica claramente un enfoque en automatización y un nivel de experiencia alto. Aunque la descripción está vacía, el título y la etiqueta 'Senior' sugieren una alta probabilidad de alineación con el perfil buscado. El puesto es de nivel Senior. Se estima un rango salarial de S/ 7,000 - S/ 10,000 mensuales para un puesto Senior de QA Automatizador en Lima, Perú."
+    "id": "https://www.linkedin.com/jobs/view/4422886953",
+    "title": "QA Automatizador",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4422886953",
+    "reason": "Esta oferta busca un 'QA Automatizador' y menciona experiencia con tecnologías como 'Selenium WebDriver', 'Appium', 'Jira + Xray', 'Jenkins', lo cual encaja bien con el perfil. Aunque se pide un mínimo de 6 meses de experiencia en automation, el título del puesto y las tecnologías sugeridas la hacen relevante, especialmente si el candidato tiene 3+ años de experiencia general en QA y está buscando aplicar a un rol de automatización. Se alinea con 'QA Automation Engineer' y 'Automation Engineer'. El rango salarial aproximado para un QA Automatizador en Lima, Perú, podría estar entre S/ 3,500 y S/ 6,000 mensuales, dependiendo de la experiencia exacta más allá de los 6 meses solicitados."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4420964861",
-    "title": "Analista QA Técnico",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4420964861",
-    "reason": "Esta oferta se prioriza por el título 'Analista QA Técnico' y las responsabilidades que incluyen 'Pruebas de servicios/API REST', 'Diseño y ejecución de pruebas funcionales, E2E, smoke, integración y aceptación', y el uso de herramientas como 'Postman / SOAP UI para pruebas de API REST' y 'Jenkins para trazabilidad de PR y despliegues'. Aunque el requisito de experiencia es de 'Mínimo 02 años', las responsabilidades tienen un fuerte componente técnico de automatización y pruebas API que encajan con el perfil. El dominio 'Seguros' es cercano a 'Banca/Finanzas'. Se estima un rango salarial de S/ 4,500 - S/ 7,000 mensuales para un Analista QA Técnico con enfoque en API en Lima, Perú."
+    "id": "https://www.linkedin.com/jobs/view/4422148864",
+    "title": "QA Funcional Jr.",
+    "employer": "Sermaluc Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4422148864",
+    "reason": "Aunque el título es 'QA Funcional Jr.', la descripción menciona 'Conocimiento básico en pruebas automatizadas (Selenium, SerenityDB, lenguaje Gherkin) (deseable)' y 'Conocimiento y experiencia en el uso de lenguajes de programación: Java, .Net, NodeJs u otros (deseable)'. Además, la empresa Sermaluc está en el sector bancario y financiero. La experiencia de 2 años en QA Funcional y el conocimiento deseable en automatización y lenguajes de programación la hacen una opción a considerar para alguien con 3+ años de experiencia, ya que podría ser un rol de transición o donde el enfoque en automatización sea una oportunidad de crecimiento. Se excluye por el nivel 'Jr.', pero se incluye por el contexto y las deseabilidades. El rango salarial aproximado para un QA Funcional Jr. en Lima, Perú, podría estar entre S/ 2,000 y S/ 3,500 mensuales."
   }
 ]
