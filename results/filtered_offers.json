@@ -1,18 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4426355369",
-    "title": "QA Automation (Latam)",
-    "employer": "Coderio",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4426355369",
-    "reason": "Esta oferta se ajusta perfectamente al perfil, ya que busca un 'QA Automation Senior' con más de 3 años de experiencia en automatización de pruebas, lo cual coincide directamente con el rol y la experiencia requerida. Se mencionan explícitamente herramientas de automatización como Selenium y Appium, así como pruebas sobre APIs REST, todos ellos puntos clave del perfil. El dominio 'Fintech' es un plus. Las responsabilidades incluyen diseñar e implementar frameworks de automatización, integrar pruebas en pipelines CI/CD y trabajar con equipos de desarrollo backend para validar procesos asincrónicos, lo que se alinea con el enfoque en QA Automation y Backend con enfoque en testing. El rango salarial para un rol de QA Automation Senior en Lima, Perú, con estas responsabilidades y en una empresa de tecnología como Coderio, podría estar entre $2500 - $4000 USD mensuales, dependiendo de la experiencia específica y la negociación.",
-    "salary_approximate": "$2500 - $4000 USD mensuales"
+    "id": "https://www.linkedin.com/jobs/view/4427108866",
+    "title": "Especialista QA Técnico",
+    "employer": "Moventi",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4427108866",
+    "reason": "La oferta coincide con el perfil de QA Automation Engineer y SDET, destacando experiencia en testing de software con énfasis en pruebas funcionales, pruebas de performance y estrés, pruebas de integraciones y APIs. Las responsabilidades incluyen el diseño y ejecución de pruebas no funcionales y pruebas sobre servicios REST, SOAP y mensajería asíncrona. El dominio de herramientas como JMeter y conocimientos en testing de APIs son puntos fuertes. El sector 'Finanzas' también se alinea con las preferencias. Se estima un rango salarial entre S/ 5,000 y S/ 8,000 mensuales para un especialista con 3 años de experiencia en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4426321835",
-    "title": "Lider técnico Java (Latam)",
-    "employer": "Coderio",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4426321835",
-    "reason": "Aunque el título principal es 'Lider técnico Java', la descripción menciona explícitamente 'Experiencia coordinando equipos multidisciplinarios (Backend, Mobile y QA)' y 'Garantizar buenas prácticas de desarrollo: Code Reviews, Testing y Documentación'. Dado que el perfil tiene un fuerte enfoque en QA y automatización, un rol de liderazgo técnico que incluye la supervisión de QA y la garantía de buenas prácticas de testing puede ser de interés, especialmente si la persona tiene experiencia en la mentoría o dirección de ingenieros de QA. La experiencia en proyectos Fintech es un plus. El rol busca asegurar la calidad técnica del delivery, lo cual se alinea con una mentalidad de QA. El rango salarial para un Tech Lead con estas responsabilidades en Lima, Perú, en una empresa de tecnología como Coderio, podría estar entre $3500 - $5500 USD mensuales, dependiendo de la experiencia en liderazgo y la profundidad técnica.",
-    "salary_approximate": "$3500 - $5500 USD mensuales"
+    "id": "https://www.linkedin.com/jobs/view/4386570581",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
+    "reason": "Esta oferta se alinea perfectamente con el perfil de 'QA Automation Engineer' y 'SDET', requiriendo un mínimo de 3 años de experiencia en el rol. Se mencionan explícitamente herramientas de automatización y testing de APIs como Python, DBeaver, Trino, SonarQube, Azure Test Plan, BDD relacionales (SQL) y No Relacionales (MongoDB), API Testing (Postman/SoapUI), RestAssure+Java, y Selenium+Java. La experiencia en pipelines de datos y la validación de integridad, así como el marco de trabajo Agile, son requisitos clave. Se estima un rango salarial entre S/ 4,500 y S/ 7,500 mensuales en Lima, Perú, para un profesional con esta experiencia y habilidades."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4386565831",
+    "title": "QA Automatizador - Mar 26 - Med",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
+    "reason": "La oferta busca un 'QA Automatizador' y es muy relevante para el perfil de 'QA Automation Engineer' / 'SDET'. Los requisitos incluyen experiencia en herramientas de automatización como Selenium, Karate DSL, Playwright, conocimiento de lenguajes como Java y Python, redacción de pruebas en Gherkin (BDD/ATDD), herramientas de CI/CD (Jenkins, Gitlab, Azure DevOps), pruebas de performance (Jmeter), pruebas de microservicios/APIs (Postman, Karate) y herramientas de gestión de pruebas (JIRA, Zephyr). Las responsabilidades se centran en la automatización y la implementación de prácticas de testing. Se estima un rango salarial de S/ 4,500 a S/ 7,500 mensuales en Lima, Perú, similar a otras ofertas de Inetum para roles similares."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4420756535",
+    "title": "Especialista de Proyectos TI",
+    "employer": "Bancom Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4420756535",
+    "reason": "Aunque el título es 'Especialista de Proyectos TI', la descripción menciona explícitamente 'Supervisión de ciclos de desarrollo: análisis, diseño, codificación, QA y despliegue' y 'Controlar de calidad del desarrollo, testear los desarrollos'. Además, se mencionan lenguajes relevantes como Java y Python, y herramientas como Jira. El sector 'Banca' y 'Finanzas' es un match directo. Si bien no es un rol de automatización pura, la supervisión y el control de calidad en el ciclo de desarrollo son áreas donde un perfil SDET puede aportar significativamente. El rango salarial para un rol de especialista en gestión de proyectos TI en el sector bancario en Lima, Perú, podría estar entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la experiencia y responsabilidades exactas."
   }
 ]
