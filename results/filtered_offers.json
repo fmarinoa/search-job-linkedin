@@ -1,58 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4426657372",
-    "title": "Quality Assurance Lead",
-    "employer": "Coforge",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4426657372",
-    "reason": "La oferta de Coforge encaja perfectamente con el perfil. Busca un QA Lead con +5 años de experiencia en QA Automation, liderazgo de equipos, pruebas de seguridad, AWS, CI/CD, Java y APIs seguras. Las responsabilidades incluyen definir la estrategia de QA y seguridad, liderar técnicamente al equipo, supervisar automatización de pruebas web, APIs y móviles, e incorporar controles de calidad en pipelines CI/CD. El sector Fintech/Banca es un plus. El rango salarial aproximado para un QA Lead en Lima, Perú, con esta experiencia y responsabilidades podría oscilar entre S/ 8,000 y S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4426604927",
-    "title": "QA Lead (Ciberseguridad)",
-    "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4426604927",
-    "reason": "Esta oferta de Entelgy es muy relevante ya que busca un QA Lead con más de 5 años de experiencia en pruebas funcionales, automatizadas, de performance y seguridad. Las responsabilidades incluyen definir y liderar la estrategia de pruebas, liderar el equipo QA, incorporar controles de seguridad en pruebas funcionales y de APIs, supervisar la automatización de pruebas (APIs y mobile), y trabajar en entornos AWS. La experiencia en ciberseguridad y el sector financiero/banca son requisitos clave. El rango salarial aproximado para este puesto en Lima, Perú, podría estar entre S/ 8,000 y S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4424801243",
-    "title": "QA Automatizador (Python)",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4424801243",
-    "reason": "La oferta de Indra Group para QA Automatizador (Python) se alinea bien con el perfil. Requiere experiencia en automatización con Selenium, Appium, Cucumber, Python, y testing de Mobile, Servicios (APIs) y Web. Menciona experiencia en el sector bancario, lo cual es un dominio preferente. Las responsabilidades implican desarrollar y ejecutar pruebas automatizadas. El rango salarial aproximado para un QA Automatizador Senior en Lima, Perú, con esta experiencia podría estar entre S/ 6,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4427620913",
-    "title": "QA Automation SemiSr",
-    "employer": "Softtek",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4427620913",
-    "reason": "Softtek busca un QA Automation SemiSr con experiencia mínima de 3 años en QA Funcional y/o QA Automation. Se especifican conocimientos en pruebas de APIs (Postman), BDD, Selenium WebDriver y Karate DSL, además de experiencia en Performance (JMeter). Esto encaja con la experiencia en automatización web, APIs y el stack tecnológico requerido. Las responsabilidades incluyen la ejecución de pruebas y generación de informes de performance. El rango salarial aproximado para un QA Automation Semi Sr en Lima, Perú, podría ser entre S/ 5,500 y S/ 8,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4427605766",
-    "title": "QA Automatizador Semi senior",
-    "employer": "EVOL (TSnet)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4427605766",
-    "reason": "La oferta de EVOL (TSnet) es muy adecuada, buscando un QA Automation Engineer Semi Senior para el sector financiero. Requiere al menos 3 años de experiencia en automatización de pruebas de software, scripts con Java, Selenium y Serenity, metodologías BDD con Gherkin, pruebas de servicios REST/SOAP (Postman, SoapUI, Karate), pruebas de performance con JMeter, y experiencia bajo metodologías ágiles. El dominio financiero es un plus importante. Las responsabilidades incluyen diseñar, desarrollar y mantener scripts de automatización. El rango salarial aproximado para este perfil en Lima, Perú, podría estar entre S/ 6,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4427631405",
-    "title": "QE Automatizador Semi Senior",
-    "employer": "NTT DATA, Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4427631405",
-    "reason": "NTT DATA busca un QE Automatizador Semi Senior con experiencia en Automation con Selenium WebDriver, Karate DSL, Rest Assured, Appium. También se menciona Test Management (Jira + Xray), Testing Continuo (Jenkins) y metodología BDD. Aunque el requisito de experiencia es '1 año a más', la naturaleza del rol 'Semi Senior' y el stack tecnológico lo hacen relevante. Las responsabilidades son el desarrollo y mantenimiento de automatización. El rango salarial aproximado para un QA Automation Semi Sr en Lima, Perú, podría ser entre S/ 5,500 y S/ 8,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4424801214",
-    "title": "Líder Técnico Senior – Integraciones, Pruebas y Medios de Pago",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4424801214",
-    "reason": "Aunque la descripción detallada no está disponible, el título 'Líder Técnico Senior – Integraciones, Pruebas y Medios de Pago' sugiere un rol con fuerte componente de QA y automatización, especialmente en el sector financiero (Medios de Pago). Si el rol implica liderar equipos de QA y definir estrategias de prueba para integraciones y sistemas de pago, encajaría. Asumiendo un enfoque en automatización, el rango salarial aproximado para un Líder Técnico Senior en Lima, Perú, con esta especialización podría oscilar entre S/ 7,000 y S/ 11,000 mensuales."
-  },
-  {
     "id": "https://www.linkedin.com/jobs/view/4427656037",
     "title": "Desarrollador de .NET",
     "employer": "Softtek",
     "linkOffer": "https://www.linkedin.com/jobs/view/4427656037",
-    "reason": "Esta oferta es para Desarrollador de .NET, pero el perfil tiene una preferencia por 'Backend con enfoque en testing'. La descripción menciona 'Implementación de pruebas unitarias, integración y validación de contratos'. Si bien no es un rol de QA Automation puro, la mención de pruebas y la posibilidad de un enfoque backend con estas responsabilidades hacen que sea considerada, especialmente por las preferencias del perfil. El rango salarial aproximado para un Desarrollador .NET Senior en Lima, Perú, podría estar entre S/ 7,000 y S/ 10,000 mensuales."
+    "reason": "Esta oferta encaja con el perfil debido a que, si bien el título es \"Desarrollador de .NET\", la descripción menciona explícitamente \"Implementación de pruebas unitarias, integración y validación de contratos\" y \"Coordina técnicamente con frontend, QA, DevOps, analistas funcionales y arquitectura\". Esto sugiere un enfoque en la calidad del software y la colaboración con el equipo de QA, lo cual es relevante para un rol con inclinaciones a la automatización. La experiencia requerida en .NET, C# y bases de datos SQL/PostgreSQL es compatible con el stack tecnológico deseado, y la empresa Softtek es un proveedor global de servicios de TI que probablemente opera en el dominio de Finanzas/Banca dada su naturaleza. El rango salarial aproximado para un Desarrollador .NET Senior con 4+ años de experiencia en Lima, Perú, podría estar entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la complejidad del proyecto y los beneficios adicionales."
   }
 ]
