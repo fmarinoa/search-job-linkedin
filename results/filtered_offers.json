@@ -1,30 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4427395272",
-    "title": "QA Automation SDET",
-    "employer": "Infosys",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4427395272",
-    "reason": "Esta oferta es ideal para el perfil ya que busca explícitamente un \"SDET\" con más de 5 años de experiencia en automatización de pruebas de API y desarrollo de frameworks, incluyendo JavaScript y C#. Se menciona la integración con CI/CD y la experiencia con herramientas como Postman/Newman, las cuales son relevantes para el perfil. Las responsabilidades incluyen diseño y mantenimiento de scripts de automatización, manejo de datos de prueba dinámicos y validación de servicios. Si bien no se especifica un rango salarial, para un puesto Senior SDET en Lima, Perú, se estima un rango entre S/ 8,000 y S/ 12,000 mensuales brutos, considerando la experiencia requerida y la empresa."
+    "id": "https://www.linkedin.com/jobs/view/4429356103",
+    "title": "QA Automation Sr Playwright",
+    "employer": "METRICA Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4430757002",
+    "reason": "Esta oferta se alinea perfectamente con el perfil. El título \"QA Automation Sr Playwright\" y las responsabilidades como \"Diseñar y mantener soluciones de automatización de pruebas para aplicaciones web y APIs utilizando Playwright\", \"Implementar pruebas funcionales, de regresión, integración y End-to-End (E2E)\", \"Participar en la definición de criterios de aceptación, diseño de escenarios BDD/Gherkin e integración de pruebas dentro de pipelines CI/CD\", y \"Colaborar con equipos de Desarrollo y DevOps para promover buenas prácticas de calidad, automatización y mejora continua\" coinciden con la experiencia requerida en automatización web y APIs. La tecnología \"Playwright\" y \"TypeScript\" son parte del tech stack solicitado. El dominio \"QA Automation\" es explícito. El nivel \"Senior\" y el rol \"Automation Engineer\" encajan con las preferencias. Se valora experiencia con \"Jenkins\", que está en el tech stack. El rango salarial aproximado para un puesto Senior de QA Automation en Lima, Perú, en una empresa multinacional como METRICA, estaría entre S/ 8,000 y S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4430149385",
-    "title": "QA Automatizador",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4430149385",
-    "reason": "La oferta se alinea directamente con el perfil al buscar un \"QA Automatizador\" con 3 años de experiencia total en QA y al menos 2 años en pruebas de software, incluyendo automatización con Selenium y Cucumber. Las responsabilidades clave son ejecutar pruebas funcionales, de APIs y de performance, colaborando en entornos ágiles. El dominio de herramientas como Jira, Postman y Selenium es un match directo. Se menciona \"deseable experiencia trabajando en entornos ágiles\". El rango salarial aproximado para un QA Automatizador con este perfil en Lima, Perú, podría estar entre S/ 6,000 y S/ 9,000 mensuales brutos."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4428495365",
-    "title": "QA Senior",
-    "employer": "Elite Resources",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4428495365",
-    "reason": "Aunque el título es \"QA Senior\", la descripción detalla \"Ejecutar pruebas sobre aplicaciones web, móviles y servicios backend\" y \"Deseable experiencia en automatización de pruebas con Selenium, Cypress o Playwright\", lo cual indica un enfoque en automatización. Las responsabilidades incluyen diseño y ejecución de casos de prueba, pruebas de APIs con Postman/Swagger, manejo de SQL, y validación de aplicaciones web y móviles. La mención de experiencia deseable en automatización y la validación de servicios backend lo hacen relevante. Se ofrece un contrato por recibo de honorarios de S/4,500 por 3 meses, lo cual es bajo para un rol senior y con potencial de automatización, pero se indica posibilidad de extensión. Se ajustaría al perfil si la experiencia en automatización fuera más sólida, pero se incluye por la mención de habilidades deseadas."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4430133799",
-    "title": "Líder Técnico Web",
-    "employer": "SEMADA TECH",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4430133799",
-    "reason": "Esta oferta, si bien es de \"Líder Técnico Web\", menciona explícitamente \"Supervisar la implementación de pipelines de CI/CD y automatización de pruebas\" y \"Dominio de tecnologías backend como Node.js, .NET Core, Java o Python\". El perfil encaja por la experiencia en el sector bancario y el dominio de tecnologías backend relevantes. Si bien el rol principal no es SDET, las responsabilidades de liderazgo técnico en un entorno que incluye automatización de pruebas y CI/CD son un fuerte indicador. El rango salarial para un Líder Técnico con esta experiencia en Lima, Perú, podría variar significativamente, pero se estimaría entre S/ 9,000 y S/ 14,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4429317383",
+    "title": "Ingeniero Senior de Automatización de Aseguramiento de Calidad",
+    "employer": "Coforge",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4429317383",
+    "reason": "Esta oferta encaja muy bien con el perfil. El título \"Ingeniero Senior de Automatización de Aseguramiento de Calidad\" y las responsabilidades como \"Diseñar y mantener soluciones de automatización para pruebas web, APIs y mobile utilizando Karate Framework, Java y Appium\", \"Ejecutar pruebas funcionales, técnicas, de regresión, performance (carga, estrés, resistencia y escalabilidad) y seguridad\", \"Integrar automatización y controles de calidad en pipelines CI/CD utilizando GitHub y SonarQube\" se alinean con la experiencia solicitada en automatización web, mobile y APIs. El tech stack incluye \"Java\", \"Appium\", \"AWS Lambda\" (relacionado a AWS), \"Jira\", \"GitHub\", \"Jenkins\" (implícito en CI/CD). Los dominios \"Banca\" y \"Finanzas\" son un plus. El nivel \"Senior\" y el rol \"Automation Engineer\" coinciden. El rango salarial aproximado para un puesto Senior de QA Automation en Lima, Perú, en una empresa como Coforge, con experiencia en banca y servicios financieros, estaría entre S/ 8,000 y S/ 12,000 mensuales."
   }
 ]
