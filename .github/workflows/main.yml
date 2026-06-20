@@ -28,6 +28,10 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Ejecutar main script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          WHATSAPP_APIKEY: ${{ secrets.WHATSAPP_APIKEY }}
         run: python main.py
 
       - name: Obtener el resultado csv más reciente

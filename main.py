@@ -3,6 +3,7 @@ from job_scrapper.exporter.csv_exporter import append_results_csv
 from job_scrapper.exporter.html_exporter import generate_html
 from job_scrapper.exporter.json_exporter import append_results_json
 from job_scrapper.scrapper import scrape_jobs
+from job_scrapper.notifier.whatsapp import notify_whatsapp
 
 
 def main():
@@ -14,7 +15,9 @@ def main():
     append_results_json(results)
     GeminiAnalyzer().filter_offers()
     generate_html()
+    notify_whatsapp()
 
 
 if __name__ == "__main__":
     main()
+
