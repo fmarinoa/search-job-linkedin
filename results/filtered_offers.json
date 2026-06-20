@@ -1,16 +1,10 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4429356103",
-    "title": "QA Automation Sr Playwright",
-    "employer": "METRICA Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4430757002",
-    "reason": "Esta oferta se alinea perfectamente con el perfil. El título \"QA Automation Sr Playwright\" y las responsabilidades como \"Diseñar y mantener soluciones de automatización de pruebas para aplicaciones web y APIs utilizando Playwright\", \"Implementar pruebas funcionales, de regresión, integración y End-to-End (E2E)\", \"Participar en la definición de criterios de aceptación, diseño de escenarios BDD/Gherkin e integración de pruebas dentro de pipelines CI/CD\", y \"Colaborar con equipos de Desarrollo y DevOps para promover buenas prácticas de calidad, automatización y mejora continua\" coinciden con la experiencia requerida en automatización web y APIs. La tecnología \"Playwright\" y \"TypeScript\" son parte del tech stack solicitado. El dominio \"QA Automation\" es explícito. El nivel \"Senior\" y el rol \"Automation Engineer\" encajan con las preferencias. Se valora experiencia con \"Jenkins\", que está en el tech stack. El rango salarial aproximado para un puesto Senior de QA Automation en Lima, Perú, en una empresa multinacional como METRICA, estaría entre S/ 8,000 y S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4429317383",
-    "title": "Ingeniero Senior de Automatización de Aseguramiento de Calidad",
-    "employer": "Coforge",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4429317383",
-    "reason": "Esta oferta encaja muy bien con el perfil. El título \"Ingeniero Senior de Automatización de Aseguramiento de Calidad\" y las responsabilidades como \"Diseñar y mantener soluciones de automatización para pruebas web, APIs y mobile utilizando Karate Framework, Java y Appium\", \"Ejecutar pruebas funcionales, técnicas, de regresión, performance (carga, estrés, resistencia y escalabilidad) y seguridad\", \"Integrar automatización y controles de calidad en pipelines CI/CD utilizando GitHub y SonarQube\" se alinean con la experiencia solicitada en automatización web, mobile y APIs. El tech stack incluye \"Java\", \"Appium\", \"AWS Lambda\" (relacionado a AWS), \"Jira\", \"GitHub\", \"Jenkins\" (implícito en CI/CD). Los dominios \"Banca\" y \"Finanzas\" son un plus. El nivel \"Senior\" y el rol \"Automation Engineer\" coinciden. El rango salarial aproximado para un puesto Senior de QA Automation en Lima, Perú, en una empresa como Coforge, con experiencia en banca y servicios financieros, estaría entre S/ 8,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4428269075",
+    "title": "QA Automation",
+    "employer": "Tsoft",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4428269075",
+    "reason": "Esta oferta encaja con el perfil ya que busca un \"Analista Automatizador y Performance de APIs\" con un perfil orientado a la automatización, lo cual se alinea directamente con los roles preferidos (SDET, QA Automation Engineer, Test Automation Engineer). Los requisitos de \"Mínimo 3 años de experiencia en pruebas de software\" y \"Al menos 1 año de experiencia en automatización y performance de APIs\" cumplen con la experiencia requerida. El stack tecnológico \"TypeScript y Playwright\" es explícitamente mencionado y deseado. El enfoque en \"automatización y performance de APIs\" y \"diseño de casos de prueba utilizando Gherkin/BDD\" se alinea con las responsabilidades típicas de un SDET.  Aunque no se menciona un rango salarial, para un puesto de \"QA Automation\" en Lima, Perú, con 3+ años de experiencia y estas responsabilidades, se estima un rango salarial aproximado entre S/ 5,000 y S/ 8,000 mensuales brutos, dependiendo de la experiencia específica y negociaciones. Las responsabilidades principales incluyen: automatización y performance de APIs, validación de contratos, diseño de casos de prueba BDD, pruebas de rendimiento con JMeter, y control de versiones con Git.",
+    "estimatedSalary": "S/ 5,000 - S/ 8,000 mensuales brutos (aproximado)"
   }
 ]
