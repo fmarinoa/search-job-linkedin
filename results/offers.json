@@ -4,7 +4,7 @@
         "employer": "Tsoft",
         "linkProfileEmployer": "https://ar.linkedin.com/company/tsoft?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "12 hours ago",
+        "howLongAgo": "22 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "¿Te apasionan los desafíos y tu objetivo es dar la milla extra siempre? ¡Tsoft es tu lugar!🔐 Analista Automatizador y Performance de APIsPerfil orientado a la automatización, validación de contratos y pruebas de performance de servicios (APIs).RequisitosMínimo 3 años de experiencia en pruebas de software.Al menos 1 año de experiencia en automatización y performance de APIs.Experiencia en diseño de casos de prueba utilizando Gherkin/BDD (cucumber).Conocimiento en TypeScript y Playwright (obligatorio).Experiencia en pruebas de rendimiento con JMeter (diseño, construcción, ejecución y análisis de resultados).Experiencia en control de versiones con Git, preferentemente en Bitbucket (branching, pull requests, code reviews).Manejo de gestores de dependencias como npm para proyectos de automatización.👉Si te interesa, no dudes en contactarnos!",
@@ -15,10 +15,21 @@
         "employer": "Hitss Perú",
         "linkProfileEmployer": "https://pe.linkedin.com/company/hitss-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "La Victoria, Peru",
-        "howLongAgo": "11 hours ago",
+        "howLongAgo": "21 hours ago",
         "recruiter": "Gabriela Correa Fuentes",
         "profileRecruiter": "https://pe.linkedin.com/in/mgabrielacf",
         "descriptionOffer": "En HITSS Perú buscamos un(a) Jefe de Servicio – Fábrica de Pruebas para liderar la operación de QA de un importante proyecto del sector telecomunicaciones. Si cuentas con experiencia gestionando equipos de testing y asegurando la calidad de servicios TI, esta oportunidad es para ti.Funciones principales:Gestionar y supervisar la operación integral del servicio de QA.Garantizar el cumplimiento de acuerdos contractuales, KPIs y SLAs.Liderar equipos de QA funcional, automatización, performance, despliegue y seguridad.Definir estrategias de pruebas y asegurar su correcta ejecución.Implementar mejoras continuas y buenas prácticas de calidad (Shift-Left Testing, QAOps).Gestionar riesgos del servicio y proponer acciones preventivas.Elaborar reportes e indicadores de desempeño para la operación.Impulsar la automatización de pruebas y la optimización continua del servicio.Requisitos:Profesional en Ingeniería de Sistemas, Informática, Telecomunicaciones o carreras afines.Experiencia mínima de 5 años en QA/Testing.Experiencia mínima de 3 años liderando servicios o fábricas de pruebas.Conocimiento comprobado en PMP e ITIL Foundation.Certificación ISTQB (indispensable).Experiencia en metodologías ágiles (Scrum, Kanban), DevOps y CI/CD.Conocimiento de herramientas de automatización como Selenium, Cypress o Playwright.Manejo de herramientas de pruebas API (Postman, RestAssured) y rendimiento (JMeter, LoadRunner).Experiencia con Jira, Azure DevOps, Jenkins y GitLab CI.Conocimientos de arquitectura de software, microservicios y bases de datos SQL.",
         "linkOffer": "https://www.linkedin.com/jobs/view/4430986631"
+    },
+    {
+        "titleJob": "Cloud Infrastructure Engineer",
+        "employer": "Welocalize",
+        "linkProfileEmployer": "https://www.linkedin.com/company/welocalize?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "23 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4429674067"
     }
 ]
