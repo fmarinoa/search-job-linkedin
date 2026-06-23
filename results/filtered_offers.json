@@ -1,16 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4428269075",
-    "title": "QA Automation",
-    "employer": "Tsoft",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4428269075",
-    "reason": "La oferta encaja perfectamente con el perfil. Busca un 'Analista Automatizador y Performance de APIs' con enfoque en automatización, validación de contratos y pruebas de performance de servicios. Cumple con los requisitos de experiencia mínima de 3 años en pruebas de software y al menos 1 año en automatización y performance de APIs. Se mencionan tecnologías clave como TypeScript y Playwright, que están en el tech stack del perfil. Las responsabilidades incluyen diseño de casos de prueba con Gherkin/BDD, pruebas de rendimiento con JMeter y control de versiones con Git. El rango salarial aproximado para este tipo de rol Senior en Lima, Perú, con 3+ años de experiencia y habilidades requeridas, se estima entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4432006931",
+    "title": "Engineer Manager",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4432006931",
+    "reason": "Aunque el rol es de 'Engineer Manager', la descripción menciona explícitamente 'Fortalecer la disciplina de QA Automation con frameworks como SonarQube, CodeClimate y Talisman, garantizando calidad y cumplimiento de estándares.' Esto sugiere un fuerte enfoque en la calidad y automatización, lo cual podría ser de interés para el perfil. Sin embargo, al ser un rol de gestión, la experiencia principal no sería la de ejecución directa de automatización. Se prioriza por el componente de QA Automation mencionado. El rango salarial aproximado para un Engineer Manager en Lima, Perú, con experiencia y responsabilidades de este tipo puede oscilar entre S/ 8,000 y S/ 15,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4430986631",
-    "title": "Jefe de Servicio – Fábrica de Pruebas (QA)",
-    "employer": "Hitss Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4430986631",
-    "reason": "Esta oferta es de liderazgo y gestión en QA, alineada con las preferencias 'QA Senior' y 'Automation Engineer'. Aunque el rol es de 'Jefe de Servicio', las responsabilidades mencionan explícitamente liderar equipos de automatización, definir estrategias de pruebas, impulsar la automatización y optimizar el servicio, lo cual requiere un fuerte background técnico en automatización. Se mencionan herramientas como Selenium, Cypress o Playwright, y experiencia en metodologías ágiles y DevOps, que se alinean con el perfil. La experiencia requerida es de 5 años en QA/Testing y 3 años liderando servicios, lo cual supera los 3 años de experiencia en automatización del perfil, pero el enfoque en la automatización dentro de la gestión es clave. El rango salarial para un rol de Jefe de Servicio en Lima, Perú, con estas responsabilidades y experiencia, se estima entre S/ 8,000 y S/ 12,000 mensuales, dado el nivel de liderazgo y el tamaño del proyecto."
+    "id": "https://www.linkedin.com/jobs/view/4431731125",
+    "title": "QA Automatizador Sr",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4431731125",
+    "reason": "Esta oferta encaja perfectamente con el perfil. El título 'QA Automatizador Sr' y la descripción que detalla \"Más de 4 años de experiencia en QA Automation\", \"Experiencia desarrollando frameworks de automatización con Java utilizando patrones POM o ScreenPlay\", \"Experiencia en automatización de APIs con Karate\", \"Experiencia en automatización Mobile con Appium\", \"Experiencia ejecutando pruebas de performance con JMeter\", \"Conocimientos en pruebas de seguridad DAST e integración de pruebas automatizadas en pipelines CI/CD\" y \"Experiencia trabajando con AWS\" son todos puntos clave del perfil. Las principales responsabilidades incluyen definir e implementar la estrategia de QA, diseñar, desarrollar y mantener frameworks de automatización, ejecutar pruebas de rendimiento y seguridad, e integrar controles de calidad en pipelines CI/CD. El dominio específico de \"banca, seguros o fintech\" también es una preferencia marcada. El rango salarial aproximado para un \"QA Automatizador Sr\" en Lima, Perú, con esta experiencia y dominio puede oscilar entre S/ 7,000 y S/ 12,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4431749870",
+    "title": "QA Automation",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4431749870",
+    "reason": "Esta oferta es muy relevante. El título 'QA Automation' y la descripción que menciona \"Experiencia mínima de 2 años en el rol de QA Automation o similares\", \"Participación en la definición y refinamiento de HU y criterios de aceptación, aplicando pruebas funcionales y no funcionales con frameworks de automatización como Selenium, Rest Assured, Karate DSL, Serenity, Appium y Cucumber\", \"Estrategias de automatización en Java/Javascript\", \"Diseño de estrategias de pruebas alineadas a lineamientos corporativos, integrando Testing Continuo con Jenkins y Bitbucket\" y \"Definición de pruebas manuales y automatizadas, optimizando cobertura y reutilización de casos con sintaxis Gherkin y frameworks de automatización\" se alinean bien con el perfil. Las principales responsabilidades incluyen la aplicación de pruebas funcionales y no funcionales con frameworks de automatización, estrategias de automatización, diseño de estrategias de pruebas y definición de pruebas automatizadas. Si bien la experiencia mínima requerida es de 2 años, la amplitud de tecnologías y responsabilidades descritas la hacen una buena opción. El rango salarial aproximado para un QA Automation en Lima, Perú, con esta descripción, podría estar entre S/ 5,000 y S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4431711854",
+    "title": "Ingeniero de Software Full Stack Semi Senior",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4431711854",
+    "reason": "Aunque el título es 'Ingeniero de Software Full Stack Semi Senior', la descripción menciona \"Experiencia trabajando bajo metodologías ágiles (Scrum)\" y \"Colaborar con equipos de QA, Product Owner y stakeholders técnicos\". Crucialmente, la lista de tecnologías deseadas incluye \"Conocimiento del sector Banca y/o Seguros\" y \"Experiencia en integración de sistemas empresariales\". Si bien no es un rol de QA Automation dedicado, la experiencia en entornos ágiles y la posible interacción con equipos de QA, junto con el dominio financiero deseado, lo hacen un candidato secundario. Las principales responsabilidades giran en torno al desarrollo full stack, pero la mención de colaboración con QA y el dominio financiero lo hacen relevante. El rango salarial aproximado para un Ingeniero de Software Full Stack Semi Senior en Lima, Perú, puede oscilar entre S/ 6,000 y S/ 10,000 mensuales."
   }
 ]
