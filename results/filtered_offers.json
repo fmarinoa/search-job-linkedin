@@ -1,10 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4437717235",
-    "title": "QA Automation - Junior",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4437717235",
-    "reason": "Esta oferta se descarta debido a que el perfil solicitado es 'Junior' y la experiencia mínima requerida es de 1 año, lo cual no cumple con el requisito de '3+ años' del perfil. Aunque menciona 'QA Automation' y el uso de Selenium/APIs, el nivel de experiencia es el factor decisivo para el descarte.",
-    "salary_estimate": "Aproximadamente S/ 4,000 - S/ 6,000 mensuales"
+    "id": "https://www.linkedin.com/jobs/view/4437332029",
+    "title": "QA Automatizador Mobile Appium",
+    "employer": "Entelgy",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4437332029",
+    "reason": "Esta oferta se alinea perfectamente con el perfil, ya que busca un \"Especialista QA Automation Semi Senior\" con experiencia en automatización de pruebas móviles usando Appium y validación de APIs REST. El rol implica \"diseñar, desarrollar y ejecutar casos de prueba manuales y automatizados para aplicaciones móviles\", \"automatizar pruebas funcionales de aplicaciones móviles utilizando Appium\", y \"ejecutar pruebas funcionales y automatizadas sobre APIs REST\".  La experiencia deseada en \"proyectos del sector Banca o Fintech\" también coincide con las preferencias del perfil. El rango salarial aproximado para un puesto Semi Senior en Lima, Perú, con estas características, oscila entre S/ 5,500 y S/ 8,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4437310647",
+    "title": "Senior QA Automation",
+    "employer": "Coforge",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4437310647",
+    "reason": "La oferta es para \"Senior QA Automation\" y menciona explícitamente experiencia con \"Selenium y Java para la automatización de pruebas\", \"automatización de pruebas móviles con Appium\", \"certificación y validación de APIs\", y \"herramientas de pruebas de rendimiento como JMeter\". Las responsabilidades incluyen \"planificar, coordinar y ejecutar pruebas funcionales, automatizadas y de servicios\", lo que encaja directamente con el perfil. El requisito de \"+3 años de experiencia en QA Automation\" cumple con la experiencia mínima. El rango salarial aproximado para un puesto Senior en Lima, Perú, con estas características, oscila entre S/ 7,000 y S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4438526435",
+    "title": "Analista senior de aseguramiento de calidad",
+    "employer": "Mibanco, banco de la Microempresa",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4438526435",
+    "reason": "Esta oferta es para \"Analista senior de aseguramiento de calidad\" y se enfoca en la \"implementación y mantenimiento de pruebas automatizadas utilizando herramientas de automatización y asistencia de IA Generativa\", además de \"ejecución de pruebas manuales y automatizadas en ciclos de desarrollo continuo\". El perfil requiere \"Experiencia mínima de 3 años en roles de QA/QE (funcional y no funcional)\" y \"Conocimiento de frameworks de automatización (ej. Selenium, Cypress, Playwright, Postman u otros equivalentes)\". El sector \"banca\" es una preferencia clave. El rango salarial aproximado para un puesto Senior en Mibanco (sector financiero) en Lima, Perú, oscila entre S/ 6,500 y S/ 9,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4427625875",
+    "title": "QA Performance SemiSr",
+    "employer": "Softtek",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4427625875",
+    "reason": "El puesto de \"QA Performance SemiSr\" requiere \"Experiencia mínima 3 años como QA Performance\" y experiencia comprobada en \"JMeter\", \"pruebas de APIs con Postman\", y \"Selenium WebDriver y Karate DSL\". El perfil de \"QA Automation Engineer\" o \"Test Automation Engineer\" con enfoque en backend y rendimiento encaja bien.  La descripción menciona \"probamos\", lo cual se alinea con el rol de QA. El rango salarial aproximado para un puesto Semi Senior en Softtek (una empresa de TI importante) en Lima, Perú, oscila entre S/ 5,800 y S/ 8,500 mensuales."
   }
 ]
