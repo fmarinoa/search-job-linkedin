@@ -1,37 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4440324287",
-    "title": "Analista QA Automatizador",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4440324287",
-    "reason": "Esta oferta coincide con el perfil ya que busca un 'Analista QA Automatizador' con 3 años de experiencia (indispensable). Menciona experiencia en testing de APIs REST (Postman), pruebas E2E, pruebas mobile, y tecnologías relevantes como .NET, microservicios, Selenium, Playwright, Jenkins (implícito en CI/CD). Se valora el desarrollo ágil y la experiencia en la posición. Se ofrece ingreso a planilla con beneficios de ley, buen clima laboral, utilidades, Udemy y EPS (50%). El rango salarial aproximado para un puesto de este nivel en Lima, Perú, estaría entre S/4,500 - S/7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4427395272",
+    "title": "QA Automation SDET",
+    "employer": "Infosys",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4427395272",
+    "reason": "Esta oferta se ajusta al perfil ya que busca un \"QA Automation SDET\" con \"5+ years of hands-on software test automation experience\". Menciona responsabilidades clave como \"Design, develop, and maintain API automation test scripts\", \"Build and extend library-based automation frameworks\" e \"Integrate automation into CI/CD pipelines\". El stack tecnológico mencionado incluye \"JavaScript (Advanced)\", \"C# API Development\" y \"REST principles\", que se alinean con las tecnologías preferidas. Si bien no especifica el rango salarial, para un puesto Senior en una empresa global como Infosys en Lima, Perú, se esperaría un rango aproximado entre S/ 7,000 - S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4440327341",
-    "title": "QA Automation",
-    "employer": "Bluetab, an IBM Company",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4440327341",
-    "reason": "La oferta es para 'QA Automation' y aunque la descripción está vacía, el título y el empleador (Bluetab, una empresa conocida en el sector tecnológico) sugieren una alta probabilidad de que se ajuste al perfil de automatización. Dada la ausencia de detalles, se asume que se buscará experiencia en el stack tecnológico y dominios especificados. El rango salarial aproximado para un puesto de automatización con experiencia en Lima, Perú, estaría entre S/5,000 - S/8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4438022504",
+    "title": "QA Automation Engineer",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4438022504",
+    "reason": "La oferta coincide con el perfil, buscando un \"QA Automation Engineer\" con \"Mínimo 4 años de experiencia en automatización de pruebas\". Las responsabilidades incluyen \"Diseñar y desarrollar soluciones de automatización\", \"Incrementar la cobertura de pruebas automatizadas\", \"Diseñar, implementar y evolucionar frameworks de automatización\" e \"Integrar pruebas automatizadas dentro de pipelines CI/CD\". Menciona un stack tecnológico relevante como \"Selenium, Playwright, Cypress o equivalentes\", \"Java, Python, JavaScript, C#\" y \"APIs REST\", además de \"Jenkins, GitLab CI, GitHub Actions o Azure DevOps\". Dado que es un puesto Senior en Indra Group y la modalidad es híbrida en Lima, el rango salarial estimado estaría entre S/ 6,000 - S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4438516325",
-    "title": "QA Automation Senior",
-    "employer": "Bluetab, an IBM Company (América)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4438516325",
-    "reason": "Esta oferta se ajusta perfectamente al perfil buscado. El título es 'QA Automation Senior' y requiere \"Experiencia sólida (3+ años) en la construcción y la evolución de frameworks de automatización con Cypress (Indispensable), WebDriverIO, Appium y Cucumber\". Menciona también \"Pruebas de API: Experiencia avanzada en pruebas de APIs REST y/o GraphQL en arquitecturas de microservicios\", \"CI/CD: Integración y optimización de suites de pruebas en entornos de GitHub Actions\", \"Control de Versiones (Requisito Indispensable): Experiencia avanzada con Git y dominio de flujos colaborativos en GitHub\", y \"Arquitectura de Software: Dominio de JS/TS, aplicando patrones de diseño y arquitecturas de pruebas escalables\". Además, el empleador es una empresa importante en el sector. Se ofrece contrato indefinido, salario competitivo y formación continua. El rango salarial aproximado para un puesto Senior en Lima, Perú, estaría entre S/6,000 - S/10,000+ mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4440838821",
+    "title": "Analista QA Semi Senior",
+    "employer": "METRICA Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4440838821",
+    "reason": "Esta oferta se alinea con el perfil, buscando un \"Analista QA Semi Senior\" con \"Experiencia mínima de 3 años en roles relacionados con testing, calidad de software y/o automatización de pruebas\". Las responsabilidades clave incluyen \"Construir pruebas de automatización de los flujos funcionales\" y \"Analizar, diseñar, construir y ejecutar pruebas automatizadas\". El stack tecnológico mencionado es \"Playwright\" y \"pruebas de API\", además de \"JMeter\" y \"SQL Server\". Aunque la oferta no detalla el rango salarial, para un rol Semi Senior en METRICA Perú (empresa con presencia internacional) y modalidad híbrida en Lima, se podría estimar un rango aproximado de S/ 4,500 - S/ 7,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4439480071",
-    "title": "QA Atomatizador Semi Senior",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4439480071",
-    "reason": "La oferta es para 'QA Atomatizador Semi Senior' y solicita \"Experiencia: 1 año a más de experiencia en Automation con alguna de las siguientes tecnologías: Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium\". Se menciona 'Test Management: Jira + Xray, Gherkin' y 'Testing Continuo: Jenkins, Bitbucket'. Esto se alinea con el perfil de automatización y desarrollo ágil. Se ofrecen beneficios como contrato indeterminado, EPS 100%, acceso a Udemy y línea de carrera. El rango salarial aproximado para un Semi Senior en Lima, Perú, estaría entre S/4,000 - S/6,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4440350197",
-    "title": "Analista de ambiente y despliegue (calidad)",
-    "employer": "Hitss Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4440350197",
-    "reason": "Aunque el título es 'Analista de ambiente y despliegue (calidad)', la descripción menciona \"¿Te apasiona la gestión de ambientes, despliegues de aplicaciones y la automatización de procesos?\" y \"participarás en la ejecución, validación y mejora continua de los procesos de deployment.\" También indica \"Experiencia en despliegues de aplicaciones y administración de ambientes\" y conocimientos en \"Integración continua (CI/CD)\", \"Jenkins, GitLab CI, Nexus, SonarQube\". Si bien no es un rol directo de QA Automation Engineer, la mención de automatización de procesos, CI/CD y calidad en despliegues lo hace relevante. Se valora la experiencia en el sector de telecomunicaciones. El rango salarial aproximado para un analista con experiencia en Lima, Perú, estaría entre S/3,500 - S/5,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4438030327",
+    "title": "QA Funcional Senior | Proyecto de 1 mes",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4438030327",
+    "reason": "Aunque el título menciona \"QA Funcional Senior\", la descripción indica \"Experiencia en automatización funcional con Serenity BDD\" y \"Experiencia validando Servicios Web, APIs y entornos AWS. Experiencia utilizando Postman, SoapUI o ReadyAPI\", lo cual se alinea con el enfoque de automatización del perfil. El puesto requiere \"Más de 4 años de experiencia como QA Funcional\" y \"Conocimiento de metodologías y modelos de calidad de software\". Dada la naturaleza de proyecto de 1 mes y siendo un rol Senior en Indra Group, el rango salarial para este tipo de contrato puntual podría ser más alto, estimándose entre S/ 7,000 - S/ 12,000 mensuales."
   }
 ]
