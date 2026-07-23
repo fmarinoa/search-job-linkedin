@@ -1,86 +1,44 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4442175183",
-    "title": "Quality Assurance Automation Engineer",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4442175183",
-    "reason": "Esta oferta se alinea perfectamente con el perfil. Busca un Ingeniero de QA Automation con 4-8 años de experiencia, que es un rango senior. Las responsabilidades incluyen diseño, desarrollo y mantenimiento de frameworks de pruebas automatizadas, ejecución de pruebas automatizadas (funcionales, regresión, integración, API), colaboración en ceremonias Agile, integración en pipelines CI/CD. La tech stack mencionada (Selenium WebDriver, Java, Rest Assured, Postman, TestNG, JUnit, Cucumber, JIRA, Jenkins/Azure DevOps) es relevante. Aunque no se especifica el dominio de Banca/Finanzas/Fintech, el rol de QA Automation Engineer es un dominio principal. El rango salarial aproximado para un rol de este tipo en Lima, Perú, con esta experiencia y en una empresa como TCS, podría estar entre S/ 6,000 y S/ 10,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4441072651",
+    "title": "QA Funcional Senior",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4441072651",
+    "reason": "La oferta se ajusta al perfil ya que busca un 'QA Funcional Senior' con más de 4 años de experiencia, conocimiento en metodologías ágiles (Scrum, TDD, BDD), pruebas funcionales, de regresión, integración, aceptación, smoke test, performance y volumen. Además, se menciona experiencia validando Servicios Web, APIs y entornos AWS, así como el manejo de Postman, SoapUI o ReadyAPI y automatización funcional con Serenity BDD. Estos puntos se alinean con la experiencia requerida en automatización de pruebas web, mobile y APIs. El rol implica diseñar planes de testing, casos de prueba, ejecución, seguimiento de defectos y análisis de resultados, todo dentro de un marco ágil. Aunque no se especifica rango salarial, para un puesto Senior en Lima, Perú, con estas responsabilidades y en una empresa como Indra Group, se estima un rango aproximado de S/ 6000 - S/ 9000 mensuales."
   },
   {
     "id": "https://www.linkedin.com/jobs/view/4440468146",
     "title": "QA Automation",
     "employer": "SOAINT",
     "linkOffer": "https://www.linkedin.com/jobs/view/4440468146",
-    "reason": "Esta oferta es muy pertinente para el perfil. Busca un QA Automatizador Semi Senior, lo cual encaja con las preferencias de roles senior y de automatización. Se requiere una experiencia mínima de 3 años como QA o similar, con experiencia en Automatización de Pruebas (Selenium, Playwright, etc.), Microservicios y APIs, y CI/CD (GitHub, Jenkins). Las responsabilidades incluyen participar en ceremonias ágiles, diseñar y ejecutar pruebas exploratorias, de regresión y automatizadas, promover la integración continua y apoyar en la detección temprana de defectos. El dominio de QA Automation está implícito. El rango salarial aproximado para un rol Semi Senior con 3+ años de experiencia en Lima, Perú, en una empresa como SOAINT, podría ser entre S/ 5,500 y S/ 8,500 mensuales brutos."
+    "reason": "Esta oferta busca un 'QA Automatizador Semi Senior' con un mínimo de 3 años de experiencia profesional como QA. Las responsabilidades clave incluyen participar en ceremonias ágiles, diseñar y ejecutar pruebas exploratorias, de regresión y automatizadas, y promover la integración continua y las pruebas automatizadas. Las habilidades requeridas abarcan experiencia en Automatización de Pruebas (Selenium, Playwright, Karate DSL, Cucumber), Pruebas de Performance (JMeter), Microservicios y APIs, y CI/CD (GitHub, Jenkins). Esto encaja directamente con el perfil buscado. El rango salarial aproximado para un puesto Semi Senior con estas características en Lima, Perú, podría estar entre S/ 5000 - S/ 8000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4443594194",
-    "title": "QA Automation",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4443594194",
-    "reason": "Esta oferta es un buen match. Busca un QA Automatizador, y aunque no especifica el nivel de experiencia en años, las responsabilidades como asegurar la calidad del software a través de pruebas automatizadas, colaboración con desarrolladores, y diseño/desarrollo/mantenimiento de scripts automatizados son clave. La tech stack mencionada (Python, UFT ONE, Visual Basic, Java, Scrum/Kanban, SDLC, Pruebas Automatizadas, Pruebas Funcionales y No Funcionales) es relevante, especialmente Python. Aunque se menciona UFT ONE y Visual Basic, el enfoque en la automatización y las metodologías ágiles es fuerte. El dominio de QA Automation es explícito. El rango salarial aproximado para un rol de QA Automatizador en Lima, Perú, con la experiencia implícita en las responsabilidades, podría ser entre S/ 5,000 y S/ 7,500 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4443754341",
+    "title": "QA Senior",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4443754341",
+    "reason": "La oferta es para 'QA Senior' y solicita más de 6 años de experiencia como QA, con 4+ años en automatización de pruebas utilizando Selenium y Cucumber, y experiencia en pruebas de APIs y microservicios. Las responsabilidades incluyen desarrollo y mantenimiento de scripts de automatización, gestión de pruebas de componentes y APIs, pruebas de performance, y colaboración con equipos ágiles. Esto se alinea fuertemente con el perfil de automatización y experiencia senior. Dada la experiencia requerida y la empresa (Tata Consultancy Services), un rango salarial aproximado para este puesto en Lima, Perú, podría oscilar entre S/ 7000 - S/ 10000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4443393784",
-    "title": "QA Automatizador",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4443393784",
-    "reason": "Esta oferta encaja bien con el perfil, especialmente por la tech stack y el enfoque en automatización. Busca un QA Automatizador con 2 años de experiencia en Playwright + TypeScript, lo cual es una excelente combinación. Las responsabilidades incluyen pruebas funcionales, regresión, integración, UAT, diseño y ejecución de casos de prueba, y pruebas de API REST con Postman. El dominio de QA Automation es clave. Aunque la experiencia es de 2 años, la tecnología utilizada (Playwright, TypeScript) es muy demandada y el rol es de automatización. El rango salarial aproximado para este rol en Lima, Perú, con 2 años de experiencia y en una empresa como QDS, podría estar entre S/ 4,000 y S/ 6,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4441071259",
+    "title": "Especialista de Calidad",
+    "employer": "EssilorLuxottica",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4441071259",
+    "reason": "Si bien este rol se enfoca en 'Especialista de Calidad' en un entorno industrial/productivo, no se ajusta al perfil de automatización de software. Las responsabilidades mencionan aseguramiento de la calidad en procesos productivos, gestión de riesgos y sistemas de gestión de calidad, pero no hay mención de automatización de pruebas de software, APIs o desarrollo, que son requisitos clave del perfil."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4443590299",
-    "title": "Ingeniero de acabados",
-    "employer": "Taller de Diseño Constructivo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4443590299",
-    "reason": "Esta oferta NO encaja con el perfil. El título 'Ingeniero de acabados' y las responsabilidades descritas (supervisión de calidad de ejecución de obras civiles, elaboración de protocolos de liberación, control de calidad de materiales y acabados) se enfocan en la construcción civil y no en el desarrollo de software ni la automatización de pruebas. El perfil buscado es un Arquitecto de Calidad, no un SDET o QA Automation Engineer."
+    "id": "https://www.linkedin.com/jobs/view/4443959788",
+    "title": "Ingeniero Calidad Media Tensión",
+    "employer": "OIEM SAC",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4443959788",
+    "reason": "Este puesto de 'Ingeniero Calidad Media Tensión' requiere experiencia en supervisión de calidad y ejecución de obras en media tensión, lo cual no se relaciona con el desarrollo de software ni la automatización de pruebas de sistemas."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4440485136",
-    "title": "Analista QA",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4440485136",
-    "reason": "Esta oferta NO encaja con el perfil, a pesar de ser de una empresa relevante y con enfoque en QA. El título es 'Analista QA' y requiere 'Experiencia mínima de 4 años en la posición', pero las responsabilidades y tecnologías (Playwright es mencionada) no enfatizan fuertemente la *automatización* como rol principal. Se busca experiencia en el sector Seguros y metodologías ágiles, lo cual es positivo, pero el enfoque principal parece ser más funcional que de automatización pura o desarrollo de scripts. El perfil busca roles SDET/QA Automation Engineer. El rol de 'Analista QA' puede ser más amplio y no centrado en desarrollo de código para automatización. Tampoco hay mención de lenguajes de programación para automatización. No es un match para el nivel de especialización buscado."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4443702098",
-    "title": "QA Automatizador Semi Senior",
-    "employer": "EVOL (TSnet)",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4443702098",
-    "reason": "Esta oferta es un match muy bueno. Busca un QA Automatizador Semi Senior con experiencia en automatización y pruebas funcionales y de servicios. Se requieren 2-3 años de experiencia (un poco menos de los 3+ años mínimos, pero es semi-senior), con conocimientos sólidos en herramientas Open Source como Selenium, experiencia en pruebas de servicios con Postman, y manejo de JIRA. El enfoque en la automatización (70% automatización) y las tecnologías (Selenium) son ideales. El dominio de Banca/Finanzas/Fintech es un plus al ser para un proyecto del sector bancario. El rango salarial aproximado para este rol en Lima, Perú, con 2-3 años de experiencia enfocada en automatización, podría estar entre S/ 5,000 y S/ 7,500 mensuales brutos."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4440490945",
-    "title": "Líder de Servicios QA",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4440490945",
-    "reason": "Esta oferta NO encaja directamente. Busca un 'Líder de Servicios QA', lo cual implica gestión de equipos y procesos, no necesariamente el rol práctico de 'Software Development Engineer in Test (SDET)' o 'QA Automation Engineer' en términos de codificación. Si bien se mencionan funciones como 'Coordinar la ejecución de actividades de QA' y 'Asegurar el cumplimiento de procesos', el foco no está en el desarrollo de automatización de pruebas con la tech stack específica del perfil. La experiencia requerida es en 'Aseguramiento de Calidad (QA)' y 'gestionando equipos o servicios de QA', lo que la aleja del rol de desarrollo de automatización."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4440488160",
-    "title": "Coordinador de Calidad",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4440488160",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Coordinador de Calidad' en SGS se enfoca en la mejora de procesos operativos, verificación de controles, gestión de riesgos de calidad, fallos y no conformidades, y el cumplimiento del Sistema de Gestión de Calidad (ISO 9001, ISO 17020, etc.). No hay mención de automatización de pruebas de software, desarrollo de scripts, ni las tecnologías de tech stack requeridas por el perfil (Node.js, Python, Selenium, etc.). El dominio indicado es 'QA', pero en un contexto de aseguramiento de calidad de procesos y no de software."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4443332496",
-    "title": "Técnico de fibra óptica",
-    "employer": "Green Electronics",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4443332496",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Técnico de fibra óptica' y las responsabilidades (evaluar, diagnosticar y determinar la condición técnica de cables, conectores y componentes de fibra óptica, realizar pruebas ópticas) pertenecen al ámbito de telecomunicaciones y no al desarrollo de software o QA Automation."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4440468135",
-    "title": "Asistente de Control de Calidad! | Sede: San Juan de Lurigancho",
-    "employer": "Corporación Limatambo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4440468135",
-    "reason": "Esta oferta NO encaja con el perfil. Es un rol de 'Asistente de Control de Calidad' con 1 año de experiencia, lo cual es 'Junior' y el perfil busca roles 'Senior' o 'Semi Senior' con enfoque en automatización. Las responsabilidades (inspección de calidad en producción, detección de desviaciones, registro de productos no conformes, pruebas de calidad a productos en proceso y terminados) están en el ámbito industrial y no en software. Además, se excluyen roles 'Asistente'."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4443520695",
-    "title": "QE Automation",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4443520695",
-    "reason": "Esta oferta es un buen match. Busca un 'QE Automation' (Quality Engineering Automation), lo cual encaja perfectamente con el rol de SDET o QA Automation Engineer. Las responsabilidades incluyen asegurar la calidad del software mediante pruebas automatizadas, colaboración con desarrolladores, y diseño/desarrollo/mantenimiento de scripts. La tech stack mencionada (Python, UFT ONE con Visual Basic, .NET [implícito por el foco], Metodologías Ágiles, Pruebas Automatizadas, Pruebas Funcionales y No Funcionales) es relevante, especialmente Python y el enfoque en automatización. Aunque no se especifica el nivel de experiencia en años, el rol de QE Automation es muy pertinente. El rango salarial aproximado para un rol de QE Automation en Lima, Perú, con la experiencia que implicaría este tipo de responsabilidades, podría estar entre S/ 5,500 y S/ 8,000 mensuales brutos."
+    "id": "https://www.linkedin.com/jobs/view/4442175183",
+    "title": "Quality Assurance Automation Engineer",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4442175183",
+    "reason": "La oferta busca un 'Quality Assurance Automation Engineer' con 4 a 8 años de experiencia, que se alinea con el requisito de '3+ años en automatización'. Las responsabilidades incluyen diseñar, desarrollar y mantener frameworks y scripts de pruebas automatizadas, ejecutar automatización de pruebas funcionales, de regresión, de integración y de API, y la integración de pruebas automatizadas en pipelines de CI/CD (Jenkins). Las habilidades requeridas mencionan Selenium WebDriver, Java, automatización de API (Rest Assured/Postman), y herramientas como Jenkins. El dominio de Java está en la tech stack. Aunque se enfoca en Java, la experiencia general en automatización de pruebas web, mobile y APIs es clave. Para un puesto con esta experiencia y en una empresa como TCS en Lima, Perú, se estima un rango salarial aproximado de S/ 6500 - S/ 9500 mensuales."
   }
 ]
