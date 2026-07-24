@@ -1,44 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4441072651",
-    "title": "QA Funcional Senior",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4441072651",
-    "reason": "La oferta se ajusta al perfil ya que busca un 'QA Funcional Senior' con más de 4 años de experiencia, conocimiento en metodologías ágiles (Scrum, TDD, BDD), pruebas funcionales, de regresión, integración, aceptación, smoke test, performance y volumen. Además, se menciona experiencia validando Servicios Web, APIs y entornos AWS, así como el manejo de Postman, SoapUI o ReadyAPI y automatización funcional con Serenity BDD. Estos puntos se alinean con la experiencia requerida en automatización de pruebas web, mobile y APIs. El rol implica diseñar planes de testing, casos de prueba, ejecución, seguimiento de defectos y análisis de resultados, todo dentro de un marco ágil. Aunque no se especifica rango salarial, para un puesto Senior en Lima, Perú, con estas responsabilidades y en una empresa como Indra Group, se estima un rango aproximado de S/ 6000 - S/ 9000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4386570581",
+    "title": "QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
+    "reason": "La oferta se ajusta al perfil porque busca un 'QA Automatizador' con más de 3 años de experiencia. Las responsabilidades clave incluyen la experiencia en automatización de pruebas web (Selenium+Java para frontEnd) y API Testing (Postman/SoapUI, RestAssure+Java para backend). Se valora la experiencia en Python, marcos de trabajo Agile (Scrum/Kanban) y herramientas como GitHub y Jenkins (implícito en CI/CD, aunque no explícitamente mencionado en la descripción). El rol de 'QA Automatizador' se alinea con 'Automation Engineer' y 'SDET'. Dado el perfil y la ubicación (Lima Metropolitan Area), se estima un rango salarial aproximado de S/5,000 a S/9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4440468146",
-    "title": "QA Automation",
-    "employer": "SOAINT",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4440468146",
-    "reason": "Esta oferta busca un 'QA Automatizador Semi Senior' con un mínimo de 3 años de experiencia profesional como QA. Las responsabilidades clave incluyen participar en ceremonias ágiles, diseñar y ejecutar pruebas exploratorias, de regresión y automatizadas, y promover la integración continua y las pruebas automatizadas. Las habilidades requeridas abarcan experiencia en Automatización de Pruebas (Selenium, Playwright, Karate DSL, Cucumber), Pruebas de Performance (JMeter), Microservicios y APIs, y CI/CD (GitHub, Jenkins). Esto encaja directamente con el perfil buscado. El rango salarial aproximado para un puesto Semi Senior con estas características en Lima, Perú, podría estar entre S/ 5000 - S/ 8000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4436136286",
+    "title": "Analista de Calidad",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4436136286",
+    "reason": "Esta oferta es un excelente ajuste ya que busca un 'QA Automation' con más de 3 años de experiencia. Menciona explícitamente experiencia en herramientas y frameworks de automatización como Selenium y Cypress, así como lenguajes de programación como Java y Python, que coinciden con la 'tech_stack' del perfil. La experiencia con CI/CD (Jenkins, Git) y pruebas de APIs también son puntos fuertes. El rol de 'Analista de Calidad' con un fuerte enfoque en 'QA automation' se alinea con las preferencias de 'Automation Engineer' y 'SDET'. La ubicación es Lima Metropolitan Area. Se estima un rango salarial aproximado de S/5,500 a S/9,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4443754341",
-    "title": "QA Senior",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4443754341",
-    "reason": "La oferta es para 'QA Senior' y solicita más de 6 años de experiencia como QA, con 4+ años en automatización de pruebas utilizando Selenium y Cucumber, y experiencia en pruebas de APIs y microservicios. Las responsabilidades incluyen desarrollo y mantenimiento de scripts de automatización, gestión de pruebas de componentes y APIs, pruebas de performance, y colaboración con equipos ágiles. Esto se alinea fuertemente con el perfil de automatización y experiencia senior. Dada la experiencia requerida y la empresa (Tata Consultancy Services), un rango salarial aproximado para este puesto en Lima, Perú, podría oscilar entre S/ 7000 - S/ 10000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4441071259",
-    "title": "Especialista de Calidad",
-    "employer": "EssilorLuxottica",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4441071259",
-    "reason": "Si bien este rol se enfoca en 'Especialista de Calidad' en un entorno industrial/productivo, no se ajusta al perfil de automatización de software. Las responsabilidades mencionan aseguramiento de la calidad en procesos productivos, gestión de riesgos y sistemas de gestión de calidad, pero no hay mención de automatización de pruebas de software, APIs o desarrollo, que son requisitos clave del perfil."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4443959788",
-    "title": "Ingeniero Calidad Media Tensión",
-    "employer": "OIEM SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4443959788",
-    "reason": "Este puesto de 'Ingeniero Calidad Media Tensión' requiere experiencia en supervisión de calidad y ejecución de obras en media tensión, lo cual no se relaciona con el desarrollo de software ni la automatización de pruebas de sistemas."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4442175183",
-    "title": "Quality Assurance Automation Engineer",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4442175183",
-    "reason": "La oferta busca un 'Quality Assurance Automation Engineer' con 4 a 8 años de experiencia, que se alinea con el requisito de '3+ años en automatización'. Las responsabilidades incluyen diseñar, desarrollar y mantener frameworks y scripts de pruebas automatizadas, ejecutar automatización de pruebas funcionales, de regresión, de integración y de API, y la integración de pruebas automatizadas en pipelines de CI/CD (Jenkins). Las habilidades requeridas mencionan Selenium WebDriver, Java, automatización de API (Rest Assured/Postman), y herramientas como Jenkins. El dominio de Java está en la tech stack. Aunque se enfoca en Java, la experiencia general en automatización de pruebas web, mobile y APIs es clave. Para un puesto con esta experiencia y en una empresa como TCS en Lima, Perú, se estima un rango salarial aproximado de S/ 6500 - S/ 9500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4436103171",
+    "title": "QA Automation IA",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4436103171",
+    "reason": "La oferta se alinea con el perfil dado que busca un 'QA Automation' con experiencia en diseño, desarrollo y ejecución de scripts de prueba automatizados. Se especifica experiencia en Python como lenguaje de programación y en metodologías Ágiles. Aunque se enfoca en IA y Chatbots, la base del rol es la automatización de pruebas, lo cual encaja con 'Automation Engineer' y 'SDET'. La ubicación es Lima Metropolitan Area. Se estima un rango salarial aproximado de S/5,000 a S/9,000 mensuales."
   }
 ]
