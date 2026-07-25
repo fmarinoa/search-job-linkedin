@@ -1,23 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4386570581",
-    "title": "QA Automatizador",
+    "id": "https://www.linkedin.com/jobs/view/4386565831",
+    "title": "QA Automatizador - Mar 26 - Med",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4386570581",
-    "reason": "La oferta se ajusta al perfil porque busca un 'QA Automatizador' con más de 3 años de experiencia. Las responsabilidades clave incluyen la experiencia en automatización de pruebas web (Selenium+Java para frontEnd) y API Testing (Postman/SoapUI, RestAssure+Java para backend). Se valora la experiencia en Python, marcos de trabajo Agile (Scrum/Kanban) y herramientas como GitHub y Jenkins (implícito en CI/CD, aunque no explícitamente mencionado en la descripción). El rol de 'QA Automatizador' se alinea con 'Automation Engineer' y 'SDET'. Dado el perfil y la ubicación (Lima Metropolitan Area), se estima un rango salarial aproximado de S/5,000 a S/9,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
+    "reason": "Esta oferta se ajusta al perfil porque busca un \"QA Automatizador\" con experiencia en herramientas de automatización como Selenium y Playwright, lenguajes como Java y Python, y conocimientos en BDD/ATDD y CI/CD (Jenkins). Las responsabilidades principales incluyen la redacción de pruebas, configuración de pipelines y pruebas de microservicios/APIs. El perfil coincide con la preferencia por \"Automation Engineer\" y \"QA Automation\". El rango salarial aproximado para un puesto de QA Automatizador Semi Senior en Lima, Perú, con estas características, podría estar entre S/ 4,500 y S/ 7,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4436136286",
-    "title": "Analista de Calidad",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4436136286",
-    "reason": "Esta oferta es un excelente ajuste ya que busca un 'QA Automation' con más de 3 años de experiencia. Menciona explícitamente experiencia en herramientas y frameworks de automatización como Selenium y Cypress, así como lenguajes de programación como Java y Python, que coinciden con la 'tech_stack' del perfil. La experiencia con CI/CD (Jenkins, Git) y pruebas de APIs también son puntos fuertes. El rol de 'Analista de Calidad' con un fuerte enfoque en 'QA automation' se alinea con las preferencias de 'Automation Engineer' y 'SDET'. La ubicación es Lima Metropolitan Area. Se estima un rango salarial aproximado de S/5,500 a S/9,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4436103171",
-    "title": "QA Automation IA",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4436103171",
-    "reason": "La oferta se alinea con el perfil dado que busca un 'QA Automation' con experiencia en diseño, desarrollo y ejecución de scripts de prueba automatizados. Se especifica experiencia en Python como lenguaje de programación y en metodologías Ágiles. Aunque se enfoca en IA y Chatbots, la base del rol es la automatización de pruebas, lo cual encaja con 'Automation Engineer' y 'SDET'. La ubicación es Lima Metropolitan Area. Se estima un rango salarial aproximado de S/5,000 a S/9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4436366180",
+    "title": "(1476) Senior QA Engineer",
+    "employer": "Nortal",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4436366180",
+    "reason": "Esta oferta encaja perfectamente con el perfil, ya que busca un \"Senior QA Engineer\" con un \"strong automation testing background\". Las responsabilidades incluyen el diseño, desarrollo y ejecución de frameworks de automatización, con énfasis en Playwright y Jest, y experiencia en API testing e integración con CI/CD. El perfil de \"Senior QA\" y \"SDET\" son fuertemente mencionados. La experiencia requerida en TypeScript y Node.js se alinea con la tech stack del perfil. El rango salarial para un Senior QA Engineer en Lima, Perú, trabajando remotamente para empresas internacionales, podría variar entre USD 2,500 y USD 4,000 mensuales."
   }
 ]
