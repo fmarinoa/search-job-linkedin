@@ -1,16 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4386565831",
-    "title": "QA Automatizador - Mar 26 - Med",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4386565831",
-    "reason": "Esta oferta se ajusta al perfil porque busca un \"QA Automatizador\" con experiencia en herramientas de automatización como Selenium y Playwright, lenguajes como Java y Python, y conocimientos en BDD/ATDD y CI/CD (Jenkins). Las responsabilidades principales incluyen la redacción de pruebas, configuración de pipelines y pruebas de microservicios/APIs. El perfil coincide con la preferencia por \"Automation Engineer\" y \"QA Automation\". El rango salarial aproximado para un puesto de QA Automatizador Semi Senior en Lima, Perú, con estas características, podría estar entre S/ 4,500 y S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4445999108",
+    "title": "QA Automatizador",
+    "employer": "QDS - Quality & Development Software SAC",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4445999108",
+    "reason": "Esta oferta encaja con el perfil porque busca específicamente un 'QA Automatizador' con experiencia en automatización con Playwright, pruebas de API REST y bases de datos SQL. Cumple con la experiencia deseada en automatización y el stack tecnológico mencionado (Playwright, Javascript, SQL). Las responsabilidades incluyen diseño y ejecución de casos de prueba, pruebas funcionales, regresión, integración, UAT, pruebas de API REST y pruebas de performance. El rango salarial aproximado para un QA Automatizador con 2 años de experiencia en Lima, Perú, podría estar entre S/4000 y S/6000 brutos mensuales, dependiendo de la empresa y los beneficios."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4436366180",
-    "title": "(1476) Senior QA Engineer",
-    "employer": "Nortal",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4436366180",
-    "reason": "Esta oferta encaja perfectamente con el perfil, ya que busca un \"Senior QA Engineer\" con un \"strong automation testing background\". Las responsabilidades incluyen el diseño, desarrollo y ejecución de frameworks de automatización, con énfasis en Playwright y Jest, y experiencia en API testing e integración con CI/CD. El perfil de \"Senior QA\" y \"SDET\" son fuertemente mencionados. La experiencia requerida en TypeScript y Node.js se alinea con la tech stack del perfil. El rango salarial para un Senior QA Engineer en Lima, Perú, trabajando remotamente para empresas internacionales, podría variar entre USD 2,500 y USD 4,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4446137966",
+    "title": "QA Engineer Senior",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4446137966",
+    "reason": "La oferta se alinea con el perfil al buscar un 'QA Engineer Senior' con más de 3 años de experiencia en herramientas para pruebas automatizadas como Selenium, UFT y Postman, y conocimientos de lenguajes de programación como Java. Las responsabilidades incluyen liderar equipos de pruebas, excelencia metodológica ISTQB y Testing agile, y realizar pruebas automatizadas en web, servicios y microservicios. Cumple con los requisitos de experiencia en automatización y el dominio de herramientas relevantes. El rango salarial aproximado para un QA Engineer Senior en Lima, Perú, podría estar entre S/6000 y S/9000 brutos mensuales, dado el nivel de experiencia y la empresa."
   }
 ]
