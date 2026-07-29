@@ -1,16 +1,9 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4445999108",
-    "title": "QA Automatizador",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4445999108",
-    "reason": "Esta oferta encaja con el perfil porque busca específicamente un 'QA Automatizador' con experiencia en automatización con Playwright, pruebas de API REST y bases de datos SQL. Cumple con la experiencia deseada en automatización y el stack tecnológico mencionado (Playwright, Javascript, SQL). Las responsabilidades incluyen diseño y ejecución de casos de prueba, pruebas funcionales, regresión, integración, UAT, pruebas de API REST y pruebas de performance. El rango salarial aproximado para un QA Automatizador con 2 años de experiencia en Lima, Perú, podría estar entre S/4000 y S/6000 brutos mensuales, dependiendo de la empresa y los beneficios."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4446137966",
-    "title": "QA Engineer Senior",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4446137966",
-    "reason": "La oferta se alinea con el perfil al buscar un 'QA Engineer Senior' con más de 3 años de experiencia en herramientas para pruebas automatizadas como Selenium, UFT y Postman, y conocimientos de lenguajes de programación como Java. Las responsabilidades incluyen liderar equipos de pruebas, excelencia metodológica ISTQB y Testing agile, y realizar pruebas automatizadas en web, servicios y microservicios. Cumple con los requisitos de experiencia en automatización y el dominio de herramientas relevantes. El rango salarial aproximado para un QA Engineer Senior en Lima, Perú, podría estar entre S/6000 y S/9000 brutos mensuales, dado el nivel de experiencia y la empresa."
+    "id": "https://www.linkedin.com/jobs/view/4442175183",
+    "title": "Quality Assurance Automation Engineer",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4442175183",
+    "reason": "Esta oferta se alinea perfectamente con el perfil. El título del puesto 'Quality Assurance Automation Engineer' coincide con las preferencias y roles buscados. Se requiere experiencia sólida en pruebas de automatización de QA, con herramientas como Selenium WebDriver, Java, y experiencia en automatización de API, lo cual concuerda con la tech stack y experiencia buscada. La experiencia de 4 a 8 años es adecuada para un rol senior. Las responsabilidades incluyen diseñar, desarrollar y mantener frameworks de pruebas automatizadas, ejecutar automatización funcional, de regresión, de integración y de API, integrar pruebas en pipelines CI/CD y participar en ceremonias Agile, todo esto encaja con el perfil de SDET/QA Automation Engineer con enfoque en desarrollo ágil y backend. TCS es una empresa importante en el sector de TI a nivel global y cuenta con presencia significativa en Perú, lo que la convierte en una empresa prioritaria. El rango salarial aproximado para un puesto de esta naturaleza y experiencia en Lima, Perú, podría oscilar entre S/ 7,000 y S/ 12,000 mensuales brutos, dependiendo de la experiencia específica y negociaciones."
   }
 ]
