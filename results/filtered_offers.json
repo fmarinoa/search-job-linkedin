@@ -1,31 +1,37 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4447588046",
-    "title": "Analista QA Agile Senior – Automatización de Pruebas",
+    "id": "https://www.linkedin.com/jobs/view/4448651148",
+    "title": "QA Automation",
+    "employer": "METRICA Perú",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4448651148",
+    "reason": "La oferta encaja perfectamente con el perfil, buscando un 'QA Automation' con 3 años de experiencia en automatización de pruebas web, mobile y API, utilizando Selenium, Cypress, Cucumber, Postman y CI/CD con Jenkins. Se valora experiencia en el dominio financiero (banca, medios de pago digitales). Las responsabilidades incluyen diseñar y ejecutar pruebas automatizadas, participar en la validación de procesos bancarios e integrar pruebas en pipelines CI/CD. El rango salarial aproximado para este puesto en Lima, Perú, con la experiencia requerida y en una multinacional tecnológica como METRICA, estaría entre S/ 6,000 y S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4446262447",
+    "title": "Líder Técnico QA (Banca)",
     "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4445556400",
-    "reason": "Esta oferta se ajusta perfectamente al perfil debido a que busca un \"Analista QA Agile Senior – Automatización de Pruebas\". Cumple con la experiencia requerida en automatización de pruebas (3+ años con Xray, Python, Selenium, Cypress, Playwright, etc.) y el dominio de metodologías ágiles. Las responsabilidades clave incluyen el diseño, mantenimiento y ejecución de pruebas automatizadas, integración en pipelines CI/CD y generación de reportes de calidad. Dada la senioridad del puesto, la empresa (Indra Group, una importante consultora tecnológica) y la ubicación (Lima, Perú), un rango salarial aproximado sería entre S/ 6,000 y S/ 10,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4446262447",
+    "reason": "Aunque el título es 'Líder Técnico QA', la descripción menciona experiencia en automatización de pruebas, validación de APIs y trabajo bajo metodologías ágiles, lo cual se alinea con el perfil. Se requiere experiencia en el sector bancario y en automatización de pruebas. Las responsabilidades incluyen liderar equipos de QA, ejecutar pruebas funcionales, de integración, APIs, rendimiento y validación de datos. El rango salarial aproximado para un puesto de liderazgo técnico QA en Lima, Perú, con enfoque en banca y la experiencia requerida, podría estar entre S/ 8,000 y S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4445556047",
-    "title": "Analista QA Funcional | Banca & Medios de Pago",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4445556047",
-    "reason": "La oferta es para \"Analista QA Funcional\" con experiencia en Banca y Medios de Pago, lo cual se alinea con los dominios y preferencias del perfil. Si bien no especifica explícitamente \"automatización\" en el título, la descripción menciona \"Automatizar pruebas para flujos críticos utilizando Selenium, Serenity y Cucumber\" y se busca \"experiencia o conocimientos en automatización de pruebas\". Se requieren 3 años de experiencia como Analista QA Funcional o QA Engineer. Las responsabilidades incluyen diseño y ejecución de pruebas funcionales/no funcionales, automatización y gestión de incidencias. Para este puesto en Indra Group en Lima, Perú, un rango salarial estimado sería entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4437865857",
+    "title": "Chapter Lead QA",
+    "employer": "Interbank",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4437865857",
+    "reason": "Esta oferta de 'Chapter Lead QA' en Interbank, un actor importante en el sector financiero, se ajusta al perfil por su enfoque en liderazgo de la práctica de Quality Assurance, asegurando excelencia técnica y evolución continua. Requiere experiencia en estrategias de testing DevOps/CI/CD, automatización (Selenium, Cypress, Playwright) y API testing. Las responsabilidades incluyen definir estándares de calidad, medir KPIs de calidad y liderar el desarrollo de talento QA. Dada la seniority y el sector, el rango salarial aproximado en Lima, Perú, podría oscilar entre S/ 10,000 y S/ 15,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4445505936",
-    "title": "QA Automation Engineer",
-    "employer": "Tech-House",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4445505936",
-    "reason": "Esta oferta es para \"QA Automation Engineer\" con especialización en Mobile y se enfoca en \"Banca y Servicios Financieros\", alineándose con los dominios y preferencias. Los requisitos excluyentes incluyen \"Sólida exp. en QA Automation Mobile\" y \"Dominio de Java para el desarrollo de scripts y frameworks de automatización\", lo cual encaja con la experiencia en automatización y el tech stack. Las responsabilidades son diseñar, desarrollar y mantener frameworks de automatización móvil, automatizar flujos transaccionales y ejecutar pruebas E2E. Dado que es un contrato (CONTRACTOR) en Lima, Perú, el rango salarial podría variar, pero estimamos entre S/ 6,000 y S/ 9,000 mensuales brutos, o su equivalente en dólares."
+    "id": "https://www.linkedin.com/jobs/view/4437814907",
+    "title": "QA Automation Junior",
+    "employer": "Softtek",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4437814907",
+    "reason": "Aunque se etiqueta como 'Junior', los requisitos de experiencia mínima de 2 años en QA Automation, pruebas de APIs con Postman, JMeter, Selenium WebDriver y Karate DSL, junto con manejo avanzado de Jira, sugieren un nivel semi-senior o con potencial de crecimiento rápido. Se encuentra en la lista de tecnologías relevantes. El rango salarial aproximado para este puesto en Lima, Perú, con esta experiencia, podría estar entre S/ 3,500 y S/ 5,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4446935483",
-    "title": "QA Funcional Payments",
-    "employer": "NTT DATA Europe & Latam",
-    "location": "Lima, Peru",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4446935483",
-    "reason": "Esta oferta es para \"QA Funcional Payments\" y si bien el título no especifica \"automatización\", se busca \"Conocimiento procesos de negocio asociados a Payments (transferencias, pagos nacionales e internacionales, liquidación, reversos y conciliación)\". Se requiere \"Egresado de carrera técnica o universitaria\" y \"certificación ISTQB\". Dado el enfoque en \"Payments\" y \"Fintech\" (implícito en \"Banca\" y \"Finanzas\"), podría ser una oportunidad para roles con potencial de automatización o que requieran conocimiento del dominio para automatizar. Sin embargo, al no mencionar explícitamente automatización en las responsabilidades principales y buscar un perfil más funcional con conocimiento de negocio, se prioriza menos. Si el rol tuviera un componente de automatización, un rango aproximado para un rol funcional en NTT DATA en Lima sería entre S/ 4,000 y S/ 6,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4448370952",
+    "title": "QA Híbrido (Automation + Performance) SemiSr",
+    "employer": "Softtek",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4448370952",
+    "reason": "Esta oferta es un excelente ajuste para el perfil, ya que busca un 'QA Híbrido (Automation + Performance) SemiSr' con experiencia mínima de 2 años en QA Automation, pruebas de APIs con Postman, JMeter, Selenium WebDriver y Karate DSL. Se alinea con la experiencia deseada en automatización y el dominio de herramientas. Las responsabilidades incluyen la generación de informes técnicos de Performance y el uso de herramientas de gestión de pruebas. El rango salarial aproximado para un puesto SemiSr en Lima, Perú, podría estar entre S/ 5,000 y S/ 7,500 mensuales."
   }
 ]
