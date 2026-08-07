@@ -1,26 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4447373137",
-    "title": "Especialista en Software Quality Assurance (QA)",
-    "employer": "Sphere IT Consulting",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4447373137",
-    "reason": "La oferta busca un \"Especialista de QA Senior\" con \"Mínimo 3 años\" de experiencia en \"testing\" y \"automatización de pruebas (Selenium, TestNG)\", lo cual se alinea perfectamente con el perfil. Se valorará experiencia en microservicios y prácticas DevSecOps, así como conocimiento de \"Java / Angular\". El rol implica liderar el aseguramiento de la calidad, incluyendo \"estrategia y plan de pruebas, pruebas funcionales y de integración, automatización, pruebas de rendimiento y control de calidad\". El rango salarial aproximado para un puesto Senior en Lima, con estas características, podría estar entre S/ 6,000 y S/ 9,000 mensuales, aunque la oferta no especifica un monto exacto.",
-    "salary_estimate": "S/ 6,000 - S/ 9,000"
+    "id": "https://www.linkedin.com/jobs/view/4450024444",
+    "title": "Senior Quality Assurance Engineer 6934",
+    "employer": "Softgic",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4450024444",
+    "reason": "La oferta se alinea perfectamente con el perfil dado que busca un 'Senior Quality Assurance Engineer' con más de 6 años de experiencia, lo cual cubre la preferencia de 'QA Senior' y 'SDET'. Las responsabilidades incluyen la definición e implementación de estrategias de testing, desarrollo de planes de prueba, ejecución de pruebas manuales y automatizadas, validación a nivel de base de datos, y colaboración con equipos de automatización. Se menciona explícitamente experiencia deseable con Selenium y desarrollo de automatización. El dominio de 'SaaS applications' y la experiencia en 'Agile/Scrum' también encajan. El salario aproximado para un puesto Senior en Lima, Perú, con estas responsabilidades, podría estar entre S/ 8,000 y S/ 14,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4448084108",
-    "title": "QA Funcional | Proyecto de 1 mes",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4448084108",
-    "reason": "Aunque el título indica \"QA Funcional\", la descripción menciona \"Más de 4 años de experiencia como QA Funcional\", \"experiencia en automatización funcional con Serenity BDD\", \"validando Servicios Web, APIs y entornos AWS\", \"Manejo avanzado de Gherkin\" y conocimiento de \"metodologías ágiles y tradicionales\" (Scrum, TDD, BDD, Integración Continua). Esto se acerca al perfil, especialmente en la parte de automatización y API testing, a pesar de ser un contrato por proyecto. Las responsabilidades incluyen \"Diseñar el Plan de Testing, estrategia y casos de prueba\", \"Ejecutar casos de prueba y registrar defectos\", \"Realizar seguimiento a incidencias\" y \"validar que los entregables cumplan con los estándares de calidad\". El rango salarial para un QA con esta experiencia en un proyecto de 1 mes en Lima podría ser de S/ 5,000 a S/ 8,000, dependiendo de la complejidad y las tecnologías exactas requeridas.",
-    "salary_estimate": "S/ 5,000 - S/ 8,000"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4448060875",
-    "title": "Analista QA Data | BI & Data Testing",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4448060875",
-    "reason": "Esta oferta se enfoca en \"calidad de datos, pruebas BI y validación de grandes volúmenes de información\", con \"Más de 5 años de experiencia en QA / Testing\". Incluye experiencia en \"Automatización y scripting para validación de datos\" y \"Cloud: AWS\". Si bien el enfoque principal es Data, la experiencia en automatización y AWS lo hace relevante. Las responsabilidades abarcan \"Diseñar estrategias, planes y casos de prueba para soluciones de datos\", \"Ejecutar pruebas funcionales, integración, regresión, aceptación y validación de datos\", \"Identificar, documentar y realizar seguimiento de defectos\" y \"Validar procesos ETL, migraciones de datos y calidad de información\". El rango salarial para un Analista QA con más de 5 años de experiencia y conocimiento en AWS en Lima podría oscilar entre S/ 7,000 y S/ 10,000.",
-    "salary_estimate": "S/ 7,000 - S/ 10,000"
+    "id": "https://www.linkedin.com/jobs/view/4441217869",
+    "title": "QE Automation",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4441217869",
+    "reason": "Esta oferta se ajusta al perfil al buscar un 'QE Automation' con responsabilidad en asegurar la calidad del software a través de la implementación y ejecución de pruebas automatizadas. Se requiere un sólido conocimiento en herramientas y frameworks de automatización, diseño, desarrollo y mantenimiento de scripts de prueba automatizados, y experiencia con metodologías ágiles. El uso de Python como lenguaje de programación es un plus para el perfil. Las responsabilidades principales incluyen la implementación y ejecución de pruebas automatizadas y la colaboración con desarrolladores. El salario aproximado para un rol de Automation Engineer en Lima, Perú, con experiencia, podría estar entre S/ 6,000 y S/ 10,000 mensuales."
   }
 ]
