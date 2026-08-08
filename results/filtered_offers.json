@@ -1,16 +1,16 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4450024444",
-    "title": "Senior Quality Assurance Engineer 6934",
-    "employer": "Softgic",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4450024444",
-    "reason": "La oferta se alinea perfectamente con el perfil dado que busca un 'Senior Quality Assurance Engineer' con más de 6 años de experiencia, lo cual cubre la preferencia de 'QA Senior' y 'SDET'. Las responsabilidades incluyen la definición e implementación de estrategias de testing, desarrollo de planes de prueba, ejecución de pruebas manuales y automatizadas, validación a nivel de base de datos, y colaboración con equipos de automatización. Se menciona explícitamente experiencia deseable con Selenium y desarrollo de automatización. El dominio de 'SaaS applications' y la experiencia en 'Agile/Scrum' también encajan. El salario aproximado para un puesto Senior en Lima, Perú, con estas responsabilidades, podría estar entre S/ 8,000 y S/ 14,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4383417416",
+    "title": "QA Automation",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4383417416",
+    "reason": "Esta oferta encaja con el perfil dado que busca un 'QA Automation' con experiencia mínima de 3 años, alineándose con la experiencia requerida de 3+ años en automatización. Menciona explícitamente experiencia en Python, Java, BDD relacionales (SQL) + No Relacionales (MongoDB), API Testing (Postman/SoapUI), RestAssure+Java para backend y Selenium+Java para frontend, tecnologías que coinciden con el 'tech_stack' y las preferencias de 'Backend con enfoque en testing'. El rol implica validación de datos, pruebas en pipelines de datos e integridad, y trabajo bajo marco Agile. El rango salarial aproximado para un puesto Senior QA Automation en Lima, Perú, con estas características y en una empresa de servicios de IT como Inetum, podría estar entre S/ 6,000 y S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4441217869",
-    "title": "QE Automation",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4441217869",
-    "reason": "Esta oferta se ajusta al perfil al buscar un 'QE Automation' con responsabilidad en asegurar la calidad del software a través de la implementación y ejecución de pruebas automatizadas. Se requiere un sólido conocimiento en herramientas y frameworks de automatización, diseño, desarrollo y mantenimiento de scripts de prueba automatizados, y experiencia con metodologías ágiles. El uso de Python como lenguaje de programación es un plus para el perfil. Las responsabilidades principales incluyen la implementación y ejecución de pruebas automatizadas y la colaboración con desarrolladores. El salario aproximado para un rol de Automation Engineer en Lima, Perú, con experiencia, podría estar entre S/ 6,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4451001254",
+    "title": "QA Automatizador - Senior",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4451001254",
+    "reason": "Esta oferta es altamente relevante ya que busca un 'QA Automation Senior' con una experiencia mínima de 4 años, superando el requisito de 3+ años. Las responsabilidades incluyen automatización de APIs con Postman y Karate, pruebas Mobile con Appium, desarrollo de frameworks de automatización utilizando Java y patrones POM/ScreenPlay, pruebas de performance con JMeter, BDD, Gherkin y Cucumber, y experiencia con servicios AWS. Muchas de estas tecnologías (Appium, Java, AWS) están en el 'tech_stack' del perfil, y el enfoque en automatización senior y backend es una preferencia clave. El rango salarial aproximado para un puesto Senior QA Automation en Lima, Perú, en una empresa tecnológica como Synopsis S.A., podría oscilar entre S/ 7,000 y S/ 12,000 mensuales."
   }
 ]
