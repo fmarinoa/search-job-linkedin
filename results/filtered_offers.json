@@ -1,65 +1,37 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4451558206",
+    "id": "https://www.linkedin.com/jobs/view/4453127642",
     "title": "QA Automatizador",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4451558206",
-    "reason": "Esta oferta se ajusta al perfil profesional por requerir un 'QA Automation' con experiencia en testing de APIs, E2E, bases de datos (.NET, microservicios, Docker/Linux, IIS), sistemas distribuidos (Kafka, Redis), CI/CD (Azure DevOps o GitHub), automatización de pruebas (Selenium, Playwright o similar y APIs), pruebas de performance (JMeter), y testing mobile. El rol también contempla el uso de SonarQube y experiencia en Scrum, lo cual se alinea con las preferencias de roles senior y enfoque en automatización con desarrollo ágil. El rango salarial aproximado para un QA Automation con 2-3 años de experiencia en Lima, Perú, puede variar entre S/ 4,500 y S/ 7,000 mensuales, dependiendo de las habilidades específicas y el paquete de beneficios."
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4453127642",
+    "reason": "La oferta se ajusta al perfil porque busca un 'QA Automatizador' con experiencia sólida en pruebas funcionales y automatizadas (+4 años), automatización de APIs con Postman y Karate, automatización mobile con Appium, frameworks de automatización en Java con POM y ScreenPlay, y pruebas de performance. Menciona explícitamente 'Fintech' como dominio. El perfil solicitado es de un rol senior y se alinea con las preferencias de 'QA Senior', 'SDET' y 'Automation Engineer'. El rango salarial aproximado para un rol de este nivel en Lima, Perú, podría estar entre S/ 7,000 y S/ 12,000 brutos mensuales, dependiendo de la negociación y experiencia específica."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4341256392",
-    "title": "QA Automatizador",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4341256392",
-    "reason": "La oferta busca un 'QA Automatizador' con conocimientos en herramientas de automatización (Selenium, Playwright), lenguajes como Java/Python, BDD, herramientas de CI/CD (Jenkins, Azure DevOps), pruebas de microservicios/APIs (Postman) y metodologías Agile. Estos requisitos son consistentes con el perfil de un QA Automation Engineer con experiencia en desarrollo ágil. El rango salarial aproximado para un QA Automatizador en Lima, Perú, con este perfil puede estar entre S/ 4,000 y S/ 6,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4255616431",
+    "id": "https://www.linkedin.com/jobs/view/4385577901",
     "title": "QA Automatizador",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4255616431",
-    "reason": "Esta oferta para 'QA Automatizador' es relevante ya que requiere experiencia en herramientas de automatización (Selenium, Playwright), lenguajes como Java/Python, BDD, CI/CD (Jenkins, Azure DevOps), pruebas de microservicios/APIs (Postman) y marco Agile. Estos elementos se alinean con las preferencias de un Automation Engineer y un enfoque en desarrollo ágil. El rango salarial aproximado para un QA Automatizador en Lima, Perú, puede estar entre S/ 4,000 y S/ 6,500 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4385577901",
+    "reason": "Esta oferta encaja con el perfil ya que solicita un 'QA Automatizador' con experiencia en herramientas de automatización como Selenium, Karate DSL, Playwright, conocimientos en Java y Python, redacción de pruebas en Gherkin, BDD, y experiencia con CI/CD (Jenkins, Gitlab, Azure DevOps), así como pruebas de microservicios y APIs (Postman, Karate). Estos son requisitos técnicos clave para el perfil. Se alinea con las preferencias de 'Automation Engineer' y 'SDET'. El rango salarial aproximado en Lima, Perú, para este tipo de rol puede variar entre S/ 6,000 y S/ 10,000 brutos mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4237974439",
-    "title": "QA Automatizador",
+    "id": "https://www.linkedin.com/jobs/view/4443520695",
+    "title": "QE Automation",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4237974439",
-    "reason": "La oferta de 'QA Automatizador' es pertinente para el perfil dado que solicita experiencia en herramientas de automatización (Selenium, Playwright), lenguajes como Java/Python, BDD, CI/CD (Jenkins, Azure DevOps), pruebas de microservicios/APIs (Postman) y marco Agile. Estas competencias coinciden con las de un Automation Engineer con experiencia en desarrollo ágil. El rango salarial aproximado para un QA Automatizador en Lima, Perú, puede oscilar entre S/ 4,000 y S/ 6,500 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4443520695",
+    "reason": "La oferta es para un 'QE Automation' y busca experiencia en automatización utilizando UFT ONE con Visual Basic (aunque el perfil prefiere otros lenguajes, la mención de automatización y el rol como QE son relevantes), Python, Gherkin, BDD, CI/CD (Jenkins, Gitlab, Azure DevOps), y pruebas de APIs (Postman, Karate). Se alinea con el perfil de 'Automation Engineer' y 'SDET'. El rango salarial aproximado en Lima, Perú, para un rol de QE Automation con estas características podría estar entre S/ 7,000 y S/ 11,000 brutos mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4205304186",
-    "title": "QA Automatizador",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4205304186",
-    "reason": "Esta oferta para 'QA Automatizador' encaja con el perfil al requerir experiencia en herramientas de automatización (Selenium, Playwright), lenguajes como Java/Python, BDD, CI/CD (Jenkins, Azure DevOps), pruebas de microservicios/APIs (Postman) y marco Agile. Estos requisitos son compatibles con las habilidades de un Automation Engineer y la experiencia en desarrollo ágil. El rango salarial aproximado para un QA Automatizador en Lima, Perú, puede estar entre S/ 4,000 y S/ 6,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4453388066",
+    "title": "Chapter Área Lead Quality Engineer",
+    "employer": "Mibanco, banco de la Microempresa",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4453388066",
+    "reason": "Esta oferta es para un 'Chapter Área Lead Quality Engineer', un rol de liderazgo que requiere 'más de 8 años de experiencia en tecnología, desarrollo de software, QA o Quality Engineering' y 'mínimo 5 años liderando equipos multidisciplinarios de Quality Engineering, Testing o Ingeniería de Software'. Aunque es un rol de liderazgo, su enfoque en Quality Engineering, automatización de pruebas a escala organizacional, y la posible aplicación de IA en testing se alinea con un perfil senior con experiencia en SDET/Automation Engineer. La empresa pertenece al sector financiero (Banca), lo cual coincide con los dominios preferidos. Dada la seniority y el rol de liderazgo, el rango salarial aproximado en Lima, Perú, podría ser significativamente alto, comenzando desde S/ 15,000 brutos mensuales y pudiendo superar los S/ 20,000."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4449803360",
-    "title": "QA Engineer - IA Conversacional",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4449803360",
-    "reason": "Esta oferta de 'QA Engineer - IA Conversacional' se alinea con el perfil profesional debido a la experiencia requerida en QA (3-5 años), aplicaciones conversacionales, APIs REST, microservicios, herramientas de automatización (Playwright, Cypress, Selenium), y experiencia en el sector banca. Se valora la experiencia en Postman y Swagger/OpenAPI, que son herramientas clave en automatización. El rango salarial aproximado para un QA Engineer Senior en Lima, Perú, con esta experiencia y especialización podría variar entre S/ 5,500 y S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4451540855",
-    "title": "QA Automation",
-    "employer": "METRICA Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4451540855",
-    "reason": "Esta oferta para 'Analista QA Automation' se ajusta perfectamente al perfil. Requiere 3+ años de experiencia como QA Automation, experiencia en automatización web (Selenium, Cypress), APIs REST (Postman, Karate), CI/CD (Jenkins, GitHub Actions), y conocimiento en banca/medios de pago digitales. Además, se pide experiencia en Java, JavaScript o TypeScript, lo que complementa el perfil de un SDET. La certificación ISTQB es un plus. El rango salarial aproximado para un Analista QA Automation con esta experiencia en Lima, Perú, podría estar entre S/ 5,000 y S/ 7,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4452043126",
-    "title": "Convocatoria TI: Personas con discapacidad Frontend, Backend y QA Funcional | Perú",
-    "employer": "VASS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4452043126",
-    "reason": "Aunque el título menciona 'QA Funcional', la descripción detalla la búsqueda de perfiles con '+3 años de experiencia en sus respectivas especialidades', 'experiencia trabajando en entornos ágiles' y 'conocimiento en integración continua y control de versiones (Git)'. Si bien no especifica automatización, la experiencia general en QA y desarrollo ágil puede ser un punto de partida para roles más centrados en automatización. Sin embargo, al no mencionar explícitamente herramientas de automatización o un enfoque en automatización, se priorizan otras ofertas. Si se ajustara a un rol de QA Funcional con posibilidad de migrar a automatización, el rango salarial aproximado para Lima, Perú, podría ser entre S/ 4,000 y S/ 6,500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4268661692",
-    "title": "Functional QA Semi Senior",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4268661692",
-    "reason": "Esta oferta de 'QA Funcional Semi Senior' incluye requisitos valiosos como experiencia en Azure DevOps, pruebas de APIs (Postman), validación de flujos con colas y servicios REST/SOAP, y experiencia en metodología Agile. Aunque el enfoque principal es funcional, la mención de 'Pruebas de APIs' y la experiencia en Azure DevOps con pipelines son relevantes para un perfil de automatización. La experiencia en el sector bancario o fintech es un plus. El rango salarial aproximado para un QA Funcional Semi Senior en Lima, Perú, podría ser entre S/ 4,000 y S/ 6,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4453362568",
+    "title": "Ingeniero Senior de Automatización QA",
+    "employer": "Staff Boom",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4453362568",
+    "reason": "Esta oferta es una coincidencia directa. Busca un 'Ingeniero Senior de Automatización QA' con 'más de 5 años de experiencia en QA de software, con al menos 2–3 años de experiencia práctica en automatización de pruebas en entornos web'. Menciona explícitamente Playwright (TypeScript), pruebas de API, y CI/CD (Jenkins, GitLab CI, Azure DevOps), lo cual se alinea perfectamente con la tech stack y las preferencias del perfil ('QA Senior', 'Automation Engineer'). El dominio de 'Banca' y 'Finanzas' está implícito dado que la empresa apoya a organizaciones aseguradoras. El rango salarial aproximado para un Ingeniero Senior de Automatización QA en Lima, Perú, puede variar entre S/ 8,000 y S/ 14,000 brutos mensuales."
   }
 ]
