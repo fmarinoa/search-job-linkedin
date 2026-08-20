@@ -1,44 +1,30 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4452815673",
-    "title": "QA Automation",
-    "employer": "Tsoft",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4452815673",
-    "reason": "Esta oferta se ajusta perfectamente al perfil. Busca un 'Analista Automatizador y Performance de APIs' con experiencia mínima de 3 años en pruebas de software y al menos 1 año en automatización y performance de APIs. Se valora experiencia en diseño de casos de prueba con Gherkin/BDD, TypeScript y Playwright, lo cual coincide con la tech stack deseada. Adicionalmente, se pide experiencia en pruebas de rendimiento con JMeter y control de versiones con Git. El dominio de TypeScript y Playwright es un requisito excluyente, y el rol se enfoca en automatización y validación de APIs, alineándose con las preferencias de 'QA Senior', 'SDET' y 'Automation Engineer'. El salario aproximado para este tipo de rol en Lima, Perú, con 3+ años de experiencia y en una empresa como Tsoft, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4453008169",
-    "title": "QA Automation",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4453008169",
-    "reason": "Esta oferta es muy relevante para el perfil. Busca un 'Q AUTOMATION' con experiencia mínima de 3 años en la posición y experiencia en testing de APIs (Postman, Swagger/OpenAPI), REST/SOAP y testing E2E. Se solicita conocimiento sólido de SQL Server, experiencia en .NET, microservicios, Docker/Linux, sistemas distribuidos (Kafka, Redis), CI/CD (Azure DevOps o GitHub) y automatización de pruebas (Selenium, Playwright o similar y APIs). El uso de SonarQube y experiencia en testing mobile e integraciones con SDKs también son solicitados. La inclusión de .NET, Playwright y experiencia en APIs, junto con el requisito de 3 años de experiencia, la posicionan como una oferta de alta prioridad. El sector de 'QA Automation' y la mención de pruebas E2E y APIs encajan directamente con las preferencias del perfil. El salario aproximado para un rol de QA Automation con estas características en Lima, Perú, podría estar entre S/ 6,500 y S/ 9,500 mensuales."
-  },
-  {
     "id": "https://www.linkedin.com/jobs/view/4442175183",
     "title": "Quality Assurance Automation Engineer",
     "employer": "Tata Consultancy Services",
     "linkOffer": "https://www.linkedin.com/jobs/view/4442175183",
-    "reason": "Esta oferta de 'Quality Assurance Automation Engineer' en Tata Consultancy Services es una excelente coincidencia. Requiere una sólida experiencia en pruebas de automatización (QA Automation Testing), experiencia práctica con Selenium WebDriver, dominio de Java, experiencia en automatización de pruebas de API (Rest Assured o Postman), y conocimiento de TestNG, JUnit o Cucumber. También se mencionan JIRA, metodologías Agile/Scrum y Git, además de herramientas de CI/CD como Jenkins o Azure DevOps. La experiencia solicitada es de 4 a 8 años, lo que encaja con la preferencia de 'QA Senior'. La descripción menciona la colaboración con desarrolladores y analistas de negocio, la integración de pruebas en pipelines CI/CD, y la automatización de pruebas funcionales, de regresión, de integración y de API. La inclusión de Java, Selenium y experiencia en APIs la hace muy pertinente. El rango salarial aproximado para un rol de este nivel en Lima, Perú, y en una empresa como TCS, podría ser entre S/ 7,000 y S/ 10,000 mensuales."
+    "reason": "Esta oferta encaja perfectamente con el perfil de QA Automation Engineer. El puesto requiere un mínimo de 4 años de experiencia, lo cual supera los 3 años solicitados. Las responsabilidades incluyen el diseño, desarrollo y mantenimiento de frameworks y scripts de pruebas automatizadas, ejecución de pruebas automatizadas (funcionales, regresión, integración, API), colaboración en entornos Agile y participación en pipelines CI/CD. Las habilidades requeridas como Selenium WebDriver, Java, automatización de API, JIRA, Git y Jenkins se alinean directamente con el tech stack del perfil. La empresa Tata Consultancy Services es una importante consultora de TI a nivel mundial. Aunque no se menciona el rango salarial, para un puesto de QA Automation Engineer con 4-8 años de experiencia en Lima, Perú, se estima un rango aproximado de S/ 7,000 - S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4455969143",
-    "title": "QA Automatizador GCP – Banca",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4455969143",
-    "reason": "Esta oferta de 'QA Automatizador GCP – Banca' es muy específica y se alinea bien con el perfil, especialmente por el dominio 'Banca' y las tecnologías mencionadas. Requiere experiencia en automatización de pruebas Web, APIs y Mobile, con experiencia en Java, Selenium, Appium, Karate y/o Rest Assured. Se valoran conocimientos de API Testing, Event Testing, Microservicios, Performance Testing con k6, CI/CD, Git, y experiencia con Google Cloud Platform (GCP), especialmente con servicios como Pub/Sub, Cloud Run y Apigee. La experiencia en testing de procesos financieros y transaccionales es un plus significativo. Dado que el perfil incluye experiencia en 'Banca', 'Finanzas', 'Fintech' y herramientas como Selenium, Appium, y la mención de Java y APIs, esta oferta es de alta prioridad. El salario aproximado para este tipo de puesto especializado en Lima, Perú, podría estar entre S/ 7,500 y S/ 11,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4453463402",
+    "title": "QA Automation Engineer | Java + Serenity BDD",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4453463402",
+    "reason": "Esta oferta es un excelente match para el perfil, ya que busca un QA Automation Engineer con al menos 4 años de experiencia en desarrollo y automatización de pruebas. Las responsabilidades incluyen automatización web y de servicios/APIs, integración continua y prácticas DevOps. El tech stack mencionado (Java, Serenity BDD, Gherkin, SQL, MongoDB) se alinea con las preferencias del perfil, especialmente con Java y enfoques de automatización. La mención de experiencia deseable en el sector banca es un plus. Indra Group es una empresa tecnológica importante. Dado el perfil Senior, la experiencia y la ubicación, se estima un rango salarial aproximado de S/ 7,500 - S/ 13,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4455970864",
-    "title": "QA Automation",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4455970864",
-    "reason": "Esta oferta de 'QA Automation' en Inetum es una buena opción. Solicita una experiencia mínima de 2 a 3 años en automatización de pruebas con Python o TypeScript, y experiencia con herramientas de automatización como Karate DSL, Java, o Playwright con TypeScript. También se mencionan herramientas de CI/CD como Github Actions, configuración de pipelines, pruebas de microservicios y/o APIs (Postman, Karate u otras), y herramientas de gestión de pruebas como JIRA. La experiencia requerida en Python o TypeScript es un buen ajuste, al igual que la mención de Playwright y pruebas de APIs. La descripción de funciones incluye el diseño, ejecución y mantenimiento de casos de prueba funcionales, integrales y de regresión, validación de flujos end-to-end y pruebas de APIs REST. El salario aproximado para este puesto en Lima, Perú, podría oscilar entre S/ 5,500 y S/ 8,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4456358336",
+    "title": "Senior QA Automation Engineer",
+    "employer": "Monnet Payments",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4456358336",
+    "reason": "Esta oferta se ajusta muy bien al perfil, buscando un \"SR QA Automation Engineer\" con al menos 5 años de experiencia en automatización. Las responsabilidades implican colaborar con el equipo de desarrollo, diseñar y ejecutar casos de prueba de alta complejidad, investigar nuevas herramientas y promover la innovación. El tech stack deseado (Playwright + TypeScript) y la experiencia requerida en K6/Jmeter, pruebas sobre APIs y aplicativos web son muy relevantes. La experiencia en fintech y/o banca es un requisito explícito y un dominio del perfil. Monnet Payments es una Fintech en expansión regional. Se estima un rango salarial aproximado de S/ 8,000 - S/ 15,000 mensuales para un puesto Senior en Fintech en Lima."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4452860041",
-    "title": "QA Automation (Mobile)",
-    "employer": "Tech-House",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4452860041",
-    "reason": "Esta oferta de 'QA Automation (Mobile)' es muy relevante, especialmente por el dominio 'Banca y Servicios Financieros' y el enfoque en automatización móvil. Busca un perfil técnico con experiencia en automatizar sobre arquitecturas híbridas/Flutter e integraciones nativas de alta seguridad. Las responsabilidades incluyen el diseño, desarrollo y mantenimiento de frameworks de automatización para aplicaciones móviles (Android e iOS), automatización de flujos transaccionales complejos y pruebas de integraciones nativas de seguridad. Los requisitos excluyentes incluyen experiencia en Banca, Fintech o Servicios Financieros, dominio avanzado de Appium y dominio de Python para scripts y frameworks. La familiaridad con Flutter y sus integraciones, testing de APIs y frameworks BDD son valorados. El enfoque en automatización móvil y el dominio de Python y Appium, junto con el sector financiero, la hacen una oferta de alta prioridad. El salario para este tipo de rol especializado en Lima, Perú, podría estar entre S/ 7,000 y S/ 10,000 mensuales (considerando el pago en USD como contractor, podría ser un equivalente)."
+    "id": "https://www.linkedin.com/jobs/view/4455452310",
+    "title": "Senior QA Program Lead – Payments",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4455452310",
+    "reason": "Aunque es un rol de liderazgo (Program Lead), esta oferta es relevante para un profesional con experiencia en QA Senior, especialmente por el enfoque en liderar la estrategia integral de calidad y la gestión de programas complejos en la industria de pagos. Requiere más de 10 años de experiencia en QA y 6 años liderando equipos, lo que indica un nivel senior muy alto. Las responsabilidades incluyen diseñar, implementar y liderar estrategias de QA, gobernar modelos de calidad, coordinar equipos de QA Leads, y supervisar pruebas funcionales, integración, API, UAT y pruebas no funcionales. La experiencia en pagos, banca y servicios financieros es crucial. NTT DATA es una empresa TI global líder. Dado el nivel de liderazgo y la experiencia requerida, se estima un rango salarial aproximado de S/ 10,000 - S/ 18,000+ mensuales."
   }
 ]
