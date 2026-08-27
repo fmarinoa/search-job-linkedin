@@ -1,30 +1,23 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4459005025",
-    "title": "Data Quality Specialist",
-    "employer": "Prediqt - Data to AI",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4459005025",
-    "reason": "Esta oferta se ajusta al perfil por su enfoque en Calidad de Datos, que si bien no es explícitamente QA Automation Engineer, requiere un análisis profundo de datos y la implementación de reglas de calidad, lo cual puede implicar un conocimiento de automatización para su monitoreo. El rol de 'Analista de Calidad de Datos' y la experiencia requerida de 'más de 3 años de experiencia en proyectos de Calidad de Datos' y 'Conocimiento de las mejores prácticas de DAMA-DMBOK para Gestión de Calidad de Datos' son relevantes. El perfil buscado también valora el conocimiento de SQL, lo cual es común en roles de testing de APIs y backend. El rango salarial aproximado para este tipo de puesto en Lima, Perú, y para una empresa de tecnología como Prediqt, estaría entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4457293819",
+    "title": "QA Automation",
+    "employer": "Tsoft",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4457293819",
+    "reason": "La oferta se ajusta al perfil ya que busca un \"Analista Automatizador y Performance de APIs\", lo cual encaja directamente con los roles de \"Software Development Engineer in Test (SDET)\" y \"QA Automation Engineer\". Requiere \"Mínimo 3 años de experiencia en pruebas de software\" y \"Al menos 1 año de experiencia en automatización y performance de APIs\", cumpliendo con el requisito de experiencia. Se valoran \"TypeScript y Playwright\", tecnologías mencionadas en el perfil. Las responsabilidades incluyen \"automatización, validación de contratos y pruebas de performance de servicios (APIs)\", \"diseño de casos de prueba utilizando Gherkin/BDD\", y \"pruebas de rendimiento con JMeter\". El dominio es \"QA Automation\". El rango salarial aproximado para un rol de este nivel en Lima, Perú, con estas responsabilidades y para una empresa como Tsoft, podría estar entre S/ 4,000 y S/ 7,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4457601705",
-    "title": "Analista de Calidad de Datos y Gobierno",
-    "employer": "Stefanini LATAM",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4457601705",
-    "reason": "La oferta se alinea con el perfil por su fuerte enfoque en Calidad de Datos y Gobierno de Datos. Aunque no es un rol de SDET directo, requiere experiencia en la definición de controles de calidad, documentación de linaje, construcción de catálogos de datos y formalización de prácticas de gobierno, lo cual implica un pensamiento analítico y metódico similar al de QA. La experiencia requerida de '3+ años de experiencia en posiciones relacionadas con Calidad de Datos, Gobierno de Datos, Data Management o Analítica de Datos' y el conocimiento de 'SQL intermedio' son puntos clave. Además, la experiencia previa en el sector financiero es un plus según el perfil. El rango salarial aproximado para un Analista de Calidad de Datos y Gobierno con esta experiencia en Lima, Perú, y en una empresa como Stefanini LATAM, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4457710631",
+    "title": "Analista QA Funcional-Banca",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4457710631",
+    "reason": "Esta oferta es relevante dado que busca un \"Analista QA Funcional\" y especifica \"experiencia de 3 años a más como Analista QA Funcional\". Aunque el título principal menciona \"Funcional\", la descripción incluye \"ejecutar pruebas manuales y automatizadas\", lo cual se alinea con el perfil de automatización. Se mencionan conocimientos en \"Lenguajes de programación: Conocimiento básico de lenguajes como Python, Java o JavaScript\" y \"Herramientas de automatización y marcos de trabajo para pruebas\", tecnologías presentes en el perfil. El dominio \"Banca\" se cumple. Las responsabilidades son \"Planificar y diseñar pruebas, ejecutar pruebas manuales y automatizadas, y reportar y hacer seguimiento de errores\". El rango salarial aproximado para un rol de Analista QA Funcional con 3+ años de experiencia en Lima, Perú, para una empresa como Indra Group, podría estar entre S/ 3,500 y S/ 6,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4459021224",
-    "title": "Data Quality Specialist",
-    "employer": "Prediqt - Data to AI",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4459005025",
-    "reason": "Esta oferta se ajusta al perfil por su enfoque en Calidad de Datos, que si bien no es explícitamente QA Automation Engineer, requiere un análisis profundo de datos y la implementación de reglas de calidad, lo cual puede implicar un conocimiento de automatización para su monitoreo. El rol de 'Analista de Calidad de Datos' y la experiencia requerida de 'Más de 3 años de experiencia en proyectos de Calidad de Datos' y 'Conocimiento de las mejores prácticas de DAMA-DMBOK para Gestión de Calidad de Datos' son relevantes. El perfil buscado también valora el conocimiento de SQL, lo cual es común en roles de testing de APIs y backend. El rango salarial aproximado para este tipo de puesto en Lima, Perú, y para una empresa de tecnología como Prediqt, estaría entre S/ 5,000 y S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4458793373",
-    "title": "(1536) Senior QA Engineer",
-    "employer": "Nortal",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4458793373",
-    "reason": "Esta es una oferta muy alineada con el perfil. El título 'Senior QA Engineer' y la descripción de responsabilidades como 'creando escenarios de aceptación y escribiendo pruebas de automatización', 'realizar pruebas exploratorias', 'escribir pruebas automatizadas asegurando cobertura funcional, de integración, rendimiento y seguridad', y 'aplicar y aplicar patrones de diseño de automatización de pruebas' encajan perfectamente con las preferencias 'QA Senior' y 'Automation Engineer'. La experiencia requerida de '8+ años de experiencia en el uso de diversos frameworks de prueba, incluyendo pruebas de API y UI web' y la mención de tecnologías como 'Playwright' y 'AWS' son puntos fuertes. El dominio de 'Banca, Finanzas, Fintech, QA Automation' se complementa con el enfoque de la oferta en 'plataforma de gestión de donaciones', que puede tener implicaciones financieras. Dada la experiencia requerida y la empresa (Nortal es una empresa importante en transformación digital), el rango salarial aproximado para un Senior QA Engineer en Lima, Perú, estaría entre S/ 8,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4459631354",
+    "title": "Arquitecto QA Automation / Remoto (solo Perú)",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4459631354",
+    "reason": "La oferta es altamente pertinente al perfil. El título \"Arquitecto QA Automation / Quality Engineering\" se alinea perfectamente con \"Software Development Engineer in Test (SDET)\" y \"QA Automation Engineer\", buscando un rol senior. Requiere \"5+ años de experiencia en QA Automation / Quality Engineering\", superando el mínimo de 3 años. Se destacan \"Sólida experiencia en API Testing, API Security Testing y Contract Testing\", \"Experiencia en Mobile Testing Android/iOS y automatización\", y la necesidad de conocimientos en \"Automatización Web, API y Mobile\". Tecnologías como \"Jenkins\" (CI/CD) y conocimientos en \"API\" son parte del perfil. Las responsabilidades clave incluyen \"Liderar la estrategia de automatización y calidad de software\", \"Diseñar y definir la estrategia de QA Automation y Continuous Testing\", e \"Integrar pruebas automatizadas y controles de seguridad en pipelines CI/CD\". El dominio \"QA Automation\" se cumple. Dada la seniority y responsabilidad del puesto en una empresa como Synopsis S.A. y siendo remoto para Perú, el rango salarial aproximado podría ser entre S/ 7,000 y S/ 12,000 mensuales o más."
   }
 ]
