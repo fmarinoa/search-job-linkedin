@@ -1,86 +1,107 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4341256392",
-    "title": "QA Automatizador",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4341256392",
-    "reason": "La oferta se ajusta al perfil de 'QA Automation Engineer' y 'SDET' con experiencia en automatización de pruebas web/APIs (Selenium, Playwright) y lenguajes como Java/Python. Se menciona trabajo en Agile y CI/CD (Jenkins). Se busca experiencia en banca/finanzas/fintech.  El rango salarial aproximado para un QA Automatizador con 3+ años de experiencia en Lima, Perú, podría estar entre S/ 4,500 y S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4463161432",
+    "title": "QA Engineer",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4463161432",
+    "reason": "Esta oferta encaja perfectamente con el perfil, ya que busca un \"QA Engineer\" con 3 años de experiencia en automatización de pruebas Web, APIs y Mobile, utilizando herramientas como Selenium y Appium. El dominio \"Banca\" también se alinea con las preferencias. Las responsabilidades incluyen automatizar pruebas en aplicaciones Web, APIs y Mobile. El rango salarial aproximado para un puesto de esta naturaleza en Lima, Perú, y para una empresa como Indra Group, podría oscilar entre S/ 7,000 y S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4205304186",
-    "title": "QA Automatizador",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4205304186",
-    "reason": "La oferta se ajusta al perfil de 'QA Automation Engineer' y 'SDET' con experiencia en automatización de pruebas web/APIs (Selenium, Playwright) y lenguajes como Java/Python. Se menciona trabajo en Agile y CI/CD (Jenkins). Se busca experiencia en banca/finanzas/fintech.  El rango salarial aproximado para un QA Automatizador con 3+ años de experiencia en Lima, Perú, podría estar entre S/ 4,500 y S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4460750895",
+    "title": "Analista QA Funcional",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4460750895",
+    "reason": "Esta oferta es un buen match para el perfil, especialmente por la experiencia requerida de \"3 años a más como Analista QA Funcional\" y el enfoque en \"aplicaciones C# .NET\" y \"APIs REST desarrolladas en C# / .NET\", así como experiencia en \"ambientes .NET\". El dominio \"Banca\" también se alinea. Las responsabilidades incluyen \"Diseñar y ejecutar pruebas de:- Flujos críticos end to end- Escenarios de excepción y recuperación- Fallback y contingencia\" y \"Pruebas sobre SQL Server (validación de datos). Validación de servicios en Postman / Swagger.\" El rango salarial aproximado para un puesto de esta naturaleza en Lima, Perú, y para una empresa como Indra Group, podría oscilar entre S/ 6,500 y S/ 9,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4237974439",
-    "title": "QA Automatizador",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4237974439",
-    "reason": "La oferta se ajusta al perfil de 'QA Automation Engineer' y 'SDET' con experiencia en automatización de pruebas web/APIs (Selenium, Playwright) y lenguajes como Java/Python. Se menciona trabajo en Agile y CI/CD (Jenkins). Se busca experiencia en banca/finanzas/fintech.  El rango salarial aproximado para un QA Automatizador con 3+ años de experiencia en Lima, Perú, podría estar entre S/ 4,500 y S/ 7,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4462867914",
+    "title": "QA Automatizador Semi Senior",
+    "employer": "EVOL (TSnet)",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4462867914",
+    "reason": "Esta oferta se alinea muy bien con el perfil al buscar un \"QA Automatizador Semi Senior\" con \"sólida experiencia en automatización\", \"conocimientos de Data y Servicios\", \"pruebas de APIs REST\" y \"entornos Cloud (AWS)\". El dominio \"sector financiero\" también coincide con las preferencias. Las responsabilidades incluyen \"Diseñar, desarrollar y ejecutar pruebas automatizadas\", \"Realizar consultas SQL para validar y contrastar información\", y \"Ejecutar pruebas de APIs REST\". El rango salarial aproximado para un puesto de esta naturaleza en Lima, Perú, y para una empresa como EVOL (TSnet) en el sector financiero, podría oscilar entre S/ 7,500 y S/ 10,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4262656106",
-    "title": "QA Delivery Manager",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4262656106",
-    "reason": "Aunque el título es 'QA Delivery Manager', la descripción se centra en la gestión de la calidad del software y la entrega de soluciones digitales, lo que podría implicar un rol con enfoque en aseguramiento y automatización. La empresa Inetum opera en el sector financiero y busca personas con experiencia en IT y negocios. El rango salarial para un Delivery Manager con enfoque en QA en Lima, Perú, podría estar entre S/ 7,000 y S/ 10,000 mensuales o más, dependiendo de la experiencia y el tamaño del equipo."
+    "id": "https://www.linkedin.com/jobs/view/4461323779",
+    "title": "Integration Engineer IA",
+    "employer": "Interbank",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4461323779",
+    "reason": "Esta oferta se alinea con el perfil debido a la naturaleza técnica del rol de Integration Engineer IA, que implica la conexión de sistemas y la aseguración de la calidad, robustez y seguridad de las integraciones. Aunque no especifica directamente 'QA Automation Engineer' o 'SDET', las responsabilidades como 'Diseñarás e implementaras integraciones', 'Definirás contratos e interfaces (APIs)', 'Construirás flujos síncronos y asíncronos' y 'Gestionarás versionado, testing y despliegues' sugieren un enfoque en la calidad y automatización de integraciones. El sector bancario (Interbank) también coincide con las preferencias del perfil. Dada la ubicación (Lima, Perú) y la naturaleza del rol, se estima un rango salarial entre S/ 7,000 - S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4461223968",
-    "title": "Líder QA Automation (Proyecto de Banca)",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461223968",
-    "reason": "Esta oferta se alinea perfectamente con el perfil, buscando un 'Arquitecto(a) QA Automation / Quality Engineering' con más de 5 años de experiencia en QA Automation/Quality Engineering, idealmente en posiciones Senior o Lead. Incluye experiencia en API Testing, Mobile Testing y automatización, así como DevSecOps, CI/CD y Azure DevOps/Jenkins. El dominio de Banca es un plus. El rango salarial para un Líder QA Automation en Lima, Perú, con esta experiencia, podría estar entre S/ 8,000 y S/ 12,000 mensuales o más."
+    "id": "https://www.linkedin.com/jobs/view/4461655237",
+    "title": "Líder Técnico Mobile",
+    "employer": "Stefanini LATAM",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4461655237",
+    "reason": "Este puesto de Líder Técnico Mobile encaja con el perfil por su énfasis en la dirección técnica, diseño de soluciones, y la promoción de buenas prácticas de desarrollo, calidad, integración y performance. Se menciona explícitamente 'Promover la realización de testing unitario, de integración y E2E' y 'Promover la automatización de procesos asociados al desarrollo y despliegue', lo cual es clave para un rol de automatización. La experiencia requerida en React Native y Java, junto con el liderazgo técnico, se alinea con un perfil senior. El sector de tecnología y servicios (Stefanini) es relevante. Se estima un rango salarial entre S/ 9,000 - S/ 14,000 mensuales para un rol de liderazgo técnico en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4279693086",
-    "title": "Chapter Lead QA",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4279693086",
-    "reason": "La oferta se alinea con un rol de liderazgo en QA, buscando experiencia en 'estrategia de automatización del proyecto', 'diseñar, desarrollar y ejecutar scripts de automatización' y trabajando con herramientas como Selenium, Postman, Jenkins. La experiencia en proyectos de alta complejidad y conocimiento en lenguajes de programación son relevantes. El dominio de Banca/Finanzas/Fintech es mencionado implícitamente por la empresa Inetum. El rango salarial para un Chapter Lead QA en Lima, Perú, con experiencia en automatización y liderazgo, podría estar entre S/ 7,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4461926599",
+    "title": "Desarrollador Java",
+    "employer": "Multiplica",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4461926599",
+    "reason": "Aunque etiquetado como 'Desarrollador Java', la descripción enfatiza fuertemente el diseño y desarrollo de microservicios Java, APIs REST, arquitecturas distribuidas y orientadas a eventos, garantizando altos estándares de calidad, seguridad y observabilidad. La mención de 'Automatización de despliegues en Kubernetes', 'Garantizar calidad, seguridad y observabilidad de las aplicaciones', y la experiencia requerida con Spring Boot y arquitecturas Event Driven, sugieren un enfoque que podría ser aprovechado por un SDET experimentado en backend, especialmente con un enfoque en la calidad del desarrollo y la automatización de procesos de despliegue. El sector bancario y la experiencia en Azure son puntos a favor. Se estima un rango salarial entre S/ 8,000 - S/ 13,000 mensuales para un Desarrollador Backend Senior en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4247591865",
-    "title": "Chapter Leader QA",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4247591865",
-    "reason": "La oferta se alinea con un rol de liderazgo en QA, buscando experiencia en 'estrategia de automatización del proyecto', 'diseñar, desarrollar y ejecutar scripts de automatización' y trabajando con herramientas como Selenium, Postman, Jenkins. La experiencia en proyectos de alta complejidad y conocimiento en lenguajes de programación son relevantes. La empresa Inetum opera en el sector financiero, lo que se alinea con los dominios preferidos. El rango salarial para un Chapter Leader QA en Lima, Perú, con experiencia en automatización y liderazgo, podría estar entre S/ 7,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4460786022",
+    "title": "iOS Developer | Swift | SwiftUI",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4460786022",
+    "reason": "Si bien el título es 'iOS Developer', la descripción resalta 'Experiencia aplicando Clean Architecture y patrones MVVM/MVI', 'Experiencia estructurando proyectos por capas y/o features', y 'Experiencia desarrollando tests unitarios y conocimientos de UI Testing'. Esto indica un fuerte enfoque en la calidad y las pruebas automatizadas, características importantes para un SDET o QA Automation Engineer que trabaja con equipos de desarrollo móvil. La experiencia con APIs REST y seguridad también se alinea. Indra Group es una empresa importante en el sector tecnológico. Se estima un rango salarial entre S/ 8,000 - S/ 12,000 mensuales para un desarrollador iOS con este nivel de experiencia en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4461218884",
-    "title": "Gestor de Cambios y Aseguramiento QA",
-    "employer": "Banco Pichincha Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461218884",
-    "reason": "Aunque el título no es explícitamente 'SDET', la descripción se enfoca en 'Aseguramiento QA', 'Evaluación Técnica y Aseguramiento de la Calidad de Entregables', y 'Auditoría y Control del Ciclo de Vida del Cambio', lo cual puede incluir la validación de automatización y pruebas. El dominio de Banca es un match directo. El rol requiere experiencia mínima de 2 años y conocimiento de marcos de trabajo ágiles. El rango salarial para un Gestor de Cambios y Aseguramiento QA en Lima, Perú, en el sector bancario, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4460750889",
+    "title": "Ingeniero DevOps",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4460750889",
+    "reason": "Esta oferta de Ingeniero DevOps se alinea por su fuerte componente de automatización ('Automatizar y desarrollar funcionalidades, herramientas y procesos', 'Diseñar y apoyar la automatización de pruebas y procesos de despliegue', 'Participar en iniciativas orientadas a mejorar los tiempos de despliegue'). La experiencia requerida en CI/CD, Kubernetes, Docker, Jenkins y lenguajes como Java/.NET son relevantes para un SDET con enfoque en la infraestructura de pruebas y automatización de despliegues. El perfil de Indra Group y la ubicación en Lima son adecuados. Se estima un rango salarial entre S/ 7,000 - S/ 11,000 mensuales para un Ingeniero DevOps con 2-4 años de experiencia en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4278641052",
-    "title": "QA Analyst",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4278641052",
-    "reason": "Esta oferta es para un 'QA Analyst' con mínimo 2 años de experiencia y conocimiento en análisis de requerimientos, diseño de casos de prueba, ejecución de pruebas funcionales y reporte de defectos. Se menciona experiencia en marcos ágiles y herramientas como Jira/XRAY. Aunque no especifica automatización, la empresa Inetum y el dominio (Implícito por la empresa) son relevantes. El rango salarial para un QA Analyst con 2+ años de experiencia en Lima, Perú, podría estar entre S/ 3,500 y S/ 5,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4460728987",
+    "title": "Especialista en Integraciones (Bantotal / BT Services)",
+    "employer": "SEIDOR",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4460728987",
+    "reason": "Este rol de Especialista en Integraciones, particularmente en el sector financiero/bancario (Bantotal, BT Services), se ajusta bien al perfil. Las responsabilidades incluyen 'Experiencia en integración de sistemas y/o canales digitales', 'Experiencia trabajando con APIs REST y servicios SOAP', 'Experiencia en pruebas, resolución de incidencias y soporte de integraciones' y 'Coordinar con equipos de Canales, Integraciones, Arquitectura, QA, Ciberseguridad y Core para la implementación de las soluciones'. Esto indica un enfoque directo en la calidad de las integraciones, lo cual puede ser un área de aplicación para un QA Automation Engineer o SDET enfocado en APIs. SEIDOR es una empresa reconocida. Se estima un rango salarial entre S/ 7,000 - S/ 11,000 mensuales dada la especialización y el sector en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4448370952",
-    "title": "QA Híbrido (Automation + Performance) SemiSr",
-    "employer": "Softtek",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4448370952",
-    "reason": "Esta oferta se ajusta al perfil, buscando un 'QA Automation' con experiencia mínima de 2 años y conocimientos en pruebas de APIs (Postman), JMeter, BDD, Selenium WebDriver, Karate DSL y Azure Test Plan. El dominio de Banca/Finanzas/Fintech se infiere por la naturaleza de los proyectos que suele manejar Softtek. El rango salarial aproximado para un QA Híbrido (Automation + Performance) Semi Senior en Lima, Perú, podría estar entre S/ 5,000 y S/ 7,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4460769113",
+    "title": "Desarrollador Full Stack .Net",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4460769113",
+    "reason": "Esta oferta de Desarrollador Full Stack .NET puede ser relevante para un perfil SDET con experiencia en backend y un interés en la automatización. Si bien el título no es explícitamente de QA, un desarrollador con este stack y experiencia en el desarrollo de aplicaciones web completas puede tener habilidades valiosas para la creación de herramientas de automatización y pruebas end-to-end, especialmente si la empresa fomenta un enfoque de calidad en el desarrollo. La mención de 'Indra Group' y 'Lima, Peru' son puntos positivos. Se estima un rango salarial entre S/ 7,000 - S/ 12,000 mensuales para un Desarrollador Full Stack con este perfil en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4459227248",
-    "title": "Analista QA Semi-Senior",
-    "employer": "CodersLab",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4459227248",
-    "reason": "La oferta es para un 'Analista QA Ssr' con mínimo 3 años de experiencia en pruebas manuales, certificación ISTQB, pruebas de servicios/APIs (Postman) y ETL. Se menciona deseable experiencia en el sector bancario y nociones de automatización. El rango salarial para un Analista QA Semi-Senior con 3+ años de experiencia y conocimientos en pruebas de backend/APIs en Lima, Perú, podría estar entre S/ 4,000 y S/ 6,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4462851560",
+    "title": "Líder Técnico de Desarrollo – Presencial en Lima, Perú",
+    "employer": "SCL Consultores PERÚ",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4462851560",
+    "reason": "El rol de Líder de Célula de Desarrollo POS se alinea con el perfil por su enfoque en liderar equipos, gestionar el backlog tecnológico, impulsar buenas prácticas de desarrollo, y actuar como puente entre negocio y tecnología. Si bien no es un rol de QA Automation explícito, el énfasis en 'impulsando buenas prácticas de desarrollo', 'asegurar entregas oportunas, de calidad', 'Impulsar prácticas de calidad, revisión de código y despliegues controlados', sugiere un interés en la calidad y la eficiencia del desarrollo, lo cual un SDET senior podría aportar y liderar. La experiencia con metodologías ágiles y DevOps también son compatibles. Se estima un rango salarial entre S/ 8,000 - S/ 13,000 mensuales para un líder técnico en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4461219795",
-    "title": "Analista QA Semi Senior",
-    "employer": "WorkCapIT",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461219795",
-    "reason": "La oferta busca un 'Analista QA Semi Senior' con mínimo 3 años de experiencia en pruebas manuales, consultas a bases de datos (SQL), ejecución de servicios (Postman/APIs) y ETL. Se especifica experiencia en el sector financiero y se valora la automatización. Encaja con el perfil de 'Backend con enfoque en testing' y el dominio de Banca/Finanzas/Fintech. El rango salarial para un Analista QA Semi Senior en Lima, Perú, con 3+ años de experiencia y conocimientos en pruebas de backend/APIs, podría estar entre S/ 4,000 y S/ 6,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4460763994",
+    "title": "Android Developer | Kotlin | Jetpack Compose",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4460763994",
+    "reason": "Al igual que la oferta de iOS Developer, esta de Android Developer, aunque no sea un rol de QA explícito, presenta una oportunidad para un SDET con experiencia en desarrollo móvil. El énfasis en Kotlin y Jetpack Compose, junto con el potencial para aplicar principios de calidad y pruebas en el desarrollo de aplicaciones móviles. Si la empresa promueve la calidad desde el desarrollo, este rol podría ser una excelente plataforma para un SDET. Indra Group y la ubicación son adecuados. Se estima un rango salarial entre S/ 8,000 - S/ 12,000 mensuales para un desarrollador Android Senior en Lima, Perú."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4461939078",
+    "title": "Full Stack Developer Jr. (Java + Ionic)",
+    "employer": "Stefanini Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4461939078",
+    "reason": "Esta oferta de Full Stack Developer, aunque marcada como 'Jr.', menciona explícitamente la construcción de servicios y APIs REST con Java y Spring Boot, integración de aplicaciones, y la participación en el diseño de arquitecturas. Si bien 'Jr.' es una restricción, la stack tecnológica (Java, Spring Boot, Ionic) y el enfoque en APIs REST son muy relevantes para un rol de automatización, y un candidato con experiencia podría considerarse para un rol más senior si la descripción se interpreta de forma flexible o si el candidato tiene una experiencia que supera el 'Jr.'. Stefanini Group es una empresa grande. Dada la descripción de 'Jr.', y el stack, se estima un rango salarial entre S/ 4,500 - S/ 7,000 mensuales, pero si el candidato tiene experiencia senior, se podría negociar un rango más alto como S/ 7,000 - S/ 10,000."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4461915590",
+    "title": "Desarrollador Fullstack AI (Javascript - Node.js)",
+    "employer": "Multiplica",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4461915590",
+    "reason": "Aunque el título principal es 'Desarrollador Fullstack AI', la mención de 'Node.js' y la naturaleza de los roles de desarrollo ágil a menudo implican la necesidad de pruebas y automatización. Si bien no es un rol de SDET explícito, podría haber responsabilidades de testing implícitas. Se prioriza por el uso de Node.js y el desarrollo ágil. El rango salarial aproximado para un desarrollador fullstack en Lima con 3+ años de experiencia y tecnologías como Node.js podría oscilar entre S/ 5,000 y S/ 9,000 soles mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4459424274",
+    "title": "Generative AI Engineer",
+    "employer": "NTT DATA, Inc.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4459424274",
+    "reason": "Similar al anterior, el título principal no es de SDET, pero los roles de ingeniería, especialmente en áreas como IA y en empresas importantes como NTT DATA, a menudo requieren un fuerte enfoque en la calidad y la automatización de pruebas para asegurar la fiabilidad de los sistemas. La experiencia en desarrollo ágil es un punto a favor.  El rango salarial aproximado para un ingeniero de IA en Lima con 3+ años de experiencia podría ser entre S/ 6,000 y S/ 10,000 soles mensuales."
   }
 ]
