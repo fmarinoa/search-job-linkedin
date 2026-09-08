@@ -1,191 +1,86 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4461174769",
-    "title": "QA",
-    "employer": "Amaris Consulting",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461174769",
-    "reason": "La oferta busca un 'QA Automation Engineer' con 4 a 6 años de experiencia en automatización de pruebas web, utilizando Playwright y JMeter. Cumple con el perfil de experiencia y tecnologías (Playwright). Se mencionan metodologías ágiles, lo cual es un plus. El dominio 'QA Automation' es explícito. El rango salarial aproximado para este tipo de rol senior en Lima, Perú, podría estar entre S/ 6,000 y S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4462229464",
+    "title": "QA Automation Engineer – Playwright / TypeScript.",
+    "employer": "Praxis",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4462229464",
+    "reason": "La oferta se ajusta al perfil dado que busca un \"QA Automation Engineer\" con 3+ años de experiencia en automatización de pruebas web, lo cual coincide directamente con el rol y la experiencia requerida. Se menciona explícitamente experiencia en \"TypeScript + Playwright\", \"Agile\", \"CI/CD\" y \"SQL para validación de datos\", todas tecnologías y metodologías relevantes para el perfil. Las responsabilidades principales incluyen \"Diseñar, desarrollar y ejecutar pruebas automatizadas\" y \"Construir proyectos/frameworks de automatización desde cero\". El rango salarial aproximado para un puesto similar en Lima, Perú, con esta experiencia y tecnologías, podría oscilar entre S/ 5,000 y S/ 8,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4436136286",
-    "title": "Analista de Calidad",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4436136286",
-    "reason": "La oferta solicita un 'Analista de Calidad' con más de 3 años de experiencia en 'QA Automation', pruebas funcionales y manuales. Menciona experiencia con herramientas como Selenium, Cypress, Java, Python, JavaScript, Scrum, Jira, Jenkins y Git, las cuales se alinean con el perfil. El dominio 'QA Automation' está presente. El rango salarial aproximado para un rol de este nivel en Inetum en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4462262087",
+    "title": "QA Automation Mobile | Appium & APIs",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4462262087",
+    "reason": "Esta oferta es un buen match ya que busca un \"QA Automation Mobile\" con experiencia en \"Appium y APIs\", lo cual se alinea con la experiencia en automatización de pruebas mobile y APIs del perfil. Se especifica \"2+ años de experiencia en Automatización de Pruebas Mobile con Appium\", \"Automatización y validación de APIs REST\" y \"Conocimientos de CI/CD con Azure DevOps o Jenkins\", todas habilidades y herramientas validadas en el perfil. Las responsabilidades clave son \"Diseñar, desarrollar y mantener soluciones de automatización para aplicaciones móviles\" y \"Automatizar pruebas funcionales y de regresión\". El rango salarial aproximado para un puesto similar en Lima, Perú, con esta experiencia, podría estar entre S/ 4,500 y S/ 7,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4463624749",
-    "title": "ASISTENTE DE CALIDAD",
-    "employer": "EMBUTIDOS EL GORDITO",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4463624749",
-    "reason": "Esta oferta está en la lista negra ('Asistente', 'Junior', 'Intern') y NO cumple con el requisito de experiencia ni con las tecnologías y dominios esperados. Se descarta automáticamente."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4463643831",
-    "title": "Supervisor de Procesos de Pulverización Industrial",
-    "employer": "Sunda International",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4463643831",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en supervisión de procesos industriales y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461171184",
-    "title": "Supervisor de producción en maquila",
-    "employer": "Vartini Packing SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461171184",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en supervisión de producción y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461176242",
-    "title": "SUPERVISOR DE SOLDADURA",
-    "employer": "RAM EQUIPOS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461176242",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en supervisión de soldadura y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461171692",
-    "title": "E - Inspector Líder de Monitoreo Ambiental - LA PODEROSA",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461171692",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en inspección y monitoreo ambiental, y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461175703",
-    "title": "E- Inspector Lider de Monitoreo Ambiental -BNV - Callao.",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461175703",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en inspección y monitoreo ambiental, y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461188320",
-    "title": "E - Inspector de Monitoreo Ambiental Senior - Callao",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461188320",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en inspección y monitoreo ambiental, y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4454142514",
-    "title": "CL_Template_Analista de Laboratorio",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4454142514",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en análisis de laboratorio y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461184321",
-    "title": "Supervisor de Soporte Operacional",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461184321",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en soporte operacional, logística y gestión administrativa, y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461186904",
-    "title": "TRAINEE DE PRODUCCIÓN (FABRICACIONES) - LURIN",
-    "employer": "HAUG S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461186904",
-    "reason": "Esta oferta está en la lista negra ('Junior', 'Intern') y NO cumple con el requisito de experiencia ni con las tecnologías y dominios esperados. Se descarta automáticamente."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4463659114",
-    "title": "ASUNTOS REGULATORIOS",
-    "employer": "Nutripoint Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4463659114",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en asuntos regulatorios y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461199010",
-    "title": "Analista SIG",
-    "employer": "Carolina Uniformes",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461199010",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en análisis SIG y gestión de calidad ISO, y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461194043",
-    "title": "Auditor de control de calidad",
-    "employer": "Pragma | Consultoría en Talento y Desarrollo Organizacional",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461194043",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en auditoría de calidad en el sector textil, y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461188845",
-    "title": "Jefe de Garantía de la Calidad y Seguridad del Paciente",
-    "employer": "Clínica Stella Maris - Oficial",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461188845",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en gestión de calidad en salud y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461169853",
-    "title": "Inspector Senior de Monitoreo Ambiental",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461169853",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en inspección y monitoreo ambiental, y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461182723",
-    "title": "Inspector junior de Monitoreo Ambiental",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461182723",
-    "reason": "Esta oferta está en la lista negra ('Junior') y NO cumple con el requisito de experiencia ni con las tecnologías y dominios esperados. Se descarta automáticamente."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4463615951",
-    "title": "QA Automation Engineer",
-    "employer": "MEGTEC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4463615951",
-    "reason": "La oferta es para un 'QA Automation Engineer' con énfasis en desarrollo ágil, experiencia web y móvil, y conocimiento en diversas tecnologías. Se menciona experiencia previa en el rol, lo que se ajusta al perfil de '3+ años'. Las tecnologías mencionadas como deseables o necesarias (Node.js, TypeScript, Python, Java, .NET, Selenium, Playwright, Appium, AWS, Jenkins) son directamente relevantes. Los dominios de negocio (Fintech, Banca, Finanzas) son ideales. El rol de 'Automation Engineer' y 'QA Senior' son preferidos. El rango salarial aproximado para este rol senior en Lima, Perú, podría estar entre S/ 7,000 y S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4436103171",
-    "title": "QA Automation IA",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4436103171",
-    "reason": "La oferta es para un rol de QA Automation con enfoque en IA, lo cual es un plus. Requiere experiencia en automatización, diseño, desarrollo y ejecución de scripts de prueba. Menciona Python, metodologías ágiles y SDLC, que son parte del perfil. Se enfoca en asegurar la calidad a través de pruebas automatizadas. El rango salarial aproximado para un rol con este enfoque y experiencia en Inetum en Lima, Perú, podría estar entre S/ 6,000 y S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4434893117",
-    "title": "CONSULTOR/A SAP PP/QM",
-    "employer": "Ayesa Digital",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4434893117",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en consultoría SAP PP/QM y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4462328001",
-    "title": "Supervisor de Máquinas de Producción",
-    "employer": "Sunda International",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4462328001",
-    "reason": "Esta oferta NO cumple con el perfil profesional, ya que se enfoca en supervisión de máquinas de producción y no en desarrollo o automatización de software. Se descarta."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461998919",
-    "title": "Back End Java Developer (programación reactiva)",
-    "employer": "Stefanini LATAM",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461998919",
-    "reason": "Esta oferta encaja con el perfil debido a que requiere experiencia en desarrollo backend con Java, programación reactiva y Spring Boot, tecnologías mencionadas en el perfil. Se valora la experiencia en metodologías ágiles, pruebas unitarias y desarrollo de APIs REST. El rol implica diseño y desarrollo de APIs REST, implementación de lógica de negocio y creación de servicios Spring Boot, alineado con 'Backend con enfoque en testing' y 'Software Development Engineer in Test (SDET)'. El rango salarial aproximado para un rol de 3+ años en Lima, Perú, para una empresa de consultoría como Stefanini, estaría entre S/ 7,000 y S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4461182943",
-    "title": "Desarrollador Back-End (plazo fijo 2 meses)",
+    "id": "https://www.linkedin.com/jobs/view/4462239563",
+    "title": "QA Automatizador Semisenior",
     "employer": "SOAINT",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4461182943",
-    "reason": "La oferta se alinea con el perfil por la experiencia requerida en desarrollo backend con Java, Spring Boot, Spring Cloud y principios SOLID. Se menciona explícitamente el desarrollo de APIs, gestión de bases de datos relacionales y automatización con Jenkins y pruebas con JUnit/Mockito, lo cual se relaciona con 'Backend con enfoque en testing' y la experiencia en desarrollo ágil. La principal responsabilidad es el desarrollo de soluciones backend robustas. El rango salarial aproximado para un Desarrollador Backend Semisenior en Lima, Perú, con 3 años de experiencia, podría oscilar entre S/ 6,500 y S/ 9,500 mensuales, considerando que es un contrato a plazo fijo."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4462239563",
+    "reason": "La oferta es altamente relevante ya que busca un \"QA Automatizador Semisenior\" con \"3 años de experiencia como QA o similares\" y \"Experiencia en Automatización de Pruebas: Selenium, Playwright, Karate DSL, Cucumber, entre otros.\", \"Experiencia en Pruebas de Microservicios y APIs\" y \"Experiencia en CI/CD: GitHub, Jenkins.\". Estas son las tecnologías y el nivel de experiencia buscados en el perfil. Las responsabilidades principales incluyen \"Participar activamente en las ceremonias ágiles\", \"Diseñar y ejecutar pruebas exploratorias, de regresión y automatizadas\" y \"Promover la integración continua y las pruebas automatizadas\". El rango salarial aproximado para un puesto de QA Automatizador Semisenior en Lima, Perú, podría ser de S/ 5,500 a S/ 8,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4463680679",
-    "title": "Desarrollador Java Backend Semisenior",
+    "id": "https://www.linkedin.com/jobs/jobs/view/4464385039",
+    "title": "QA Automation / Semi senior",
     "employer": "METRICA Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4463680679",
-    "reason": "Esta oferta es pertinente ya que busca un Desarrollador Java Backend con experiencia en microservicios, Spring Boot, desarrollo de APIs REST/GraphQL y bases de datos PostgreSQL. La mención de metodologías ágiles, pruebas unitarias y colaboración en equipos multidisciplinarios, junto con la experiencia en Docker y plataformas Cloud como Azure, se alinean con el perfil. Las principales responsabilidades incluyen el desarrollo y mantenimiento de microservicios, diseño e integración de APIs y participación en proyectos con comunicación asíncrona. El rango salarial aproximado para un puesto de este nivel en Lima, Perú, para una multinacional como METRICA, estaría entre S/ 7,500 y S/ 11,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/jobs/view/4464385039",
+    "reason": "Este puesto es un fuerte candidato dado que se busca un \"Analista QA Automation\" con \"Mínimo 3 años de experiencia como QA Automation\" y experiencia específica en \"automatización web con Selenium, Cypress y Cucumber\", \"automatización de APIs REST con Postman (Newman) y/o Karate Framework\" y \"experiencia en integración continua y despliegue continuo (CI/CD) con Jenkins o GitHub Actions\". Además, menciona \"procesos relacionados a banca, medios de pago digitales y adquirencia\", lo que se alinea con los dominios de interés. Las responsabilidades incluyen \"Diseñar y ejecutar pruebas automatizadas para aplicaciones web, mobile y servicios API\" y \"Participar en la validación de procesos relacionados a banca\". El rango salarial aproximado para un QA Automation Semi-Senior en Lima, Perú, podría ser de S/ 5,500 a S/ 8,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4436873188",
-    "title": "Desarrollador Backend Java Microservicios",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4436873188",
-    "reason": "La oferta encaja con el perfil por requerir más de 3 años de experiencia con Java 8+, Spring Boot y arquitectura de microservicios, así como bases de datos relacionales y no relacionales. Se valoran las buenas prácticas y principios SOLID, y el interés en tecnologías de reactividad y Azure. Las responsabilidades principales son el desarrollo de microservicios y la participación en proyectos de alto impacto. El rango salarial aproximado para un Desarrollador Backend Java con 3+ años de experiencia en Lima, Perú, para una empresa global como NTT DATA, estaría entre S/ 7,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/jobs/view/4462243123",
+    "title": "Líder QA Automatizador (Hibrido)",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/jobs/view/4462243123",
+    "reason": "La oferta es muy pertinente al perfil, buscando un \"Arquitecto(a) QA Automation / Quality Engineering\" con \"5+ años de experiencia en QA Automation / Quality Engineering, idealmente en posiciones Senior o Lead\", lo cual se alinea con las preferencias de \"QA Senior\" y \"SDET\". Se detalla experiencia en \"API Testing\", \"Mobile Testing Android/iOS y automatización\", \"CI/CD\", y \"AI-assisted Testing\". Las funciones principales incluyen \"Diseñar y definir la estrategia de QA Automation y Continuous Testing\" e \"Integrar pruebas automatizadas y controles de seguridad en pipelines CI/CD\". El rango salarial aproximado para un Líder QA Automatizador en Lima, Perú, con esta experiencia, podría estar entre S/ 7,000 y S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4463397921",
-    "title": "Programador full stack",
-    "employer": "Analytia",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4463397921",
-    "reason": "Esta oferta se ajusta al perfil, ya que busca un programador Fullstack con más de 3 años de experiencia en desarrollo. Menciona tecnologías como Python y JavaScript en el frontend, Node.js con Express en el backend, desarrollo y consumo de APIs REST, manejo de bases de datos (PostgreSQL, MongoDB), AWS y Docker. La descripción del puesto incluye la creación, despliegue y gestión de aplicaciones web, así como el desarrollo de bots RPA y la automatización de procesos. Las responsabilidades principales son el desarrollo fullstack y la automatización. El rango salarial aproximado para un Programador Fullstack con 3+ años de experiencia en Lima, Perú, para una consultora especializada en transformación digital como Analytia, estaría entre S/ 6,000 y S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/jobs/view/4458230305",
+    "title": "SUBGERENTE DE AUTOMATIZACIÓN DE CUMPLIMIENTO",
+    "employer": "Banco de Crédito BCP",
+    "linkOffer": "https://www.linkedin.com/jobs/jobs/view/4458230305",
+    "reason": "Aunque el título es \"Subgerente\", las responsabilidades se centran en la \"automatización de procesos\", \"desarrollo, mantenimiento y evolución de soluciones de datos y automatización\", \"transformando necesidades de negocio en herramientas funcionales\", y el uso de \"RPA, Power Apps, Copilot Studio, Power Automate, Python, SQL, APIs, Power BI, SharePoint, Jira y herramientas afines\". Esto encaja con un perfil backend con enfoque en testing y automatización, especialmente con la experiencia en \"Python\" y \"SQL\" del perfil. El rol implica \"liderar el desarrollo in-house de soluciones de automatización\" y \"diseñar, construir y supervisar soluciones\". Dada la posición gerencial y la reputación del banco, el rango salarial aproximado en Lima, Perú, podría ser de S/ 9,000 a S/ 13,000 mensuales o superior."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/jobs/view/4464402469",
+    "title": "Analista QA Jr - 3 meses",
+    "employer": "Praxis",
+    "linkOffer": "https://www.linkedin.com/jobs/jobs/view/4464402469",
+    "reason": "Aunque la oferta especifica \"Analista QA Jr - 3 meses\" y la experiencia requerida es de \"2 y 3 años en pruebas de software\", la descripción menciona \"Conocimientos en automatización de pruebas con herramientas como Selenium, Cypress, JUnit, TestNG y/o Appium\" y \"Conocimientos de SQL para validación de datos\", lo cual se alinea con las habilidades técnicas del perfil. Sin embargo, el filtro \"Junior\" y \"contrato por proyecto de 3 meses\" lo hacen menos prioritario. Las responsabilidades son \"pruebas funcionales, de integración y regresión\". El rango salarial para un \"Junior\" en Lima, Perú, podría ser de S/ 2,500 a S/ 4,000 mensuales, pero al ser por 3 meses podría variar. Dada la experiencia solicitada, este rol podría ser considerado un \"junior senior\" si el enfoque es la automatización."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4462239677",
+    "title": "Backend Developer Java | Azure",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4462239677",
+    "reason": "Esta oferta encaja con el perfil dado que busca un Backend Developer con experiencia en Java, Azure y arquitecturas de microservicios, tecnologías que se alinean con las preferencias y el perfil técnico del candidato. El rol implica el desarrollo backend robusto y escalable, con un enfoque en tecnologías cloud modernas, lo cual es un punto fuerte para un perfil con experiencia en desarrollo y tecnologías backend. El rango salarial aproximado para un Backend Developer Java con 4+ años de experiencia en Lima, Perú, en una empresa como Indra Group, estaría entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la negociación y la experiencia específica. Las responsabilidades principales incluyen el desarrollo en Java 17/21, Spring Boot, microservicios, programación reactiva con WebFlux, y el uso de Azure, mensajería asíncrona y patrones distribuidos. No se menciona un rango salarial explícito en la oferta."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4462258054",
+    "title": "Backend Developer Java | Azure & Kubernetes",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4462258054",
+    "reason": "Esta oferta es un buen match ya que requiere un Backend Developer Java con experiencia en APIs REST, Spring Boot, Azure y Kubernetes. Las tecnologías mencionadas son relevantes para el perfil. La experiencia en banca es un plus. El rango salarial aproximado para un Backend Developer Java con 3+ años de experiencia en Lima, Perú, en una empresa como Indra Group, estaría entre S/ 6,000 y S/ 10,000 mensuales. Las responsabilidades incluyen la implementación de dominio, casos de uso, integración de aplicaciones, desarrollo de soluciones backend modernas y escalables, uso de Spring Boot, Azure, Docker y Kubernetes, así como conocimientos de Clean Code, SOLID y patrones de diseño. No se menciona un rango salarial explícito en la oferta."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4464370497",
+    "title": "Especialista Full Stack",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4464370497",
+    "reason": "Esta oferta se alinea con el perfil debido a que busca un Especialista Full Stack con más de 3 años de experiencia en Java, React, TypeScript y arquitecturas de microservicios. Estas son tecnologías clave dentro del perfil técnico. La experiencia en metodologías ágiles, entornos Cloud y prácticas DevOps también son relevantes. El rango salarial aproximado para un Especialista Full Stack con esta experiencia en Lima, Perú, y en una empresa como Tata Consultancy Services, podría variar entre S/ 7,000 y S/ 12,000 mensuales. Las responsabilidades incluyen diseñar y desarrollar APIs REST, implementar microservicios, modernizar componentes existentes, gestionar Kafka, e integrar soluciones. No se menciona un rango salarial explícito en la oferta."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4462230735",
+    "title": "ESPECIALISTA EN ELECTRÓNICA Y AUTOMATIZACIÓN INDUSTRIAL",
+    "employer": "DIMFER",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4462230735",
+    "reason": "Aunque el título y la descripción se centran en electrónica e industrial, la mención de 'automatización' y la necesidad de experiencia en PLC, HMI, variadores de frecuencia, sensores, módulos de comunicación industrial y tableros eléctricos, podría tener una intersección con roles de automatización de sistemas y procesos, especialmente si se considera la automatización en un contexto más amplio de software o infraestructura. Sin embargo, la falta de mención explícita de tecnologías de desarrollo de software, APIs, o testing automatizado hace que este sea un match de baja prioridad. Dado que la oferta es por servicio independiente, la tarifa sería negociada y podría variar significativamente. El rango podría ser de S/ 4,000 a S/ 8,000 mensuales, dependiendo de la complejidad del diagnóstico y la experiencia del profesional. Las responsabilidades incluyen revisión y diagnóstico de una línea industrial, identificación de componentes afectados, e informe técnico. No se menciona un rango salarial explícito."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4464357750",
+    "title": "Especialista de Automatizacion - Operaciones Cloud/ Anseable",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4464357750",
+    "reason": "Esta oferta es un match fuerte dado que busca un Especialista Senior en Automatización de Operaciones Cloud con mínimo 4 años de experiencia en automatización, DevOps, SRE, Ingeniería Cloud, y administración de Azure/AWS. El perfil técnico con Python, PowerShell, Bash, IaC (Terraform, Ansible), CI/CD, y experiencia en integraciones es altamente relevante. La experiencia en banca es un plus. El rango salarial para un Especialista Senior en Automatización de Operaciones Cloud con esta experiencia en Lima, Perú, y en un proyecto para un cliente como IBK, estaría entre S/ 8,000 y S/ 14,000 mensuales, considerando la duración del proyecto y la especialización. Las responsabilidades principales incluyen el diseño, desarrollo e implementación de soluciones de automatización para Operaciones Cloud, integración con herramientas ITSM, automatización de infraestructura, observabilidad y soluciones de autoservicio. No se menciona un rango salarial explícito, pero se indica una duración de 3 meses con posibilidad de renovación."
   }
 ]
