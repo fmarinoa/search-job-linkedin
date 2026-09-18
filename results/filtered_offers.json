@@ -1,187 +1,65 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4455064185",
-    "title": "Senior QA Engineer | Test Automation",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4455064185",
-    "reason": "Esta oferta encaja perfectamente con el perfil. Busca un 'Senior QA Engineer | Test Automation' con experiencia en automatización de pruebas web, mobile y servicios (APIs) utilizando Selenium y Python, lo cual se alinea directamente con los requisitos de experiencia y tech stack del perfil. Además, se menciona experiencia en el sector banca, uno de los dominios de preferencia. El rol de 'Senior' y el enfoque en 'Test Automation' cumplen con las preferencias. Las responsabilidades incluyen la automatización de pruebas en diversas plataformas y tipos de pruebas. El rango salarial aproximado para un puesto Senior de este tipo en Lima, Perú, podría estar entre S/ 6,000 y S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4466295161",
+    "title": "QA Automatizador Semi Senior",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4466295161",
+    "reason": "Esta oferta encaja perfectamente con el perfil ya que busca un 'QA Automatizador Semi Senior' con mínimo 3 años de experiencia, lo cual se alinea con los '3+ años en automatización'. Menciona explícitamente la automatización de 'backend, frontend y mobile' y el uso de herramientas como 'Playwright' y 'Selenium', que están en la 'tech_stack'. También se enfoca en 'CI/CD' y metodologías ágiles, como se indica en las preferencias ('Backend con enfoque en testing', 'QA Senior', 'Automation Engineer'). El dominio de 'Swagger, Postman y Karate' y 'IA y Chatbots' son un plus. Se espera un rango salarial aproximado de S/ 6,000 a S/ 9,000 mensuales, considerando la experiencia requerida y la ubicación en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4468244282",
-    "title": "Recruiting Manager - Remote Work",
-    "employer": "INDI Staffing Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468244282",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Recruiting Manager' o 'Talent Acquisition Senior Auditor' no tiene un enfoque directo en desarrollo de software, automatización de pruebas o QA Automation Engineer como se especifica en el perfil. El perfil busca roles de SDET, QA Automation Engineer, o Test Automation Engineer. Las responsabilidades descritas son de auditoría de reclutamiento y gestión de talento, lo cual está fuera del scope del perfil. Por lo tanto, esta oferta es excluida."
+    "id": "https://www.linkedin.com/jobs/view/4468675627",
+    "title": "QA Automatizador Senior",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4468675627",
+    "reason": "Esta oferta es altamente relevante ya que busca un 'QA Automatizador Senior' con 3 años liderando equipos y 'conocimiento avanzado en automatización'. Cumple con los requisitos de 'experiencia' y las 'preferencias' ('QA Senior', 'Automation Engineer'). Menciona explícitamente el uso de herramientas de pruebas automatizadas como 'Selenium' y 'Postman', y la automatización en 'web, servicios, microservicios, escritorio'. También se hace referencia a metodologías ágiles y 'Jenkins'. Se estima un rango salarial de S/ 7,000 a S/ 10,000 mensuales, dado el nivel senior y la experiencia requerida en Lima, Perú."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4467108575",
-    "title": "Desarrollador .NET - Cobol",
-    "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4467108575",
-    "reason": "Esta oferta NO encaja con el perfil. Si bien menciona .NET, el rol principal es de 'Desarrollador .NET - Cobol' con un fuerte enfoque en Mainframe (COBOL Batch y CICS, JCL, etc.), no en automatización de pruebas. El perfil busca específicamente roles de SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades detalladas se centran en el desarrollo y mantenimiento de sistemas Mainframe y .NET, no en la calidad del software a través de la automatización de pruebas. Por lo tanto, esta oferta es excluida."
+    "id": "https://www.linkedin.com/jobs/view/4468685460",
+    "title": "Desarrollador Backend Java - Azure",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4468685460",
+    "reason": "Esta oferta es relevante porque busca un Desarrollador Backend Java con experiencia en Azure Cloud, lo cual se alinea con el perfil de tecnología buscado. Si bien el rol principal es de desarrollo, se menciona conocimiento de automatización y IA, lo que sugiere una apertura hacia la calidad y la eficiencia en el desarrollo, aspectos clave para un ingeniero de pruebas con enfoque backend. Las responsabilidades implican diseño, desarrollo y experiencia con metodologías ágiles, todas ellas importantes para un rol de testing automatizado. El rango salarial aproximado para un puesto Senior en Lima, Perú, con 3 años de experiencia y este stack tecnológico sería de S/ 7,000 - S/ 12,000.",
+    "responsibilities": [
+      "Desarrollo con Java y entorno Cloud (Azure).",
+      "Experiencia con Spring Cloud Suite, Spring Framework y arquitectura de microservicios.",
+      "Programación orientada a objetos, funcional y reactiva.",
+      "Bases de datos relacionales.",
+      "Metodologías ágiles como Scrum.",
+      "Manejo de Swagger, Jenkins, Pipelines.",
+      "Conocimientos en Azure API Management y API Key Vault.",
+      "Conocimiento de automatización e IA."
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4466208756",
-    "title": "Supervisor HVAC",
-    "employer": "Ingenieria Rio Negro",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466208756",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Supervisor HVAC' se enfoca en ingeniería mecánica y supervisión de trabajos de Aire Acondicionado, Ventilación y Refrigeración. No tiene relación con el desarrollo de software, automatización de pruebas, ni las tecnologías o dominios especificados en el perfil profesional (SDET, QA Automation Engineer, etc.). Las responsabilidades y requisitos son completamente ajenos a un perfil de QA Automation. Por lo tanto, esta oferta es excluida."
+    "id": "https://www.linkedin.com/jobs/view/4466626275",
+    "title": "Desarrollador Senior, San Isidro",
+    "employer": "GTH Alternatives | Headhunters",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4466626275",
+    "reason": "Aunque el título es 'Desarrollador Senior', la descripción menciona 'Desarrollo asistido por agentes' y 'Exposición a proyectos de RPA/IA o BI', además de la necesidad de 'Traducción técnica al cliente'. El enfoque en la calidad del código ('pruebas, documentación') y la arquitectura de software es relevante para un rol de SDET. Las responsabilidades de diseño, construcción de componentes y aseguramiento de la calidad del código son transferibles a un enfoque de automatización de pruebas desde la perspectiva del desarrollo. El rango salarial aproximado para un Desarrollador Senior con 4 años de experiencia en Lima, Perú, y este stack sería de S/ 8,000 - S/ 14,000.",
+    "responsibilities": [
+      "Construcción de componentes, módulos o servicios.",
+      "Asegurar la calidad del código, pruebas y documentación.",
+      "Desarrollo asistido por agentes (Claude Code, Cursor).",
+      "Backend PHP 8+ /Laravel, JavaScript y TypeScript.",
+      "Base de datos SQL.",
+      "Integración APIs REST + Swagger / OpenAPI.",
+      "Uso de Git.",
+      "Exposición a proyectos de RPA/IA o BI."
+    ]
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4465958643",
-    "title": "Analista de Sistemas",
-    "employer": "Montrel",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4465958643",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Analista de Sistemas' con enfoque en desarrollo .NET, C# y Android (Xamarin, .NET MAUI) y bases de datos SQL Server está fuera del alcance de un perfil de SDET o QA Automation Engineer. Aunque se menciona experiencia en desarrollo y APIs, el perfil busca específicamente roles de automatización de pruebas. Las responsabilidades se centran en mantenimiento, evolución y desarrollo de aplicaciones, no en la calidad del software a través de la automatización de pruebas. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468234881",
-    "title": "Especialista Java/.NET (Senior)",
-    "employer": "Tata Consultancy Services",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468234881",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Especialista Java/.NET (Senior)' se enfoca en el desarrollo de soluciones tecnológicas en capas front-end y back-end, con tecnologías como Java, .NET, SQL Server, React, y participación en integración y despliegue continuo. Si bien se requiere experiencia en desarrollo, el perfil busca roles específicamente de SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades descritas son de desarrollo de software, no de automatización de pruebas. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4467108617",
-    "title": "Full Stack (Canales Electrónicos)",
-    "employer": "BANCO GNB PERÚ",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4467108617",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Full Stack (Canales Electrónicos)' con experiencia en desarrollo Frontend (HTML5, CSS3, JavaScript, Angular, React) y Backend (Node.js, Java, .NET, C#) y bases de datos no está alineado con el perfil de SDET o QA Automation Engineer. Aunque menciona desarrollo y pruebas unitarias/integrales, el enfoque no es la automatización de pruebas de QA. Las responsabilidades se centran en el desarrollo de soluciones de inteligencia de negocios y aplicaciones, no en la automatización de pruebas de calidad del software. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468321502",
-    "title": "Analista de Automatización de Procesos",
-    "employer": "BanBif - Banco Interamericano de Finanzas",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468321502",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Analista de Automatización de Procesos' se centra en la automatización de procesos de negocio mediante plataformas BPM Low-Code/No-Code y la metodología BPMN. Si bien la palabra 'automatización' está presente, el enfoque es en procesos de negocio (BPM) y no en la automatización de pruebas de software (QA Automation). El perfil busca roles de SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades y tecnologías (BPMN, Bizagi, Power BI) no se alinean con la automatización de pruebas de software. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468223743",
-    "title": "Auxiliar de Direccion Tecnica Laboratorio Farmaceutico",
-    "employer": "Roker",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468223743",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Auxiliar de Dirección Técnica Laboratorio Farmacéutico' está enfocado en el sector farmacéutico y la dirección técnica de laboratorios, sin ninguna relación con el desarrollo de software, automatización de pruebas o QA Automation Engineer. Las responsabilidades y requisitos son completamente ajenos al perfil. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468327727",
-    "title": "Coordinador(a) de Desarrollo de Producto Textil Chorrillos",
-    "employer": "Empresa Confidencial",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468327727",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Coordinador(a) de Desarrollo de Producto Textil' se centra en la industria textil y de confecciones, abarcando desarrollo de prendas, gestión de proveedores textiles y control de muestras. No tiene ninguna relación con el desarrollo de software, automatización de pruebas o QA Automation Engineer. Las responsabilidades y requisitos son completamente ajenos al perfil. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466888032",
-    "title": "Supervisor de producción",
-    "employer": "Sunda International",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466888032",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Supervisor de Producción' en la industria de detergentes y productos químicos no tiene relación alguna con el perfil de SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades se centran en la supervisión de procesos productivos en planta, gestión de personal operativo y control de calidad de productos químicos. Las tecnologías y dominios son completamente diferentes. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468220854",
-    "title": "QA Tester Functional (Temporal)",
-    "employer": "Stefanini Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468220854",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'QA Tester Functional (Temporal)' se enfoca en pruebas funcionales manuales, no en automatización. El perfil busca explícitamente 'Software Development Engineer in Test (SDET)', 'QA Automation Engineer', o 'Test Automation Engineer', y específicamente excluye 'Manual Tester'. Aunque se menciona el ciclo ágil, la falta de enfoque en automatización y la naturaleza manual de las tareas excluyen esta oferta. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466874303",
-    "title": "Analista Funcional",
-    "employer": "Stefanini LATAM",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466874303",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Analista Funcional' se centra en análisis, automatización y optimización de procesos comerciales y de provisión, levantamiento de requerimientos, y generación de indicadores. Si bien hay un componente de 'automatización', este se refiere a procesos de negocio (BPM, RPA, Power Automate), no a la automatización de pruebas de software. El perfil busca específicamente SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades y tecnologías (SQL, Power BI, Power Automate) no se alinean directamente con la automatización de pruebas de QA. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466876909",
-    "title": "Analista de Aplicaciones-Seguridad funcional",
-    "employer": "NTT DATA, Inc.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466876909",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Analista de Aplicaciones-Seguridad funcional' se enfoca en seguridad de aplicaciones, análisis de riesgos de seguridad funcional, y evaluación de tratamiento de datos, aplicando marcos como OWASP y Secure SDLC. Si bien está relacionado con el ciclo de vida de desarrollo de software, no se trata de automatización de pruebas de QA. El perfil busca específicamente SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades son de seguridad funcional, no de automatización de pruebas. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468303305",
-    "title": "Especialista Sanitario",
-    "employer": "Confidencial",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468303305",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Especialista Sanitario' se enfoca en infraestructura vial y el cumplimiento normativo sanitario en obras de construcción. No tiene ninguna relación con el desarrollo de software, automatización de pruebas o QA Automation Engineer. Las responsabilidades y requisitos son completamente ajenos al perfil. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4467105584",
-    "title": "Desarrollador COBOL",
-    "employer": "Entelgy",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4467105584",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Desarrollador COBOL' se centra en Mainframe (COBOL Batch y CICS, JCL, utilitarios z/OS) y no tiene relación con el desarrollo de software, automatización de pruebas o QA Automation Engineer. El perfil busca específicamente roles de SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades detalladas se centran en el desarrollo y mantenimiento de sistemas Mainframe, no en la calidad del software a través de la automatización de pruebas. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466222812",
-    "title": "Desarrollador Java Ssr (Legacy)",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466222812",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Desarrollador Java Ssr (Legacy)' se enfoca en la programación Java, JEE, Oracle PL/SQL y administración de IBM WebSphere, con responsabilidades de creación y mantenimiento de aplicaciones bancarias. Si bien el dominio 'Banca' es de interés, el rol principal es de desarrollo backend y no de automatización de pruebas de QA. El perfil busca específicamente SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades se centran en el desarrollo de componentes tecnológicos, no en la calidad del software a través de la automatización de pruebas. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466209147",
-    "title": "Practicante Profesional de Ingeniería y Desarrollo",
-    "employer": "Precor",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466209147",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Practicante Profesional de Ingeniería y Desarrollo' se enfoca en la industria de acero, con actividades relacionadas al desarrollo de producto, seguimiento de proveedores y pruebas en producción de componentes físicos. No tiene ninguna relación con el desarrollo de software, automatización de pruebas o QA Automation Engineer. Además, el nivel de 'Practicante' y 'Junior' es excluido del perfil. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468308195",
-    "title": "Técnico Supervisor de HVAC",
-    "employer": "COLD IMPORT • La Perfección del Frío",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468308195",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Técnico Supervisor de HVAC' se enfoca en sistemas de Aire Acondicionado, Ventilación y Refrigeración. No tiene relación alguna con el desarrollo de software, automatización de pruebas o QA Automation Engineer. Las responsabilidades y requisitos son completamente ajenos al perfil. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468249364",
-    "title": "Analista de Producto (Medios de Pago)",
-    "employer": "Atlantic City Casino & Sports",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468249364",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Analista de Producto (Medios de Pago)' se centra en la optimización del ecosistema de pagos, análisis de indicadores, gestión de proyectos y coordinación con proveedores en entornos de E-commerce, Fintech o banca. Si bien el dominio Fintech es de interés, el enfoque no es la automatización de pruebas de software. El perfil busca específicamente SDET, QA Automation Engineer o Test Automation Engineer. Las responsabilidades son de análisis de producto y gestión de proyectos, no de automatización de pruebas de QA. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466211197",
-    "title": "INSPECTOR JUNIOR DE HIGIENE OCUPACIONAL",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466211197",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Inspector Junior de Higiene Ocupacional' se enfoca en monitoreos ambientales y de higiene ocupacional, inspecciones y muestreos en campo, sin relación alguna con el desarrollo de software, automatización de pruebas o QA Automation Engineer. Además, el nivel 'Junior' es excluido del perfil. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466213176",
-    "title": "INSPECTOR JUNIOR DE HIGIENE OCUPACIONAL",
-    "employer": "SGS",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466213176",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Inspector Junior de Higiene Ocupacional' se enfoca en monitoreos ambientales y de higiene ocupacional, inspecciones y muestreos en campo, sin relación alguna con el desarrollo de software, automatización de pruebas o QA Automation Engineer. Además, el nivel 'Junior' es excluido del perfil. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466207373",
-    "title": "Ingeniero(a) Químico(a)",
-    "employer": "Management 360°",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466207373",
-    "reason": "Esta oferta NO encaja con el perfil. El rol de 'Ingeniero(a) Químico(a)' se enfoca en la industria química y procesos relacionados, sin ninguna conexión con el desarrollo de software, automatización de pruebas o QA Automation Engineer. Las responsabilidades y requisitos son completamente ajenos al perfil. Por lo tanto, esta oferta es excluida."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466216330",
-    "title": "DevOps Engineer – Docs as Code (banca)",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466216330",
-    "reason": "Esta oferta encaja con el perfil ya que busca un \"DevOps Engineer\" con experiencia en \"Docs as Code\", lo cual se alinea con un enfoque en automatización y desarrollo de software, aunque no sea directamente un rol de QA. La experiencia requerida en \"Git/GitHub\", \"GitHub Pages\", \"Automatización mediante GitHub Actions y/o pipelines CI/CD\" y \"Control de versiones\" son habilidades transferibles y valiosas para roles de automatización. La mención de \"banca\" como dominio es un plus. El rango salarial aproximado para un DevOps Engineer en Lima, Perú, con 3+ años de experiencia, podría estar entre S/ 6,000 y S/ 10,000, dependiendo de la complejidad del rol y la empresa.",
-    "salary_approximation": "S/ 6,000 - S/ 10,000"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4468250487",
-    "title": "Backend Developer Semi Senior",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4468250487",
-    "reason": "Esta oferta es relevante ya que se enfoca en \"Backend Developer\" y menciona experiencia en el \"sistema financiero\", lo cual se alinea con los dominios de interés. Si bien no es un rol de QA explícito, la experiencia requerida en \"Java 8/11/17/21, con Spring Framework, Spring Boot y Quarkus\", \"Integraciones con proveedores SaaS mediante APIs RESTful\", \"Ciclo de desarrollo seguro (SonarQube, OAuth 2.0)\", \"Servidores de aplicaciones Apache Tomcat, JBoss\", \"Base de datos: Redis, DB2, SQL Server\", \"Pruebas unitarias (JUnit, Mocks)\" y \"Git y Azure Repos\" son habilidades muy valoradas en un rol de SDET o QA Automation Engineer con enfoque backend. Las responsabilidades implican asegurar la calidad del código y las integraciones. El rango salarial aproximado para un Backend Developer Semi Senior en Lima, Perú, con 3+ años de experiencia, podría estar entre S/ 5,000 y S/ 8,000.",
-    "salary_approximation": "S/ 5,000 - S/ 8,000"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4466246040",
-    "title": "Desarrollador Full Stack Semi Senior — React Native + Java",
-    "employer": "Digital Compass Consulting",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4466246040",
-    "reason": "Este puesto es un fuerte candidato dado que busca un \"Desarrollador Full Stack Semi Senior\" que pueda trabajar en desarrollo mobile y backend, \"integrando APIs, trabajando con bases de datos y aplicando buenas prácticas de desarrollo\". El stack principal \"Java + Spring Boot para backend\" y \"APIs REST\" se alinea perfectamente con el perfil técnico y la preferencia por un \"Backend con enfoque en testing\". La experiencia en \"React Native CLI\" también cubre el aspecto mobile. La valoración de \"experiencia en banca, fintech o proyectos financieros\" es un gran plus. Las responsabilidades incluyen \"desarrollando y manteniendo aplicaciones, integrando APIs y trabajando con equipos de desarrollo bajo metodologías ágiles\". El rango salarial aproximado para un Desarrollador Full Stack Semi Senior en Lima, Perú, con el stack especificado, podría estar entre S/ 4,000 y S/ 6,500.",
-    "salary_approximation": "S/ 4,000 - S/ 6,500"
+    "id": "https://www.linkedin.com/jobs/view/4466610320",
+    "title": "TECH LEAD JAVA + IA",
+    "employer": "Ayesa Digital",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4466610320",
+    "reason": "Este rol de Tech Lead Java con enfoque en IA es muy relevante debido a la mención explícita de 'IA-Assisted Development' y la necesidad de 'gobernar el código generado'. Si bien es un rol de liderazgo técnico, la experiencia en arquitectura, buenas prácticas, código, pruebas (JUnit/TestNG), y DevOps (CI/CD) son fundamentales para un SDET senior. La responsabilidad de definir y evolucionar la arquitectura, así como asegurar la calidad de las integraciones, son directamente aplicables a la automatización de pruebas a nivel de sistema y API. El rango salarial aproximado para un Tech Lead con 8+ años de experiencia y este stack en Lima, Perú, sería de S/ 12,000 - S/ 20,000.",
+    "responsibilities": [
+      "Liderazgo Técnico Integral y definición de arquitectura.",
+      "Desarrollo Backend Java y APIs REST.",
+      "Gestión de bases de datos SQL y mensajería.",
+      "DevOps & Calidad (Git, Azure DevOps, SonarQube, JUnit).",
+      "AI-Assisted Development y gobernanza de código generado.",
+      "Mentoría y gobernanza (code reviews, pair programming)."
+    ]
   }
 ]
