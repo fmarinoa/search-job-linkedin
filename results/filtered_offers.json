@@ -1,51 +1,44 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4471220330",
-    "title": "Sr Software Testing Engineer",
-    "employer": "Rumbo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4471220330",
-    "reason": "Esta oferta es para un \"Sr Software Testing Engineer\" con un fuerte enfoque en automatización, lo cual se alinea perfectamente con el perfil. Se mencionan explícitamente responsabilidades como el diseño y automatización de pruebas de APIs y front-end, la gestión de frameworks de automatización y la integración en pipelines CI/CD. El sector \"banca\" y \"fintech\" son dominios de interés.  Si bien no se proporciona un rango salarial, para un puesto Senior en Lima, Perú, en una empresa importante del sector bancario, se esperaría un rango aproximado de S/ 7,000 - S/ 12,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4473036447",
-    "title": "AI QA ENGINEER",
-    "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473036447",
-    "reason": "La oferta de \"AI QA ENGINEER\" en el Banco de Crédito BCP encaja bien con el perfil, especialmente por el enfoque en \"AI\" y el rol de \"QA Engineer\". Aunque la descripción detallada no está disponible, el título sugiere una fuerte orientación a la automatización y calidad en un entorno de inteligencia artificial. El sector \"Banca\" es un dominio de interés. Para un puesto de \"AI QA Engineer\" en un banco importante como BCP en Lima, el rango salarial estimado sería de S/ 8,000 - S/ 14,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4470895601",
-    "title": "Especialista QA - Sector banca",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4470895601",
-    "reason": "La oferta de \"Especialista QA - Sector banca\" en Indra Group es relevante, especialmente por el sector de \"Banca\" y el rol de \"Especialista QA\". Aunque la descripción detallada no está disponible, se asume que un \"Especialista QA\" en una empresa de tecnología como Indra Group, para el sector bancario, implicaría un enfoque en automatización y calidad. El rango salarial aproximado para un puesto de especialista en Lima, Perú, podría ser de S/ 6,000 - S/ 10,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4473059391",
-    "title": "QA Automatizador ( Senior )",
+    "id": "https://www.linkedin.com/jobs/view/4473556801",
+    "title": "QA Automatizador / Senior",
     "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473059391",
-    "reason": "El título \"QA Automatizador (Senior)\" se ajusta directamente a las preferencias del perfil. \"Automatizador\" indica un enfoque claro en automatización. El rango salarial estimado para un \"Senior QA Automation Engineer\" en Lima, Perú, sería de S/ 7,000 - S/ 12,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4473556801",
+    "reason": "Esta oferta se alinea perfectamente con el perfil de un QA Automatizador Senior. Requiere 3+ años de experiencia en automatización de pruebas web, mobile y APIs, manejo de herramientas como Selenium, Playwright y Appium, y experiencia en proyectos financieros. Las responsabilidades incluyen el diseño e implementación de estrategias de automatización, desarrollo de scripts, automatización de pruebas funcionales, de integración, regresión y end-to-end, así como la integración en pipelines CI/CD. El dominio de Java y Python es un plus, y el enfoque en el sector financiero coincide con las preferencias. El rango salarial aproximado para un puesto Senior en Lima, Perú, y en una empresa como Synopsis S.A. en este sector, podría estar entre S/ 8,000 - S/ 12,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4473060816",
-    "title": "QA Automation",
-    "employer": "Atlantic City Casino & Sports",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473060816",
-    "reason": "El título \"QA Automation\" es un claro indicativo de que el rol se centra en la automatización de pruebas, lo cual es un requisito clave del perfil. Aunque la descripción no está disponible, el título es suficiente para considerar esta oferta. El rango salarial aproximado para un rol de \"QA Automation\" en Lima, Perú, podría variar entre S/ 5,000 - S/ 9,000 mensuales, dependiendo de la senioridad."
+    "id": "https://www.linkedin.com/jobs/view/4473280111",
+    "title": "QA Automation Core",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4473280111",
+    "reason": "La oferta es para un rol de 'QA Automation Core', lo cual indica un enfoque directo en automatización. Aunque la descripción es limitada, el título y el enfoque en automatización sugieren que podría alinearse con el perfil, especialmente si el 'Core' implica automatización de pruebas en los sistemas centrales. Se asume que la empresa IDM Technology opera en el sector tecnológico y podría tener un enfoque en las áreas de interés. Dada la especialización y el rol 'Core', el rango salarial aproximado para un puesto de este tipo en Lima, Perú, podría oscilar entre S/ 7,000 - S/ 11,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4470887362",
-    "title": "ANALISTA TEMPORAL DE CALIDAD Y CARGA DE DATOS",
-    "employer": "Pacífico Seguros",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4470887362",
-    "reason": "Si bien esta oferta es temporal y de \"Analista\", menciona explícitamente \"automatizar procesos\" y el uso de \"Python intermedio para automatización y tratamiento de datos\", lo cual es un punto a favor. El dominio \"Finanzas\" (Seguros) es relevante. Sin embargo, la experiencia requerida es de 1-2 años, lo cual podría ser un poco menor a los \"3+ años\" solicitados, y el rol es más de \"analista de datos\" con tareas de automatización, no puramente de \"QA Automation Engineer\". El rango salarial estimado para una posición temporal de este tipo podría ser de S/ 3,000 - S/ 5,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4471772674",
+    "title": "Software Engineer",
+    "employer": "Rumbo",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4471772674",
+    "reason": "Aunque el título es 'Software Engineer', la descripción menciona explícitamente la necesidad de desarrollar y mantener 'microservicios de alta disponibilidad dentro del ecosistema de interoperabilidad financiera TAPP', asegurando la 'estabilidad de servicios críticos en producción'. La experiencia requerida incluye 'banca, fintech, medios de pago, billeteras digitales y/o seguros (excluyente)', 'arquitecturas distribuidas y mensajería asíncrona', y 'prácticas de CI/CD'. Si bien el enfoque principal es desarrollo, la fuerte conexión con el sector financiero, la arquitectura de microservicios y la necesidad de estabilidad en producción sugieren que un perfil con experiencia en testing de backend y APIs, o un desarrollador con un fuerte enfoque en calidad de código y pruebas, podría encajar bien. Las responsabilidades de 'ownership' y 'resolución de incidencias críticas' implican una alta exigencia en la calidad del software. El rango salarial para un Software Engineer con más de 6 años de experiencia en Lima, Perú, y en el sector financiero podría estar entre S/ 9,000 - S/ 14,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4471205097",
-    "title": "Líder de Control Interno HUB Convenios",
-    "employer": "Banco Pichincha Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4471205097",
-    "reason": "Esta oferta encaja con el perfil debido a que se busca un líder en un área de control interno en una empresa del sector Banca y Finanzas. Aunque el título no menciona explícitamente 'QA Automation', el rol de 'Líder de Control Interno' en una institución financiera a menudo implica la supervisión y mejora de procesos, lo que puede incluir la automatización de pruebas para asegurar la calidad y el cumplimiento normativo. La experiencia en desarrollo ágil y conocimiento de sistemas en el sector financiero serían valiosos. Se prioriza esta oferta por ser de un sector relevante (Banca) y por la posibilidad de un rol de liderazgo, aunque las responsabilidades específicas de automatización de pruebas deberían ser confirmadas en la descripción detallada de la oferta. Se estima un rango salarial aproximado de S/ 7,000 - S/ 12,000 mensuales para un rol de liderazgo en Lima, Perú, en una institución bancaria."
+    "id": "https://www.linkedin.com/jobs/view/4473505471",
+    "title": "Implementation Engineer",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4473505471",
+    "reason": "Esta oferta encaja con el perfil debido a su enfoque en la implementación y soporte de aplicaciones de pagos bancarios, lo cual se alinea con el dominio de \"Banca\" y \"Finanzas\". Aunque no menciona explícitamente automatización de pruebas, la experiencia requerida en despliegues, gestión de releases, CI/CD con Jenkins y troubleshooting en entornos complejos (Kubernetes, OpenShift, AWS/Azure) sugiere una fuerte inclinación hacia la automatización de procesos de despliegue y operación. Las responsabilidades de desplegar, configurar y solucionar incidencias en aplicaciones bancarias requieren un conocimiento técnico profundo que a menudo se solapa con las habilidades de QA Automation. Se valora la experiencia en \"Banca\", \"Servicios Financieros\", \"Medios de Pago\" y \"Sistemas de Pagos en Tiempo Real\". El rango salarial aproximado para un Implementation Engineer con 3+ años de experiencia en Lima, Perú, y en una empresa como Tata Consultancy Services, se estima entre S/ 5,000 y S/ 8,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4471789951",
+    "title": "Programador full stack",
+    "employer": "Amaris Consulting  | Part of Mantu",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4471789951",
+    "reason": "Esta oferta es un match fuerte debido a los requisitos explícitos de \"demostrable experiencia con arquitectura de software, SQL y pruebas automatizadas\". Se alinea perfectamente con el perfil de \"QA Automation Engineer\" o \"Test Automation Engineer\" por su énfasis en \"pruebas unitarias, de integración, de contrato y end-to-end\", y el uso de herramientas como \"Playwright\" que está en el stack tecnológico. La experiencia requerida en \"Node.js: TypeScript, NestJS\" y/o \".NET: C#, ASP.NET Core\" se alinea con el stack tecnológico. Las responsabilidades incluyen \"implementar historias de usuario de extremo a extremo\", \"desarrollar servicios backend\", \"diseñar y mantener la persistencia basada en SQL\", y \"escribir pruebas automatizadas\". El dominio \"QA Automation\" es implícito en las responsabilidades y requisitos. El rango salarial aproximado para un Programador Full Stack Semi Senior (3-7 años de experiencia) en Lima, Perú, y en una empresa como Amaris Consulting, se estima entre S/ 6,000 y S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4471774499",
+    "title": "Programador full stack",
+    "employer": "Iafis Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4471774499",
+    "reason": "Esta oferta es un excelente match debido a la mención explícita de \"experiencia en pruebas unitarias y de integración automatizadas\" y \"revisión de código\", así como el requisito de \"experiencia y disposición para utilizar herramientas de inteligencia artificial aplicadas al desarrollo de software\". Aunque el título es \"Programador full stack\", las responsabilidades de \"Diseñar y desarrollar servicios y APIs REST y SOAP\", \"Construir y mantener componentes de bases de datos\", \"Elaborar y ejecutar pruebas unitarias y de integración, y corregir los defectos identificados\" y \"Participar en revisiones de código y aplicar buenas prácticas de ingeniería de software\" se alinean fuertemente con un enfoque en calidad y automatización. La experiencia requerida en \"Java y Spring Boot\", \"bases de datos relacionales (Oracle, PostgreSQL o SQL Server)\", y \"desarrollo frontend con Angular o React\" se ajusta al perfil. El dominio de \"Fintech\" es muy probable dado el enfoque en \"aplicaciones y servicios tecnológicos\" y la posible integración con sistemas financieros. El rango salarial aproximado para un Programador Full Stack Senior (5+ años de experiencia) en Lima, Perú, y en una empresa como Iafis Group, se estima entre S/ 7,000 y S/ 11,000 mensuales."
   }
 ]
