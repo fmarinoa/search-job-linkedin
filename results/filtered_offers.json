@@ -1,153 +1,82 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4472642550",
-    "title": "QA Automation Semi Sr",
-    "employer": "Softtek",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4472642550",
-    "reason": "Esta oferta se ajusta al perfil ya que busca un 'QA Automation Semi Senior' con más de 3 años de experiencia en automatización de pruebas UI y/o API, conocimientos en metodologías ágiles y experiencia deseable en el sector financiero/bancario, que son dominios de interés. Las responsabilidades principales incluyen la automatización de pruebas y el conocimiento de BDD. El rango salarial aproximado para un puesto Semi Senior en empresas como Softtek en Lima, Perú, estaría entre S/ 6,000 y S/ 9,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4472965410",
+    "title": "QA Performance Ssr",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4472965410",
+    "reason": "Esta oferta se ajusta al perfil debido a que busca un \"Analista QA Performance Ssr\" con experiencia en automatización de pruebas (Selenium, Rest Assured, Karate DSL, Serenity, Apium, Cucumber) y programación (Java/Javascript), así como en testing continuo (Jenkins). Las responsabilidades incluyen la estimación, priorización y planificación de actividades de prueba, diseño de estrategias y casos de prueba, automatización, ejecución y gestión de defectos. El dominio de Selenium y la experiencia con Jenkins son puntos clave que coinciden con el tech stack y las preferencias del perfil. El rango salarial aproximado para un puesto Senior en Lima, Perú, en una empresa de tecnología como Indra Group, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales.",
+    "salary_approx": "S/ 6,000 - S/ 9,000"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4473998709",
-    "title": "Software Developer Analyst - React Mobile",
-    "employer": "BBVA en Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473998709",
-    "reason": "Aunque el título principal es 'Software Developer Analyst', la descripción menciona explícitamente la necesidad de experiencia en 'DEVELOPER React Developer (Mobile & Web)' y la capacidad de 'diseñar y ejecutar estrategias de pruebas'. Además, se requieren conocimientos en bases de datos y metodologías ágiles. La experiencia deseada en el sector bancario (BBVA) y la mención de 'diseñar y ejecutar estrategias de pruebas' sugieren un enfoque que podría ser de interés para un SDET. El rango salarial aproximado para un puesto de este tipo en BBVA Perú sería entre S/ 5,500 y S/ 8,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4472584640",
+    "title": "Analista QA Automatizador(a) SemiSenior - Presencial",
+    "employer": "Ditech Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4472584640",
+    "reason": "Esta oferta es altamente relevante ya que busca un \"Analista QA Automatizador(a) SemiSenior\" con \"mínimo 3 años de experiencia en QA, con al menos 2 años en automatización de pruebas\". Menciona explícitamente herramientas como Selenium y Playwright, y la experiencia en pruebas de APIs REST y SOAP, lo cual se alinea perfectamente con el tech stack y las preferencias del perfil. Las responsabilidades incluyen el diseño, desarrollo y ejecución de pruebas automatizadas, el manejo de BDD (Gherkin), y la integración con GitHub, todos aspectos clave para un rol de QA Automation Engineer. El enfoque en automatización y la experiencia requerida superan los 3 años mínimos solicitados. El rango salarial aproximado para un puesto Semi-Senior en automatización de QA en Lima, Perú, en una empresa de tecnología, podría estar entre S/ 5,500 y S/ 8,500 mensuales.",
+    "salary_approx": "S/ 5,500 - S/ 8,500"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4469999680",
-    "title": "AUDITOR DE PROCESOS",
-    "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4469999680",
-    "reason": "Aunque el rol es de 'Auditor de Procesos', el Banco de Crédito BCP es una empresa líder en el sector financiero. Si bien no se enfoca directamente en automatización de pruebas, un rol de auditoría de procesos en el sector bancario puede implicar la revisión y validación de sistemas y flujos que podrían tener componentes de automatización. La experiencia en el sector bancario y la naturaleza de auditoría de procesos en una empresa de esta envergadura podría ser un punto de interés. El rango salarial aproximado para un rol de auditor de procesos en el BCP sería entre S/ 5,000 y S/ 7,500 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4472979735",
+    "title": "Coordinador/a de Calidad y Automatización",
+    "employer": "T-ID Solutions S.A.C.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4472979735",
+    "reason": "Esta oferta se ajusta al perfil al buscar un \"Coordinador/a de Calidad y Automatización\" con \"mínimo 5 años de experiencia en QA, testing o aseguramiento de calidad, incluyendo experiencia liderando equipos, proyectos o iniciativas de pruebas\" y \"experiencia práctica en automatización de pruebas\". El dominio de frameworks como Selenium, Playwright, y el conocimiento de Python/Java/JavaScript coinciden con el tech stack. Las responsabilidades incluyen liderar la evolución técnica de los procesos de calidad y pruebas, promoviendo estrategias de automatización, pruebas funcionales y no funcionales, y la integración de pruebas automatizadas dentro de los procesos CI/CD. La preferencia por \"QA Senior\" y \"Automation Engineer\" se ve reflejada en este puesto de coordinación con un enfoque técnico. El rango salarial aproximado para un rol de Coordinador/a en calidad y automatización en Lima, Perú, con la experiencia requerida, podría ser de S/ 7,000 a S/ 11,000 mensuales.",
+    "salary_approx": "S/ 7,000 - S/ 11,000"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4459017257",
-    "title": "SUBGTE DE IA GENERATIVA CUMPLIMIENTO Y ETICA",
-    "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4459017257",
-    "reason": "Este puesto, aunque enfocado en IA Generativa, Cumplimiento y Ética, en una entidad como el Banco de Crédito BCP, podría tener responsabilidades relacionadas con la validación y aseguramiento de la calidad de sistemas automatizados y la definición de mejores prácticas. La experiencia con plataformas low-code/no-code, Azure, Python y conocimiento en despliegue continuo (Jenkins, Azure DevOps) son habilidades transferibles. El sector bancario es un dominio clave. El rango salarial aproximado para este tipo de rol de Subgerente en el BCP estaría entre S/ 8,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4474592320",
+    "title": "Coordinador QA SAP - Temporal",
+    "employer": "Alicorp",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474592320",
+    "reason": "Aunque el título es \"Coordinador QA SAP\", la descripción detalla responsabilidades y requisitos que se alinean con el perfil. Se busca \"experiencia en Calidad de Software QA y Testing\", \"Gestión de pruebas de aplicaciones empresariales\", \"Certificación ISTQB Foundation Level o conocimientos equivalentes\", y \"Experiencia en pruebas APIS y automatizaciones\". Las responsabilidades incluyen definir y coordinar la estrategia y plan de pruebas (funcionales, de integración, E2E, UAT, regresión), dirigir y supervisar la ejecución de pruebas, gestionar defectos, riesgos y métricas, y \"Definir y promover la estrategia de automatización de pruebas\". Esto último es crucial y coincide con las preferencias de \"Backend con enfoque en testing\" y \"Automation Engineer\". Alicorp es una empresa importante en el sector de consumo masivo en Perú. El rango salarial aproximado para un puesto de Coordinador QA en una empresa como Alicorp, incluso temporal, podría estar entre S/ 6,500 y S/ 9,500 mensuales.",
+    "salary_approx": "S/ 6,500 - S/ 9,500"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4473789461",
-    "title": "Líder Técnico",
-    "employer": "Mibanco, banco de la Microempresa",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473789461",
-    "reason": "El rol de 'Líder Técnico' en Mibanco (sector bancario) puede implicar la supervisión de la calidad y arquitectura de sistemas. Si bien el título no es explícito en automatización de pruebas, la posición de liderazgo en un banco puede requerir la validación de soluciones desarrolladas, lo que podría incluir aspectos de testing. La experiencia en el dominio financiero es un plus. El rango salarial aproximado para un líder técnico en Mibanco sería entre S/ 7,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4474546430",
+    "title": "Custodio Técnico de Datos",
+    "employer": "Bluetab, an IBM Company",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474546430",
+    "reason": "Esta oferta, aunque con el título \"Custodio Técnico de Datos\", presenta requisitos y responsabilidades que tangencialmente se alinean con el perfil de \"Backend con enfoque en testing\" y \"QA Automation Engineer\" debido a su fuerte énfasis en \"validación y pruebas de datos\", \"procesos de certificación, validación y pruebas de datos\", \"automatización y optimización de procesos\" y \"experiencia en Gobierno y Calidad de Datos\". La empresa \"Bluetab, an IBM Company\" es un actor relevante en el sector tecnológico. Las responsabilidades de \"diseñar y ejecutar casos de prueba, documentando evidencias\" y \"realizar validación y certificación de datos\" tienen una fuerte conexión con las actividades de QA. El sector \"Finanzas\" (menciona Credicorp y seguros) es un dominio de interés. El rango salarial aproximado para un rol técnico con enfoque en datos y pruebas en una empresa como Bluetab (parte de IBM) en Lima, Perú, podría oscilar entre S/ 6,000 y S/ 9,000 mensuales.",
+    "salary_approx": "S/ 6,000 - S/ 9,000"
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4472631738",
-    "title": "LÍDER TÉCNICO (Avanzado en Back y Front: Node Js, React, Ruby on Rails)",
-    "employer": "Trabaja en UTP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4472631738",
-    "reason": "Aunque el rol es de 'Líder Técnico', la descripción enfatiza la experiencia en 'proyectos de desarrollo de productos digitales', 'metodologías ágiles', 'arquitectura Cloud (AWS)', 'alta concurrencia' y la necesidad de 'establecer métodos, procedimientos y estándares que serán usados en el desarrollo' y asegurar que 'el código fuente cumpla con los estándares y buenas prácticas', y 'Asegurarse de que el desarrollo cumpla con las especificaciones expresadas en el diseño'. La experiencia en Node.js y React son parte del tech stack. Si bien no es un rol de QA Automation, la naturaleza de liderazgo técnico con enfoque en calidad y estándares podría ser de interés. El rango salarial aproximado para un Líder Técnico con esta experiencia y en una institución educativa como UTP sería entre S/ 8,000 y S/ 12,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4474551511",
+    "title": "Desarrollador Java API Microservicios",
+    "employer": "Tata Consultancy Services",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474551511",
+    "reason": "Esta oferta es muy relevante para el perfil. Se busca un desarrollador con 5 años de experiencia en Java, Spring Boot, APIs REST y microservicios. Aunque el enfoque principal es desarrollo, la experiencia en pruebas unitarias y de integración con JUnit y Mockito se alinea con las habilidades de testing. La mención de metodologías ágiles y herramientas de testing de APIs como Postman también son puntos fuertes. El rol principal es diseñar, desarrollar y mantener aplicaciones, lo cual indirectamente se beneficia de un enfoque en calidad.",
+    "approximate_salary": "S/ 8,000 - S/ 12,000 (USD 2,200 - USD 3,300) mensuales, basado en experiencia y ubicación."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4385784084",
-    "title": "Analista Backend Javascript/Typescript",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4385784084",
-    "reason": "Esta oferta busca un 'Analista Backend Javascript/Typescript', que coincide con parte del tech stack (Node.js, TypeScript). Si bien no es un rol explícitamente de automatización de pruebas, un analista backend con enfoque en la calidad del código y la integración de servicios podría tener responsabilidades que se alineen con las de un SDET. La empresa Inetum trabaja en diversos sectores, lo que podría incluir Banca/Finanzas. El rango salarial aproximado para un Analista Backend con experiencia en Lima, Perú, y este tech stack sería entre S/ 5,000 y S/ 8,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4474187113",
+    "title": "Consultor Desarrollador para importante multinacional de Tecnología",
+    "employer": "Confidencial",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474187113",
+    "reason": "Este puesto se alinea con el perfil por su enfoque en desarrollo de software, integración de sistemas y consultoría técnica, con experiencia en .NET y C#. La participación en proyectos de autoservicio en sectores como banca y finanzas coincide con las preferencias del perfil. Aunque no es un rol de QA explícito, la capacidad de análisis y resolución de problemas es fundamental. Se valora experiencia en medios de pago y banca.",
+    "approximate_salary": "S/ 7,000 - S/ 11,000 (USD 1,900 - USD 3,000) mensuales, dado el perfil y la empresa."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4473926486",
-    "title": "Consultor de Tecnología",
-    "employer": "PwC Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473926486",
-    "reason": "Esta oferta de \"Consultor de Tecnología\" podría encajar parcialmente con el perfil si se enfoca en la parte de \"acompañamiento de proyecto tecnológico\" y \"entendimiento de procesos tecnológicos\", aunque no se centra directamente en QA Automation. La experiencia mínima de 3 años en roles como Analista o Consultor Funcional y Analista de Procesos es relevante. Sin embargo, la falta de mención explícita de tecnologías de testing y la descripción que se centra más en el aspecto funcional y de negocio, la hacen una opción secundaria. El rango salarial aproximado para un Consultor de Tecnología con 3+ años de experiencia en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales.",
-    "responsibilities": [
-      "Relevamiento y entendimiento de necesidades del cliente, documentación y acompañamiento de proyecto tecnológico.",
-      "Entendimiento de procesos tecnológicos y de negocio.",
-      "Identificar y proponer tecnología que resuelva problemas del negocio (cliente), no se incluye la implementación sino el enfoque conceptual.",
-      "Participar en proyectos en tareas distintas a la gestión como relevamiento de información, identificaciones de integraciones, elaboración de entregables en base a las propuestas.",
-      "Gestionar la relación con el cliente mediante buena comunicación, comprensión de las necesidades de los clientes."
-    ],
-    "salary_estimate": "S/ 5,000 - S/ 8,000 mensuales"
+    "id": "https://www.linkedin.com/jobs/view/4472958327",
+    "title": "Fullstack Engineer Ssr. (.NET + Angular)",
+    "employer": "Rumbo",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4472958327",
+    "reason": "Aunque el título es 'Fullstack Engineer', el rol se centra en mantener y evolucionar un sistema core de seguros para el cálculo de reservas y modelos actuariales, lo que implica un manejo intensivo de datos financieros y un enfoque en rendimiento y calidad. La experiencia requerida en .NET, PostgreSQL y la mención de 'calidad del código con pruebas unitarias y de integración' y 'code reviews' se alinean con un perfil de desarrollo con conciencia de calidad. La experiencia en el sector seguros y servicios financieros es un plus importante.",
+    "approximate_salary": "S/ 8,500 - S/ 13,000 (USD 2,300 - USD 3,500) mensuales, dada la experiencia requerida y el sector."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4473976240",
-    "title": "Java Developer Semisenior",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473976240",
-    "reason": "Esta oferta para \"Java Developer Semisenior\" no se alinea directamente con el perfil buscado, ya que se enfoca en desarrollo Java y no en automatización de pruebas. Aunque menciona experiencia en Spring Boot y Cloud (Azure), estas son tecnologías backend y no de QA. El perfil de \"Backend con enfoque en testing\" sí podría considerar desarrolladores backend, pero sin mención explícita de testing, no es una prioridad. El rango salarial aproximado para un Desarrollador Java Semisenior en Lima, Perú, con 2+ años de experiencia, sería de S/ 4,500 a S/ 7,000 mensuales.",
-    "responsibilities": [
-      "Desarrollo con Java.",
-      "Conocimientos en Spring Boot y comprensión del ecosistema Spring.",
-      "Experiencia con Cloud (Azure).",
-      "Nociones en el funcionamiento de microservicios y principios de arquitectura limpia.",
-      "Interés y bases teóricas en programación funcional o reactiva.",
-      "Manejo básico de bases de datos relacionales (SQL Server) y consultas esenciales.",
-      "Familiaridad con el uso de Git para el control de versiones.",
-      "Comprensión de los principios SOLID y buenas prácticas de Clean Code."
-    ],
-    "salary_estimate": "S/ 4,500 - S/ 7,000 mensuales"
+    "id": "https://www.linkedin.com/jobs/view/4472851001",
+    "title": "Desarrollador Java Microservicios",
+    "employer": "NTT DATA Europe & Latam",
+    "location": "Lima, Peru",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4472851001",
+    "reason": "Esta oferta es para un Desarrollador Java con más de 3 años de experiencia en Java 8+, Spring Boot y arquitectura de microservicios. Si bien el enfoque principal es el desarrollo, se valoran 'buenas prácticas y principios SOLID' y 'interés en tecnologías de reactividad', lo que sugiere una orientación hacia la robustez y calidad del código. La modalidad híbrida y la empresa líder en tecnología la hacen atractiva. Dada la experiencia requerida y el tipo de empresa, se estima un rango salarial competitivo.",
+    "approximate_salary": "S/ 7,500 - S/ 11,500 (USD 2,000 - USD 3,100) mensuales, basado en la experiencia y la empresa."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4472630073",
-    "title": "Analista Middle - SAP business one",
-    "employer": "Experis Peru",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4472630073",
-    "reason": "Esta oferta de \"Analista Middle - SAP business one\" no se alinea con el perfil de QA Automation, ya que se centra en la gestión y optimización de procesos dentro de SAP Business One, desarrollo de soluciones y automatización de procesos en un contexto de negocio y no de testing. La experiencia mínima de 3 años trabajando con SAP Business One es específica de ese sistema y no de las tecnologías de testing requeridas. El rango salarial aproximado para un Analista Middle con 3+ años de experiencia en Lima, Perú, podría ser de S/ 4,000 a S/ 6,500 mensuales.",
-    "responsibilities": [
-      "Liderar iniciativas de transformación digital y mejora continua sobre SAP Business One.",
-      "Gestionar y optimizar procesos de compras, logística, almacenamiento y operaciones comerciales.",
-      "Participar en la automatización de procesos y evolución tecnológica del negocio.",
-      "Administrar y supervisar proveedores tecnológicos y partners SAP.",
-      "Brindar soporte funcional y técnico relacionado a módulos SAP B1.",
-      "Participar en definiciones de arquitectura SAP y entornos multicloud.",
-      "Coordinar requerimientos con usuarios clave y áreas operativas.",
-      "Asegurar la correcta integración y continuidad de los procesos tecnológicos.",
-      "Participar en proyectos de migración y administración cloud (Huawei Cloud / Azure)."
-    ],
-    "salary_estimate": "S/ 4,000 - S/ 6,500 mensuales"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4462514525",
-    "title": "Kernel Developer - KernelCare ELS team (remote work, LATAM)",
-    "employer": "CloudLinux",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4462514525",
-    "reason": "Esta oferta de \"Kernel Developer\" se enfoca en el desarrollo y parcheo del kernel de Linux, lo cual está muy alejado del perfil de QA Automation Engineer. Las tecnologías y responsabilidades son completamente diferentes a las requeridas. El rango salarial para un Kernel Developer con experiencia en LATAM podría ser considerablemente alto, posiblemente entre USD 4,000 y USD 7,000 mensuales, dependiendo de la experiencia específica y la negociación.",
-    "responsibilities": [
-      "Investigar upstream security and bug fixes y identificar sus dependencies.",
-      "Backport Linux kernel patches a distribuciones basadas en RPM y Debian.",
-      "Resolver conflictos causados por diferencias entre el kernel upstream y el target.",
-      "Construir y reconstruir paquetes source y binarios del kernel en entornos reproducibles.",
-      "Validar kernels parcheados a través de tests enfocados, checks de compilación y análisis de regresión.",
-      "Mejorar flujos de preparación, compilación y validación de parches con Python, Go, o Shell.",
-      "Utilizar herramientas de desarrollo agentic de manera responsable y verificar código generado, análisis y documentación.",
-      "Documentar decisiones técnicas y participar en code review con el equipo de kernel."
-    ],
-    "salary_estimate": "USD 4,000 - USD 7,000 mensuales"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4472186670",
-    "title": "Desarrollador Backend Semi Sr.",
-    "employer": "Sermaluc",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4472186670",
-    "reason": "Esta oferta de \"Desarrollador Backend Semi Sr.\" no se alinea directamente con el perfil de QA Automation Engineer. Aunque busca experiencia en desarrollo backend con .NET y APIs REST, y menciona AWS, falta el enfoque en automatización de pruebas y las tecnologías específicas de testing (Selenium, Playwright, Appium). La mención de \"Backend con enfoque en testing\" en el perfil podría dar una ligera relevancia si se buscara un desarrollador que también escriba pruebas, pero la oferta actual no lo especifica. El rango salarial aproximado para un Desarrollador Backend Semi Sr. con 2+ años de experiencia en Lima, Perú, podría estar entre S/ 5,000 y S/ 8,000 mensuales.",
-    "responsibilities": [
-      "Desarrollar y mantener APIs REST y servicios backend.",
-      "Implementar lógica de negocio e integración con sistemas corporativos.",
-      "Participar en el desarrollo de soluciones sobre .NET y AWS.",
-      "Diseñar y optimizar consultas SQL.",
-      "Participar en despliegues, soporte técnico y resolución de incidencias.",
-      "Aplicar buenas prácticas de desarrollo, seguridad y versionamiento.",
-      "Participar en ceremonias ágiles y mejora continua."
-    ],
-    "salary_estimate": "S/ 5,000 - S/ 8,000 mensuales"
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4472646529",
-    "title": "Software Engineer Java - Azure Cloud",
-    "employer": "Private sector",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4472646529",
-    "reason": "Esta oferta de \"Software Engineer Java - Azure Cloud\" se enfoca en el desarrollo backend con Java, Spring Boot y Azure, lo cual no coincide con el perfil de QA Automation Engineer. A pesar de mencionar \"pruebas automatizadas (unitarias/integrales)\" y \"revisiones de código\", esto se refiere a la calidad del código de desarrollo, no a la automatización de pruebas de software como se busca en el perfil. El rango salarial aproximado para un Software Engineer Java con 5+ años de experiencia en Lima, Perú, podría estar entre S/ 7,000 y S/ 12,000 mensuales.",
-    "responsibilities": [
-      "Diseñar y desarrollar servicios backend escalables utilizando Java y Spring Boot / Spring Cloud.",
-      "Implementar APIs RESTful y arquitecturas de microservicios robustas, seguras y eficientes.",
-      "Optimizar el rendimiento y la disponibilidad de todas las aplicaciones en producción.",
-      "Garantizar la calidad del código mediante pruebas automatizadas (unitarias/integrales) y revisiones de código (code reviews).",
-      "Automatizar procesos participando activamente en flujos de CI/CD y ceremonias ágiles (Scrum)."
-    ],
-    "salary_estimate": "S/ 7,000 - S/ 12,000 mensuales"
+    "id": "https://www.linkedin.com/jobs/view/4472835591",
+    "title": "Automation Developer con enfoque en IA",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4472835591",
+    "reason": "Esta oferta encaja con el perfil debido a su enfoque en automatización, que es un requisito clave. Aunque se menciona IA, el rol de \"Automation Developer\" sugiere responsabilidades relacionadas con la creación y mantenimiento de sistemas automatizados, lo cual se alinea con \"Software Development Engineer in Test (SDET)\" y \"QA Automation Engineer\". La experiencia en desarrollo ágil es un plus.  Principales responsabilidades probablemente incluirán el desarrollo y la implementación de soluciones de automatización, posiblemente integrando IA para mejorar procesos de testing.  El rango salarial aproximado para un rol de este tipo en Lima, Perú, para una empresa como NTT DATA, podría estar entre S/ 7,000 y S/ 12,000 mensuales, dependiendo de la experiencia específica y el nivel de seniority."
   }
 ]
