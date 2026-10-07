@@ -1,100 +1,86 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4475894899",
-    "title": "QA Engineer Semi Senior - Banca",
+    "id": "https://www.linkedin.com/jobs/view/4474422359",
+    "title": "QA Engineer",
     "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4475894899",
-    "reason": "La oferta coincide con el perfil dado que busca un 'QA Engineer Semi Senior' con al menos 3 años de experiencia en QA y Testing de Software, específicamente en testing de aplicaciones y APIs REST. Se valora experiencia en banca y conocimiento en automatización de pruebas, lo cual se alinea con el perfil. Las responsabilidades incluyen análisis de requerimientos, diseño y ejecución de pruebas funcionales, de integración, regresión y APIs, así como gestión de incidencias. El perfil Senior y el dominio 'Banca' son puntos clave. El rango salarial aproximado para un puesto Semi Senior en Lima, Perú, con estas características podría oscilar entre S/ 4500 - S/ 7000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474422359",
+    "reason": "Esta oferta se alinea con el perfil ya que busca un QA Engineer con experiencia en testing de software y metodologías ágiles. Se menciona experiencia en APIs y deseable experiencia en automatización, lo cual es un punto fuerte para el perfil. El dominio de Banca y Fintech es un plus. Se valorará la experiencia con herramientas de automatización y procesos CI/CD. Si bien no se especifica un rango salarial, para un puesto de QA Engineer con 3+ años de experiencia en Lima, Perú, un rango aproximado podría ser de S/ 5,000 a S/ 8,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4469784060",
-    "title": "QA AUTOMATION",
-    "employer": "QDS - Quality & Development Software SAC",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4469784060",
-    "reason": "Esta oferta se alinea directamente con el perfil de 'QA AUTOMATION' o 'QA Automation Engineer'. Se requiere una experiencia mínima de 4 años automatizando, con herramientas indispensables como Playwright y Selenium, y conocimientos en Jmeter y Javascript. Las responsabilidades incluyen generación de casos de prueba y ejecución de pruebas con IA. El enfoque en automatización y las tecnologías mencionadas son un match perfecto. Dado el nivel de experiencia y la naturaleza del puesto, el rango salarial aproximado en Lima, Perú, podría ser de S/ 5000 - S/ 8000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4463068080",
-    "title": "QA Automation / Automatizador",
-    "employer": "Coforge",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4463068080",
-    "reason": "La oferta es para un 'Senior y Mid QA Automation' y se ajusta perfectamente al perfil, ya que busca experiencia en automatización de pruebas funcionales y de regresión para aplicaciones web y procesos bancarios. Las responsabilidades clave incluyen diseño y ejecución de pruebas End-to-End (E2E), automatización de validaciones sobre APIs y procesos batch, uso de Playwright o Selenium, y experiencia en banca. El perfil 'Senior' y el dominio 'Banca' son muy relevantes. El rango salarial para un puesto Senior en Lima, Perú, podría estar entre S/ 5500 - S/ 9000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4475898535",
-    "title": "Analista de Integraciones/Data",
-    "employer": "Powerpay",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4475898535",
-    "reason": "Aunque el título no es explícitamente 'QA Automation Engineer', la descripción menciona 'Experiencia en automatización de pruebas para integraciones (ej. Newman, Jest, Mocha)' y 'Dar soporte a pruebas funcionales y técnicas de APIs'. Esto se alinea con el perfil técnico del candidato. Además, la empresa opera en el sector 'Fintech' y se buscan conocimientos en lenguajes de programación como Java, Python, C# o VB.Net, lo cual es compatible. Las responsabilidades incluyen dar soporte a integraciones, pruebas de APIs y diseño/implementación de dashboards. El rango salarial aproximado para un puesto con estas características en Lima, Perú, podría ser de S/ 4000 - S/ 6500 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4475852670",
-    "title": "AI RISK ENGINEER",
-    "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4475852670",
-    "reason": "Este puesto, si bien no es un rol de QA Automation puro, se enfoca en la validación de soluciones de Inteligencia Artificial, lo cual requiere un pensamiento analítico y metodológico similar al de QA. Se menciona 'garantizando su solidez metodológica, confiabilidad, seguridad y cumplimiento regulatorio'. Se requieren 4 años como Data Scientist, desarrollo de software, AI Developer o similar, y experiencia en diseño e implementación de soluciones de IA. La empresa es 'Banca' y la ubicación es Lima, Perú. El rol de 'validación independiente' tiene similitudes con el enfoque de aseguramiento de calidad. El rango salarial para un puesto de Ingeniero de Riesgos de IA en el BCP, con la experiencia requerida, podría estar entre S/ 6000 - S/ 10000+ mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4474365029",
-    "title": "AUDITOR DE PROCESOS TI",
-    "employer": "Banco de Crédito BCP",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4474365029",
-    "reason": "Esta oferta se ajusta al perfil debido a que, si bien el título es 'Auditor de Procesos TI', la descripción menciona 'Revisión de riesgos y controles asociados a las aplicaciones críticas' y 'Conocimiento en lenguaje de programación Deseable Python'. Si bien no es un rol de desarrollo directo, el enfoque en controles de TI y el deseo de conocimiento en Python pueden ser áreas de interés para un perfil con experiencia en automatización y desarrollo ágil. El rango salarial aproximado para un puesto de Auditor TI en Lima, Perú, con experiencia mínima de 1.5 años, podría estar entre S/4000 y S/7000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4473698561",
-    "title": "Java Backend Developer Semi Senior | Spring Boot | Microservicios",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473698561",
-    "reason": "Esta oferta es un excelente ajuste. El título 'Java Backend Developer Semi Senior' con enfoque en 'Spring Boot | Microservicios' y la descripción que menciona 'Análisis, diseño, desarrollo y evolución de soluciones de software', 'experiencia desarrollando aplicaciones Backend con Java', 'APIs REST', 'arquitecturas de microservicios', y la mención de 'experiencia aplicando buenas prácticas de desarrollo, patrones de diseño y principios SOLID' y 'experiencia trabajando con equipos multidisciplinarios y metodologías ágiles' se alinean fuertemente con el perfil. Aunque no es un rol de SDET explícito, la experiencia en desarrollo backend con enfoque en buenas prácticas y el uso de herramientas de testing (JUnit, Mockito) son muy relevantes. El rango salarial aproximado para un rol Semi Senior en Lima, Perú, con estas características, podría estar entre S/7000 y S/12000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4474620977",
-    "title": "Coordinador de Gestión Regulatoria y Producto – Medios de Pago",
+    "id": "https://www.linkedin.com/jobs/view/4475152138",
+    "title": "QA Funcional",
     "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4474620977",
-    "reason": "Aunque el título principal es 'Coordinador de Gestión Regulatoria y Producto', la descripción menciona 'Ingeniería de Sistemas o carreras afines', 'experiencia mínima de 2 años en gestión de productos, procesos, proyectos, operaciones o servicios dentro del sector financiero o entornos similares', y 'analizar procesos, indicadores y requerimientos, identificando impactos y oportunidades de mejora'. El dominio en 'medios de pago, pagos digitales, transferencias inmediatas o regulación financiera' es un punto fuerte, y el sector financiero se alinea con las preferencias. El enfoque en procesos y mejora continua puede ser de interés. El rango salarial aproximado para este tipo de rol en Lima, Perú, podría estar entre S/5000 y S/9000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4475152138",
+    "reason": "Aunque la oferta se enfoca en \"QA Funcional\" y pide \"2 años de experiencia en pruebas funcionales para aplicaciones móviles\", también menciona \"Experiencia en pruebas funcionales para servicios backend (APIS), uso de herramientas como Postman, swagger entre otras. (Obligatorio)\" y conocimiento de \"infraestructura en la nube como AWS Amazon\". Estos puntos son relevantes para el perfil, especialmente la experiencia en APIs. Sin embargo, la falta de mención explícita a automatización y el enfoque en pruebas funcionales la hacen menos prioritaria que otras. El rango salarial para un puesto de QA Funcional con 2-3 años de experiencia en Lima, Perú, podría estar entre S/ 4,500 y S/ 6,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4473685130",
-    "title": "Team Lead",
-    "employer": "Rumbo",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473685130",
-    "reason": "Esta oferta se ajusta al perfil por su enfoque en liderar 'squads a cargo del desarrollo y la operación de aplicaciones críticas del banco, bajo metodología ágil'. La descripción menciona 'Serás el guardián técnico de tus productos: defines su roadmap, aseguras su estabilidad y gestionas personas, presupuesto y proveedores', y 'Impulsar prácticas de agile testing (BDD, TDD, ATDD)'. La experiencia de '+5 años de experiencia liderando equipos de tecnología y desarrollo de software', 'experiencia liderando squads ágiles con responsabilidad sobre aplicaciones críticas en producción', y 'Conocimiento del ciclo de desarrollo de software y buenas prácticas (TDD, BDD, refactoring continuo, clean code)' son muy relevantes. El sector bancario es un dominio preferido. El rango salarial aproximado para un Team Lead con esta experiencia en Lima, Perú, podría estar entre S/10000 y S/16000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4475150254",
+    "title": "QA Funcional",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4475150254",
+    "reason": "Similar a la oferta anterior, esta se centra en \"QA Funcional\" y pruebas móviles, pero incluye la experiencia obligatoria en pruebas de servicios backend (APIs) y conocimiento deseable de AWS. La ausencia de mención explícita a automatización y el enfoque principal en pruebas funcionales la hacen menos prioritaria. El rango salarial para un puesto de QA Funcional con 2-3 años de experiencia en Lima, Perú, podría estar entre S/ 4,500 y S/ 6,500 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4476120816",
-    "title": "Líder Técnico Backend / Integraciones",
-    "employer": "CSTI Corp",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4476120816",
-    "reason": "Esta oferta es un excelente ajuste. El título 'Líder Técnico Backend / Integraciones' y la descripción que enfatiza 'liderar la coordinación técnica de equipos internos y partners externos, asegurando la correcta evolución de las soluciones, la estabilidad operativa y la integración con el ecosistema tecnológico de la compañía' con una dedicación de 'aproximadamente el 30% del tiempo a actividades de programación' se alinean muy bien. Los requisitos de 'Mínimo 5 años de experiencia comprobada en desarrollo Backend con .NET Core', 'Experiencia sólida en implementación de soluciones Cloud. Conocimientos de AWS altamente deseables', y 'Experiencia trabajando con arquitecturas de integración' son fuertes indicadores. El dominio .NET es parte de la tech stack del perfil. El rango salarial aproximado para un Líder Técnico con esta experiencia y responsabilidades en Lima, Perú, podría estar entre S/9000 y S/15000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4455064185",
+    "title": "Senior QA Engineer | Test Automation",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4455064185",
+    "reason": "Esta oferta es una coincidencia excelente. Busca un \"Senior QA Engineer | Test Automation\" con experiencia en \"Selenium, Appium, Cucumber, Behave\", lenguajes como \"Python\", y experiencia en \"Mobile, Servicios (APIs) y Web\". Además, se menciona explícitamente \"Experiencia en el sector banca\". Todos estos puntos se alinean perfectamente con el perfil. Dada la senioridad y el tipo de empresa, el rango salarial para este puesto en Lima, Perú, podría oscilar entre S/ 7,000 y S/ 10,000 mensuales o más."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4475832818",
-    "title": "Técnico Líder",
-    "employer": "Sermaluc Perú",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4475832818",
-    "reason": "Esta oferta es un fuerte candidato. El título 'Técnico Líder' y la descripción que menciona 'Experiencia Líder técnico: Mínimo 3 años de experiencia comprobada en el rol de Líder Técnico' y 'Experiencia Backend: Mínimo 6 años de experiencia comprobada en desarrollo backend utilizando .NET Core' son directamente relevantes. Además, se menciona 'Cloud Computing: Experiencia sólida en la implementación de soluciones en la Nube (AWS es altamente deseable)' y 'Integraciones: Experiencia comprobada trabajando con ecosistemas complejos y arquitecturas de integración (especialmente valorado el conocimiento de integraciones con Salesforce)'. El dominio .NET y AWS coinciden con la tech stack. La experiencia en e-commerce y/o retail también es un plus. El rango salarial aproximado para un Técnico Líder con esta experiencia y responsabilidades en Lima, Perú, podría estar entre S/9000 y S/14000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4469760392",
+    "title": "QA Engineer",
+    "employer": "Softtek",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4469760392",
+    "reason": "Esta oferta busca un \"QA Engineer\" con \"Experiencia 4 años Analista QA\" y específicamente \"2+ años validando soluciones con IA, Machine Learning o Generative AI\". Si bien no menciona directamente automatización, la validación de soluciones complejas con IA implica un nivel de análisis técnico y potencialmente scripting que podría ser relevante. La experiencia en sistemas regulados es un plus. Sin embargo, la falta de mención explícita a herramientas de automatización la hace menos prioritaria que otras. El rango salarial para un QA Engineer con 4 años de experiencia en Lima, Perú, podría ser de S/ 6,000 a S/ 9,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4475825226",
-    "title": "Especialista en integración (Semi Senior y Senior)",
+    "id": "https://www.linkedin.com/jobs/view/4475137712",
+    "title": "QA Lead Engineer",
+    "employer": "NTT DATA Europe & Latam",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4475137712",
+    "reason": "Esta oferta es para \"QA Lead Engineer\" con \"Mínimo 4 años de experiencia liderando equipos de QA\" y \"Experiencia en Web, Mobile y APIs / Servicios\". Aunque el enfoque es de liderazgo, la experiencia requerida en Web, Mobile y APIs es muy relevante para el perfil. La experiencia liderando equipos puede ser un plus para un rol senior. El dominio de Banca/Finanzas/Fintech no está especificado, pero las habilidades técnicas son sólidas. El rango salarial para un QA Lead Engineer con 4+ años de experiencia en Lima, Perú, podría estar entre S/ 7,500 y S/ 11,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4476382653",
+    "title": "Desarrollador Java ATM",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4476382653",
+    "reason": "Esta oferta busca un \"Desarrollador Java ATM\". Aunque el título se enfoca en desarrollo, la mención de \"ATM\" y \"Indra Group\" (una empresa con proyectos en finanzas) sugiere que podría haber algún componente de testing o validación involucrado, especialmente en sistemas transaccionales. Sin embargo, el rol principal es de desarrollo Java. Sin más detalles sobre las responsabilidades de testing, es una coincidencia marginal. Si tuviera un enfoque en testing de sistemas ATM, sería más relevante. El rango salarial para un Desarrollador Java con experiencia en Lima, Perú, podría ser de S/ 5,000 a S/ 8,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4474406567",
+    "title": "Desarrollador Java ATM",
+    "employer": "Indra Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474406567",
+    "reason": "Similar a la oferta anterior, esta busca un \"Desarrollador Java ATM\" en \"Indra Group\". El título se centra en desarrollo, pero el contexto de \"ATM\" y \"Indra Group\" podría implicar trabajo en sistemas financieros y transaccionales, donde el testing es crucial. Sin embargo, la descripción no menciona responsabilidades de testing o automatización. Es una coincidencia débil debido a la falta de enfoque en QA. El rango salarial para un Desarrollador Java con experiencia en Lima, Perú, podría ser de S/ 5,000 a S/ 8,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4474418877",
+    "title": "Desarrollador Backend Node.js – Backstage ( Semi Senior )",
     "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4475825226",
-    "reason": "Esta oferta es muy relevante. El título 'Especialista en integración (Semi Senior y Senior)' y la descripción que busca 'profesionales con experiencia en el desarrollo, implementación y mantenimiento de soluciones de integración empresarial utilizando tecnologías IBM, capaces de conectar aplicaciones, exponer APIs y garantizar la comunicación eficiente entre sistemas críticos del negocio' son muy prometedoras. Los requisitos de 'Experiencia mínima de 2 años en posiciones relacionadas con integración de aplicaciones' y la experiencia específica en 'IBM Integration Bus (IIB/BUS) v10', 'IBM App Connect Enterprise (ACE) v11', 'IBM DataPower', 'IBM API Connect', y la experiencia en 'servicios REST y SOAP' son puntos clave. El sector financiero, banca, seguros o telecomunicaciones son deseables, lo cual se alinea con las preferencias. El rango salarial aproximado para un Especialista en Integración Semi Senior/Senior en Lima, Perú, podría estar entre S/7000 y S/13000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474418877",
+    "reason": "Esta oferta se ajusta perfectamente al perfil ya que requiere experiencia sólida en desarrollo backend con Node.js y TypeScript, así como experiencia en APIs REST, integración de servicios y sistemas. Además, el rol se enfoca en la construcción de soluciones para la automatización tecnológica, lo cual está implícito en las preferencias del perfil. La experiencia previa trabajando con Backstage y el desarrollo de plugins son un plus. Se valora la capacidad analítica, resolución de problemas, proactividad y autonomía, características deseables para un rol Senior. El rango salarial aproximado para un puesto Semi Senior en Lima, Perú, con estas tecnologías y responsabilidades podría estar entre S/ 6,000 y S/ 9,000 mensuales, dependiendo de la experiencia específica y negociaciones."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4462953822",
-    "title": "Arquitecto de Software",
-    "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4462953822",
-    "reason": "Esta oferta es un excelente ajuste. El título 'Arquitecto de Software – Cloud Native' y la descripción que busca un profesional 'apasionado/a por la arquitectura de software y las tecnologías Cloud Native, con capacidad para diseñar soluciones robustas y escalables, pero también con experiencia hands-on en desarrollo backend' se alinean directamente con el perfil 'Backend con enfoque en testing' y la experiencia en desarrollo ágil. Los requisitos como 'Dominio de arquitecturas de microservicios, APIs REST y/o gRPC y Event-Driven Architecture', 'Experiencia real y hands-on en programación backend en al menos un lenguaje', 'Experiencia implementando soluciones con Kubernetes, Helm y Docker', y 'Conocimientos de observabilidad en arquitecturas distribuidas' son muy valiosos. El dominio de AWS es un plus. El rango salarial aproximado para un Arquitecto de Software en Lima, Perú, podría estar entre S/12000 y S/20000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4474987304",
+    "title": "React Native Developer",
+    "employer": "NTT DATA, Inc.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474987304",
+    "reason": "Aunque el perfil principal es SDET/QA Automation, esta oferta es relevante por su mención explícita de 'Conocimientos en implementación de herramientas de testing para aplicaciones móviles React Native, como Jest, Detox, o Appium'. Esto indica una fuerte inclinación hacia la calidad y la automatización, aspectos clave del perfil. La experiencia requerida es de mínimo 3 años en desarrollo móvil con React Native, lo cual es un buen punto de partida. La inclusión de 'servicios cloud' y 'arquitectura de software' también suma puntos. El rango salarial aproximado para un React Native Developer Senior en Lima, Perú, con esta experiencia y responsabilidades podría oscilar entre S/ 7,000 y S/ 10,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4473666739",
-    "title": "IA Engineer",
-    "employer": "Indra Group",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4473666739",
-    "reason": "Esta oferta no encaja directamente con el perfil de QA Automation Engineer, ya que el rol principal es de Ingeniero de IA. Sin embargo, se menciona experiencia en el desarrollo de APIs y microservicios, lo cual podría tener alguna intersección con las pruebas de APIs. La experiencia requerida es de 2 a 4 años, lo cual es menor a los 3+ años solicitados en el perfil. Las responsabilidades principales giran en torno al desarrollo de soluciones de IA Generativa, no en automatización de pruebas. No se menciona stack tecnológico relevante para QA Automation. El rango salarial aproximado para este tipo de rol en Lima, Perú, estaría entre S/ 6,000 y S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4476352838",
+    "title": "Desarrollador Kotlin",
+    "employer": "Grupo CINTE",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4476352838",
+    "reason": "Si bien se enfoca en desarrollo Kotlin, la oferta menciona explícitamente 'Conocimientos de CI/CD y herramientas como Jenkins, Azure DevOps o SonarQube' y 'Experiencia con JUnit, Mockito o MockK y pruebas unitarias/integración'. Estos son elementos cruciales para un rol de automatización. La experiencia como Desarrollador Kotlin Senior, con dominio de Coroutines, Flow, Clean Architecture, SOLID, Design Patterns, Android SDK, Jetpack Compose y APIs REST, proporciona una base sólida para aplicar principios de testing y automatización. El rango salarial aproximado para un Desarrollador Kotlin Senior en Lima, Perú, podría estar entre S/ 7,000 y S/ 11,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4474424535",
+    "title": "Backend Semi Senior Java/AWS [Banca]",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4474424535",
+    "reason": "Esta oferta es relevante por el dominio del sector 'Banca', que está en las preferencias del perfil. Aunque el título es Backend Semi Senior Java/AWS, las empresas del sector financiero a menudo tienen equipos de QA Automation robustos y buscan perfiles que entiendan el ciclo de vida del desarrollo y las necesidades de calidad. La experiencia en Java y AWS son tecnologías mencionadas en el perfil. Se asume que este rol podría tener responsabilidades relacionadas con la calidad y testing de los servicios backend en el sector financiero. El rango salarial aproximado para un Backend Semi Senior Java/AWS en Lima, Perú, podría estar entre S/ 6,500 y S/ 9,500 mensuales."
   }
 ]
