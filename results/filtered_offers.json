@@ -1,58 +1,100 @@
 [
   {
-    "id": "https://www.linkedin.com/jobs/view/4205304186",
+    "id": "https://www.linkedin.com/jobs/view/4237974439",
     "title": "QA Automatizador",
     "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4205304186",
-    "reason": "Esta oferta encaja con el perfil ya que busca un 'QA Automatizador', que se alinea con las preferencias de 'SDET' y 'Automation Engineer'. La empresa Inetum es una importante consultora de servicios digitales con presencia global, lo que la convierte en una empresa relevante en el sector. Si bien la descripción específica no detalla responsabilidades ni rango salarial, para un rol de QA Automatizador en Lima, Perú, con la experiencia requerida (3+ años), se estima un rango salarial de S/ 5,000 a S/ 8,000 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4237974439",
+    "reason": "La oferta se alinea al perfil por su enfoque en \"QA Automatizador\". Aunque no se especifican tecnologías concretas, el rol de automatización es clave. El rango salarial aproximado para un rol de QA Automatizador en Lima, Perú, considerando una empresa como Inetum, podría estar entre S/ 4,000 y S/ 7,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4479038740",
-    "title": "QA Automatizador Senior",
-    "employer": "Synopsis S.A.",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4479038740",
-    "reason": "Esta oferta es una excelente coincidencia, ya que busca un 'QA Automatizador Senior' con experiencia en 'Web, Mobile y APIs', lo cual está directamente relacionado con el perfil. Synopsis S.A. es una empresa relevante en el sector tecnológico. Las responsabilidades incluyen diseñar, implementar y ejecutar estrategias de automatización, desarrollar scripts automatizados para web, móvil y APIs, y automatizar pruebas funcionales, de integración y regresión. Dado el nivel Senior y las tecnologías mencionadas, el rango salarial estimado para Lima, Perú, sería de S/ 6,000 a S/ 10,000 mensuales."
+    "id": "https://www.linkedin.com/jobs/view/4278641052",
+    "title": "QA Analyst",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4278641052",
+    "reason": "El título \"QA Analyst\" es genérico, pero dado que Inetum es una empresa de servicios tecnológicos y el perfil busca roles de automatización, existe una alta probabilidad de que este puesto incluya responsabilidades de automatización de pruebas. El rango salarial aproximado para un QA Analyst en Lima, Perú, en una empresa como Inetum, podría ser entre S/ 3,500 y S/ 6,000 mensuales."
   },
   {
-    "id": "https://www.linkedin.com/jobs/view/4478191137",
+    "id": "https://www.linkedin.com/jobs/view/4478809595",
+    "title": "Analista QA Senior – APIs",
+    "employer": "Entelgy",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4478809595",
+    "reason": "Este puesto se enfoca en \"APIs\" y es \"Senior\", lo que sugiere un rol con experiencia y profundidad en pruebas de servicios, un área crucial para la automatización. La experiencia en APIs está directamente relacionada con el perfil. El rango salarial para un Analista QA Senior en APIs en Lima, Perú, en una empresa como Entelgy, podría situarse entre S/ 5,000 y S/ 8,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4478814499",
+    "title": "QA Automation Senior-BANTOTAL(E2E)",
+    "employer": "Entelgy",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4478814499",
+    "reason": "El título indica claramente \"QA Automation Senior\" y \"E2E\" (End-to-End testing), lo que se ajusta perfectamente al perfil. La mención de BANTOTAL podría implicar conocimiento en sistemas financieros, un dominio deseado. El rango salarial para un QA Automation Senior en Lima, Perú, en una empresa como Entelgy, podría ser entre S/ 5,500 y S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4478813485",
+    "title": "QA Automation Senior-BANTOTAL(Selenium)",
+    "employer": "Entelgy",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4478813485",
+    "reason": "Este puesto es \"QA Automation Senior\" y especifica \"Selenium\", una herramienta de automatización clave que coincide con el perfil. La experiencia en BANTOTAL y los dominios financieros son un plus. El rango salarial para un QA Automation Senior en Lima, Perú, en una empresa como Entelgy, podría ser entre S/ 5,500 y S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4478818179",
+    "title": "Analista QA Automatizador(a) SemiSenior - Presencial",
+    "employer": "Ditech Group",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4478818179",
+    "reason": "El título \"Analista QA Automatizador(a) SemiSenior\" se alinea directamente con el perfil buscado. Si bien \"SemiSenior\" puede estar un poco por debajo de los \"3+ años\" especificados, el enfoque en automatización es un factor decisivo. El rango salarial para un Analista QA SemiSenior Automatizador en Lima, Perú, podría estar entre S/ 4,500 y S/ 7,500 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4479703318",
+    "title": "Analista QA Funcional y Técnico",
+    "employer": "TADCON Consultoría TI",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4479703318",
+    "reason": "Aunque el título es \"Analista QA Funcional y Técnico\", la descripción menciona \"Conocimientos de SQL, validación de APIs\", \"Conocimientos de APIs y contratos de servicios\", \"arquitectura de microservicios\", \"diagnóstico mediante logs\" y \"verificaciones básicas de seguridad y tiempos de respuesta\". Estos elementos sugieren que el rol tiene un componente técnico fuerte que podría incluir automatización. El rango salarial para un Analista QA Funcional y Técnico con experiencia en APIs y microservicios en Lima, Perú, en una consultora como TADCON, podría oscilar entre S/ 4,000 y S/ 7,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4214301550",
+    "title": "Pivot QA Automatizador",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4214301550",
+    "reason": "El título \"Pivot QA Automatizador\" indica claramente un enfoque en automatización de pruebas. Aunque \"Pivot\" no es un término estándar, el núcleo del rol es la automatización. El rango salarial aproximado para un rol de QA Automatizador en Lima, Perú, considerando una empresa como Inetum, podría estar entre S/ 4,000 y S/ 7,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4476458956",
     "title": "QA Automation",
+    "employer": "SOAINT",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4476458956",
+    "reason": "El título \"QA Automation\" es un match directo con el perfil. SOAINT es una empresa que podría estar desarrollando soluciones en los dominios de interés. El rango salarial para un QA Automation en Lima, Perú, en una empresa como SOAINT, podría estar entre S/ 4,000 y S/ 7,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4479742573",
+    "title": "Lider tecnico -  banca",
+    "employer": "Synopsis S.A.",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4479742573",
+    "reason": "Aunque el título menciona 'Lider tecnico', la descripción detalla responsabilidades que se alinean con un rol de QA Senior, incluyendo 'Gestionar con el Equipo QA, la elaboración del script de pruebas y la ejecución del plan de pruebas'. El dominio 'Banca' es un plus. El perfil técnico no se enfoca directamente en automatización per se, pero las responsabilidades de QA son fuertes. El rango salarial aproximado para un rol técnico líder en banca en Lima es de S/ 8,000 - S/ 12,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4205098468",
+    "title": "Java Developer Semi Senior",
+    "employer": "Inetum",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4205098468",
+    "reason": "Aunque el título es 'Java Developer Semi Senior', la descripción menciona 'Orientado a la calidad' y un 'trabajo con Pipelines' en Jenkins, lo que sugiere un posible enfoque en CI/CD y, por extensión, en automatización. La experiencia en 'programación reactiva (web flux)', 'WebFluxTest', 'Clean Code / Solid', 'Sonarqube', y 'Jenkins y trabajo con Pipelines' son relevantes. El dominio 'Banca' (cliente Pacifico Seguros) también encaja. El rango salarial aproximado para un desarrollador Java Semi Senior en Lima es de S/ 6,000 - S/ 9,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4477026133",
+    "title": "Backend Developer Semi NodeJS [BANCA]",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4477026133",
+    "reason": "Este puesto encaja directamente con el perfil dado. El título 'Backend Developer Semi NodeJS [BANCA]' indica el rol y el dominio. Las responsabilidades incluyen 'Participar en la implementación de soluciones con arquitectura basada en eventos', 'Construir y mantener integraciones', 'Considerar criterios de rendimiento, escalabilidad y resiliencia'. La experiencia requerida de 'Mínimo 3 años de experiencia en desarrollo Backend' y 'Mínimo 1 año de experiencia en el sector bancario' son adecuadas. Las tecnologías como 'Node.js', 'Azure', 'programación asíncrona y funcional', 'principios SOLID, Clean Code', 'OWASP TOP 10', 'Jenkins' son altamente relevantes. El rango salarial aproximado para este puesto en Lima es de S/ 7,000 - S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4477024311",
+    "title": "Desarrollador Backend Semi Senior Node.js/Azure [BANCA]",
+    "employer": "IDM Technology",
+    "linkOffer": "https://www.linkedin.com/jobs/view/4477024311",
+    "reason": "Este puesto es muy similar al anterior y también encaja perfectamente. El título 'Desarrollador Backend Semi Senior Node.js/Azure [BANCA]' es directo. Las responsabilidades y requisitos son los mismos que la oferta anterior, incluyendo experiencia en 'Node.js', 'Azure', 'arquitectura Event Driven', 'SOLID, Clean Code', y 'Jenkins'. El rango salarial aproximado para este puesto en Lima es de S/ 7,000 - S/ 10,000 mensuales."
+  },
+  {
+    "id": "https://www.linkedin.com/jobs/view/4478809362",
+    "title": "Java Microservices Developer",
     "employer": "NTT DATA Europe & Latam",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4478191137",
-    "reason": "Esta oferta se alinea con el perfil de 'QA Automation Engineer' o 'Automation Engineer'. NTT DATA es una multinacional líder en servicios TI, lo que la convierte en una empresa de alta prioridad. Los requisitos incluyen experiencia en Automation con tecnologías como Selenium WebDriver, Karate DSL, Rest Assured, Serenity, Appium, y herramientas de CI/CD como Jenkins. Si bien el anuncio menciona 'SSr. y Sr.', el perfil se ajusta a la experiencia de 3+ años. El rango salarial estimado para un rol de Automation en NTT DATA en Lima, Perú, sería de S/ 5,500 a S/ 9,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4279693086",
-    "title": "Chapter Lead QA",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4279693086",
-    "reason": "Si bien este rol es de 'Chapter Lead QA', requiere experiencia práctica con herramientas para pruebas automatizadas como Selenium, UFT, Postman, y conocimiento para realizar pruebas automatizadas en web, servicios y microservicios. El perfil busca un líder con 3 años liderando equipos de pruebas y experiencia en automatización. Dada la naturaleza de liderazgo y la experiencia requerida en automatización, es una oferta relevante. El rango salarial estimado para este tipo de rol de liderazgo en Inetum en Lima, Perú, podría oscilar entre S/ 7,000 y S/ 12,000 mensuales, considerando las responsabilidades de gestión y la experiencia técnica."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4476604355",
-    "title": "QA Automation Engineer",
-    "employer": "Tech-House",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4476604355",
-    "reason": "Esta oferta se ajusta directamente al perfil de 'QA Automation Engineer'. La empresa Tech-House es una consultora tecnológica. Aunque no se especifican detalles de responsabilidades ni rango salarial, se puede inferir que buscará experiencia en automatización de pruebas web, mobile y/o APIs. Para un rol de Automation Engineer en Lima, Perú, con la experiencia solicitada, el rango salarial aproximado sería de S/ 5,000 a S/ 8,000 mensuales."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4292309625",
-    "title": "Java STD Banca - Commodity",
-    "employer": "Inetum",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4292309625",
-    "reason": "Esta oferta encaja con el perfil debido a su enfoque en 'Banca' y el requerimiento de 'conocimiento técnico demostrado en al menos dos tecnologías utilizadas en Banca con experiencia no menor de 3 años'. Si bien no especifica 'automatización de pruebas' directamente en el título, el rol de 'STD' (Standard) en un contexto bancario, junto con la mención de SDLC y la necesidad de análisis, diseño y desarrollo de soluciones técnicas, sugiere una posible alineación con roles que pueden incluir o transicionar hacia la automatización. La experiencia en desarrollo Java y metodologías ágiles (Scrum, Kanban, DevOps) son requisitos clave. El rango salarial aproximado para un rol de este tipo en Lima, Perú, para alguien con 3+ años de experiencia y enfocado en banca, podría estar entre S/ 6,000 y S/ 9,000 mensuales, dependiendo de las negociaciones y el nivel de especialización exacto."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4476462243",
-    "title": "Backend Semi Senior (Node.Js) [BANCA]",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4476462243",
-    "reason": "Esta oferta es altamente relevante dado que el perfil busca 'Backend con enfoque en testing' y esta posición es 'Backend Semi Senior' con 'Node.Js' y un dominio en '[BANCA]'. Node.js es parte de la tech stack preferida. Aunque el título no menciona explícitamente 'testing' o 'automatización', la experiencia de 3+ años en desarrollo ágil y la industria bancaria son fuertes indicadores. Un rol de backend semi senior en Lima, Perú, en una empresa de tecnología como IDM Technology, con enfoque en banca, podría tener un rango salarial aproximado entre S/ 6,500 y S/ 9,500 mensuales. Para que encaje perfectamente, se debería explorar si el rol incluye o espera contribuciones en el ámbito de la automatización de pruebas."
-  },
-  {
-    "id": "https://www.linkedin.com/jobs/view/4476461207",
-    "title": "Desarollador Backend Semi Senior (Node js)",
-    "employer": "IDM Technology",
-    "linkOffer": "https://www.linkedin.com/jobs/view/4476461207",
-    "reason": "Similar a la oferta anterior, este puesto como 'Desarollador Backend Semi Senior' con 'Node js' se alinea con la preferencia de un 'Backend con enfoque en testing'. La experiencia requerida en desarrollo ágil y la presencia de Node.js en la tech stack son puntos a favor. Si bien el título no menciona automatización, los roles de backend semi senior a menudo interactúan con equipos de QA o pueden tener responsabilidades relacionadas con la calidad del código y las pruebas. Se asume que IDM Technology opera en la región de Lima, Perú. El rango salarial aproximado para este tipo de puesto en Lima, Perú, para un nivel semi senior, estaría entre S/ 6,500 y S/ 9,500 mensuales."
+    "linkOffer": "https://www.linkedin.com/jobs/view/4478809362",
+    "reason": "Este puesto, 'Java Microservices Developer', se alinea con el perfil de backend con enfoque en testing, especialmente por el énfasis en 'arquitectura de microservicios', 'tecnologías de reactividad y Azure', y 'buenas prácticas y principios SOLID'. Si bien no menciona explícitamente automatización de pruebas, el desarrollo de microservicios a menudo implica la necesidad de pruebas robustas y automatizadas. El dominio 'Banca' es un plus. El rango salarial aproximado para un desarrollador de microservicios Java en Lima es de S/ 7,000 - S/ 10,000 mensuales."
   }
 ]
