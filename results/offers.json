@@ -1,21 +1,10 @@
 [
     {
-        "titleJob": "Senior QA Engineer",
-        "employer": "Makai Labs",
-        "linkProfileEmployer": "https://www.linkedin.com/company/makai-labs?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "1 month ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "About MakaiMakai uses best-in-class Al and data to solve real-world operational and strategic challenges at scale. Our Makai Automation Platform consists of a library of pre-built components and modules to facilitate enterprise automation via a unified human-machine teaming interface. Until now, people have had to learn and adapt to software. Makai creates solutions that adapt to people because technology will never be 100% accurate. People are essential for all of our human-machine teaming solutions, as they serve as the final firewall for accuracy and quality.About The RoleMakai is looking for a talented, highly skilled and proactive Senior QA Engineer to join our growing team who will not only be a great contribution to that but also a key player for the QA team. This is a full-time remote role in which you will be the key hands-on expert driving quality initiatives ensuring product reliability, performance, and user satisfaction.Qualifications:﻿﻿5+ years of professional QA Experience, with a proven track record in testing complex web applications. ﻿﻿Expertise in Modern QA methodologies, test design techniques (e.g., equivalence partitioning, boundary value analysis), and mastery of the full Software Development Life Cycle (SDLC) and Testing Life Cycle (STLC) within Agile frameworks (Scrum/Kanban)Proficiency in database testing: Practical experience writing complex SQL queries to validate backend behavior, ensure data integrity, and perform data/setup/teardown for test scenarios in relational databases (e.g SQServer, PostgreSQL, PostgreSQL, MySQL). Foundational test automation experience with tools like Cypress, Playwright, or Selenium﻿﻿Ability to read and understand code in JavaScript, TypeScript, or Python to support test analysis and future automation initiatives. Excellent analytical skills, attention to detail and a methodical approach to testing. Fluent English (written and spoken)﻿﻿Strong communication and collaboration skills to work with Developers, Product Owners and QA Team. Responsibilities:﻿﻿End-to-End Quality Ownership: Manage the entire QA lifecycle - from analyzing requirements and user strories for testability, to designing test strategies and checklists, executing tests, and reporting on release readiness. ﻿﻿In-Depth Functional & Regression Testing: Perform through manual functional, integration, regression, compatibility, and exploratory testing to ensure the highest quality of every release. API & Backend Testing: Conduct extensive API testing using tools like Postman and validate complex business logic by writing and executing SQL queries to ensure data integrity and backend functionality. ﻿﻿Defect Management: Identify, document, isolate, and track bugs with a high level of detail and clarity throughout their lifecycle. Work closely with developers to facilitate resolution and verify fixes. Process Advocacy & Improvement: Champion quality best practices, provide meaningful feedback on requirements during grooming sessions, and contribute to the continuous improvement of our QA processes, tools, and methodologies. ﻿﻿Mentorship & Knowledge Sharing: Proactively share knowledge and best practices, help fellow team members enhance their testing skills, an contribute to a strong, company-wide culture of quality. ﻿Core values for Makai employees:﻿﻿Have a strong work ethic. As a member of a fully remote team, it is very important that you can self-manage and drive your own work towards consistent excellence in a timely manner. ﻿﻿Be self-sufficient and self-driven with an ownership mentality, no matter your role﻿﻿Be a flexible thinker﻿﻿Be congenial and a team player﻿﻿Always be of service to each other and our clients, partners, and neighborsEmployment Type Full TimeFully remote role",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4473541298"
-    },
-    {
         "titleJob": "Automatizador de Pruebas (QA) (Remoto)(Exp en Banca) K526",
         "employer": "Keppri",
         "linkProfileEmployer": "https://co.linkedin.com/company/keppri?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "15 hours ago",
+        "howLongAgo": "2 days ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "Sobre la EmpresaSomos una empresa de tecnología especializada en el end to end de activos digitales, que acompaña su oferta de staffing y fabrica de software con servicios de consultoría y tecnología que permiten escalar grandes transformaciones empresariales.Buscamos un(a) QA con 3 a 5 años de experiencia, enfocado(a) en liderar estrategias de aseguramiento de calidad, pruebas manuales y automatizadas, pruebas de performance y gestión de métricas de calidad a nivel transversal. Este rol será clave para garantizar la calidad del software durante todo el ciclo de vida de desarrollo, liderar equipos y fortalecer prácticas de testing alineadas con marcos ágiles.Responsabilidades:Dirigir y ejecutar pruebas manuales y automáticas para aplicaciones frontend, móviles, APIs y servicios backend.Diseñar estrategias y planes de prueba basados en historias de usuario y criterios de aceptación en formato BDD.Definir y ejecutar pruebas funcionales y no funcionales, incluyendo performance.Gestionar defectos, riesgos de calidad y documentación de cierre de pruebas.Liderar la automatización de pruebas y proponer mejoras continuas en cobertura, calidad de código y eficiencia.Diseñar e implementar métricas de calidad como bugs, cobertura de pruebas, calidad de código y OKRs.Participar activamente en prácticas ágiles y en la definición de criterios de aceptación.Monitorear y ejecutar estrategias de performance y análisis de resultados.Trabajar con repositorios de código, pipelines CI/CD y herramientas de gestión de pruebas.Requisitos:Conocimiento sólido en procesos y tipos de pruebas, idealmente con base en ISTQB FL / AT.Experiencia en diseño de casos de prueba funcionales y no funcionales.Conocimiento medio en CI/CD, despliegue continuo y manejo de pipelines.Conocimiento avanzado en pruebas de performance y herramientas asociadas.Experiencia con herramientas como Jira (X-Ray), Confluence, Azure DevOps, Git.Manejo de bases de datos SQL, Oracle, DB2 y Postgres.Experiencia con frameworks y herramientas como Serenity BDD, ScreenPlay, Gherkin, Cucumber, Karate, K6, JMeter, Appium, Gradle, Maven, Robot Framework y Rational Performance Tester.Capacidad para gestionar riesgos de calidad, automatización, métricas y analítica de datos aplicada a QA.Competencias clave:Liderazgo de equipos.Comunicación asertiva.Negociación efectiva.Aprendizaje y adaptación rápida.Orientación a resultados.Autodesarrollo.Transferencia de conocimiento.Innovación y mejora continua.",
@@ -33,17 +22,6 @@
         "linkOffer": "https://www.linkedin.com/jobs/view/4318509326"
     },
     {
-        "titleJob": "QA Analyst",
-        "employer": "Applaudo",
-        "linkProfileEmployer": "https://sv.linkedin.com/company/applaudo?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "7 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "About youYou are a QA Analyst who enjoys ensuring software quality through structured testing, analytical thinking, and attention to detail. You are passionate about understanding how applications work, identifying potential issues, and helping teams deliver reliable digital experiences that meet business and user expectations.You bring a proactive and collaborative mindset, with the ability to analyze requirements, design meaningful test scenarios, and communicate findings clearly. You enjoy working with Developers, Project Managers, and QA teams, continuously learning new testing practices and contributing to improvements in software quality throughout the development lifecycle.You bring to Applaudo the following competencies:Bachelor’s Degree in Computer Science, Computer Engineering, or a related field is desired, or equivalent professional experience.1–2 years of professional experience as a QA Analyst or in Software Quality Assurance.Experience designing, executing, and documenting test plans, test cases, and test scenarios.Knowledge of software testing methodologies, quality assurance processes, and defect management.Ability to analyze system requirements, identify ambiguities, and define test coverage based on product objectives and risks.Experience identifying, documenting, tracking, and reporting software defects.Understanding of Agile methodologies and experience participating in Scrum environments.Strong analytical thinking, critical thinking, and problem-solving skills.Excellent attention to detail, organizational skills, and willingness to learn.Strong written and verbal communication skills, with the ability to collaborate effectively with cross-functional teams.Intermediate English proficiency, both written and spoken. Nice to Have:ISTQB Certified Tester Foundation Level (CTFL) certification.Knowledge of test automation and software development practices.Familiarity with performance testing and UX testing. You will be accountable for the following responsibilities:Develop, execute, and maintain test plans, test cases, test scripts, and testing reports across assigned projects.Review and analyze system specifications to identify testing requirements, potential ambiguities, and quality risks.Apply established QA processes, methodologies, and testing standards to ensure software meets business and client expectations.Plan and prioritize testing activities based on product requirements, objectives, and risk assessments.Identify, document, track, and report defects, collaborating with development teams to reproduce and troubleshoot software issues.Coordinate testing activities with Project Managers, Development Managers, and other stakeholders.Monitor test execution progress, evaluate exit criteria, and prepare test progress and summary reports.Track and communicate testing metrics to support visibility into software quality and development processes.Collaborate with QA Automation Engineers to support automation strategies and maintain test scripts according to project requirements.Participate in Agile ceremonies and collaborate with cross-functional teams throughout the software development lifecycle.Support Product Owners and Developers in investigating and reproducing issues identified during UAT or production.Stay current with software testing tools, methodologies, and industry best practices.Contribute to continuous improvements in QA processes, testing efficiency, and overall product quality. Additional InformationAbout UsWe Are Engineered Different.At Applaudo, talented people design, build, and scale meaningful, AI-powered solutions that create real business impact. As an AI-native organization, we collaborate across design, development, cloud, data, and artificial intelligence to turn ideas into scalable products that transform how companies operate, make decisions, and grow.We are building a high-performance culture grounded in five values: Empowering Excellence, Collaborative Teamwork, Unsolicited Respect, Consistent Transparency, and Efficient Communication. These define how we work, how we support one another, and how we hold ourselves accountable.Applaudo is a place for people who want to learn fast, take ownership, and work alongside strong teams they are proud to belong to. Joining us means being part of an organization that is evolving intentionally, investing in modern ways of working, and leading AI-native transformation at scale.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4495234063"
-    },
-    {
         "titleJob": "QA Senior",
         "employer": "Tata Consultancy Services",
         "linkProfileEmployer": "https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
@@ -59,77 +37,22 @@
         "employer": "Encora Inc.",
         "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "6 days ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "Título del puesto: Senior QA – API TestingHabilidades clave: API Testing, Postman, REST API, SQL, Oracle, SQL Server, MySQL, MongoDB, Apache JMeter, Jira, Azure DevOps, Automatización de pruebas, Pruebas de integración, Pruebas funcionales, Pruebas de rendimiento.Experiencia: + 5 años de experiencia en áreas de aseguramiento de calidad de software (QA, Quality Engineering o similares), con mínimo 2 años de experiencia en pruebas de API e integración.Ubicación: Lima, Perú.Modalidad: Híbrida.En Coforge estamos buscando un Senior QA - API Testing (20787-12-8), con experiencia en diseño y ejecución de pruebas funcionales, de integración y rendimiento. Buscamos un profesional con capacidad analítica, orientación al detalle y experiencia en proyectos de integración, que garantice la calidad, consistencia y confiabilidad de las soluciones de software.Responsabilidades principalesDiseñar y ejecutar pruebas avanzadas de API REST, validando solicitudes, respuestas, códigos HTTP, contratos de integración, manejo de errores, reintentos e idempotencia mediante Postman.Diseñar y ejecutar pruebas funcionales, de integración, End-to-End (E2E), regresión y Smoke en diferentes ambientes.Realizar consultas SQL para validar la persistencia, integridad y consistencia de los datos.Diseñar y ejecutar pruebas de rendimiento, incluyendo escenarios de carga, estrés, picos, carga sostenida y escalabilidad.Analizar métricas de rendimiento como tiempos de respuesta, percentiles P95/P99, throughput, tasas de error y cumplimiento de SLA y requisitos no funcionales.Gestionar y asegurar la trazabilidad de pruebas y defectos mediante Jira o Azure DevOps.Participar en actividades de automatización de pruebas y apoyar procesos de integración continua y despliegue.Analizar registros y resultados de ejecución para identificar errores, cuellos de botella y posibles degradaciones.Participar en proyectos de integración y ERP, considerando procesos funcionales de SAP FI.Liderar actividades de aseguramiento de calidad y coordinar la ejecución de pruebas con equipos multidisciplinarios.Acompañar procesos de pruebas de aceptación de usuario (UAT), trabajando conjuntamente con usuarios de negocio.Garantizar la trazabilidad entre requerimientos, casos de prueba, ejecuciones, evidencias y seguimiento de defectos hasta su resolución.Requisitos indispensablesMás de 5 años de experiencia en áreas de QA, Quality Engineering o similares.Mínimo 2 años de experiencia en API Testing y pruebas de integración.Entre 3 y 5 años de experiencia como QA Senior, liderando y ejecutando pruebas funcionales y UAT.Experiencia en diseño y ejecución de pruebas funcionales, integrales, E2E, UAT y regresión.Experiencia en pruebas avanzadas de API REST utilizando Postman.Conocimientos intermedios o avanzados de SQL para validación de datos en Oracle, SQL Server o MySQL.Experiencia en pruebas de rendimiento con Apache JMeter o herramientas equivalentes.Conocimiento de métricas de rendimiento y cumplimiento de SLA y requisitos no funcionales.Experiencia en gestión y trazabilidad de pruebas y defectos mediante Jira o Azure DevOps.Experiencia en gestión de calidad y liderazgo de actividades de prueba durante al menos 1 año.Experiencia en proyectos ERP.Conocimiento funcional general de procesos SAP FI.Experiencia acompañando procesos UAT con usuarios de negocio.Requisitos deseablesCertificación ISTQB, como mínimo Foundation Level.Especialización o diplomado en calidad de software (QA/Testing).Conocimientos de MongoDB.Experiencia en automatización de pruebas.Conocimientos de CI/CD, pipelines y análisis de registros.Conocimiento funcional de procesos de promociones comerciales (Trade Promotions), preferiblemente en empresas de consumo masivo del sector alimenticio.Conocimiento conceptual y funcional de programas de fidelización de clientes.Experiencia en proyectos de promociones comerciales, retail o consumo masivo.Inglés técnico de nivel intermedio.Publicado el: 19-11-2026En Coforge, contratamos profesionales únicamente en función de sus habilidades y calificaciones, y no discriminamos en función de la edad, discapacidad, religión, género, orientación sexual, estado socioeconómico o nacionalidad.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4492748681"
-    },
-    {
-        "titleJob": "QA Automation",
-        "employer": "Softtek",
-        "linkProfileEmployer": "https://mx.linkedin.com/company/softtek?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "4 weeks ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4482256243"
-    },
-    {
-        "titleJob": "Quality Engineer Senior [BANCA]",
-        "employer": "IDM Technology",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/idmtechperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "14 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4494659591"
-    },
-    {
-        "titleJob": "Analista de calidad de Software",
-        "employer": "Apuesta Total",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/apuestatotal?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
         "howLongAgo": "1 week ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4492019944"
-    },
-    {
-        "titleJob": "QA Automation",
-        "employer": "Softtek",
-        "linkProfileEmployer": "https://mx.linkedin.com/company/softtek?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "4 weeks ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "Softtek es un proveedor global de servicios orientados a procesos de TI con más de 30 oficinas en Norteamérica, Latinoamérica, Europa y Asia. Maximizamos el valor del software para el mundo: Creamos, Probamos, Implementamos y damos mantenimiento a sistemas que empoderan organizaciones e individuos. En la actualidad nos encontramos en la búsqueda de un talento para el perfil: QA Automation Requisitos:Experiencia mínima de 4 años en QA.Experiencia en diseño, ejecución y documentación de planes, escenarios y casos de prueba. Experiencia en pruebas funcionales, integración/SIT, regresión, end-to end y UAT. Experiencia en validación de APIs mediante Postman o herramientas equivalentes y consultas SQL para validación de información. Gestión, documentación y seguimiento de defectos hasta su cierre. Elaboración de evidencias y trazabilidad entre requerimientos, casos de prueba y resultados. Experiencia con Jira o Azure DevOps. Deseable experiencia en automatización mediante Selenium, Playwright o Cypress y pruebas de performance con JMeter o equivalente. Deseable experiencia funcional en seguros, particularmente en ventas, cotización, emisión, pólizas, clientes y postventa. Buscamos un perfil hands-on, con participación directa en el diseño y ejecución de pruebas y generación de evidencias.Ofrecemos:Ingreso a planilla con todos los beneficios de ley.Modalidad Hibrida EPS al 100% + Seguro oncologicoConcepto mensual de conectividadAsignación de equipo de trabajoCapacitación constante y línea de carrera.Podrás optar por los descuentos corporativos en empresas de entretenimiento, educación, entre otros.Contamos con una plataforma exclusiva virtual con más de 3,000 cursos orientados a potencializar tus habilidades técnicas como blandas.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4482266157"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4492748681"
     },
     {
         "titleJob": "Sr QA Automation",
         "employer": "Rumbo",
         "linkProfileEmployer": "https://pe.linkedin.com/company/rumbo-la?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "3 weeks ago",
+        "howLongAgo": "4 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4483477608"
-    },
-    {
-        "titleJob": "QA Sr. Core Bantotal",
-        "employer": "Valtx PerÃº",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/valtx-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "1 week ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "En Valtx, empresa con 25 años de experiencia en el mercado peruano, cuyo objetivo principal es convertirse en un socio estratégico, mediante soluciones tecnológicas en los diversos aspectos de los procesos de negocios; el desarrollo, implementación y mantenimiento de aplicaciones e infraestructura tecnológica para el negocio; y consultoría en diversos procesos de transformación, nos encontramos en la búsqueda de un QA Sr.¿Qué responsabilidades tendrá?Diseñar, ejecutar y documentar casos de prueba funcionales, de integración y de regresión.Validar la correcta integración entre microservicios y APIs REST, verificando reglas de negocio, contratos de servicio y manejo de errores.Ejecutar pruebas sobre procesos bancarios, incluyendo pagos, desembolsos de créditos y operaciones financieras.Validar la información almacenada en bases de datos mediante consultas SQL y DB2, así como analizar logs para identificar y reportar incidencias.Coordinar y ejecutar pruebas en diferentes ambientes (Desarrollo, QA, Certificación y Producción Controlada), asegurando la estabilidad de las implementaciones.Registrar, dar seguimiento y validar la corrección de defectos utilizando herramientas de gestión de incidencias.Participar en reuniones de análisis funcional, refinamiento de requerimientos y seguimiento con equipos multidisciplinarios.Ejecutar pruebas sobre procesos de CRM, campañas comerciales, ofertas y leads, así como funcionalidades del Core Banking BanTotal, cuando aplique.¿Qué requisitos necesito?FormaciónTécnico o universitario en Ingeniería de Software, Ciencias de la Computación o Ingeniería de Sistemas o a fines.Experiencia4 años de experiencia en pruebas de proyectos fiinancieros como ahorros, créditos, seguros, recuperaciones.ConocimientosProcesos financieros: experiencia en procesos de ahorros, créditos, seguros y recuperacionesTrazabilidad E2E (End-to-End): seguimiento de transacciones y validación del flujo completo entre sistemas.Core Banking Bantotal: conocimiento de la estructura y consulta de tablas para la validación de información y transacciones.Pruebas funcionales, de integración, regresión y end-to-end.Bases de datos y análisis técnico: manejo de SQL y DB2 para consultas, validación de datos y depuración de información mediante logs.Microservicios y APIs REST: conocimiento de integraciones, validación de servicios y análisis de respuestas.Observabilidad y monitoreo: manejo de herramientas como Elastic y Dynatrace para el análisis de trazas, métricas y logs.Herramientas de gestión de pruebas e incidencias (Jira, Xray ).Despliegues y CI/CD: conocimiento de gestión de despliegues y pipelines de integración y entrega continua.Metodologías ágiles (Scrum/Kanban).Pruebas de PerformanceCondiciones De TrabajoTrabajo hibrido en MirafloresL a V de 8:30am a 6:00pm¿Por qué Valtx?Porque creemos que el talento se potencia con propósito. En Valtx no solo desarrollamos tecnología, transformamos negocios y acompañamos a nuestros colaboradores en su desarrollo profesional, promoviendo una cultura colaborativa, cercana y orientada a la excelencia.¿Estás listo para construir soluciones que marcan la diferencia?Postula hoy y forma parte de un equipo que evoluciona contigo.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4491082447"
     },
     {
         "titleJob": "QA Automatizador",
@@ -143,22 +66,11 @@
         "linkOffer": "https://www.linkedin.com/jobs/view/4483161525"
     },
     {
-        "titleJob": "QA Tester",
-        "employer": "GRUPO HNG",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/grupo-hng?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "5 days ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4493245240"
-    },
-    {
         "titleJob": "Analista de Calidad",
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "3 weeks ago",
+        "howLongAgo": "4 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -180,7 +92,7 @@
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima Metropolitan Area",
-        "howLongAgo": "1 week ago",
+        "howLongAgo": "2 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "Somos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes.Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el grupo tiene cerca de 27,000 colaboradores y apunta a seguir creciendo.¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito! Si te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de TI y negocios, ¡postula ahora!Actualmente nos encontramos en búsqueda de un QA Automation Junior para que se integre a nuestro equipo de desarrollo.🌟¿Qué buscamos en el rol?Profesional en Ingeniería de Sistemas, Computación, Informática o carreras afines.Experiencia mínima de 1 año como QA Automation Junior o similaresSólidos conocimientos en automatización con Karate FrameworkExperiencia en metodologías BDD, Gherkin y patrones de diseño de pruebas.Ejecución de pruebas integrales en Backend, Web con CypressDominio de CI/CD y DevSecOps con herramientas como Jenkins y Bitbucket.Gestión del ciclo de vida de pruebas con Jira, Xray y bases de datos (MongoDB).Conocimiento de estándares de calidad y seguridad (ISTQB, OWASP).Trabajo colaborativo bajo metodologías ágiles, especialmente Scrum.Disponibilidad a trabajar en modelo híbrido (2P x 3R)🌟Nuestros BeneficiosIncorporación a planilla con todos los beneficios de leyCapacitaciones generales y específicas de acuerdo a tu especialidadIncorporación a una EPSPlataforma Educativa Multi-idiomas (inglés, francés, alemán, entre otros)Plataforma de teleconsultasActividades de integración y Wellness ProgramsDescuentos corporativos en diversos establecimientosConoce más de nosotros en www.inetum.com/es o visita nuestras redes sociales como Inetum Perú para conocer más de nuestra cultura corporativa y metodologías de trabajo. ¡Te esperamos!En Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional.",
@@ -198,17 +110,6 @@
         "linkOffer": "https://www.linkedin.com/jobs/view/4489763941"
     },
     {
-        "titleJob": "Senior QA Analyst",
-        "employer": "Softtek",
-        "linkProfileEmployer": "https://mx.linkedin.com/company/softtek?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "4 weeks ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4482251532"
-    },
-    {
         "titleJob": "QA Funcional Ssr",
         "employer": "Valtx PerÃº",
         "linkProfileEmployer": "https://pe.linkedin.com/company/valtx-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
@@ -216,7 +117,7 @@
         "howLongAgo": "1 week ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "",
+        "descriptionOffer": "En Valtx, empresa con 25 años de experiencia en el mercado peruano, cuyo objetivo principal es convertirse en un socio estratégico, mediante soluciones tecnológicas en los diversos aspectos de los procesos de negocios; el desarrollo, implementación y mantenimiento de aplicaciones e infraestructura tecnológica para el negocio; y consultoría en diversos procesos de transformación, nos encontramos en la búsqueda de un QA Funcional. ¿Qué requisitos necesito?Experiencia en diseño y ejecución de casos de prueba; pruebas funcionales, exploratorias, E2E, integración y regresión en aplicaciones web y móviles; documentación de defectos con evidencias.Pruebas móviles Android/iOS (dispositivos reales y emuladores/simuladores).Conocimiento de arquitectura de microservicios y APIs REST.Base de datos (Nivel intermedio) : Consultas SQL con SELECT, JOIN, WHERE, GROUP BY, HAVING y subconsultas; manejo básico de INSERT y UPDATE para preparación de datos de prueba; conocimiento de llaves e integridad referencial (SQL Server, PostgreSQL, MySQL u Oracle; DBeave)Conocimiento de pruebas de rendimiento (Performance Testing)APIs REST: Métodos HTTP, códigos de estado, headers, estructuras JSON, autenticación Bearer y API Key, variables de entorno y validación mediante aserciones.(Indispensable)Manejo de Postman para ejecutar solicitudes y validar respuestas; uso de Swagger para consultar documentación y probar endpoints; y conocimiento de OpenAPI para interpretar contratos, parámetros y estructuras de solicitudes y respuestas.Conocimientos en Jira, Xray, Confluence y Azure DevopsConocimiento de metodologías Agiles (Scrum)Conocimiento de herramientas de grabación de pantallas,Seguimiento de defectos, métricas e indicadores de calidad.Conocimiento de Fundamentos ISTQB: Principios del testing, niveles y tipos de prueba, técnicas de pruebas, pruebas estáticas y testing basado en riesgos. Referencia: ISTQB CTFL v4.0.ExperienciaExperiencia mínima de 3 años en diseño y ejecución de pruebas de aplicaciones web y móviles.Experiencia mínima de 2 años en consultas SQL y validación de información en bases de datos.Experiencia mínima de 2 año en pruebas de APIs REST utilizando Postman u otras herramientas similares.Experiencia mínima de 1 año en pruebas de performance.Principales Funciones Del PuestoAnalizar requerimientos y diseñar casos de prueba.Ejecutar pruebas funcionales, integración, regresión y APIs REST.Validar datos mediante consultas SQL.Identificar, documentar y realizar seguimiento de defectos.Verificar integraciones, microservicios y resultados de rendimiento.Participar en pruebas UAT y validaciones postproducción.",
         "linkOffer": "https://www.linkedin.com/jobs/view/4492033319"
     },
     {
@@ -224,7 +125,7 @@
         "employer": "Indra Group",
         "linkProfileEmployer": "https://es.linkedin.com/company/indragroupglobal?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "San Isidro, Peru",
-        "howLongAgo": "6 days ago",
+        "howLongAgo": "1 week ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -235,18 +136,40 @@
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "3 weeks ago",
+        "howLongAgo": "4 weeks ago",
+        "recruiter": "Sergio JesÃºs Heredia Gutierrez",
+        "profileRecruiter": "https://pe.linkedin.com/in/sergio-jes%C3%BAs-heredia-gutierrez-999358141",
+        "descriptionOffer": "Somos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes.Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el grupo tiene cerca de 27,000 colaboradores y apunta a seguir creciendo.Actualmente nos encontramos en búsqueda de 02 QA Junior para que se integren a nuestro equipo.Requisitos:Profesional en Ingeniería de Sistemas, Computación, Informática o carreras afines.Experiencia mínima de 6 meses en ejecución de pruebas manuales y/o de automatización.Experiencia trabajando bajo marcos tradicional cascada y/o Scrum.Experiencia con SQL Server para validaciones de datosConocimiento en tecnología informática y lenguajes de programación: Phyton, Java u otros.Conocimiento en el uso de herramientas de integración continua: Jenkins y otros.Beneficios:Incorporación a planilla con todos los beneficios de leyPlataforma Educativa Multi-idiomas (inglés, francés, alemán, entre otros)Actividades de integración y Wellness ProgramsDescuentos corporativos en diversos establecimientosAcceso a EPS al 100%Capacitaciones constantes acorde a tu línea de carrera y otras de interés general (plataformas de e-learning)La oportunidad de participar en retos altamente innovadores.Conoce más de nosotros en www.inetum.world/es o visita nuestras redes sociales como Inetum Perú para conocer más de nuestra cultura corporativa y metodologías de trabajo. ¡Te esperamos!En Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidad de desarrollo profesional.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4484977977"
+    },
+    {
+        "titleJob": "Playwright QA Automation Engineer (Postman) - Remote Work",
+        "employer": "BairesDev",
+        "linkProfileEmployer": "https://www.linkedin.com/company/bairesdev?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "1 day ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.Playwright QA Automation Engineer (Postman) at BairesDevAs a Playwright QA Automation Engineer (Postman), you will ensure the highest quality of our software products by designing and executing comprehensive automated testing strategies. You will play a pivotal role in streamlining the testing lifecycle, connecting development outputs with robust quality benchmarks to deliver flawless user experiences.What You'll Do:- Design, build, and maintain efficient automated test frameworks for web applications.- Create and execute comprehensive automation scripts for both frontend UI and backend API layers.- Integrate automated testing suites into continuous integration and deployment pipelines.- Collaborate closely with development and product teams to identify testing requirements and resolve defects early.- Define test plans, evaluate system performance, and establish quality assurance best practices.What we are looking for:- 5+ years of experience in QA Automation Engineering or Software Testing.- Proven expertise in developing automated test suites using Playwright.- Strong hands-on experience with API testing and automation using Postman.- Solid understanding of QA methodologies, tools, and processes across the software development lifecycle.- Advanced proficiency in English.How we do make your work (and your life) easier:- 100% remote work (from anywhere).- Excellent compensation in USD or your local currency if preferred- Hardware and software setup for you to work from home.- Flexible hours: create your own schedule.- Paid parental leaves, vacations, and holidays.- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.Apply now and become part of a global team where your unique talents can truly thrive!",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4495041031"
+    },
+    {
+        "titleJob": "QA Engineer IA",
+        "employer": "Indra Group",
+        "linkProfileEmployer": "https://es.linkedin.com/company/indragroupglobal?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "6 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4484977977"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4494237022"
     },
     {
         "titleJob": "Analista QA BI Sr",
         "employer": "Indra Group",
         "linkProfileEmployer": "https://es.linkedin.com/company/indragroupglobal?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "San Isidro, Peru",
-        "howLongAgo": "6 days ago",
+        "howLongAgo": "1 week ago",
         "recruiter": "Brigitee Estefany Fernandez Gutierrez",
         "profileRecruiter": "https://pe.linkedin.com/in/brigitee-estefany-fernandez-gutierrez-77a392202",
         "descriptionOffer": "¡Un lugar para ti! INDRA es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo. Es un proveedor líder mundial de soluciones propias en segmentos específicos de los mercados de Transporte y Defensa, y la empresa líder en consultoría de transformación digital y Tecnologías de la Información en España y Latinoamérica. Con cerca de 48.000 empleados, presencia local en 46 países y operaciones comerciales en más de 140 países. Actualmente estamos buscando un:Analista QA BI SrExperiencia:Experiencia de 5 años a más en la especialidad.Competencia técnica de metodologías y modelos de calidad para la industria del software.Competencia técnica avanzados de herramientas para la ejecución y seguimiento de pruebas.Competencia técnica de CMMI, ISTQB, Modelo en V, RUP.Metodologías de desarrollo de sistemas (ágiles, no ágiles).Competencia técnica de Scrum/UML/TDD/BDD/IC, experiencia en caso de asignaciones a equipos ágiles.Competencia técnica de diferentes Tipos de Testing (volumen, Smoke test, performance, funcional, técnico).Experiencia en Pruebas Funcionales, Regresión, Integración y Aceptación.Competencia técnica avanzados de lenguajes de consulta de Base de Datos.Competencia técnica avanzados en metodología de pruebas de calidad de datos y sus atributos, herramientas y proceso de migración de data y procesos ETL.Competencia técnica avanzados en Plataformas tecnológicas GCP, AWS ('Amazon Web Services': Servicios AWS Athena, Redshift, AWS Glue, Lambda, Step Funtioncs y S3; 'Google Cloud Platform': Servicios Big Query, Storage, Airflow, Composer).Manejo avanzado de lenguaje Gherkin.Competencia técnica en Automatización / Scripting.Competencia en la aplicación del Framework de DAMA.Competencia técnica avanzado en Herramientas de visualización Power BI, Looker Studio, Tableau.Conocimiento en herramientas de Automatización para la validación de datos en gran volumetría.Funciones:Diseñar el plan de Testing, casos de prueba y estrategia a aplicar para las distintas actividades de Testing necesarias.Preparación, identificación de data para la verificación de los productos desarrollados.Ejecutar los casos de prueba y llevar un registro de los defectos encontrados, así como realizar el seguimiento de los mismos hasta su adecuada corrección.Analizar y reportar los resultados de las pruebas, estadísticas, etc.Brindar soporte en las actividades de integración y verificar que las versiones liberadas cumplan con los requisitos de calidad establecidos.Proponer metodologías, estándares y el uso de nuevas tecnologías para el desarrollo de la especialidad.Controlar los indicadores y mediciones de calidad de los desarrollos de software.Modalidad: Hibrida (asistencia de 3 veces por semana a oficina)Horario: (Lunes- Viernes de 9 a 6pm), San Isidro.Beneficios:Oportunidad de aprendizaje y crecimiento profesional.Entorno de trabajo colaborativo y de apoyo.EPS 100% para el colaborador.Acceso a la plataforma Udemy 100% gratuita.Asesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo.Convenios corporativos y educativos.Planilla al 100% (Vacaciones, CTS, Gratificación, etc.)Seguro vida Ley.Postula o envía tu CV a befernandez@indracompany.com",
@@ -257,7 +180,7 @@
         "employer": "Tsoft",
         "linkProfileEmployer": "https://ar.linkedin.com/company/tsoft?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "12 hours ago",
+        "howLongAgo": "2 days ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -282,7 +205,7 @@
         "howLongAgo": "1 month ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Apoyar la ejecución y documentación de pruebas, trabajando bajo acompañamiento del perfil QA Semi Senior y del equipo técnico.ResponsabilidadesAnalizar requerimientos y criterios de aceptación para apoyar la definición de escenarios, casos y datos de prueba.Ejecutar pruebas funcionales, de regresión e integración.Documentar resultados e incidencias.Apoyar la ejecución y mantenimiento de pruebas automatizadas.Apoyar pruebas de carga, estrés, rendimiento y performance.Apoyar pruebas relacionadas con seguridad.Trabajar bajo acompañamiento y revisión del perfil QA Semi Senior.Tecnología / herramienta principalAppiumPruebas automatizadasPruebas de seguridadPruebas de rendimiento y performance",
+        "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4475468708"
     },
     {
@@ -302,17 +225,28 @@
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
         "howLongAgo": "1 week ago",
-        "recruiter": "Caroline Vilchez Mimbela",
-        "profileRecruiter": "https://pe.linkedin.com/in/caroline-vilchez-mimbela",
-        "descriptionOffer": "Somos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes en el proceso de digitalización aprovechando al máximo el digital impact.Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el Grupo tiene cerca de 27.000 colaboradores y apunta a continuar creciendo.¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito!Si te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de IT y de negocios: ¡Postula ahora!Actualmente nos encontramos en búsqueda de (02) Analista QA- Junior que se integren a nuestro equipo en un importante proyecto.¿Cuál es el perfil ideal que estamos buscando?Profesional Técnico o Bachiller de las carreras de Ingeniería de Sistemas, Informática, Ciencias de la Computación y/o afines.Experiencia de mínimo 1 año como Analista de Calidad, analista de pruebas o Analista QA JuniorExperiencia de 6 meses en AutomatizaciónExperiencia en realizar pruebas funcionales.Elaboración de plan de pruebas.Definición de casos de pruebasGestión de incidencias, tanto defectos o fallas.Conocimientos básicos en SQL.Generación de data de prueba y ejecución de casos de prueba.Generación de informe de resultados.Experiencia básica en programación con javaCertificación ISTQB (deseable)Experiencia en proyectos agiles.¿Qué vamos a ofrecerte como parte del equipo?Remuneración en planilla con todas las condiciones de ley.Beneficios corporativos a través de nuestra plataforma de descuentos.Capacitaciones constantes acorde a tu línea de carrera y otras de interés general (plataformas de e-learning).La oportunidad de participar en retos altamente innovadores.Línea de carrera.Conoce más de nosotros en www.inetum.com/es o visita nuestras redes sociales como Inetum Perú para conocer más de nuestra cultura corporativa y metodologías de trabajo. ¡Te esperamos!En Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional.",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4491264539"
+    },
+    {
+        "titleJob": "QA Automation",
+        "employer": "Amaris Consulting  | Part of Mantu",
+        "linkProfileEmployer": "https://ch.linkedin.com/company/amarisconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "2 days ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4493437268"
     },
     {
         "titleJob": "Analista QA Junior",
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Surquillo, Peru",
-        "howLongAgo": "3 weeks ago",
+        "howLongAgo": "4 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -323,29 +257,29 @@
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima Metropolitan Area",
-        "howLongAgo": "2 weeks ago",
+        "howLongAgo": "6 days ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Descripción del empleoNos encontramos en la búsqueda de 1 QA JuniorRequisitosConocimiento de los conceptos de pruebasConocimiento en ejecución de pruebas funcionales.Conocimiento de los conceptos del marco de agilidad Herramientas de Automatización de Pruebas como Selenium, Karate DSL, Playwright, etc. [Básico]Conocimiento de lenguajes como Java, Python (Básico)Redacción de pruebas en lenguaje Gherkin [Intermedio]Herramientas de CI/CD como Jenkins, Gitlab, Azure DevOps. [Básico]Configuración de pipeline, ejecución de pruebasHerramientas para pruebas de performance como Jmeter, Blazemeter, k6, etc. [Deseable]Pruebas de microservicios y/o APIs , uso de herramientas como Postman, Karate u otras [básico]Herramientas de Gestión de Pruebas como JIRA, Zephyr, QMetry, etc. [Intermedio]Técnicas de diseño de casos de prueba [Intermedio]Marco de trabajo Agile (Scrum/Kanban) [Básico]Deseable Conocimiento de aplicaciones de negocio como app Mi Movistar, Magento, Dito, Visor , +Simple, MCSSSoft Skills Comunicación efectiva Proactividad Adaptación al cambio Orientación al aprendizajeInformación adicionalResidir en Lima porque se necesitará presencialidad de acuerdo a necesidad de Cliente",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4464373478"
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4449678280"
     },
     {
         "titleJob": "QA Junior Integratel",
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima Metropolitan Area",
-        "howLongAgo": "4 days ago",
+        "howLongAgo": "2 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Descripción del empleoNos encontramos en la búsqueda de 1 QA JuniorRequisitosConocimiento de los conceptos de pruebasConocimiento en ejecución de pruebas funcionales.Conocimiento de los conceptos del marco de agilidad Herramientas de Automatización de Pruebas como Selenium, Karate DSL, Playwright, etc. [Básico]Conocimiento de lenguajes como Java, Python (Básico)Redacción de pruebas en lenguaje Gherkin [Intermedio]Herramientas de CI/CD como Jenkins, Gitlab, Azure DevOps. [Básico]Configuración de pipeline, ejecución de pruebasHerramientas para pruebas de performance como Jmeter, Blazemeter, k6, etc. [Deseable]Pruebas de microservicios y/o APIs , uso de herramientas como Postman, Karate u otras [básico]Herramientas de Gestión de Pruebas como JIRA, Zephyr, QMetry, etc. [Intermedio]Técnicas de diseño de casos de prueba [Intermedio]Marco de trabajo Agile (Scrum/Kanban) [Básico]Deseable Conocimiento de aplicaciones de negocio como app Mi Movistar, Magento, Dito, Visor , +Simple, MCSSSoft Skills Comunicación efectiva Proactividad Adaptación al cambio Orientación al aprendizajeInformación adicionalResidir en Lima porque se necesitará presencialidad de acuerdo a necesidad de Cliente",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4449678280"
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4464373478"
     },
     {
         "titleJob": "QA Analyst Junior",
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "3 weeks ago",
+        "howLongAgo": "4 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -356,10 +290,10 @@
         "employer": "Encora Inc.",
         "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "2 weeks ago",
+        "howLongAgo": "3 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Habilidades clave: QA Functional Testing, JMeter, Jira Xray, Gherkin, Banking Testing, SQL, API Testing, Agile Testing.Experiencia: +3 años de experiencia en Quality Assurance funcional, pruebas de software y validación de aplicaciones en entornos ágiles y bancarios.Ubicación: Lima, Perú.Modalidad: Híbrida.En Coforge estamos buscando Mid QA Functional Engineer (#20789-3-14) con el siguiente perfil.Responsabilidades principalesDiseñar y ejecutar casos de prueba funcionales para aplicaciones web, móviles y servicios.Analizar historias de usuario y validar criterios de aceptación funcionales.Ejecutar pruebas funcionales, integración, regresión, smoke y rendimiento.Diseñar escenarios de prueba utilizando Gherkin y herramientas de gestión de calidad.Realizar validaciones de canales digitales bancarios.Gestionar evidencias, incidencias y seguimiento de defectos.Ejecutar consultas a bases de datos para validación de información.Realizar revisiones y análisis de logs de aplicaciones y servicios.Participar activamente en ceremonias ágiles Scrum y Kanban.Brindar soporte funcional y transferencia de conocimiento a nuevos integrantes del equipo.Colaborar con equipos de desarrollo y negocio para garantizar la calidad de los entregables.Requisitos indispensables+3 años de experiencia en pruebas funcionales de software.Experiencia trabajando en proyectos ágiles.Experiencia en pruebas funcionales dentro del sector bancario.Experiencia diseñando casos de prueba y aplicando técnicas de diseño de pruebas.Experiencia utilizando:Jira.Xray.Gherkin.Experiencia ejecutando pruebas de rendimiento con JMeter.Conocimiento de canales digitales bancarios.Experiencia revisando logs mediante:WinSCP.New Relic.Experiencia validando servicios mediante:Postman.SOAPUI.Experiencia trabajando con bases de datos:SQL.MySQL.Conocimiento de metodologías ágiles:Scrum.Kanban.Lean.Requisitos deseablesConocimiento de Java.Experiencia en automatización de pruebas web.Experiencia utilizando:Selenium.Serenity BDD.Screenplay.Rest Assured.Appium.Experiencia en automatización de pruebas móviles Android e iOS.Experiencia integrando pruebas automatizadas en pipelines CI/CD.Conocimiento de sistemas IBM:CICS.ZOC7.Experiencia en pruebas de APIs REST y SOAP.Conocimiento de prácticas de calidad y automatización en entornos bancarios.Habilidades blandasComunicación efectiva.Pensamiento analítico.Resolución de problemas.Trabajo colaborativo.Adaptabilidad.Orientación a resultados.Proactividad.Atención al detalle.Capacidad de aprendizaje continuo.Capacidad para compartir conocimiento y capacitar equipos.Formación académicaBachiller o Titulado en:Ingeniería de Sistemas.Ingeniería Informática.Ingeniería de Software.Carreras afines.Publicado el: 05-11-2026.En Coforge, contratamos profesionales únicamente en función de sus habilidades y calificaciones, y no discriminamos en función de la edad, discapacidad, religión, género, orientación sexual, estado socioeconómico o nacionalidad.",
+        "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4487784285"
     },
     {
@@ -367,10 +301,10 @@
         "employer": "IBT Group Corporate",
         "linkProfileEmployer": "https://pe.linkedin.com/company/ibtgroupcorp?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "6 days ago",
+        "howLongAgo": "1 week ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "¿Quieres dejar tu huella y contribuir a la mejora de la calidad de vida de los peruanos? ¿Quieres compartir tus experiencias, aprendizajes y crecer juntos?¡Únete a IBT Group! Somos una empresa internacional con más de 12 años de presencia en Perú trabajando proyectos integrales desde la ingeniería, construcción, equipamiento y operación principalmente para el sector salud.Nos encontramos en la búsqueda de un Especialista de aseguramiento y control de calidad de Software (QA/QC):Funciones principales:Definir estrategias de prueba y elaborar criterios de aceptación, matrices, escenarios y casos de prueba, bajo estándares ISTQB.Ejecutar pruebas funcionales, no funcionales, de regresión, smoke, de API y de integración entre sistemas (HIS, LIS, ERP y servicios externos, incluida mensajería HL7, FHIR o ASTM).Coordinar las pruebas de aceptación de usuario (UAT) con áreas clínicas y administrativas.Emitir el concepto de calidad (conforme / no conforme) de cada pase a producción y verificar la evidencia de pruebas de los proveedores.Gestionar datos de prueba anonimizados, sin usar datos reales de pacientes.Gestionar el ciclo de incidencias, desde su identificación hasta el retest y cierre.Reportar indicadores de calidad: defectos por release, defectos escapados a producción, cobertura de automatización y tasa de cambios fallidos.Proponer mejores prácticas de QA/QC para entornos ágiles, incluido el uso de IA para generar casos y datos de prueba.Participar en los comités de incidentes, cambios y merge.Requisitos:Bachiller o titulado en Ingeniería de Sistemas, Software, Informática o afines.5 años de experiencia como Analista o Especialista QA/QC (indispensable).Conocimientos indispensables:Gestión de pruebas e incidencias: Jira, TestRail o Xray.Pruebas de APIs REST (Postman o similar).Automatización con Selenium, Playwright o Cypress.SQL para validación de datos.Metodologías ágiles (Scrum/Kanban).Beneficios:Banda salarial competitiva.Todos los correspondientes según ley.Capacitación constante.Descuentos con instituciones educativas, seguro oncológico, visita de proveedores y mucho más.Trabajar en una empresa acreditada internacionalmente con ISO y la Joint Commission International (una de las acreditaciones más importantes en salud a nivel mundial).Nuestra empresa está comprometida con la equidad y la inclusión, porque creemos que toda persona es única y diferente. Por eso, ¡te invitamos a postular! ¡Súmate a nuestro propósito, contribuir a mejorar la calidad de vida de los peruanos!",
+        "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4492456687"
     },
     {
@@ -389,7 +323,7 @@
         "employer": "Tata Consultancy Services",
         "linkProfileEmployer": "https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "3 weeks ago",
+        "howLongAgo": "4 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -411,22 +345,11 @@
         "employer": "NTT DATA Europe & Latam",
         "linkProfileEmployer": "https://es.linkedin.com/company/ntt-data-europe-latam?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima Metropolitan Area",
-        "howLongAgo": "1 week ago",
+        "howLongAgo": "2 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4479166378"
-    },
-    {
-        "titleJob": "QA Automation",
-        "employer": "Amaris Consulting  | Part of Mantu",
-        "linkProfileEmployer": "https://ch.linkedin.com/company/amarisconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "Lima, Peru",
-        "howLongAgo": "15 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4493437268"
     },
     {
         "titleJob": "QA Functional Analyst",
@@ -436,7 +359,7 @@
         "howLongAgo": "2 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "",
+        "descriptionOffer": "About YouYou are a QA Functional Engineer passionate about ensuring software quality through structured testing, attention to detail, and a deep understanding of business processes and user workflows. You enjoy validating complex scenarios, identifying defects, and collaborating with cross-functional teams to deliver reliable and high-quality digital experiences.You are comfortable testing web and mobile applications, validating integrations, and ensuring solutions meet both functional and business requirements. You bring a proactive and analytical mindset, allowing you to anticipate risks, execute comprehensive testing activities, and contribute to continuous quality improvement.You thrive in collaborative environments where quality, usability, and customer experience are critical to success. You are detail-oriented, adaptable, and committed to delivering products that meet the highest standards of functionality and reliability.You bring to Applaudo the following competencies:Bachelor’s Degree in Computer Science, Software Engineering, Computer Engineering, or a related field is desired, or equivalent professional experience.5+ years of professional experience in Software Quality Assurance, with a strong focus on Functional Testing.Hands-on experience testing web and mobile applications.Experience designing, executing, and maintaining functional test cases and test scenarios.Experience performing API testing using Postman, SoapUI, or similar tools.Experience validating system integrations and end-to-end business workflows.Experience testing mobile applications using emulators, simulators, and physical devices.Strong analytical, troubleshooting, and defect management skills.Experience working in Agile development environments.Strong communication, collaboration, and attention to detail.English proficiency at B1 level or higher. You will be accountable for the following responsibilities:Design, execute, and maintain functional test cases and test scenarios.Validate web and mobile application functionality against business requirements.Perform API testing and validate integrations between systems and services.Execute regression, integration, exploratory, and end-to-end testing activities.Identify, document, track, and support the resolution of defects and quality issues.Collaborate closely with Product, Development, and UX/UI teams throughout the software development lifecycle.Validate user experiences across mobile devices, large-screen interfaces, and integrated hardware when applicable.Participate actively in Agile ceremonies and contribute to continuous quality improvements.Ensure delivered solutions meet quality standards and business expectations. Qualifications5+ years of Functional QA experience.Web and Mobile Application Testing.API Testing and System Integration Validation.Functional, Regression, and End-to-End Testing.Agile development experience.B1+ English proficiency. Additional InformationAbout UsWe Are Engineered Different.At Applaudo, talented people design, build, and scale meaningful, AI-powered solutions that create real business impact. As an AI-native organization, we collaborate across design, development, cloud, data, and artificial intelligence to turn ideas into scalable products that transform how companies operate, make decisions, and grow.We are building a high-performance culture grounded in five values: Empowering Excellence, Collaborative Teamwork, Unsolicited Respect, Consistent Transparency, and Efficient Communication. These define how we work, how we support one another, and how we hold ourselves accountable.Applaudo is a place for people who want to learn fast, take ownership, and work alongside strong teams they are proud to belong to. Joining us means being part of an organization that is evolving intentionally, investing in modern ways of working, and leading AI-native transformation at scale.",
         "linkOffer": "https://www.linkedin.com/jobs/view/4489606431"
     },
     {
@@ -444,7 +367,7 @@
         "employer": "Encora Inc.",
         "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "2 days ago",
+        "howLongAgo": "4 days ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -455,7 +378,7 @@
         "employer": "Tata Consultancy Services",
         "linkProfileEmployer": "https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima Metropolitan Area",
-        "howLongAgo": "2 days ago",
+        "howLongAgo": "4 days ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -466,10 +389,10 @@
         "employer": "Encora Inc.",
         "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "2 weeks ago",
+        "howLongAgo": "3 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "",
+        "descriptionOffer": "Habilidades clave: Functional Testing, Banking QA, BanTotal, SQL, API Testing, Performance Testing, JMeter, Postman.Experiencia: +4 años de experiencia en certificación funcional y aseguramiento de calidad dentro del sector bancario o financiero.Ubicación: Perú.Modalidad: Híbrida.En Coforge estamos buscando Senior QA Certification Analyst (#20792-7-8) con el siguiente perfil.Responsabilidades principalesEjecutar procesos de certificación funcional para proyectos y productos financieros.Validar procesos transaccionales relacionados con créditos, pagos, desembolsos y operaciones bancarias.Realizar pruebas funcionales end-to-end sobre aplicaciones, servicios y plataformas financieras.Ejecutar validaciones cruzadas entre interfaz de usuario, APIs, logs y bases de datos.Diseñar, documentar y ejecutar casos de prueba funcionales.Identificar, documentar y realizar seguimiento de defectos durante los ciclos de certificación.Validar integridad y trazabilidad de la información utilizando tablas BanTotal.Ejecutar pruebas de rendimiento sobre APIs y servicios.Analizar trazas y comportamiento de aplicaciones mediante herramientas de observabilidad.Colaborar con equipos de desarrollo, negocio y soporte para asegurar la calidad de las entregas.Generar evidencias, reportes y documentación de certificación.Requisitos indispensables+4 años de experiencia en Quality Assurance funcional y certificación de software.Experiencia en proyectos del sector bancario o financiero.Experiencia validando:Créditos.Pagos.Desembolsos.Operaciones financieras transaccionales.Manejo de tablas BanTotal para validaciones funcionales y trazabilidad (requisito excluyente).Experiencia realizando validaciones entre interfaz de usuario y base de datos.Conocimiento sólido de SQL.Experiencia trabajando con bases de datos relacionales.Experiencia validando APIs y servicios mediante Postman.Experiencia ejecutando pruebas de performance utilizando JMeter.Experiencia utilizando Elastic para observabilidad y análisis de trazas.Experiencia utilizando Git para revisión y análisis de cambios.Experiencia identificando, documentando y realizando seguimiento de incidencias.Capacidad para ejecutar pruebas funcionales de manera autónoma.Requisitos deseablesConocimientos de automatización de pruebas.Experiencia validando servicios REST.Experiencia trabajando en arquitecturas orientadas a servicios o microservicios.Experiencia en proyectos de transformación digital dentro del sector financiero.Conocimiento de buenas prácticas de automatización y calidad de software.Familiaridad con herramientas de integración continua.Habilidades blandasPensamiento analítico.Atención al detalle.Comunicación efectiva.Resolución de problemas.Trabajo colaborativo.Autonomía.Organización y planificación.Orientación a resultados.Capacidad investigativa.Adaptabilidad.Formación académicaBachiller o Titulado en:Ingeniería de Sistemas.Ingeniería Informática.Ingeniería de Software.Carreras afines.Publicado el: 05-11-2026.En Coforge, contratamos profesionales únicamente en función de sus habilidades y calificaciones, y no discriminamos en función de la edad, discapacidad, religión, género, orientación sexual, estado socioeconómico o nacionalidad.",
         "linkOffer": "https://www.linkedin.com/jobs/view/4487781404"
     },
     {
@@ -477,21 +400,21 @@
         "employer": "Valtx PerÃº",
         "linkProfileEmployer": "https://pe.linkedin.com/company/valtx-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "San Borja, Peru",
-        "howLongAgo": "6 days ago",
+        "howLongAgo": "6 hours ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "En Valtx, empresa con 25 años de experiencia en el mercado peruano, cuyo objetivo principal es convertirse en un socio estratégico, mediante soluciones tecnológicas en los diversos aspectos de los procesos de negocios; el desarrollo, implementación y mantenimiento de aplicaciones e infraestructura tecnológica para el negocio; y consultoría en diversos procesos de transformación, nos encontramos en la búsqueda de un QA AUTOMATIZADOR SR.Función Básica Del Puesto Liderar el proceso de QA dentro del equipo, incluyendo la planificación, ejecución y cierre de las pruebas. Definir la estrategia de pruebas, criterios de aceptación y cobertura con base en las Historias de Usuario (HU). Ejecutar pruebas funcionales, no funcionales y End-to-End (E2E), validando integraciones entre microservicios Validar APIs (REST/SOAP), flujos de datos y pruebas a nivel de base de datos (SQL Server y MongoDB) Ejecutar pruebas sobre aplicaciones web y móviles, incluyendo la validación de integraciones con SDKs. Automatizar pruebas de API y/o UI, integrándolas en pipelines CI/CD Validar despliegues en entornos distribuidos (.NET, Docker, Linux e IIS) y realizar troubleshooting básico Validar el funcionamiento de sistemas distribuidos mediante Kafka y Redis Ejecutar pruebas de rendimiento y validaciones básicas de seguridad (OWASP). Gestionar defectos, evidencias y reportes de pruebas, así como coordinar y liderar la ejecución de pruebas UAT¿Qué requisitos necesito?Formación Profesional de las carreras de Ingeniería de Sistemas, Informática o afines.ExperienciaMínimo 5 años en la ejecución de pruebas funcionales de sistema, de regresión y de aceptación del usuario.Mínimo 3 años de experiencia comprobada en arquitecturas de microservicios y pruebas de APIsMínimo 2 años de experiencia trabajando en entornos DevOps/CI-CDHabilidades TécnicasConsumo y pruebas de APIs REST/SOAP mediante Postman y Swagger/OpenAPI, incluyendo pruebas End-to-End (E2E).Conocimientos en bases de datos SQL Server (T-SQL) y MongoDB.Conocimientos en plataformas de mensajería y almacenamiento distribuido (Kafka y Redis).Automatización de pruebas con Selenium, Playwright, Appium y Karate. Integración de pruebas en pipelines CI/CD mediante Azure DevOps o GitHub.Pruebas de rendimiento y seguridad con JMeter, SonarQube (bugs, cobertura de código y Quality Gates), Veracode y OWASP ZAP.Manejo de Azure, GitHub y GitHub Copilot.Conocimientos en .NET, arquitectura de microservicios, Docker, Linux e IIS.Conocimientos en pruebas de aplicaciones móviles (Android/iOS) e integración de SDKs.Seguridad: Veracode y OWASP.Conocimiento de metodologías ágiles (Scrum y Kanban).Nivel de inglés intermedio.Condiciones De TrabajoTrabajo hibrido en San BorjaL a V de 9:00am a 6:00pmBeneficiosPlanilla Completa desde el 1er día de trabajo.EPSConvenios Corporativos.Crecimiento y desarrollo profesional.¿Por qué Valtx?Porque creemos que el talento se potencia con propósito. En Valtx no solo desarrollamos tecnología, transformamos negocios y acompañamos a nuestros colaboradores en su desarrollo profesional, promoviendo una cultura colaborativa, cercana y orientada a la excelencia.¿Estás listo para construir soluciones que marcan la diferencia?Postula hoy y forma parte de un equipo que evoluciona contigo.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4492437538"
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4495893827"
     },
     {
         "titleJob": "Test Automation Engineer (Playwright) - Remote Work",
         "employer": "BairesDev",
         "linkProfileEmployer": "https://www.linkedin.com/company/bairesdev?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "10 hours ago",
+        "howLongAgo": "2 days ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "",
+        "descriptionOffer": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.Test Automation Engineer (Playwright) at BairesDevAs a Test Automation Engineer specializing in Playwright, you will develop and maintain robust cross-browser test automation suites to ensure the highest quality standards. You will play a key role in implementing end-to-end testing strategies, handling complex scenarios like multi-tab workflows and network interception to provide comprehensive coverage for modern web applications.What You'll Do:- Design and implement automated E2E test scripts using Playwright and TypeScript.- Develop and maintain scalable, cross-browser automation frameworks to ensure consistent application behavior.- Execute and manage complex testing scenarios, including multi-tab, multi-origin, and network-level interceptions.- Integrate automated tests into CI/CD pipelines to facilitate rapid and reliable feedback loops.- Analyze test results and collaborate with development teams to identify, document, and resolve software defects.- Optimize test execution for speed and reliability by utilizing Playwright's native features and best practices.What we are looking for:- 4+ years of experience in QA Automation or Software Engineering.- Proven expertise in developing cross-browser test automation using Playwright and TypeScript.- Hands-on experience handling multi-tab, multi-origin, and network interception testing scenarios.- Deep understanding of end-to-end (E2E) testing best practices and CI/CD integration.- Advanced proficiency in English.How we do make your work (and your life) easier:- 100% remote work (from anywhere).- Excellent compensation in USD or your local currency if preferred- Hardware and software setup for you to work from home.- Flexible hours: create your own schedule.- Paid parental leaves, vacations, and holidays.- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.Apply now and become part of a global team where your unique talents can truly thrive!",
         "linkOffer": "https://www.linkedin.com/jobs/view/4494948935"
     },
     {
@@ -499,10 +422,10 @@
         "employer": "Ayesa Digital",
         "linkProfileEmployer": "https://es.linkedin.com/company/ayesadigital?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "San Isidro, Peru",
-        "howLongAgo": "5 days ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
+        "howLongAgo": "1 week ago",
+        "recruiter": "Carlos Huapaya",
+        "profileRecruiter": "https://pe.linkedin.com/in/carlos-huapaya-a42036267",
+        "descriptionOffer": "¡En Ayesa Digital crecemos contigo!Cada profesional de nuestra empresa es importante para nosotros, nos ayudan a crecer de manera diversa y gracias a ellos somos más de 11.000 personas trabajando con el mismo objetivo en 10 países.Si eres una persona entusiasta y buscas un nuevo reto profesional, ¡Este es tu sitio!Buscamos ampliar nuestro equipo con un/a QA ENGINEER para incorporarse en las oficinas de nuestro cliente en Perú-Lima.¡Anímate a dar el salto! ¡Te estamos esperando!¿Qué buscamos?Experiencia en pruebas funcionales, integrales y de regresión, combinando validación manual con automatización.Capacidad para diseñar escenarios de prueba de extremo a extremo y detectar riesgos antes de liberar cambios.Interés práctico en aplicar IA generativa al diseño de casos, análisis de resultados y generación de datos de prueba.Conocimiento de ciclos de desarrollo ágil, integración continua y buenas prácticas de calidad y seguridad.Habilidades claveAutomatización con Playwright, Cypress, Selenium o Appium; experiencia en al menos una herramienta.QA manual, diseño de casos de prueba, pruebas funcionales, regresión, integración y UAT.SQL Server y consultas SQL para validación de datos.Gestión de pruebas con TestQuality o herramientas equivalentes.Integración de pruebas en pipelines CI/CD y nociones de DevOps.Uso de asistentes de IA para QA (por ejemplo, Copilot, Mabl o soluciones equivalentes).Deseable: Azure, Windows/IIS, OWASP e ISTQB.Responsabilidades del puestoElaborar planes, escenarios y casos de prueba funcionales, integrales, de regresión y no funcionales, según el alcance de cada cambio.Diseñar, mantener y ejecutar scripts automatizados; integrar su ejecución en los pipelines CI/CD.Utilizar IA para proponer casos de prueba, identificar escenarios omitidos, generar datos sintéticos y apoyar el análisis de logs.Registrar evidencias, defectos e incidentes; analizar resultados y dar seguimiento a su resolución.Coordinar y ejecutar pruebas UAT con usuarios de negocio y validar que los entregables cumplan los criterios de aceptación.Documentar aplicaciones y procedimientos de prueba, y colaborar con los equipos de desarrollo, TI y seguridad para prevenir defectos.¿Qué ofrecemos?Oportunidad para trabajar en proyectos innovadores de tecnología.Ambiente dinámico, colaborativo y multinacional.Remuneración competitiva según el mercado.Modalidad: HíbridaInteresados enviar CV documentado a cehuapaya@ayesa-digital.com, con el asunto: QA ENGINEER.¡Únete a la multinacional española tecnológica referente en el mundo!Atendiendo a lo establecido en la Ley N.º 26772, que prohíbe toda discriminación en la oferta de empleo y acceso al mismo por motivo de origen, raza, sexo, idioma, religión, opinión, condición económica o de cualquier otra índole, así como en la Ley General de las Personas con Discapacidad (Ley N.º 29973), Ayesa promueve la igualdad de oportunidades en el acceso y permanencia al empleo para todas las personas, sin distinción.#Trabajo #AyesaPerú #QAEngineer #QAAutomation #TIC #Testing",
         "linkOffer": "https://www.linkedin.com/jobs/view/4491952181"
     },
     {
@@ -510,7 +433,7 @@
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "1 week ago",
+        "howLongAgo": "2 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
@@ -521,10 +444,10 @@
         "employer": "Tata Consultancy Services",
         "linkProfileEmployer": "https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "7 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
+        "howLongAgo": "2 days ago",
+        "recruiter": "Dafne Tapia Herrera",
+        "profileRecruiter": "https://pe.linkedin.com/in/dafne-tapia-herrera",
+        "descriptionOffer": "En TCS Perú buscamos un(a) profesional de QA Funcional Semi Senior responsable de asegurar la calidad de aplicaciones, servicios y procesos transaccionales mediante la ejecución de pruebas funcionales, validación de APIs, análisis de datos y gestión de defectos. Tendrá un impacto directo en la confiabilidad y estabilidad de las soluciones del sector bancario, participando activamente en entornos Agile y colaborando con equipos multidisciplinarios durante todo el ciclo de desarrollo.Responsabilidades ClaveEjecutar pruebas funcionales end-to-end sobre aplicaciones, servicios y procesos transaccionales.Validar flujos de negocio e integración entre Host, servicios y aplicativos.Realizar pruebas de APIs utilizando herramientas como Postman y/o Bruno.Ejecutar consultas SQL para validar información, reglas de negocio y consistencia de datos.Gestionar casos de prueba, defectos, evidencias y trazabilidad mediante Jira y Xray.Realizar pruebas de regresión, integración y validación de criterios de aceptación.Participar en ceremonias Agile/Scrum y colaborar con equipos de desarrollo, análisis y producto.Identificar oportunidades de mejora y casos candidatos para automatización.Expertise Tecnológico / Técnico4 a 5+ años de experiencia en Quality Assurance Funcional.Experiencia indispensable realizando pruebas funcionales en proyectos del sector bancario.Certificación ISTQB Foundation vigente u obligatoria.Experiencia en pruebas de APIs utilizando Postman y/o Bruno.Conocimiento intermedio de SQL, incluyendo joins, consultas transaccionales y validación de datos.Experiencia básica en ejecución de pruebas de performance con JMeter.Manejo de Jira y Xray para gestión de pruebas, incidencias y trazabilidad.Experiencia en gestión de defectos, documentación de evidencias y análisis de logs.Conocimiento de Git para control de versiones.Experiencia trabajando bajo metodologías Agile/Scrum.Experiencia ejecutando scripts automatizados existentes para pruebas Web, API y Host.Uso de herramientas basadas en IA como Copilot para apoyar procesos de documentación y análisis.Skills DeseablesCertificación ISTQB Test Automation.Experiencia con plataformas y canales bancarios como CICS, Connex, ACO, Systematics, GET, ZOC, Panagon o Vision360.Experiencia utilizando Simulador VISA y/o AMEX.Conocimientos en procesos de emisor/adquiriente, controversias, reclamos y prevención de fraude.Nociones de automatización utilizando Selenium, RestAssured o herramientas similares.Conocimiento general del patrón Screenplay.Capacidad analítica, orientación al detalle y enfoque en mejora continua.Otras ConsideracionesTata Consultancy Services es un empleador que ofrece igualdad de oportunidades. Nuestro compromiso con la diversidad e inclusión impulsa nuestros esfuerzos para brindar igualdad de oportunidades a todos los candidatos que cumplan con las competencias requeridas, sin importar su origen socioeconómico, raza, color, origen nacional, religión, sexo, identidad o expresión de género, edad, estado civil, discapacidad, orientación sexual o cualquier otra característica.",
         "linkOffer": "https://www.linkedin.com/jobs/view/4495223690"
     },
     {
@@ -533,9 +456,9 @@
         "linkProfileEmployer": "https://in.linkedin.com/company/coforge-tech?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
         "howLongAgo": "1 week ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
+        "recruiter": "Sophia Casas Flores",
+        "profileRecruiter": "https://pe.linkedin.com/in/sophia-casas-flores-503125160",
+        "descriptionOffer": "Título del puesto: QA Automation Engineer SAP S/4HANAHabilidades clave: SAP S/4HANA, SAP GUI, SAP Fiori, QA Automation, Tricentis Tosca, Panaya, Testing End-to-End, APIs, OData, SAP ActivateExperiencia: +3 años de experiencia en QA Automation SAP.Ubicación: PerúModalidad: Remoto / HíbridoEn Coforge estamos buscando QA Automation Engineer SAP S/4HANA (20787-12-7) con el siguiente perfil.Responsabilidades principalesDiseñar, desarrollar y mantener suites de automatización para procesos SAP S/4HANA.Automatizar escenarios funcionales y de regresión sobre SAP GUI y SAP Fiori.Ejecutar pruebas End-to-End que involucren múltiples módulos SAP como FI, CO, MM, SD y PP.Analizar requerimientos funcionales y técnicos para transformarlos en casos de prueba automatizados.Participar en proyectos de implementación, rollout, localización y evolución de soluciones SAP.Validar integraciones entre SAP y sistemas externos mediante APIs, OData, Web Services e IDocs.Colaborar con equipos funcionales, técnicos y de negocio dentro de entornos multiproveedor.Requisitos indispensablesIngeniería de Sistemas, Ingeniería Informática o carreras afines.Mínimo 3 años de experiencia como QA Engineer, QA Automation Engineer o posiciones similares.Mínimo 3 años de experiencia en automatización de pruebas SAP, desarrollando y manteniendo suites de regresión.Experiencia automatizando pruebas sobre SAP GUI y/o SAP Fiori.Experiencia en proyectos SAP de implementación, rollout o evolución.Conocimiento técnico-funcional de SAP S/4HANA y entendimiento de procesos de negocio End-to-End.Experiencia en pruebas de integración entre SAP y sistemas externos.Conocimiento de herramientas de automatización como Tricentis Tosca, Panaya o equivalentes.Conocimiento de SAP Activate y metodologías de pruebas asociadas.Experiencia trabajando con APIs, OData, Web Services e IDocs.Capacidad analítica, autonomía técnica y orientación a resultados.Requisitos deseablesCertificación ISTQB Foundation Level.Certificación ISTQB Test Automation Engineering.Experiencia en entornos multisociedad y multinacionales.Experiencia integrando automatizaciones con procesos CI/CD.Conocimiento avanzado de módulos SAP FI, CO, MM, SD y PP.Experiencia trabajando en entornos ágiles y equipos multidisciplinarios.Publicado el: 16-11-2026En Coforge, contratamos profesionales únicamente en función de sus habilidades y calificaciones, y no discriminamos en función de la edad, discapacidad, religión, género, orientación sexual, estado socioeconómico o nacionalidad.",
         "linkOffer": "https://www.linkedin.com/jobs/view/4490922957"
     },
     {
@@ -543,10 +466,10 @@
         "employer": "Inetum",
         "linkProfileEmployer": "https://fr.linkedin.com/company/inetum?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "San Isidro, Peru",
-        "howLongAgo": "3 weeks ago",
+        "howLongAgo": "4 weeks ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "",
+        "descriptionOffer": "Somos Inetum, una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes en el proceso de digitalización aprovechando al máximo el digital flow. Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el Grupo tiene cerca de 27.000 colaboradores y apunta a continuar creciendo. ¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito! Si te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de IT y de negocios: ¡Postula ahora!Actualmente nos encontramos en búsqueda de 01 Analista de Calidad para que se integre a nuestro equipo.Requisitos indispensablesProfesional, Bachiller o Egresado(a) de Ingeniería de Sistemas, Informática, Computación o carreras afines.+2 años de experiencia en Control de Calidad (QA) o Aseguramiento de Calidad de Software en proyectos de desarrollo.Experiencia en ejecución de pruebas funcionales, pruebas de regresión, smoke test y validación de aplicaciones.Experiencia utilizando herramientas para pruebas de APIs como SoapUI, Postman, Insomnia o similares.Conocimientos de bases de datos SQL Server y Oracle para validación de información y ejecución de consultas durante las pruebas.Conocimiento de metodologías ágiles y prácticas de desarrollo como Agile, Scrum y DevOps.Conocimiento en pruebas de volumen, estrés y rendimiento.Experiencia o conocimiento en automatización de pruebas utilizando Selenium, Cucumber, JMeter o herramientas similares.Experiencia en elaboración de casos de prueba, ejecución, documentación de evidencias y seguimiento de incidencias.Manejo de herramientas de gestión y seguimiento de defectos.Requisitos deseablesExperiencia generando reportes mediante SQL Server Reporting Services (SSRS).Conocimiento en modelado y diagramación de procesos utilizando Bizagi, Draw.io, Visio o UML.Conocimiento en pruebas de seguridad y análisis de vulnerabilidades utilizando OWASP ZAP, Tenable o herramientas similares.Conocimiento en análisis e inspección de código utilizando SonarQube, FishEye o herramientas afines.Certificaciones relacionadas con Testing y Calidad de Software (ISTQB, Certified Agile Tester, Scrum Master o similares).BeneficiosIncorporación a planilla con todos los beneficios de leyCapacitaciones generales y específicas de acuerdo a tu especialidadActividades de integración y Wellness ProgramsDescuentos corporativos en diversos establecimientosEPS Rímac 100% cubierta en plan base para titularCondicionesModalidad híbrida , 2 a 3 veces a la semana en oficinas de cliente - San Isidro, Lima.Horario de Lunes a viernes de 8:30 am a 6:30 pmConoce más de nosotros en www.inetum.com/es o visita nuestras redes sociales como Inetum Perú para conocer más de nuestra cultura corporativa y metodologías de trabajo. ¡Te esperamos!En Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional.",
         "linkOffer": "https://www.linkedin.com/jobs/view/4485298616"
     },
     {
@@ -554,7 +477,7 @@
         "employer": "Encora Inc.",
         "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "6 days ago",
+        "howLongAgo": "1 week ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "Habilidades clave: Functional Testing, Banking QA, BanTotal, SQL, API Testing, Performance Testing, JMeter, QA Certification.Experiencia: +4 años de experiencia en certificación funcional y aseguramiento de calidad dentro del sector bancario o financiero.Ubicación: Perú.Modalidad: Híbrido.En Coforge estamos buscando Senior QA Certification Analyst (#20792-7-8) con el siguiente perfil.Responsabilidades principalesEjecutar procesos de certificación funcional para proyectos y productos financieros.Validar procesos transaccionales relacionados con créditos, pagos, desembolsos y operaciones bancarias.Realizar pruebas funcionales end-to-end sobre aplicaciones, servicios y plataformas financieras.Ejecutar validaciones cruzadas entre interfaz de usuario, APIs, logs y bases de datos.Diseñar, documentar y ejecutar casos de prueba funcionales utilizando Gherkin.Identificar, documentar y realizar seguimiento de defectos durante los ciclos de certificación.Validar integridad y trazabilidad de la información utilizando tablas BanTotal.Ejecutar pruebas de rendimiento sobre APIs y servicios.Analizar trazas y comportamiento de aplicaciones mediante herramientas de observabilidad.Participar activamente en revisiones funcionales y pruebas estáticas.Generar evidencias, métricas y reportes de calidad para la toma de decisiones.Colaborar con equipos de desarrollo, negocio y soporte para asegurar la calidad de las entregas.Requisitos indispensables+4 años de experiencia en Quality Assurance funcional y certificación de software.Experiencia en proyectos del sector bancario o financiero.Experiencia validando:Créditos.Pagos.Desembolsos.Operaciones financieras transaccionales.Manejo de tablas BanTotal para validaciones funcionales y trazabilidad (requisito excluyente).Experiencia realizando validaciones entre interfaz de usuario y base de datos.Conocimiento sólido de SQL.Experiencia trabajando con bases de datos relacionales.Experiencia ejecutando pruebas de performance (requisito mandatorio).Experiencia realizando pruebas estáticas.Experiencia redactando escenarios y casos de prueba utilizando lenguaje Gherkin.Experiencia con motores de reglas (BRMS).Experiencia validando APIs y servicios mediante Postman.Experiencia ejecutando pruebas de performance utilizando JMeter.Experiencia utilizando Elastic para observabilidad y análisis de trazas.Experiencia utilizando Git para revisión y análisis de código.Conocimiento de SonarQube.Capacidad para interpretar y sustentar métricas y umbrales de calidad.Experiencia identificando, documentando y realizando seguimiento de incidencias.Capacidad para ejecutar pruebas de manera autónoma e independiente.Capacidad para responder y analizar escenarios con profundidad técnica.Requisitos deseablesConocimientos de automatización de pruebas.Experiencia validando servicios REST y arquitecturas de microservicios.Experiencia trabajando en entornos de integración continua.Conocimiento de herramientas de calidad y observabilidad.Experiencia en transformación digital dentro del sector financiero.Habilidades blandasPensamiento analítico.Atención al detalle.Comunicación efectiva.Resolución de problemas.Trabajo colaborativo.Autonomía.Organización y planificación.Orientación a resultados.Capacidad investigativa.Adaptabilidad.Formación académicaBachiller o Titulado en:Ingeniería de Sistemas.Ingeniería Informática.Ingeniería de Software.Carreras afines.Publicado el: 19-11-2026.En Coforge, contratamos profesionales únicamente en función de sus habilidades y calificaciones, y no discriminamos en función de la edad, discapacidad, religión, género, orientación sexual, estado socioeconómico o nacionalidad.",
@@ -576,10 +499,10 @@
         "employer": "Interbank",
         "linkProfileEmployer": "https://pe.linkedin.com/company/interbank?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "2 weeks ago",
-        "recruiter": "Gisselle ChacÃ³n Luna",
-        "profileRecruiter": "https://pe.linkedin.com/in/gissellechacon",
-        "descriptionOffer": "¿Te gustaría destacar con tu talento creando e implementando innovaciones tecnológicas que contribuyan a la transformación digital del país? Si es así, ¡tenemos una gran oportunidad para ti! Trasciende con tu talento como Software Test Engineer ¿Qué necesitamos de ti?Profesional de Ingeniería de Sistemas o afines.Experiencia de 1 a 3 años realizando automatizaciones en servicios y mainframe.Experiencia realizando pruebas con API REST, SOAP.Experiencia mínima de 1 año años en el sector de Banca, deseable con conocimientos en los productos de Cuentas Corrientes, Remesas, Transferencias Interbancarias.Experiencia formando parte de equipos con el enfoque de Metodología Ágil (Scrum / Kanban).Deseable Certificación ISTQB Foundation Level o superior.Conocimientos de: Automatización web aplicando Java, Python, bajo framework Serenity BDD y Screen Play. Automatización de servicios Java bajo framework Serenity BDD y patron Screen Play. Deseable conocimiento de IA, manejo de prompts, agentes Integración Continua y DevOps en Azure.Herramientas de Software: SQL Developer, SOAP UI, Bruno, Jira, XRAY, IntelliJ IDEA, JMeter. Conocimientos No Funcionales: Pruebas de Performance.¿Qué te ofrecemos en Interbank?Propósito: Impulsar la transformación digital de una de las empresas más importantes del Perú.Desafíos: Participar en proyectos que promuevan el cambio digital en el sector financiero.Crecimiento: Acceder a oportunidades de desarrollo, capacitaciones y mentorías continuas.En Interbank nos comprometemos con la igualdad de oportunidades. Tod@s l@s postulantes serán considerad@s sin importar su origen étnico, sexo, edad, estado civil, orientación sexual, religión, discapacidad, nacionalidad o condición económica.",
+        "howLongAgo": "3 weeks ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4488061169"
     },
     {
@@ -587,7 +510,7 @@
         "employer": "Encora Inc.",
         "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "2 days ago",
+        "howLongAgo": "4 days ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "Título del puesto: QA Senior PerformanceHabilidades clave: Pruebas de rendimiento, JMeter, K6, LoadRunner, Cucumber, BDD, TestNG, Jenkins, Git, Jira, Xray, análisis de métricas, análisis de logs, metodologías ágiles, DevOps.Experiencia: + 4 años de experiencia en el área de calidad y +2 años de experiencia en pruebas de rendimiento.Ubicación: Lima, Perú.Modalidad: Híbrida (2 veces por semana en Chorrillos y La Molina).En Coforge estamos buscando un QA Senior Performance (20788-8-39) con experiencia en aseguramiento de calidad y pruebas de rendimiento, capaz de analizar métricas, identificar cuellos de botella y detectar problemas que afecten el desempeño de las aplicaciones. Buscamos profesionales con conocimientos en herramientas de automatización y pruebas de carga, capacidad de resolución de problemas y experiencia trabajando en entornos ágiles.Responsabilidades principalesEjecutar pruebas de rendimiento para evaluar la capacidad de respuesta, estabilidad y escalabilidad de las aplicaciones.Analizar métricas de rendimiento y registros (logs) para identificar cuellos de botella y problemas que afecten el desempeño de los sistemas.Diseñar y ejecutar pruebas de carga y rendimiento utilizando herramientas como JMeter, K6, LoadRunner o similares.Implementar y aplicar prácticas de desarrollo guiado por comportamiento (BDD) utilizando Cucumber.Utilizar herramientas como TestNG, Jenkins y Git para apoyar los procesos de automatización y ejecución de pruebas.Gestionar actividades de aseguramiento de calidad mediante herramientas como Jira y Xray.Identificar, analizar y documentar problemas de rendimiento, proponiendo soluciones y oportunidades de mejora.Trabajar de manera autónoma y colaborativa con los equipos de desarrollo y calidad en entornos ágiles.Aplicar buenas prácticas de metodologías ágiles y DevOps durante los procesos de aseguramiento de calidad.Requisitos indispensablesMás de 4 años de experiencia en el área de calidad de software.Más de 2 años de experiencia utilizando herramientas de pruebas de rendimiento como JMeter, K6, LoadRunner o similares.Habilidad para analizar métricas de rendimiento y registros (logs), identificando cuellos de botella y problemas de desempeño.Conocimientos y experiencia en BDD (desarrollo guiado por comportamiento), utilizando Cucumber.Familiaridad con TestNG, Jenkins y Git.Experiencia utilizando herramientas de gestión de proyectos y pruebas como Jira y Xray.Fuertes habilidades de resolución de problemas y atención al detalle.Capacidad para trabajar de manera autónoma y en equipo en entornos ágiles.Conocimientos de metodologías ágiles y prácticas DevOps.Publicado el: 23-11-2026En Coforge, contratamos profesionales únicamente en función de sus habilidades y calificaciones, y no discriminamos en función de la edad, discapacidad, religión, género, orientación sexual, estado socioeconómico o nacionalidad.",
@@ -598,7 +521,7 @@
         "employer": "Valtx PerÃº",
         "linkProfileEmployer": "https://pe.linkedin.com/company/valtx-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Santiago de Surco, Peru",
-        "howLongAgo": "1 day ago",
+        "howLongAgo": "3 days ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "En Valtx, empresa con 25 años de experiencia en el mercado peruano, cuyo objetivo principal es convertirse en un socio estratégico, mediante soluciones tecnológicas en los diversos aspectos de los procesos de negocios; el desarrollo, implementación y mantenimiento de aplicaciones e infraestructura tecnológica para el negocio; y consultoría en diversos procesos de transformación, nos encontramos en la búsqueda de un QA Automatizador Sr.Función Básica Del PuestoDefinir estrategias y cobertura de pruebas.Diseñar y ejecutar pruebas automatizadas web y APIs.Ejecutar pruebas de integración y regresión.Validar contratos y comunicaciones entre microservicios.Diseñar y ejecutar pruebas de rendimiento.Analizar métricas e identificar problemas de rendimiento.Validar mecanismos de autenticación, autorización y seguridad en APIs.¿Qué requisitos necesito?Formación Bachiller en Carrera de Ingeniería de Sistemas, Informática o afines.ExperienciaExperiencia mínima de 5 años en aseguramiento de calidad, realizando diseño, planificación y ejecución de pruebas.Experiencia mínima de 3 años en automatización de pruebas web y APIs, utilizando Playwright, JavaScript/TypeScript y herramientas de pruebas de API.Experiencia mínima de 2 años en pruebas de rendimiento, diseñando y ejecutando pruebas de carga y estrés con JMeter, Gatling o k6.Habilidades TécnicasGestión y cobertura de pruebas: Trazabilidad, cobertura por requisitos y riesgos, y técnicas de diseño de casos de prueba. (Jira y gestores de pruebas)Fundamentos de HTTP: Métodos, códigos de estado, headers, cookies, caché, CORS y TLS.(Chrome DevTools y Apidog)APIs: Validación de contratos, esquemas, encadenamiento de solicitudes y respuestas, y manejo de errores. (Apidog, Postman y Karate.)Autenticación y gestión de tokens: JWT y OAuth 2.0, expiración, renovación, scopes y validación de manipulación de tokens. (Apidog, Karate y DevTools)Automatización web: Diseño y desarrollo de scripts de prueba automatizados, manejo de selectores, esperas, interceptación de tráfico de red y ejecución paralela. (Playwright)JavaScript/TypeScript.: Programación asíncrona, manejo de JSON y desarrollo de scripts de automatizados.Análisis con Chrome DevTools y n avegadores: Manejo de Network, Console, Application y Performance para identificar errores y analizar el comportamiento de las aplicaciones.Pruebas de rendimiento: Diseño y ejecución de pruebas de carga, estrés, picos y resistencia; modelado de concurrencia y ramp-up. (Gatling, JMeter o k6.)Análisis de métricas : Conocimiento de tiemopos de respuesta, percentiles p95/p99, throughput, tasa de errores, saturación e identificación de cuellos de botella. (Reportes de carga y dashboards.)).Condiciones De TrabajoTrabajo hibrido en SurcoL a V de 9:00am a 7:00pmBeneficiosPlanilla Completa desde el 1er día de trabajo.EPSConvenios Corporativos.Crecimiento y desarrollo profesional.¿Por qué Valtx?Porque creemos que el talento se potencia con propósito. En Valtx no solo desarrollamos tecnología, transformamos negocios y acompañamos a nuestros colaboradores en su desarrollo profesional, promoviendo una cultura colaborativa, cercana y orientada a la excelencia.¿Estás listo para construir soluciones que marcan la diferencia?Postula hoy y forma parte de un equipo que evoluciona contigo.",
@@ -609,10 +532,10 @@
         "employer": "Tata Consultancy Services",
         "linkProfileEmployer": "https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima Metropolitan Area",
-        "howLongAgo": "2 days ago",
+        "howLongAgo": "4 days ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "En Tata Consultancy Services Perú, el/la Analista QA Funcional Intermedio es responsable de ejecutar pruebas funcionales, de regresión y de servicios para soluciones bancarias, asegurando la calidad de los entregables. Además, participa en equipos Scrum y contribuye a la mejora y automatización de los procesos de testing. Responsabilidades claveEjecutar pruebas funcionales, de regresión y de servicios.Validar productos bancarios y funcionalidades sobre plataformas AS400.Coordinar actividades de calidad con equipos Scrum.Comprobar información mediante consultas en bases de datos.Participar en iniciativas de automatización de pruebas.Cumplir los entregables dentro de los plazos establecidos.Perfil del puestoBachiller o profesional de Ingeniería de Sistemas, Informática o carreras afines.Más de 3 años de experiencia en testing funcional dentro del sector bancario.Trayectoria en pruebas de tarjetas de crédito, débito, préstamos, cobranzas o telebanking.Manejo de Oracle SQL, MySQL o PostgreSQL.Conocimientos de Java o .NET aplicados a procesos de calidad.Familiaridad con automatización, Selenium y Jenkins.Experiencia trabajando bajo metodología Agile y Scrum.Deseable participación en pruebas de módulos AS400.Otras consideracionesTata Consultancy Services es un empleador que ofrece igualdad de oportunidades. Nuestro compromiso con la diversidad y la inclusión impulsa nuestros esfuerzos para brindar igualdad de oportunidades a todos los candidatos que satisfacen nuestras necesidades de conocimientos y competencias requeridas, independientemente de cualquier origen socioeconómico, raza, color, origen nacional, religión, sexo, identidad/expresión de género, edad, estado civil, discapacidad, orientación sexual u otro.",
+        "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4493672246"
     },
     {
@@ -620,10 +543,10 @@
         "employer": "Tata Consultancy Services",
         "linkProfileEmployer": "https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "18 hours ago",
-        "recruiter": "",
-        "profileRecruiter": "",
-        "descriptionOffer": "",
+        "howLongAgo": "2 days ago",
+        "recruiter": "Pablo Herrera Espinoza",
+        "profileRecruiter": "https://cl.linkedin.com/in/pablo-herrera-espinoza-a24a8495",
+        "descriptionOffer": "En Tata Consultancy Services (TCS) Perú estamos en búsqueda de talentos como tú. Somos una empresa mundial líder en servicios de tecnología.Hoy estamos buscando un QA Automation Engineer con al menos 5 años de experiencia general en QA, idealmente con experiencia en proyectos de banca y servicios financieros.El rol tendrá un papel relevante en el aseguramiento de calidad de soluciones tecnológicas para la industria financiera, con foco en automatización de pruebas, APIs y microservicios, trabajando de manera colaborativa con equipos multidisciplinarios.Requisitos:5+ años de experiencia general como QA.Al menos 2 años de experiencia en automatización de APIs utilizando REST Assured y/o Karate.Experiencia en proyectos de banca, servicios financieros o industria financiera.Experiencia en pruebas de APIs y microservicios.Experiencia utilizando Jira y/o Gherkin.Conocimientos o experiencia con Selenium, Cucumber, Postman y TestNG.Conocimientos en pruebas de performance utilizando JMeter.Conocimientos de ISTQB. La certificación no es indispensable, pero se valorarán cursos o formación relacionada.Perfil proactivo, autónomo, comunicativo y con capacidad de liderazgo.Disponibilidad para trabajar en modalidad híbrida en Lima, Perú.¿Por qué TCS?Proyectos globales y clientes de primer nivel.Cultura diversa, colaborativa e inclusiva.Estabilidad y oportunidades de crecimiento a largo plazo.Plan de carrera y desarrollo profesional con acceso a certificaciones internacionales.Capacitación continua y oportunidades de crecimiento.Postula ahora y sé parte de una compañía líder en tecnología a nivel mundial. Envía tu CV al correo p.herrera@tcs.com.Tata Consultancy Services es un empleador que ofrece igualdad de oportunidades. Nuestro compromiso con la diversidad y la inclusión impulsa nuestros esfuerzos para brindar igualdad de oportunidades a todos los candidatos que satisfacen nuestras necesidades de conocimientos y competencias requeridas, independientemente de cualquier origen socioeconómico, raza, color, origen nacional, religión, sexo, identidad de género, edad, estado civil, discapacidad, orientación sexual u otros.",
         "linkOffer": "https://www.linkedin.com/jobs/view/4494634433"
     },
     {
@@ -634,7 +557,7 @@
         "howLongAgo": "1 month ago",
         "recruiter": "",
         "profileRecruiter": "",
-        "descriptionOffer": "Somos el Grupo Farmacéutico DECO con más de 40 años en el mercado peruano, conformado por Boticas y Salud, Representaciones Deco y Laboratorio Sherfarma.Nuestro gran equipo conformado por más de 1,500 colaboradores, se encuentra en la búsqueda de los mejores talentos para desempeñarse en Laboratorio Sherfarma en el cargo de: Asistente de Aseguramiento de la calidad.¿A QUIÉN BUSCAMOS? Titulados/ bachiller de la carrera de Farmacia y Bioquímica. Conocimientos de normativa sanitaria vigente para medicamentos. Conocimientos básicos de BPA, BPDyT y BPF . Excelentes habilidades de comunicación verbal y escrita. Disponibilidad para laborar en Surco. Con mucha actitud positiva y ganas de aprender.¿CUÁLES SERÁN TUS PRINCIPALES RESPONSABILIDADES? Desarrollo e Implementación de Sistemas de Calidad: Diseñar, desarrollar e implementar sistemas y procedimientos de calidad para asegurar el cumplimiento de las normativas y estándares internacionales (como BPA, BPDyT y BPF, ISO, etc.). Esto incluye la redacción y revisión de manuales de calidad, políticas y procedimientos operativos estándar (SOPs). Supervisión y Auditorías de Calidad: Realizar auditorías internas y externas para evaluar la conformidad con las normativas y políticas de calidad establecidas. Identificar áreas de mejora y asegurar la implementación de acciones correctivas y preventivas. Capacitación y Formación: Desarrollar y llevar a cabo programas de capacitación para el personal en temas relacionados con la calidad, buenas prácticas y normativas regulatorias, asegurando que todo el personal esté adecuadamente entrenado y consciente de las políticas de calidad. Gestión de Documentación: Mantener y gestionar la documentación relacionada con la calidad, incluyendo registros de auditorías, informes de calidad, registros de no conformidades y planes de acción. Asegurar que toda la documentación esté actualizada, precisa y fácilmente accesible. Análisis y Mejora Continua: Realizar análisis de datos y tendencias relacionados con la calidad del producto y los procesos. Proponer e implementar iniciativas de mejora continua para optimizar los procesos de producción y asegurar la máxima calidad del producto final.Cumplir con las funciones definidas acorde al puesto de trabajo.¿QUÉ OFRECEMOS? Ingreso a planilla desde el 1er día de labores, incluido la inducción. Pago de todos los beneficios sociales de acuerdo a ley (CTS, Gratificaciones, Utilidades, Vacaciones , Essalud, Seguro de Vida Ley ). Línea de carrera dentro del Grupo Farmacéutico.Una vez aprobado todos los filtros previos el postulante deberá presentar los siguientes requisitos: Certificado único laboral (certijoven) Copia de DNI Copia de recibo de Luz, agua o teléfono Copia de certificado de estudiosNo existe restricción alguna para personal afiliado al CONADIS (adjuntar certificado de discapacidad y/o una copia del Carnet de Inscripción en el CONADIS).¡Ven y forma parte de esta gran equipo!¡Te esperamos!",
+        "descriptionOffer": "",
         "linkOffer": "https://www.linkedin.com/jobs/view/4480800474"
     },
     {
@@ -642,21 +565,98 @@
         "employer": "Coforge",
         "linkProfileEmployer": "https://in.linkedin.com/company/coforge-tech?trk=public_jobs_jserp-result_job-search-card-subtitle",
         "location": "Lima, Peru",
-        "howLongAgo": "1 day ago",
-        "recruiter": "Sophia Casas Flores",
-        "profileRecruiter": "https://pe.linkedin.com/in/sophia-casas-flores-503125160",
-        "descriptionOffer": "Título del puesto: Senior QA AutomationHabilidades clave: Performance Testing, JMeter, K6, LoadRunner, BDD, Cucumber, TestNG, Jenkins, Git, Jira, Xray, DevOpsExperiencia: +4 años de experiencia en el área de Calidad de Software y al menos 2 años en pruebas de performance.Ubicación: Lima, PerúModalidad: Híbrido (2 veces por semana)En Coforge estamos buscando un QA Performance Senior (#20788-8-39) con el siguiente perfil.Responsabilidades principalesDiseñar, ejecutar y analizar pruebas de rendimiento, carga, estrés y volumen para aplicaciones y servicios.Identificar cuellos de botella, degradaciones de rendimiento y oportunidades de optimización mediante el análisis de métricas y logs.Elaborar reportes de resultados y recomendaciones para los equipos de desarrollo, arquitectura e infraestructura.Implementar y mantener frameworks de automatización para pruebas de performance.Colaborar con equipos multidisciplinarios bajo metodologías ágiles para asegurar la calidad y estabilidad de las soluciones.Participar en iniciativas de mejora continua relacionadas con calidad, rendimiento y prácticas DevOps.Gestionar incidencias y realizar seguimiento a hallazgos hasta su resolución.Requisitos indispensablesMás de 4 años de experiencia en el área de Calidad de Software.Experiencia mínima de 2 años realizando pruebas de performance.Manejo de herramientas de performance como JMeter, K6, LoadRunner o similares.Experiencia aplicando metodologías BDD mediante Cucumber.Conocimiento y experiencia con TestNG.Experiencia trabajando con Jenkins, Git, Jira y Xray.Capacidad para analizar métricas de rendimiento, logs y diagnosticar problemas complejos.Experiencia trabajando en entornos ágiles.Conocimiento de prácticas DevOps.Capacidad para trabajar de manera autónoma y colaborativa.Alta orientación al detalle y resolución de problemas.Requisitos deseablesExperiencia en sector banca o financiero.Conocimientos de monitoreo y observabilidad.Experiencia en integración de pruebas de performance dentro de pipelines CI/CD.Conocimiento de herramientas complementarias de análisis de rendimiento.Publicado el: 24-11-2026En Coforge, contratamos profesionales únicamente en función de sus habilidades y calificaciones, y no discriminamos en función de la edad, discapacidad, religión, género, orientación sexual, estado socioeconómico o nacionalidad.",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4494733373"
-    },
-    {
-        "titleJob": "QA Funcional Intermedio [Billetera digital]",
-        "employer": "IDM Technology",
-        "linkProfileEmployer": "https://pe.linkedin.com/company/idmtechperu?trk=public_jobs_jserp-result_job-search-card-subtitle",
-        "location": "San Isidro, Peru",
-        "howLongAgo": "9 hours ago",
+        "howLongAgo": "3 days ago",
         "recruiter": "",
         "profileRecruiter": "",
         "descriptionOffer": "",
-        "linkOffer": "https://www.linkedin.com/jobs/view/4495216042"
+        "linkOffer": "https://www.linkedin.com/jobs/view/4494733373"
+    },
+    {
+        "titleJob": "QUALITY ENGINEER",
+        "employer": "Banco de CrÃ©dito BCP",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/banco-de-credito-bcp?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "San Isidro, Peru",
+        "howLongAgo": "1 week ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4492992854"
+    },
+    {
+        "titleJob": "QA Senior Automation",
+        "employer": "Indra Group",
+        "linkProfileEmployer": "https://es.linkedin.com/company/indragroupglobal?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "5 hours ago",
+        "recruiter": "Claudia Chirinos Aguilar",
+        "profileRecruiter": "https://pe.linkedin.com/in/claudia-chirinos-aguilar",
+        "descriptionOffer": "Somos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible.Buscamos un Senior QA Engineer | Test Automation con ganas de trabajar en nuestros equipos multidisciplinares.Requisitos:Automatización: Selenium, Appium, Cucumber, Behave, UFT.Lenguajes de programación: Python y/o Java.Gestión de pruebas: Jira, Xray, BDD (Gherkin).Testing continuo / Control de versiones: GitHub.Herramientas complementarias: OWASP, MongoDB, SonarQube.Tipos de pruebas: Mobile, Servicios (APIs) y Web.Pruebas No Funcionales: Experiencia mínima en Performance y Seguridad.Experiencia en el sector banca.Condiciones de trabajo:Trabajo híbrido (2 a 3 veces por semana) en el distrito de Surquillo.L a V de 9:00am a 6:30pm.Beneficios:Cobertura al 100% de EPS.Asesorías psicológicas y nutricionales gratuitas.Convenios Corporativos.Acceso ilimitado a cursos y certificaciones online en Udemy.Crecimiento y desarrollo profesional.¡Anímate y postula con nosotros!",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4477325402"
+    },
+    {
+        "titleJob": "Ingeniero de Calidad de Software",
+        "employer": "Encora Inc.",
+        "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "4 days ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "Título del puesto: Ingeniero de Calidad de SoftwareHabilidades clave: Quality Engineering, pruebas de rendimiento, HP LoadRunner, JMeter, Java, JavaScript, ISTQB, BDD, Gherkin, Jira, Xray, Jenkins, Bitbucket, Dynatrace, Postman, OWASP, MongoDB, DevSecOps, automatización de pruebas, Continuous Testing.Experiencia: + 6 años de experiencia en Quality Engineering.Ubicación: Lima, Perú.Modalidad: Híbrida (2 veces por semana presencial en Lima).En Coforge estamos buscando un Ingeniero de Calidad de Software (20788-8-45) con experiencia en estrategias de aseguramiento de calidad, pruebas funcionales y no funcionales, y evaluación del rendimiento de aplicaciones:Responsabilidades principalesParticipar en la definición y refinamiento de historias de usuario (HU) y criterios de aceptación para pruebas funcionales, manuales y automatizadas, así como pruebas no funcionales de seguridad y rendimiento.Estimar, priorizar y planificar las actividades de prueba, incluyendo la definición de estrategias, gestión de accesos, generación de datos, automatización, ejecución y gestión de defectos.Diseñar estrategias de prueba de acuerdo con los lineamientos establecidos por el banco.Definir, como parte de la estrategia de pruebas, cuáles actividades se realizarán de manera manual y cuáles serán automatizadas.Diseñar casos de prueba aplicando técnicas especializadas y redactarlos utilizando la sintaxis Gherkin.Validar la reutilización, actualización y eliminación de casos de prueba manuales y automatizados que hayan quedado obsoletos.Aplicar los frameworks de pruebas continuas (Continuous Testing) y pruebas de rendimiento (Performance Testing).Gestionar los datos de prueba para pruebas funcionales y no funcionales en los diferentes ambientes de desarrollo, certificación y producción.Ejecutar pruebas tempranas en ambientes de desarrollo, de acuerdo con las historias de usuario, incluyendo pruebas funcionales y no funcionales.Ejecutar pruebas funcionales y no funcionales en ambientes de certificación.Gestionar los defectos identificados durante las pruebas y realizar seguimiento hasta su resolución.Diseñar y ejecutar pruebas de seguridad.Controlar y monitorear los resultados de ejecución de las pruebas funcionales y no funcionales.Realizar seguimiento y monitoreo de incidencias en los ambientes de desarrollo y certificación.Identificar riesgos, impedimentos y dependencias, proponiendo planes de acción para su resolución.Establecer y ejecutar el Plan de Pruebas de Ratificación (PPR), realizando seguimiento a los resultados posteriores a la puesta en producción.Requisitos indispensablesMás de 6 años de experiencia en Quality Engineering (QE).Conocimientos de ISTQB y fundamentos de aseguramiento de calidad de software.Experiencia en desarrollo guiado por comportamiento (BDD).Experiencia en definición y diseño de estrategias de pruebas.Conocimientos de fundamentos y técnicas de pruebas de rendimiento (Performance Testing).Experiencia utilizando herramientas de pruebas de rendimiento como HP LoadRunner y JMeter.Conocimientos de programación en Java y JavaScript.Experiencia en administración y gestión de pruebas mediante Jira y Xray.Conocimientos de sintaxis Gherkin para la definición de escenarios y casos de prueba.Publicado el: 23-11-2026En Coforge, contratamos profesionales únicamente en función de sus habilidades y calificaciones, y no discriminamos en función de la edad, discapacidad, religión, género, orientación sexual, estado socioeconómico o nacionalidad.",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4493904755"
+    },
+    {
+        "titleJob": "QA Automatizador /Experiencia en AWS",
+        "employer": "Valtx PerÃº",
+        "linkProfileEmployer": "https://pe.linkedin.com/company/valtx-peru?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "18 hours ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "En Valtx, empresa con 25 años de experiencia en el mercado peruano, cuyo objetivo principal es convertirse en un socio estratégico, mediante soluciones tecnológicas en los diversos aspectos de los procesos de negocios; el desarrollo, implementación y mantenimiento de aplicaciones e infraestructura tecnológica para el negocio; y consultoría en diversos procesos de transformación, nos encontramos en la búsqueda de un ANALISTA DE TESTING SR.Función Básica Del PuestoAnálisis y planificaciónRevisar requerimientos funcionales y técnicos para entender el alcance del proyecto.Identificar criterios de aceptación y definir el alcance de las pruebas.Elaborar estrategia de pruebas (tipos de pruebas, herramientas, ambientes).Diseño de casos de pruebaCrear casos de prueba detallados basados en los requerimientos.Preparar datos de prueba y configurar el entorno de pruebas.Documentar escenarios positivos, negativos y pruebas de regresión.Ejecución de pruebasEjecutar pruebas funcionales, integración, regresión, usabilidad, entre otras.Reportar defectos en herramientas como Jira, Xray, TestRail, etc.Validar correcciones y realizar retesting.AutomatizaciónDiseñar y mantener scripts de automatización para pruebas repetitivas usando framework de Automatización mobile, apis.Usar herramientas como Selenium, Cypress, JMeter (para performance).Control de calidad y métricasGenerar informes de resultados y métricas (cobertura, defectos, tiempo).Asegurar cumplimiento de estándares (ISO, OWASP, PCI DSS, etc. si aplica).Comunicación y colaboraciónTrabajar con desarrolladores, líderes de proyecto y negocio para resolver incidencias.Participar en reuniones de seguimiento y pases a producción.¿Qué requisitos necesito?Formación Bachiller en Carrera de Ingeniería de Sistemas, Informática o afines.ExperienciaMínimo 4+ años de experiencia en pruebas funcionales y automatizadas avanzadas, incluyendo diseño e implementación de soluciones de automatización para API (Postman, Karate) y mobile (Appium). Experiencia sólida en desarrollo de frameworks usando Java con patrones POM y ScreenPlay.Mínimo 2 años en pruebas de performance con JMeter (carga, estrés, escalabilidad) incluyendo análisis de resultados. Experiencia en pruebas DAST y pruebas estáticas integradas a CI/CD. Experiencia avanzada en AWS (CloudWatch, Lambda, Lambda Layers, SQS, SNS, RDS, DynamoDB, Secrets Manager, SSO, SSM, CloudFormation, EC2, CodeCommit, EventBridge, API Gateway).Habilidades TécnicasExperiencia avanzada en AWS: CloudWatch, Lambda, Lambda Layers, SQS, SNS, RDS, DynamoDB, Secrets Manager, SSO, SSM, CloudFormation, EC2, CodeCommit, EventBridge, API Gateway. Participación en despliegues y configuraciones de acuerdo con el requerimiento.Conocimiento de frameworks usando Java con patrones POM y ScreenPlay.Manejo de herramientas de CI/CD: Github ActionsVersionamiento de código: GithubConocimiento de APIs REST y herramientas como Postman, KarateGestión de pruebas: JIRA, Xray.Conocimiento de bases de datos: Mysql, OracleConocimiento de metodologías ágiles: Scrum, TradicionalFrameworks: APPIUM (Mobile) y Karate (APIs). Para el caso de mobile las pruebas se realizan en SO: Android/iOs/Huawei.Pruebas de rendimiento: JMeter.Seguridad: Veracode y OWASP.Dominio de BDD (Gherkin, Cucumber).",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4495826046"
+    },
+    {
+        "titleJob": "QA AUTOMATION",
+        "employer": "Amaris Consulting  | Part of Mantu",
+        "linkProfileEmployer": "https://ch.linkedin.com/company/amarisconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "3 weeks ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4484684514"
+    },
+    {
+        "titleJob": "Senior QA Automation Engineer",
+        "employer": "Encora Inc.",
+        "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "3 weeks ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4487772560"
+    },
+    {
+        "titleJob": "Analista QA Mid",
+        "employer": "Encora Inc.",
+        "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "4 days ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4493692927"
+    },
+    {
+        "titleJob": "Senior QA Automation Engineer",
+        "employer": "Encora Inc.",
+        "linkProfileEmployer": "https://www.linkedin.com/company/encorainc?trk=public_jobs_jserp-result_job-search-card-subtitle",
+        "location": "Lima, Peru",
+        "howLongAgo": "1 week ago",
+        "recruiter": "",
+        "profileRecruiter": "",
+        "descriptionOffer": "",
+        "linkOffer": "https://www.linkedin.com/jobs/view/4492713427"
     }
 ]
